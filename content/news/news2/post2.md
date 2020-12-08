@@ -6,7 +6,7 @@ image: ./post2.jpeg
 image_caption: ama
 excerpt: Ask Me Anything session with ThreeFold
 authors: [sam_taggart]
-created: 2020-11-05
+created: 2020-11-10
 ---
 
 

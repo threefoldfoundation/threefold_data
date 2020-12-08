@@ -6,7 +6,7 @@ image: ./post5.png
 image_caption: threefold foundation
 excerpt: On 6th October at 1pm CEST our very own rocket scientist Weynand Kuijpers will be representing ThreeFold.
 authors: [sam_taggart]
-created: 2020-10-05
+created: 2020-11-15
 ---
 
 
