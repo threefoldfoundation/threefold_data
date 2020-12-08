@@ -6,7 +6,7 @@ image: ./post4.png
 image_caption: threefold tech
 excerpt: The release introduces some improvements to the grid’s stability, new features and more.
 authors: [sam_taggart]
-created: 2020-11-20
+created: 2020-10-30
 ---
 
 
