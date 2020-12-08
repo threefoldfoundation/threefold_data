@@ -6,7 +6,7 @@ image: ./post1.png
 image_caption: threefold tech
 excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
 authors: [sam_taggart]
-created: 2020-11-12
+created: 2020-10-29
 ---
 
 
