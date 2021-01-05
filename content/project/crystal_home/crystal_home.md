@@ -13,7 +13,7 @@ image_caption: crystal_home
 logo: ./logo.png
 members: [bert_van_decraen]
 websites: https://www.crystalhome.org/
-tags: [digitaltwin]
+tags: [digitaltwin, farming]
 private: 0
 potential:
 linkedin: ''
