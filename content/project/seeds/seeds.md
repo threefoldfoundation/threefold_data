@@ -13,7 +13,7 @@ image_caption: seeds
 logo: ./logo.png
 members: [rieki_cordon, nikolaus_heger, franz_josef_allmayer]
 websites: https://www.joinseeds.com/
-tags: [digitaltwin, grid]
+tags: [digitaltwin, grid, farming]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
