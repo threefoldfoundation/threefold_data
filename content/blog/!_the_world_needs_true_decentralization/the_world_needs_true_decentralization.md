@@ -1,11 +1,14 @@
 ---
-title: "The World Needs True Decentralization"
-author: x
-author_image: x
-tags: x
-published_at: x
-post_image: x
+id: threefold_foundation
+title: The World Needs True Decentralization
+tags: []
+image: ./
+image_caption: The World Needs True Decentralization
+excerpt: 
+authors: []
+created: 
 ---
+
 
 ![alt_text](./img/theworld.png) ---- should go in post_image **
 

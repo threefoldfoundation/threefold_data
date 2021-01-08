@@ -1,11 +1,14 @@
 ---
-title: "Solving the Blockchain Dilemma"
-author: x
-author_image: x
-tags: x
-published_at: x
-post_image: x
+id: threefold_foundation
+title: Solving the Blockchain Dilemma
+tags: []
+image: ./
+image_caption: Solving the Blockchain Dilemma
+excerpt: 
+authors: []
+created: 
 ---
+
 
 ### Introduction
 

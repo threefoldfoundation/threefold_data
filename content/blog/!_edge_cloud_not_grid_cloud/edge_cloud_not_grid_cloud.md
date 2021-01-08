@@ -1,11 +1,14 @@
 ---
-title: "Edge Cloud, not Grid Cloud"
-author: x
-author_image: x
-tags: x
-published_at: x
-post_image: x
+id: threefold_foundation
+title: Edge Cloud, not Grid Cloud
+tags: []
+image: ./
+image_caption: Edge Cloud, not Grid Cloud
+excerpt: 
+authors: []
+created: 
 ---
+
 
 ## Edge Cloud not Grid Cloud?
 

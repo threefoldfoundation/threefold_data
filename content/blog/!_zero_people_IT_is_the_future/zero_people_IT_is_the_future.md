@@ -1,9 +1,12 @@
 ---
-title: "Zero People IT is the Future"
-author: Roel
-author_image: roel.jpg
-tags: tech, decentralization, peer-to-peer
-published_at: 2020-08-17
+id: threefold_foundation
+title: Zero People IT is the Future
+tags: [tech, cloud]
+image: ./
+image_caption: Zero People IT is the Future
+excerpt: Classic IT infrastructure setup is complex and is not cost-effective. Applications need a specific environment to operate in, built by integrating different technology components from different vendors. Elements of such a setup are operating systems, storage systems, networks, security systems, authentication systems, and more.
+authors: [roel_van_sabben]
+created: 2020-08-17
 ---
 
 ## Introduction
