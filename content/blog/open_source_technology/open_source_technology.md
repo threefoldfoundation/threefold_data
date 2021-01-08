@@ -1,10 +1,12 @@
 ---
-title: "Open Source Technology sets the foundation for a better future"
-author: Kristof
-author_image: kristof.jpg
-tags: tech, open source
-published_at: 2018-2-2
-post_image: open_source_technology.jpg
+id: threefold_foundation
+title: Open Source Technology sets the foundation for a better future
+tags: [tech]
+image: ./open_source_technology.jpg
+image_caption: Open Source Technology sets the foundation for a better future
+excerpt: Open source technology ensures the knowledge enters the public domain, protects information sharing and further innovation possibilities
+authors: [kristof_de_spiegeleer]
+created: 2018-2-2
 ---
 
 ## Open source technology ensures the knowledge enters the public domain, protects information sharing and further innovation possibilities

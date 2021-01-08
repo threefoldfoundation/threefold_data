@@ -1,10 +1,12 @@
 ---
-title: "Our Magical Zero-Node"
-author: Kristof
-author_image: kristof.jpg
-tags: edge cloud, tech, node
-published_at: 2017-7-12
-post_image: our_magical_zero_node.jpg
+id: threefold_foundation
+title: Our Magical Zero-Node
+tags: [tech]
+image: ./our_magical_zero_node.jpg
+image_caption: Our Magical Zero-Node
+excerpt: The Zero-OS (Stateless Operating System) node technology is based on technology that has been developed and innovated for 15 years in an incubation center. Mid to late 90’s, some of ThreeFold technological experts were working for a large American firm that was investing in creating Europe’s first large scale (internet) data centers as well as internet connectivity.
+authors: [kristof_de_spiegeleer]
+created: 2017-7-12
 ---
 
 ## Our Magical Zero-Node

@@ -1,11 +1,14 @@
 ---
-title: "Creating solutions that respect humanity and the planet"
-author: Kristof
-author_image: kristof.jpg
-tags: human, sustainability, autonomy
-published_at: 2017-6-6
-post_image: respect_love.jpg
---- 
+id: threefold_foundation
+title: Creating solutions that respect humanity and the planet
+tags: [sustainability]
+image: ./respect_love.jpg
+image_caption: Creating solutions that respect humanity and the planet
+excerpt: Respect Human Rights, Respect Human Effort, Respect Human Experience
+authors: [kristof_de_spiegeleer]
+created: 2017-6-6
+---
+
 
 ### Respect Human Rights
 

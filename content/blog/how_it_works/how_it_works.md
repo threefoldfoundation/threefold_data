@@ -1,10 +1,12 @@
 ---
-title: "ThreeFold's Long Story Short"
-author: Sam
-author_image: sam.jpg
-tags: sustainability
-published_at: 2020-5-15
-post_image: longstoryshort.jpg
+id: threefold_foundation
+title: ThreeFold's Long Story Short
+tags: [tech]
+image: ./longstoryshort.jpg
+image_caption: ThreeFold's Long Story Short
+excerpt: We strongly believe that a new internet is needed for our planet and for humanity. "If not now, when? If not us, who?"
+authors: [sam_taggart]
+created: 2020-5-15
 ---
 
 The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.

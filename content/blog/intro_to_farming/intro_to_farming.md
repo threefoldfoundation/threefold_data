@@ -1,11 +1,14 @@
 ---
-title: "An intro to ThreeFold Farming"
-author: Andreas
-author_image: andreas.jpg
-tags: farming, grid
-published_at: 2020-2-3
-post_image: intro_threefold_token.jpg
+id: threefold_foundation
+title: An intro to ThreeFold Farming
+tags: [farming]
+image: ./intro_threefold_token.jpg
+image_caption: An intro to ThreeFold Farming
+excerpt: We probably don’t need to tell you that the invention of Blockchain technology changed the world dramatically. The ThreeFold application of Blockchain technology to compute and storage capacity is one of the most exciting initiatives we have seen to date.
+authors: [andreas_hartl]
+created: 2020-2-3
 ---
+
 
 We probably don’t need to tell you that the invention of Blockchain technology changed the world dramatically. The ThreeFold application of Blockchain technology to compute and storage capacity is one of the most exciting initiatives we have seen to date.
 

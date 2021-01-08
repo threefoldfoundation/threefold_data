@@ -9,7 +9,6 @@ authors: [roel_van_sabben]
 created: 2019-8-21
 ---
 
-
 # Decentralization
 
 In 1989, the Internet changed the world as we know it with the introduction of the World Wide Web. With time the Internet empowered people to share information in a decentralized way. Shortly after, big companies like Facebook, Google, and Apple emerged, providing many solutions that revolutionized the way we live. The “sharing economy” has grown exponentially over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:

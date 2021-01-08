@@ -1,11 +1,14 @@
 ---
-title: "DigiByte integrates with ThreeFold’s decentralized Grid"
-author: Sacha
-author_image: sacha.jpg
-tags: partner, news, tech, decentralization
-published_at: 2020-5-22
-post_image: digibyte&threefold.jpeg
+id: threefold_foundation
+title: DigiByte integrates with ThreeFold’s decentralized Grid
+tags: [partner, news, tech]
+image: ./digibyte&threefold.jpeg
+image_caption: DigiByte integrates with ThreeFold’s decentralized Grid
+excerpt: The [DigiByte Foundation](https://digibytefoundation.io/) and the [ThreeFold Foundation](https://threefold.io) are aligned – both focused on values, working towards their visions and missions in creating a truly decentralized, equal, and sustainable world that empowers humanity. Doing good for the planet is at the core of both organizations' DNA. 
+authors: [sacha_oobegadoo]
+created: 2020-5-22
 ---
+
 
 The [DigiByte Foundation](https://digibytefoundation.io/) and the [ThreeFold Foundation](https://threefold.io) are aligned – both focused on values, working towards their visions and missions in creating a truly decentralized, equal, and sustainable world that empowers humanity. Doing good for the planet is at the core of both organizations' DNA. 
 

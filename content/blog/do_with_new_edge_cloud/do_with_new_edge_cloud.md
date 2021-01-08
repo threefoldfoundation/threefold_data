@@ -1,11 +1,14 @@
 ---
-title: "Use cases for the ThreeFold Peer-to-Peer Cloud"
-author: Sam
-author_image: sam.jpg
-tags: edge cloud, tech
-published_at: 2017-9-12
-post_image: usecases_new_internet.jpg
+id: threefold_foundation
+title: Use cases for the ThreeFold Peer-to-Peer Cloud
+tags: [tech, cloud, edge]
+image: ./usecases_new_internet.jpg
+image_caption: Use cases for the ThreeFold Peer-to-Peer Cloud
+excerpt: Containers, IAAS, Archives, Security, and more.
+authors: [sam_taggart]
+created: 2018-9-12
 ---
+
 
 ##  Use cases for the ThreeFold Peer-to-Peer Cloud
 

@@ -1,10 +1,12 @@
 ---
-title: "ThreeFold's Circular Economy"
-author: Roel
-author_image: roel.jpg
-tags: token, grid
-published_at: 2020-3-6
-post_image: circular_economy.jpg
+id: threefold_foundation
+title: ThreeFold's Circular Economy
+tags: [token, grid, farming]
+image: ./circular_economy.jpg
+image_caption: Here’s how things play out on the ThreeFold Network
+excerpt: The ThreeFold Grid’s capacity is made available by farmers — entrepreneurs who provide capacity by connecting hardware to the ThreeFold Grid. They build a more sustainable Internet for generations to come. The ThreeFold Network is changing the Internet for the highest good of all, and you can play a big role in this by becoming a farmer.
+authors: [roel_van_sabben]
+created: 2020-3-6
 ---
 
 The ThreeFold Grid’s capacity is made available by farmers — entrepreneurs who provide capacity by connecting hardware to the ThreeFold Grid. They build a more sustainable Internet for generations to come. The ThreeFold Network is changing the Internet for the highest good of all, and you can play a big role in this by becoming a farmer.

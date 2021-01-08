@@ -1,11 +1,14 @@
 ---
-title: "An escape from the Great Hack"
-author: Sabrina
-author_image: sabrina.jpg
-tags: human, design, internet
-published_at: 2019-11-21
-post_image: escape.jpg
---- 
+id: threefold_foundation
+title: An escape from the Great Hack
+tags: [tech]
+image: ./escape.jpg
+image_caption: An escape from the Great Hack
+excerpt: Have you seen ‘The Great Hack’ on Netflix? It’s a documentary about the Cambridge Analytica hacking scandal, where personal data of millions of peoples’ Facebook profiles were harvested without their consent and used for political advertising purposes.
+authors: [sabrina_sadik]
+created: 2019-11-21
+---
+
 
 ## The neutrality of the current Internet is in danger.
 

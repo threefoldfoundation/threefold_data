@@ -1,10 +1,12 @@
 ---
-title: "Why ThreeFold chose Stellar"
-author: Sam
-author_image: sam.jpg
-tags: token, partner
-published_at: 2020-6-3
-post_image: stellar.jpg
+id: threefold_foundation
+title: Why ThreeFold chose Stellar
+tags: [token, partner]
+image: ./stellar.jpge
+image_caption: Why ThreeFold chose Stellar
+excerpt: At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.
+authors: [sam_taggart]
+created: 2020-6-03
 ---
 
 At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.

@@ -7,6 +7,20 @@ published_at: 2020-06-01
 post_image: liquid_btcalpha.jpeg
 ---
 
+---
+id: threefold_foundation
+title: Co-create the new Internet. Participate with TFT!
+tags: [token]
+image: ./liquid_btcalpha.jpeg
+image_caption: Co-create the new Internet. Participate with TFT!
+excerpt: Do you believe that the world needs change?
+Do you believe in decentralization? Equality? Sustainability?
+Do you believe in circular economies, where everyone is invited to partake and succeed?
+The ThreeFold Token is the currency of the new Internet and brings true solutions to all the above questions. 
+authors: [sacha_obeegadoo]
+created: 2019-6-1
+---
+
 
 ### Do you believe that the world needs change?
 
