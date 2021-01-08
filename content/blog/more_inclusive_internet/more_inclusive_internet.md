@@ -25,7 +25,7 @@ Cutting the internet or restricting certain services based on region (a common p
 
 ### The ThreeFold Solution: Fair & Neutral Internet for All
 
-In 2016, the United Nations declared internet access to be a human right, yet today if you are reading this post, you are privileged. All humans deserve access to the internet and ThreeFold has the solution.​​​​​​​
+In 2016, the United Nations declared internet access to be a human right, yet today if you are reading this post, you are privileged. All humans deserve access to the internet and ThreeFold has the solution.
 
 With the ThreeFold model, nodes can be set up anywhere in the world where an existing internet connection and electricity are present. By putting physical infrastructure at the edge (close to users), greater levels of access can be reached.
 
