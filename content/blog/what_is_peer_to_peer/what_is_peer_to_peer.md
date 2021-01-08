@@ -38,4 +38,6 @@ By developing the technology, the conviction that peer-to-peer was the best solu
 - *Scalability*: In a many-to-many system, scale is essentially unlimited. There is simply no bottleneck. And hardware (nodes) can be added at ease compared to current data center model.
 - *Cost-efficiency & Sustainability*: End-to-end (direct) connection between peers means a more efficient path for data and less energy is needed. Less energy means less cost, and less harm to our planet.
 
+### In 2021 the world is going peer-to-peer! 
+
 We're now in 4 years into the project, and it is clear that ThreeFold holds the most advanced technology and is probably the only tech company in the world that can achieve a peer-to-peer network & digital world as envisioned by the concept authors. The ThreeFold Grid is running and already at it's 2.4 version and 2021 will bring various commercial opportunities for the public to partake in the peer-to-peer network, from hosting IT workloads to experiencing P2P end-user solutions. In other words, in 2021, the world will be able to go peer-to-peer.
