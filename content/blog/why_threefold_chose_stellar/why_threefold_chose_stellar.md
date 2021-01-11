@@ -6,7 +6,7 @@ image: ./stellar.jpge
 image_caption: Why ThreeFold chose Stellar
 excerpt: At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.
 authors: [sam_taggart]
-created: 2020-6-03
+created: 2020-06-03
 ---
 
 At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.

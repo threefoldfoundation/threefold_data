@@ -2,7 +2,7 @@
 id: threefold_foundation
 title: The World Needs True Decentralization
 tags: []
-image: ./
+image: 
 image_caption: The World Needs True Decentralization
 excerpt: 
 authors: []

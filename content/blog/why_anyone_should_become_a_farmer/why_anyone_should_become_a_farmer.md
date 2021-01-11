@@ -6,7 +6,7 @@ image: ./become_a_farmer.jpg
 image_caption: Why Anyone Should Consider Becoming A (ThreeFold) Farmer
 excerpt: The ThreeFold Foundation is changing the way how "we" as a whole approach the internet and its underlying technology. We believe building the internet back from the ground up is the only way to dismantle the monster it has grown into – a polluting greed-machine that allows people’s data to be abused for money all while just being accessible to just half of the earth’s inhabitants.
 authors: [roel_van_sabben]
-created: 2020-5-03
+created: 2020-05-03
 ---
 
 The ThreeFold Foundation is changing the way how "we" as a whole approach the internet and its underlying technology. We believe building the internet back from the ground up is the only way to dismantle the monster it has grown into – a polluting greed-machine that allows people’s data to be abused for money all while just being accessible to just half of the earth’s inhabitants.

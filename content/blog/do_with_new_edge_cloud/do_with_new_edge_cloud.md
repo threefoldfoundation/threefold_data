@@ -6,7 +6,7 @@ image: ./usecases_new_internet.jpg
 image_caption: Use cases for the ThreeFold Peer-to-Peer Cloud
 excerpt: Containers, IAAS, Archives, Security, and more.
 authors: [sam_taggart]
-created: 2018-9-12
+created: 2018-09-12
 ---
 
 

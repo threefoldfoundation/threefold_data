@@ -3,10 +3,10 @@ id: farming
 title: Decentralizing the Internet
 tags: [farming, grid, tech]
 image: ./decentralzing_the_internet.jpg
-image_caption: decentralizing the internet
+image_caption: decentralization
 excerpt: In this article, we discuss the general concept of a ‘decentralized grid’ and how anyone can plug-in capacity to the ThreeFold Grid.
 authors: [roel_van_sabben]
-created: 2019-8-21
+created: 2019-08-21
 ---
 
 # Decentralization

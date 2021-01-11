@@ -3,10 +3,8 @@ id: threefold_foundation
 title: Datacenter Myths
 tags: [tech, sustainability]
 image: ./myth_big_datacenters_are_efficient.jpg
-image_caption: Datacenter Myths
-excerpt: Hyperscale realities are very different to what most people think
-Myth 1: Bigger data centers are more efficient
-There are advantages in building larger scale data centers, like economies of scale and shear bulk buying power, but these are not as significant as what people think. The average cost per rack in a hyper scale data center is $20-35K USD including all energy requirements and safety systems. The cost of hardware per rack is around the $200-300K USD mark.
+image_caption: datacenters
+excerpt: Hyperscale realities are very different to what most people think. Myth 1 - Bigger data centers are more efficient. There are advantages in building larger scale data centers, like economies of scale and shear bulk buying power, but these are not as significant as what people think. The average cost per rack in a hyper scale data center is $20-35K USD including all energy requirements and safety systems. The cost of hardware per rack is around the $200-300K USD mark.
 authors: [andreas_hartl]
 created: 2017-10-12
 ---

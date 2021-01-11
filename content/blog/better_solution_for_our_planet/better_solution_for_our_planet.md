@@ -1,9 +1,9 @@
 ---
 id: threefold_foundation
 title: A better solution for our planet
-tags: [farming, sustainability, ]
+tags: [farming, sustainability]
 image: ./better_solution.png
-image_caption: A better solution for our planet
+image_caption: planet
 excerpt: We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours. With climate change and sustainability as some of the most pressing issues of our times, new green solutions need to be our priority.
 authors: [kristof_de_spiegeleer]
 created: 2018-10-18

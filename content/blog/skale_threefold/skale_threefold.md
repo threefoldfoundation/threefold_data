@@ -4,7 +4,7 @@ title: ThreeFold partners with SKALE to empower its developer community with  it
 tags: [partner]
 image: ./skale_threefold.jpeg
 image_caption: ThreeFold partners with SKALE to empower its developer community with  its Peer-to-Peer Cloud
-excerpt: SKALE and ThreeFold are excited to announce their collaborative partnership that will focus on solving scalability and decentralization limitations faced by Ethereum and Blockchain developers. This collaboration will also empower the SKALE developer community, and web3 developers, with the ThreeFold peer-to-peer cloud, enabling them to:
+excerpt: SKALE and ThreeFold are excited to announce their collaborative partnership that will focus on solving scalability and decentralization limitations faced by Ethereum and Blockchain developers. This collaboration will also empower the SKALE developer community, and web3 developers, with the ThreeFold peer-to-peer cloud, enabling them to.
 authors: [benjelloun_oussama]
 created: 2020-08-13
 ---

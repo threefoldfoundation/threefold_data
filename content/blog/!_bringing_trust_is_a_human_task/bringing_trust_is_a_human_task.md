@@ -2,7 +2,7 @@
 id: threefold_foundation
 title: Bringing Trust is a Human Task 
 tags: []
-image: ./
+image: 
 image_caption: Bringing Trust is a Human Task
 excerpt: 
 authors: [weynand_kuijpers]

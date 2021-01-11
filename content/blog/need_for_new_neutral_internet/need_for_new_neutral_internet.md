@@ -4,12 +4,9 @@ title: The need for ThreeFold's neutral internet
 tags: [tech, farming, token]
 image: ./neutral_internet.jpg
 image_caption: The need for ThreeFold's neutral internet
-excerpt: An introduction to the problems
-- The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies. This results in a loss of neutrality and openness and breeds inequalities.
-- To support the continuous growth of the Internet and connect billions to new Internet Of Things devices, 400 million new servers are needed by 2020. The world therefore needs another 4,000 large- scale data centers that each consume 200 MWe of electricity: [see source](http://bit.ly/1UPUZYG).
-- Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.
+excerpt: An introduction to the problems. The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies. This results in a loss of neutrality and openness and breeds inequalities. To support the continuous growth of the Internet and connect billions to new Internet Of Things devices, 400 million new servers are needed by 2020. The world therefore needs another 4,000 large- scale data centers that each consume 200 MWe of electricity. Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.
 authors: [kristof_de_spiegeleer]
-created: 2017-6-1
+created: 2017-06-01
 ---
 
 ## The internet is growing like crazy and is now a Trillion Dollar problem. Together we can build a new neutral internet.

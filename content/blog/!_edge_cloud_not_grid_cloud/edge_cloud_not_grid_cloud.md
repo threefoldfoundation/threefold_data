@@ -2,7 +2,7 @@
 id: threefold_foundation
 title: Edge Cloud, not Grid Cloud
 tags: []
-image: ./
+image: 
 image_caption: Edge Cloud, not Grid Cloud
 excerpt: 
 authors: []

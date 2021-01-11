@@ -3,10 +3,10 @@ id: threefold_foundation
 title: Creating solutions that respect humanity and the planet
 tags: [sustainability]
 image: ./respect_love.jpg
-image_caption: Creating solutions that respect humanity and the planet
+image_caption: humanity
 excerpt: Respect Human Rights, Respect Human Effort, Respect Human Experience
 authors: [kristof_de_spiegeleer]
-created: 2017-6-6
+created: 2017-06-06
 ---
 
 

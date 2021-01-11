@@ -2,7 +2,7 @@
 id: threefold_foundation
 title: Solving the Blockchain Dilemma
 tags: []
-image: ./
+image: 
 image_caption: Solving the Blockchain Dilemma
 excerpt: 
 authors: []
