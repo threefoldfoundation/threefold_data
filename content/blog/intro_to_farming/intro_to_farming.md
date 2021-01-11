@@ -14,8 +14,6 @@ We probably don’t need to tell you that the invention of Blockchain technology
 ### The problem
 There are some major challenges with the current foundation of the internet and how it has moved from being a medium to independently share information amongst internet users to a multi-billion dollar industry governed by a few (American) companies.
 
-![Centralized Problems](./img/centralized_problems.png)
-
 ### The solution
 The ThreeFold Foundation has the key to change the internet for good, and you might want to play a big role in this. And so can you! By becoming a farmer you are taking part in that process. You are contributing to a significant increase in Net Neutrality which has come under serious threat in recent years. You are helping to build a more sustainable Internet for generations to come by giving the internet back to the people.
 
