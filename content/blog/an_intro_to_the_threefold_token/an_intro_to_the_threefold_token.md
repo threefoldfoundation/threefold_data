@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_29
 title: An intro to the ThreeFold Token
 tags: [token]
 image: ./intro_threefold_token.jpg

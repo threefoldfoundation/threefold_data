@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_18
 title: We need a more inclusive internet
 tags: [farming, equality]
 image: ./more_inclusive_internet.png

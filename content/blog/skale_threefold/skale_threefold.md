@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_14
 title: ThreeFold partners with SKALE to empower its developer community with  its Peer-to-Peer Cloud
 tags: [partner]
 image: ./skale_threefold.jpeg

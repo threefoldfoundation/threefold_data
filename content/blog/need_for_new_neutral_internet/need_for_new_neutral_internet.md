@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_16
 title: The need for ThreeFold's neutral internet
 tags: [tech, farming, token]
 image: ./neutral_internet.jpg

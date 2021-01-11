@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_3
 title: Why ThreeFold chose Stellar
 tags: [token, partner]
 image: ./stellar.jpge

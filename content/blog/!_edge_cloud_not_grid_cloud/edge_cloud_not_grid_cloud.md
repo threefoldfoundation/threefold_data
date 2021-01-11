@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_32
 title: Edge Cloud, not Grid Cloud
 tags: []
 image: 

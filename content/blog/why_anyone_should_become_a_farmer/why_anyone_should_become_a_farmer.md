@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_4
 title: Why Anyone Should Consider Becoming A (ThreeFold) Farmer
 tags: [farming, grid]
 image: ./become_a_farmer.jpg

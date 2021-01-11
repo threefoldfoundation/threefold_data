@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_21
 title: Internet is growing wild
 tags: [tech, sustainability]
 image: ./wild.png

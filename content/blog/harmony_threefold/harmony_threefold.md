@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_23
 title: Harmony Integrates with ThreeFold’s Decentralized Grid
 tags: [partner]
 image: ./harmonyxthreefold.png

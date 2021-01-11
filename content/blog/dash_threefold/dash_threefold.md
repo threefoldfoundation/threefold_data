@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_28
 title: Dash & Dash NEXT partner with ThreeFold
 tags: [partner, news, tech]
 image: ./dashxthreefold.jpeg

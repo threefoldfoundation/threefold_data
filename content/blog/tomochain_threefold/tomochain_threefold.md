@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_7
 title: TomoChain & ThreeFold are joining forces to decentralize Cloud Computing
 tags: [partners]
 image: ./tomochain_threefold.jpg

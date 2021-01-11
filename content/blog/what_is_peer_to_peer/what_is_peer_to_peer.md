@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_5
 title: What is Peer-to-Peer and Why is it so important?
 tags: [farming, peer-to-peer]
 image: ./what_is_peer_to_peer.png

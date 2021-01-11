@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_20
 title: An intro to ThreeFold Farming
 tags: [farming]
 image: ./intro_threefold_token.jpg

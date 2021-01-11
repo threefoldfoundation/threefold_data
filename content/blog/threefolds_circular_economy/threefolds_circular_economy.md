@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_8
 title: ThreeFold's Circular Economy
 tags: [token, grid, farming]
 image: ./circular_economy.jpg

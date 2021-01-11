@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_1
 title: You Are Unique
 tags: [autonomy, equality, human]
 image: ./unique.png

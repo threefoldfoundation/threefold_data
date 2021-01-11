@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_12
 title: Co-create the new Internet. Participate with TFT!
 tags: [token]
 image: ./liquid_btcalpha.jpeg

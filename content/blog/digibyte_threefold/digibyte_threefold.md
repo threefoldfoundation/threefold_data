@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_27
 title: DigiByte integrates with ThreeFold’s decentralized Grid
 tags: [partner, news, tech]
 image: ./digibyte&threefold.jpeg

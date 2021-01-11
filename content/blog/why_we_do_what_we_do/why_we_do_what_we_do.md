@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_2
 title: Why we do what we do
 tags: [peer-to-peer, equality, autonomy, sustainability, human]
 image: ./why_we_do.png

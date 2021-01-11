@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_11
 title: The need for a sustainable digital currency
 tags: [token]
 image: ./sustainable_currency.jpg

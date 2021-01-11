@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_13
 title: A new approach to the Internet Architecture
 tags: [tech, grid]
 image: ./off_the_beaten_track.jpg

@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_9
 title: ThreeFold and Presearch partner to decentralize search nodes and storage
 tags: [partner]
 image: ./threefoldpresearch.png

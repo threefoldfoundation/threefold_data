@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_19
 title: Our Magical Zero-Node
 tags: [tech]
 image: ./our_magical_zero_node.jpg

@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_10
 title: ThreeFold creates a more responsible, neutral, and decentralized internet with Hewlett Packard Enterprise
 tags: [partner]
 image: ./mou.jpg
