@@ -3,7 +3,7 @@ id: threefold_foundation_11
 title: The need for a sustainable digital currency
 tags: [token]
 image: ./sustainable_currency.jpg
-image_caption: The need for a sustainable digital currency
+image_caption: tokens
 excerpt: Digital currencies are on the way to global adoption as a mainstream currency. Today, there are approximately 130+ billion dollars worth of digital currencies in circulation and approximately 1 billion dollars traded on a daily basis on open market exchanges. Benefits of digital currencies include direct peer-to-peer transactions (requiring no intermediaries such as banks), greater trust (secured by cryptography and mathematics); lower friction charges, faster transaction times and no single point of failure.
 authors: [adnan_fatayerji]
 created: 2019-03-06
