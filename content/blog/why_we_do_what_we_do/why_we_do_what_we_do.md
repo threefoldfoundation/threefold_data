@@ -1,9 +1,9 @@
 ---
 id: threefold_foundation_2
 title: Why we do what we do
-tags: [peer-to-peer, equality, autonomy, sustainability, human]
+tags: [equality, autonomy, sustainability, human]
 image: ./why_we_do.png
-image_caption: values
+image_caption: planet
 excerpt: If not now, when? If not us, who?
 authors: [sam_taggart]
 created: 2020-04-08
