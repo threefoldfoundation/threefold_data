@@ -1,15 +1,15 @@
 ---
 id: threefold_foundation_10
-title: ThreeFold creates a more responsible, neutral, and decentralized internet with Hewlett Packard Enterprise
+title: ThreeFold x Hewlett Packard Enterprise
 tags: [partner]
 image: ./mou.jpg
 image_caption: partners
-excerpt: Dubai, UAE, Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale.
+excerpt: Dubai, UAE, Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE)
 authors: [sabrina_sadik]
 created: 2018-10-18
 ---
 
-Dubai, UAE: Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale.
+Dubai, UAE. Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale.
 
 HPE provides their clients in the CEEMA region with the option to connect their computing and storage capacity to ThreeFold’s decentralized grid that supports ThreeFold’s mission to provide a Responsible Internet, accessible to all.
 
