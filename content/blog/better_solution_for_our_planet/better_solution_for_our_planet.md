@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation
+id: threefold_foundation_40
 title: A better solution for our planet
 tags: [farming, sustainability]
 image: ./better_solution.png
