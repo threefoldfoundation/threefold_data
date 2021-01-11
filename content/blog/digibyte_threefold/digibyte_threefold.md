@@ -3,7 +3,7 @@ id: threefold_foundation_27
 title: DigiByte integrates with ThreeFold’s decentralized Grid
 tags: [partner, news, tech]
 image: ./digibyte&threefold.jpeg
-image_caption: DigiByte
+image_caption: partners
 excerpt: The DigiByte Foundation and the ThreeFold Foundation are aligned – both focused on values, working towards their visions and missions in creating a truly decentralized, equal, and sustainable world that empowers humanity. Doing good for the planet is at the core of both organizations' DNA. 
 authors: [sacha_oobegadoo]
 created: 2020-05-22

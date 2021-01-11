@@ -3,7 +3,7 @@ id: threefold_foundation_25
 title: An escape from the Great Hack
 tags: [tech]
 image: ./escape.jpg
-image_caption: An escape from the Great Hack
+image_caption: technology
 excerpt: Have you seen ‘The Great Hack’ on Netflix? It’s a documentary about the Cambridge Analytica hacking scandal, where personal data of millions of peoples’ Facebook profiles were harvested without their consent and used for political advertising purposes.
 authors: [sabrina_sadik]
 created: 2019-11-21

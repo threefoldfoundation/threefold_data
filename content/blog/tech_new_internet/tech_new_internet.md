@@ -3,7 +3,7 @@ id: threefold_foundation_13
 title: A new approach to the Internet Architecture
 tags: [tech, grid]
 image: ./off_the_beaten_track.jpg
-image_caption: A new approach to the Internet Architecture
+image_caption: internet
 excerpt: The Edge internet needs a different approach. So, we started as from scratch and shaped a totally new approach. ThreeFold's open-source technology addresses the scalability, security, storage, energy and operating issues by simplifying architectures and not relying on third party software. This drives down costs and improves efficiencies.
 authors: [weynand_kuijpers]
 created: 2018-05-12

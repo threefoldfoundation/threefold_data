@@ -3,7 +3,7 @@ id: threefold_foundation_34
 title: Solving the Blockchain Dilemma
 tags: []
 image: ./zero_people.png
-image_caption: Blockchain
+image_caption: blockchain
 excerpt: Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world, with countless use cases.
 authors: []
 created: 

@@ -3,7 +3,7 @@ id: threefold_foundation_23
 title: Harmony Integrates with ThreeFold’s Decentralized Grid
 tags: [partner]
 image: ./harmonyxthreefold.png
-image_caption: Harmony
+image_caption: partners
 excerpt: Harmony and ThreeFold will work together on developer and user projects on the ThreeFold Grid and Pangaea. Harmony’s developer community, and anyone interested in contributing to their Blockchain and being a validator within the Harmony staking ecosystem, is being invited to use a more decentralized, performant and affordable Peer-to-Peer Cloud solution brought by ThreeFold. 
 authors: [sacha_oobegadoo]
 created: 2020-05-29

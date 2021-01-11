@@ -3,7 +3,7 @@ id: threefold_foundation_7
 title: TomoChain & ThreeFold are joining forces to decentralize Cloud Computing
 tags: [partners]
 image: ./tomochain_threefold.jpg
-image_caption: partners
+image_caption: blockchain
 excerpt: TomoChain will invite their developer community and anyone interested in contributing to the TomoChain Blockchain, to connect and use the Threefold Grid. By deploying their Masternodes and workloads on the ThreeFold Grid, their developers will benefit from a more decentralized and affordable cloud offering and benefit from the autonomous execution of their workloads via ThreeFold’s Smart Contract for IT.
 authors: [sacha_obeegadoo]
 created: 2020-05-20

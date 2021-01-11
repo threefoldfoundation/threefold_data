@@ -3,7 +3,7 @@ id: threefold_foundation_28
 title: Dash & Dash NEXT partner with ThreeFold
 tags: [partner, news, tech]
 image: ./dashxthreefold.jpeg
-image_caption: Dash
+image_caption: partners
 excerpt: Dash / Dash NEXT and the ThreeFold Foundation are excited to officially announce their collaboration, effective the end of June 2020. Dash and ThreeFold are community-driven organizations focused on peer-to-peer solutions that strive for decentralization and the empowerment of humanity.
 authors: [sacha_oobegadoo]
 created: 2020-07-03

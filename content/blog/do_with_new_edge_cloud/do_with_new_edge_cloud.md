@@ -3,7 +3,7 @@ id: threefold_foundation_26
 title: Use cases for the ThreeFold Peer-to-Peer Cloud
 tags: [tech, cloud, edge]
 image: ./usecases_new_internet.jpg
-image_caption: Cloud
+image_caption: technology
 excerpt: Containers, IAAS, Archives, Security, and more.
 authors: [sam_taggart]
 created: 2018-09-12

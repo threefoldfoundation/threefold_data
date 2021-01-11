@@ -3,7 +3,7 @@ id: threefold_foundation_9
 title: ThreeFold and Presearch partner to decentralize search nodes and storage
 tags: [partner]
 image: ./threefoldpresearch.png
-image_caption: presearch
+image_caption: blockchain
 excerpt: Privacy and decentralization are some of the values shared by both Presearch and ThreeFold, at the core of their missions to create scalable technologies that can positively impact the lives of millions of individuals and enterprises around the globe.
 authors: [benjelloun_oussama]
 created: 2020-01-27

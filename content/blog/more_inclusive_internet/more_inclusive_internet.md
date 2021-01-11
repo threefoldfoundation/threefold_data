@@ -3,7 +3,7 @@ id: threefold_foundation_18
 title: We need a more inclusive internet
 tags: [farming, equality]
 image: ./more_inclusive_internet.png
-image_caption: We need a more inclusive internet
+image_caption: planet
 excerpt: Today we are working with partners in the clean energy and network / connectivity to build the solutions that are needed to provide fair and uninterrupted internet access with all corners of the world.
 authors: [sam_taggart]
 created: 2021-01-03
