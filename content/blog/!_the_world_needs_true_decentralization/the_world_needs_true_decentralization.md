@@ -9,9 +9,6 @@ authors: []
 created: 
 ---
 
-
-![alt_text](./img/theworld.png) ---- should go in post_image **
-
 # Introduction 
 Is Liberalism dead? Is there an alternative? The world has never been more global and prosperous, but so many people are unhappy. Our too capitalistic (rational mind driven) system is destroying our planet's resources and most people ignore this sad reality and go on with their lives like everything will stay the same as has been for the last 60 years. 
 
@@ -29,10 +26,6 @@ The document you’re reading now is focussed on the functions of the 3Bot (you�
 We are not a rebellious group. We are a growing group of people who don’t want to wait for things to change because together, we believe we can help the world to heal. We are a passionate group of people who act. We want to work with any government, financial institution, university or any organization to make this change as long as we agree on the same set of values. You can read more about our values in our [“FreeFlow Nation” manifesto](https://docs.google.com/document/d/1q4R8LCF6oasrrJMe8hsu2yLjtAKYVseuLjpOyyMYEHg/edit).
 
 # Decentralization is a new revolution
-
-
-![alt_text](./img/balloon.png)
-
 
 The world right now has known a long period of relative peace (+60 years). [Liberalism](https://www.britannica.com/topic/liberalism) was the engine behind this prosperous period. Some claim that [liberalism as we know it, could come to an end](https://www.tttdebates.org/is-liberalism-dead/). 
 
@@ -296,8 +289,6 @@ In our new Internet/IT system, a user gets rewarded for looking around and inves
 You choose which channels are interesting to your current needs and receives money for actually looking at the offerings. E.g. I am looking to rent an apartment in a certain location or I am looking for a web designer or … I will allow publishers to send information to me.
 
 Result
-
-
 
 *   Merchant will pay much less for marketing his products
 *   The consumer will receive money for shopping which could be more than the cost of running a 3Bot.
