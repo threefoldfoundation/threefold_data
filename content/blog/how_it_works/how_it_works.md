@@ -3,7 +3,7 @@ id: threefold_foundation
 title: ThreeFold's Long Story Short
 tags: [tech]
 image: ./longstoryshort.jpg
-image_caption: ThreeFold's Long Story Short
+image_caption: ThreeFold
 excerpt: We strongly believe that a new internet is needed for our planet and for humanity. "If not now, when? If not us, who?"
 authors: [sam_taggart]
 created: 2020-05-15

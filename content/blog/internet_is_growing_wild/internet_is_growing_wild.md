@@ -3,7 +3,7 @@ id: threefold_foundation
 title: Internet is growing wild
 tags: [tech, sustainability]
 image: ./wild.png
-image_caption: Internet is growing wild
+image_caption: Internet
 excerpt: A big majority of users in the world connect to servers that are not present in their region and as such experience higher costs and low performance. According to a study of datacentermap.com 80% of the datacenters of the current Internet service providers are based in the U.S and Europe. The rest of the world has scarce Internet resources dotted around territories.
 authors: [andreas_hartl]
 created: 2019-12-05
