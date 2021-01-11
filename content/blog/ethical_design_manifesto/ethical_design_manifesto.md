@@ -31,9 +31,7 @@ created: 2017-06-06
 - **Ergonomy**: Products and solutions should empower productivity, safety and comfort, while reducing human error.
 - **Inclusiveness**: Design should always be global and inclusive. We are all equal.
 - **Design**: Products should be visually appealing and should achieve it's purpose.
-- **Transparency**: Organisational records and strategies should be accessible to everyone. 
-
-![EthicalDesign@https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png](./img/ethicaldesign.png)
+- **Transparency**: Organisational records and strategies should be accessible to everyone.
 
 Organizations should always respect human rights, human effort and human experience. To enable a sustainable and prosperous civilization and world we need a strong value system.
 

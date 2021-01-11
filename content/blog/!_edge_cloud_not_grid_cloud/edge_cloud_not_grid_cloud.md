@@ -34,8 +34,6 @@ These thousands of situations are mostly in the IoT area. Still, other killer ap
 
 Due to the billions of IoT devices driven by various use cases like autonomous driving,  a massive demand for Edge Computing is evolving rapidly. According to the Digital Journal, the Edge Computing market is growing extremely fast. With a  CAGR of over 35.0% and the market is expected to reach  USD 33.75 billion by the end of 2023.
 
-![alt_text](./img/chart.png)
-
 Source: [http://www.digitaljournal.com/pr/3394129](http://www.digitaljournal.com/pr/3394129)
 
 Edge Computing and Grid Computing are often used in the same context and sometimes are confused. For this article, we'd like to define the terms going forward as follows: 

@@ -26,5 +26,5 @@ The Internet needs to be more distributed, cost-effective, neutral, and sustaina
 
 Combining the values of the ThreeFold Foundation (freedom, equality and fairness) with the technology developed by TFTech (Zero-OS, Zero-Chain, 3Bot) and a digital currency called the ThreeFold Token (a decentralized digital currency and means of payment to exchange autonomous and decentralized Internet services)  we believe that we have all the tools in order to actually make a difference in tomorrow's digital world. Question is, are you ready to join us? 
 
-Visit  [www.threefold.io](https://www.threefold.io.)
+Visit [www.threefold.io](https://www.threefold.io.)
 

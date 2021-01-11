@@ -13,8 +13,6 @@ The ThreeFold Grid’s capacity is made available by farmers — entrepreneurs w
 
 Here’s how things play out on the ThreeFold Network:
 
-![Circular Economy](circular_economy.jpg)
-
 It all starts with the ThreeFold Farmer.
 
 1. Farmers rent capacity to the ThreeFold Grid and get TFTs in return.

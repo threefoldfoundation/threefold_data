@@ -44,12 +44,7 @@ We believe decentralization could be the tool Liberalism needs to survive. This 
 
 Thanks to the blockchain hype, a new business trend has been created, and the current solutions are only the beginning. It's a trend where customers want to see more decentralization. People want to have more control over their own lives. They don’t want to become a meaningful piece inside a big Artificial Intelligence machine.
 
-# Curve Of Life: Efficiency vs Resilience 
-
-
-![alt_text](./img/desert_tree.png)
-
-
+# Curve Of Life: Efficiency vs Resilience
 
 Professor and currency expert Bernard Lietaer ([http://www.lietaer.com/](http://www.lietaer.com/)) advocated an upgrade of our money systems as a systemic solution to our global economic, financial, and sustainability crisis.
 
@@ -58,19 +53,9 @@ One of the ideas he advocated is how every system in the world balances between 
 Understanding parts of his work help to explain how the world became what it is today. It's the result of a period where efficiency was everything. It gave us the fastest evolution ever achieved in only 100 years but it's not sustainable. His findings can be applied to anything: nature, money, technology, society, ...
 
 
-![alt_text](./img/bernard_lietaer.png)
-
-
 A super efficient system like a monoculture such as pine wood will be not very resilient. These types of forests are very susceptible to sickness and fire, while on the other hand, a mixed forest of trees is much more resilient but not so efficient. 
 
-
-
-![alt_text](./img/monoculture.png)
-
 Our money system is a monoculture, it's very efficient (money being created out of nothing) but also very vulnerable. There were more than 600 monetary crashes since 1970. Most cryptocurrencies today are also monocultures and therefore unstable by design.
-
-
-![alt_text](./img/curve_of_life.png)
 
 
 New systems are required for money, internet which live in the window of viability.
@@ -80,17 +65,10 @@ New systems are required for money, internet which live in the window of viabili
 **“We can't solve problems by using the same kind of thinking we used when we created them”** - *Einstein*
 
 
-We need a digital backbone to create our FreeFlow Nation. Today we have the internet connecting us all but unfortunately, it's too expensive, power hungry, centralized and not scalable enough. \
+We need a digital backbone to create our FreeFlow Nation. Today we have the internet connecting us all but unfortunately, it's too expensive, power hungry, centralized and not scalable enough.
 
 
-![alt_text](./img/datacenter_problems1.png)
-
-![alt_text](./img/datacenter_problems2.png)
-
-
-More than 80% of today’s internet capacity is centralized and controlled by just a handful of company's
-
-![alt_text](./img/datacenter_problems3.png)
+More than 80% of today’s internet capacity is centralized and controlled by just a handful of company's.
 
 
 Current internet systems are efficient (controlled) centralized systems, they can be hacked easily (are hacked) and are not private. They are positioned left on this curve. On the curve of life you would find the current internet at the left side.
@@ -100,25 +78,13 @@ Current internet systems are efficient (controlled) centralized systems, they ca
 Everything is a balance between efficiency and resilience (see above). In our current society, the focus is too much on efficiency which has lead to too centralized systems. Centralized systems are too fragile (boom-bust cycles) and can lead to abuse as well (we became a product in centralized data management systems e.g. Facebook, ...). 
 
 
-![alt_text](./img/window_of_viability.png)
-
-
 The current centralized systems or the current Current Blockchain systems are at the outer sides of this curve. 
 
 A new system is needed with the right balance between centralization and distribution this is the true form of decentralization. We believe the right form is like a circle where we (or any legal entity) are the “center” of the de-**central**ized world. Blockchain technology is used inside your center of the circle (which we call a digital avatar) as well as finding consensus in between the circles (digital avatar). The combination of both concepts makes a sustainable, viable solution possible.
 
 This solution would sit in the sustainable part of the curve of life.
 
-![alt_text](./img/circular_approach.png)
-
-
-![alt_text](./img/universal_layer.png)
-![alt_text](./img/universal_layer2.png)
-
 ## Is Blockchain the holy grail for decentralization?
-
-![alt_text](./img/chain.png)
-
 
 Blockchain has been painted as the holy grail of decentralization, it's a fantastic tool for certain use cases like smart contracts, digital ledger and money but we believe it's not the right tool for creating a platform where people can become owners of their digital destiny:
 
@@ -139,20 +105,12 @@ Basically it's the typical cycle, centralized system gets too efficient/centrali
 
 ## Status of the decentralized internet today?
 
-![alt_text](./img/space_colony.png)
-
 
 Does this system exist today? Also at ThreeFold, we are not there yet **but we are very close.**
 
 Probably further advanced compared to any other startup or technology vendor.
 
 We had to re-invent a blockchain, an operating system, and a self-healing autonomous IT system.
-
-
-![alt_text](blocks.png)
-
-
-![alt_text](./img/fist.png)
 
 
 **But we are very close.**
@@ -170,8 +128,6 @@ ThreeFold Tech is the technology company who developed this technology. ThreeFol
 ## The ThreeFold grid is operational since March 2019 
 Our version 2.0 will be in production jan 2020 {#the-threefold-grid-is-operational-since-march-2019-our-version-2-0-will-be-in-production-jan-2020}
 
-![alt_text](./img/grid_loupe.png)
-
 
 **ThreeFold farmers have already deployed more capacity compared  \
 to the sum of all other decentralized projects together (blockchain).**
@@ -179,15 +135,9 @@ to the sum of all other decentralized projects together (blockchain).**
 ## Unlimited Scalability
 
 
-![alt_text](many_to_many.png)
-
-
 In this system the 3Bots which are the intelligent cells scale independently from the 3nodes, this creates an unlimited, scalable system. The 3Bots use the resources of the 3nodes to bring any required service to life.
 
 ## There are 3 ways today which allow people to buy Internet Capacity:
-
-
-![alt_text](./img/3ways_buy_capacity.png)
 
 
 The ThreeFold grid delivers Internet Capacity at a price much lower than alternative centralized solutions and is much faster and more scalable compared to some newer blockchain alternatives.
@@ -199,18 +149,10 @@ The cost advantages are substantial.
 DATA = IS THE NEW OIL …
 
 
-![alt_text](./img/factory_brands.png)
-
-
 Our data is the most important asset we have. Companies like Facebook and Google needs lots of our data to function. 
-
-![alt_text](./img/free_product_is_you.png)
 
 
 In our world, profit is the main driving force of our society, reducing us to a product in a big services machine. We no longer exist as an independent person, we exist as targets in a big Artificially Driven machine programed to maximize profit. Our data is the most valuable asset in this world.
-
-
-![alt_text](./img/digital_personalities.png)
 
 
 Next to the unethical behaviour of above paradigm there are also huge side effects in the way how these systems have been built.
@@ -230,22 +172,12 @@ Some examples:
 ## The idea: we need an improved “IT” system where we become the center.
 
 
-![alt_text](./img/yoga_dude.png)
-
-![alt_text](./img/allaboutyou.png)
-
-
 For the last couple of years blockchain was the synonym for decentralization. We believe this is not True, most blockchains are not decentralized at all. They are distributed systems but not decentralized.
 
 Real de**central**ization is still centralized but in a different way. In our way of decentralization we believe that you need to become the center of your digital life and no-one but you can define how your data is being used.
 
-![alt_text](./img/pyramids_to_circles.png)
 
-
-We believe every legal or human entity should have a digital avatar = our digital self. This avatar is an application running in a neutral and free internet  and is online all the time and can speak to any other digital avatar in all freedom and with all efficiency. More like how cells work in our body, all together we create a functioning digital world, by collaboration rather than suppression & control. 
-
-
-![alt_text](./img/digital_cells.png)
+We believe every legal or human entity should have a digital avatar = our digital self. This avatar is an application running in a neutral and free internet  and is online all the time and can speak to any other digital avatar in all freedom and with all efficiency. More like how cells work in our body, all together we create a functioning digital world, by collaboration rather than suppression & control.
 
 
 Above described system allows every person or legal entity to communicate to each other in all freedom. All 3Bots are registered in a sort of phone book (implemented by means of blockchain technology). This phonebook allows every 3Bot to find any other 3Bot. Each 3Bot has a unique id of only 1 number. Each piece of data in this digital universe is owned by a 3Bot (company or person), also this piece of data is identifiable by 1 number. **This means that any information in the world can be addressed by only 2 numbers**. A 3Bot has a very unique way how to use the storage energy as delivered by the 3nodes and can store unlimited amounts of information which can never be lost nor compromised. This is truly groundbreaking technology much more efficient compared to any existing blockchain technology.
@@ -255,8 +187,6 @@ It's hard to comprehend how much more efficient our digital life becomes because
 The world needs an efficient **Decentralized Information Systemwhich we call the 3Bot.**  ThreeFold has created technology which can be used to develop such a system running on top of the ThreeFold grid as described in previous chapter. 
 
 ## From Pyramids To Circles 
-
-![alt_text](./img/you_at_center.png)
 
 
 Today every service on the internet is fully centralized. As discussed earlier we have become a product.
@@ -268,8 +198,6 @@ We call this mechanism **FreeFlow Circles**.
 Our personal 3Bot acts as our digital self, it acts like our avatar. This 3Bot owns all our information and can act on our behalf. Our personal digital cell is at the center of our FreeFlow Circles.
 
 All of the commonly used applications listed in the pyramid on the left of this graphic are neither in line with the FreeFlow Nation values nor are they good for our World. Our personal 3Bot has the capability to eventually become a credible alternative to all these functions.
-
-![alt_text](./img/serverless_architecture.png)
 
 
 **Some examples of services which can run in a personal 3Bot (your digital self).
@@ -293,25 +221,17 @@ All of the commonly used applications listed in the pyramid on the left of this 
 ### Architecture 
 
 
-![alt_text](./img/tf_architecture.png)
-
-
 _Architecture: The 3Bots live on top of the grid of capacity  \
 and as such there is unlimited scalability._
 
 
 ### The 3 layers 
 
-![alt_text](./img/layers.png)
-
 
 The system consists out of multiple layers, a technical user can create their solutions on any of those layers without needing to know about the other layer e.g. an application developer does not have to know about the capacity layer, but a low level IT expert can deploy his applications directly on the capacity layer.
 
 
-### Communication Flows 
-
-
-![alt_text](./img/smart_contract_for_it.png)
+### Communication Flows
 
 
 _Information flow documented where a user retrieves a video from his/her phone._
@@ -386,10 +306,6 @@ Basically, this system puts the marketing world upside down and has benefits for
 
 # ThreeFold Ecosystem 
 
-
-![alt_text](./img/running.png)
-
-
 *   ThreeFold Tech
     *   A for profit software technology company in Belgium
     *   ThreeFold tech delivers the technology used by the Foundation as open source.
@@ -417,6 +333,4 @@ We are pragmatic and our motto is to do more with less effort. Our technology al
 We need more funding though, we are self funded today (by means of our community) and have enough to continue but we feel we can go faster and enable more companies to become part of our movement.
 
 One of our keys to success are our partnerships and we are very grateful that they want to support our mission.
-
-![alt_text](./img/partners.png)
 

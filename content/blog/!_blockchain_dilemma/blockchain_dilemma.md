@@ -20,8 +20,6 @@ In general there are two types of blockchains: proof of work blockchains and pro
 
 A blockchain is, as the word says, a chain of blocks of information. As shown in the graphic below, the “blocks” contain information on transactions. Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
 
-![alt_text](hashes.png)
-
 ### Private, Permissioned or Public Blockchains
 
 The complexity around a blockchain comes from how the blockchain software is run. The software can run in two different ways: a small (or large) number of nodes controlled by one single entity (private blockchain) a person or a company, or a large (or small) number of nodes controlled by multiple entities (public) that do not know each other and where anyone interested to run a blockchain node can join.
@@ -89,15 +87,11 @@ The key element in finding a solution for this problem is to take the human elem
 
 A way to get around the trusted people problem is to select a platform on which software can be downloaded, compiled, installed and operated without human intervention.  Such a platform is a unique platform which has not been developed and launched. Such a platform would have to have the following characteristics
 
-![alt_text](tf_tech_approach.png)
-
 To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way.  The three elements are:
 
 *   A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications.  This operating system  needs to be stateless to keep as simple as possible: **Zero-OS**
 *   A virtual system administrator that is able to perform system administration tasks to make the system operate, selfheal and execute instructions from authenticated and authorized sources.  **Zero-Robot** (3Bot)
 *   A ledger or database to store information in with regards to authentication, operational and financial transactions. **Zero-Chain**
-
-![alt_text](blocks.png)
 
 This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial. This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes. 
 
