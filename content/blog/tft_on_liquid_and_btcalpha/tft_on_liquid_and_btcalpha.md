@@ -3,7 +3,7 @@ id: threefold_foundation_12
 title: Co-create the new Internet. Participate with TFT!
 tags: [token]
 image: ./liquid_btcalpha.jpeg
-image_caption: internet
+image_caption: tokens
 excerpt: Do you believe that the world needs change? Do you believe in decentralization? Equality? Sustainability? Do you believe in circular economies, where everyone is invited to partake and succeed? The ThreeFold Token is the currency of the new Internet and brings true solutions to all the above questions. 
 authors: [sacha_obeegadoo]
 created: 2019-06-01
