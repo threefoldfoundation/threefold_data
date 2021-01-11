@@ -2,9 +2,9 @@
 id: threefold_foundation_31
 title: The World Needs True Decentralization
 tags: []
-image: 
-image_caption: The World Needs True Decentralization
-excerpt: 
+image: ./zero_people.png
+image_caption: Decentralization
+excerpt: Is Liberalism dead? Is there an alternative?
 authors: []
 created: 
 ---

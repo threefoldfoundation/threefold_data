@@ -2,9 +2,9 @@
 id: threefold_foundation_32
 title: Edge Cloud, not Grid Cloud
 tags: []
-image: 
-image_caption: Edge Cloud, not Grid Cloud
-excerpt: 
+image: ./zero_people.png
+image_caption: Cloud
+excerpt: The term Edge Cloud or, to be more precise, Edge Computing is one of the most exciting technology terms of these days.
 authors: []
 created: 
 ---
