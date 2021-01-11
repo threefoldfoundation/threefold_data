@@ -2,7 +2,7 @@
 id: threefold_foundation_6
 title: ThreeFold & WaykiChain collaborate to decentralize cloud computing for WaykiChain’s node operators
 tags: [partners]
-image: ./waykichain_threefold.jpg
+image: ./way_threefold.jpg
 image_caption: blockchain
 excerpt: Today, ThreeFold and WaykiChain are pleased to officially announce their collaborative partnership. Both ThreeFold and WaykiChain found clear alignment on decentralizing the internet for people and businesses and share the same core values that encompass their respective visions. 
 authors: [benjelloun_oussama]
