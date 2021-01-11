@@ -3,7 +3,7 @@ id: threefold_foundation_5
 title: What is Peer-to-Peer and Why is it so important?
 tags: [farming, peer-to-peer]
 image: ./what_is_peer_to_peer.png
-image_caption: peer to peer
+image_caption: decentralization
 excerpt: P2P systems are network, not linear or pyramidal hierarchies (though they may share some elements). They are distributed, though they may have elements of centralization and decentralization. And intelligence is not located at any center, but everywhere within the system.
 authors: [sacha_obeegadoo]
 created: 2020-12-15
