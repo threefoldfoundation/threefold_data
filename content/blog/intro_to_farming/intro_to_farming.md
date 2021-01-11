@@ -22,6 +22,4 @@ _The ThreeFold Foundation has created end-to-end technology that creates a very 
 ### The ecosystem
 The ThreeFold Ecosystem is a token economy where tokens (digital currency) are being generated (and therefore financially backed) by internet capacity generating equipment, owned by anyone and housed anywhere. By building and creating internet capacity owned and operated by all of us, we can create wealth and business opportunities for anyone in the world. Also, this sets the foundation for a more stable digital currency to emerge.
 
-![Token Generations](./img/tokens_generated.png)
-
 Now is the best time to become a ThreeFold Farmer. Anyone who signs up now to purchase and connect Internet capacity servers or create capacity pools, will be part of the first ones doing so and therefore will enjoy a higher return on investment than people joining at a later stage.
