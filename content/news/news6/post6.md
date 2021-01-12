@@ -2,6 +2,7 @@
 id: threefold_news6
 title: ThreeFold partners with Presearch
 tags: [announcement]
+category: [farming]
 image: ./post6.png
 image_caption: threefold foundation
 excerpt: We are thrilled to announce a collaborative partnership with Presearch.

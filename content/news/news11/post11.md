@@ -2,6 +2,7 @@
 id: threefold_news11
 title: ThreeFold at Digital Transformation Day
 tags: [announcement]
+category: [farming]
 image: ./post11.png
 image_caption: threefold foundation
 excerpt: Kristof De Spiegeleer will speak on a panel during Digital Week Online’s Digital Transformation Day.

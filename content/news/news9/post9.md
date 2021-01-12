@@ -2,6 +2,7 @@
 id: threefold_news9
 title: Own your data
 tags: [announcement]
+category: [farming]
 image: ./post9.png
 image_caption: threefold foundation
 excerpt: It can be with Threefold.

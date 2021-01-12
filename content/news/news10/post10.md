@@ -2,6 +2,7 @@
 id: threefold_news10
 title: 3Bot Connect = ThreeFold Connect
 tags: [announcement]
+category: [farming]
 image: ./post10.png
 image_caption: threefold foundation
 excerpt: 3Bot Connect is now named ThreeFold Connect.

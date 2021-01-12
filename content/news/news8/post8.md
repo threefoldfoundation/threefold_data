@@ -2,6 +2,7 @@
 id: threefold_news8
 title: ThreeFold November update
 tags: [announcement]
+category: [farming]
 image: ./post8.png
 image_caption: threefold foundation
 excerpt: Good progress on the tech side and a new partnership! 

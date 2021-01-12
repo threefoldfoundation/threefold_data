@@ -2,6 +2,7 @@
 id: threefold_news7
 title: ThreeFold at Global Reset
 tags: [event]
+category: [farming]
 image: ./post7.png
 image_caption: threefold foundation
 excerpt: ThreeFold is proud to be supporting and attending the Global Reset Summit.
