@@ -1,7 +1,7 @@
 ---
 id: threefold_news2
 title: Ask Me Anything
-tags: [event]
+tags: [event,farming]
 image: ./post2.jpeg
 image_caption: ama
 excerpt: Ask Me Anything session with ThreeFold

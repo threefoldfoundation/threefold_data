@@ -1,7 +1,7 @@
 ---
 id: threefold_news3
 title: Community update call
-tags: [event]
+tags: [event, farming]
 image: ./post3.png
 image_caption: community call
 excerpt: It’s the end of October and a lot has gone on this month.

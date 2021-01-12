@@ -1,9 +1,9 @@
 ---
-id: threefold_foundation_1
+id: unique
 title: You Are Unique
-tags: [autonomy, equality, human]
+tags: [autonomy, equality, human, farming]
 image: ./unique.png
-image_caption: generation
+image_caption: humanity
 excerpt: During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing.
 authors: [sabrina_sadik]
 created: 2019-12-05

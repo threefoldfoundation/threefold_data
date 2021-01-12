@@ -1,7 +1,7 @@
 ---
 id: threefold_news4
 title: ThreeFold Grid 2.3 Release
-tags: [tech, feature]
+tags: [tech, feature, farming]
 image: ./post4.png
 image_caption: threefold tech
 excerpt: The release introduces some improvements to the grid’s stability, new features and more.
