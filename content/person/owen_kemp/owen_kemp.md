@@ -2,7 +2,7 @@
 id: own_kemp
 name: Owen Kemp
 rank: 4
-memberships: [tech]
+memberships: [tech, cofounder]
 bio: In all walks of life, Owen looks for an equitable exchange of value and believes in doing everything in a socially responsible way. He loves working with diverse teams as they best represent our amazing planet. Emerging markets have been his passion and his profession. he has travelled to almost 150 countries helping local teams to flourish. Once described as an optimist and anarchist. he has humour and enjoys doing things in an unconventional way.
 excerpt: Founder at ThreeFold Tech
 linkedin: https://www.linkedin.com/in/owen-kemp-b6b5a113/
