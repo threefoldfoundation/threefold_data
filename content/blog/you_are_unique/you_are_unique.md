@@ -2,7 +2,7 @@
 id: unique
 title: You Are Unique
 tags: [autonomy, equality, human, farming]
-category: [digitaltwin]
+category: [farming, digitaltwin]
 image: ./unique.png
 image_caption: humanity
 excerpt: During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing.
