@@ -3,7 +3,7 @@ id: stellar
 title: Why ThreeFold chose Stellar
 tags: [token, partner, farming]
 category: [farming, cloud]
-image: ./stellar.jpg
+image: ./stellar.png
 image_caption: partners
 excerpt: At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.
 authors: [sam_taggart]
