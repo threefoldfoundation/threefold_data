@@ -11,7 +11,6 @@ image: ./kristine_vilnite.jpg
 projects: [threefold_foundation]
 countries: [Latvia]
 cities: [Riga]
-purpose:
 private: 0
 ---
 
