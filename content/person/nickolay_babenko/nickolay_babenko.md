@@ -3,10 +3,10 @@ id: nickolay_babenko
 name: Nickolay Babenko
 rank: 3
 memberships: [foundation, cofounders, fairswap]
-bio: At ThreeFold, I value the team work and fellowship that everyone upholds, and this is one of the greatest reasons why I am confident that together, we can create a new better internet for humanity. I have never seen such an incredible team of passionate believers with such strong and humane values and at the same time a deeply qualified team working in an environment full of love. If we only take the team factor, I would believe that this team can produce something world-changing. And in fact, the technology and ecosystem that we are building will change the landscape of internet. I believe ThreeFold will be the next step of internet and cloud growth and will become a foundation of stable digital economy and responsible freedom. 
+bio: Nickolay is an engineer, crypto-entrepreneur, investor and bhakti-yogi. The combination of a technical mindset and deep understanding of the psychology of relationships helps him to achieve ambitious and practical goals and secure long-standing relationships. Having 15 years of experience in the IT industry and 8 years specifically in the blockchain industry, Nickolay is eager for new opportunities to make people happier in general and with the help of technology in particular. Previously to joining FairSwap he co-founded one of the first bitcoin payment processors and multicurrency wallets and later was part of the founding team at ThreeFold Foundation.
 excerpt: Engineer crypto-entrepreneur avant la lettre
 linkedin: https://www.linkedin.com/in/babenkonickolay/
-websites: https://threefold.io/, https://www.mazraa.io/
+websites: https://threefold.io/, https://www.mazraa.io/, https://www.fair-swap.org
 image: ./nickolay_babenko.jpg
 projects: [threefold_tech]
 countries: [Russia]
