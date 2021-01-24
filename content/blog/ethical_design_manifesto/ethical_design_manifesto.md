@@ -38,3 +38,6 @@ Organizations should always respect human rights, human effort and human experie
 <br/>
 <br/>
 *Ideas and texts were inspired from https://ind.ie/ethical-design/. We added our own twist to it.*
+<br/>
+<br/>
+*Photo by Renee Fisher on [Unsplash](https://unsplash.com/photos/N7oCVnnhgCA).*
