@@ -20,7 +20,7 @@ Of course some data centers can be and are being built in and near developing a
 
 ### The Internet Shutdown Problem: Control & Manipulation
 
-Lack of internet access isn't always just an availability or affordability problem. Today's internet can be limited or even shut down at any point, by the right people. Take a quick look at [NetBlocks.org](netblocks.org/reports), an organization that reports on global internet disruptions or outages. Typically governments are enacting these measures during times of unrest or protest or  important political moments. Even in the United States, the Executive Branch of the government has [the power to shut down the internet](www.klemchuk.com/ip-law-trends/government-power-to-shut-down-the-internet) in a case of a national emergency.
+Lack of internet access isn't always just an availability or affordability problem. Today's internet can be limited or even shut down at any point, by the right people. Take a quick look at [NetBlocks.org](https://netblocks.org/reports), an organization that reports on global internet disruptions or outages. Typically governments are enacting these measures during times of unrest or protest or  important political moments. Even in the United States, the Executive Branch of the government has [the power to shut down the internet](https://www.klemchuk.com/ip-law-trends/government-power-to-shut-down-the-internet) in a case of a national emergency.
 
 Cutting the internet or restricting certain services based on region (a common practice as well) is not only not right, it's dangerous. People rely on the internet for information and communication and no government or entity should have the ability to shut the internet down at their discretion.
 
