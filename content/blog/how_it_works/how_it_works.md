@@ -5,27 +5,29 @@ tags: [tech]
 category: [farming, cloud]
 image: ./how_it_works.png
 image_caption: technology
-excerpt: We strongly believe that a new internet is needed for our planet and for humanity. If not now, when? If not us, who?
+excerpt: The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
 authors: [sam_taggart]
 created: 2020-05-15
 ---
 
-The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
-
 ### So, ThreeFold is building a new internet. Why?
 
 We strongly believe that a new internet is needed for our planet and for humanity. "If not now, when? If not us, who?"
-
+<br/>
+<br/>
 What it boils down to is that currently the internet is only available to about 1/2 of the world (meaning billions are being left behind), it is centralized (a handful of large corporations own and profit off of our data), and it uses up to 10% of the world’s energy consumption. So, we’re building a new (peer-to-peer) internet that empowers equality (access), autonomy (data ownership, for example), and sustainability (reduces energy consumption). These values drive us forward.
 
 ### How does it work?
 
 Everything on the internet – websites, apps, photos, videos, etc – uses up capacity and is stored in huge data centers owned by big companies, mainly in North America, Europe, and some in Asia. In our solution, centralized data centers are replaced with a grid of “nodes” distributed around the world.
-
+<br/>
+<br/>
 These nodes are owned by [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_farming) – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, “farmers” plug in hardware and start to create capacity that can be used by people.
-
+<br/>
+<br/>
 Farmers come in all shapes and sizes. Some farmers run small data centers while others simply run a node out of their living room.
-
+<br/>
+<br/>
 When Farmers connect active hardware (add capacity) to the ThreeFold Grid, ThreeFold Tokens are created. Farmers can then sell those tokens to people who want to use capacity (e.g. a developer that wants to build or host a website, or a person who wants to store some photos). More on tokens down below.
 
 ### Seems quite lofty. How will you build it?
@@ -58,7 +60,8 @@ That has a bit to do with the security as well. Since you own your data, you dec
 ### And how is it better for the planet?
 
 There are a few reasons for us being more sustainable. Data centers are super unsustainable, so the simple (but incomplete) answer is “no more huge data centers.” But if you want more detail:
-
+<br/>
+<br/>
 - We use up to 3x less hardware for the same output, and using hardware at least 2x longer while maintaining good performance
 - Having capacity everywhere, local to where users are – this reduces network requirements (and can even improve security)
 - Using new algorithms (e.g. the one mentioned above for storage) which have dramatic efficiency improvement
@@ -74,7 +77,6 @@ As we mentioned above, tokens are generated when ThreeFold Farmers adds capacity
 
 Essentially, the ThreeFold Token is the medium of exchange on the new internet. So, if a developer wants to build something (e.g. a website or an app) or a user wants to store something (e.g. photos), he/she/they use(s) ThreeFold Tokens.
 
-
 ### Need more answers?
 
-We hope that helps explains things. Obviously there is [a whole wiki](https://wiki.threefold.io) to dive in to. If you don’t find what you’re looking for, please reach out to marketing@threefold.io and we’ll make sure we get it added.
+We hope that helps explains things. Obviously there is [a whole wiki](https://wiki.threefold.io) to dive in to. If you don’t find what you’re looking for, please ask us on our [forum](https://forum.threefold.io)!
