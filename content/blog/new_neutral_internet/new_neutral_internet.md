@@ -11,18 +11,14 @@ created: 2017-06-01
 ---
 <br/>
 <br/>
-The Internet is growing like crazy and is now a trillion dollar problem. Together we can build a new neutral Internet.
+**The Internet is growing like crazy and is now a trillion dollar problem. Together we can build a new neutral Internet.**
 
 ### An introduction to the problems
 
 - The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies. This results in a loss of neutrality and openness and breeds inequalities.
-
 - To support the continuous growth of the Internet and connect billions to new Internet Of Things devices, 400 million new servers are needed by 2020. The world therefore needs another 4,000 large-scale data centers that each consume 200 MWe of electricity: [see source](http://bit.ly/1UPUZYG).
-
-- Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.
-
 - Today, about 4 billion people have no access to the Internet due to the high costs of connectivity and capacity. We believe these people have the fundamental right to have low-cost access to digital resources such as online identity solutions, education, health information and more. For this to happen, solutions that can lower the cost by a factor of 10 are required.
-
+- Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.
 - Current blockchain technology is not scalable and not sustainable. Example: the Bitcoin blockchain alone uses more energy today than Croatia.
 
 ### Current Internet and Cloud capacity
