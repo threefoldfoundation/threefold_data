@@ -12,18 +12,18 @@ created: 2020-12-15
 
 ### What is Peer-to-Peer?
 
-Peer-to-peer (P2P) is a term that originated from the distributed computer application architecture where tasks and workloads are shared between peers, popularized by [Napster](https://en.wikipedia.org/wiki/Napster), a revolutionary file storing system from the late 1990s. <br/>
-
-The concept inspired new structures and philosophies in many areas of human interaction. P2P systems and groups are typically critical of authoritarian and centralized social structures and believe in equality, meritocracy, flat systems, participatory & circular economies, as the concept represents a concrete pathway to these outcomes or visions. <br/>
-
+Peer-to-peer (P2P) is a term that originated from the distributed computer application architecture where tasks and workloads are shared between peers, popularized by [Napster](https://en.wikipedia.org/wiki/Napster), a revolutionary file storing system from the late 1990s.
+<br/>
+The concept inspired new structures and philosophies in many areas of human interaction. P2P systems and groups are typically critical of authoritarian and centralized social structures and believe in equality, meritocracy, flat systems, participatory & circular economies, as the concept represents a concrete pathway to these outcomes or visions.
+<br/>
 P2P systems are network, not linear or 'pyramidal' hierarchies (though they may share some elements). They are 'distributed', though they may have elements of 'centralization' and 'decentralization.' And intelligence is not located at any center, but everywhere within the system. 
 
 ### How does ThreeFold relate to peer-to-peer?
 
-ThreeFold's Peer-to-Peer (P2P) computing network is a distributed architecture that splits tasks and workloads between its peers, [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_farming). Farmers are equal participants in the network and together they form a peer-to-peer network of nodes, the ThreeFold Grid. <br/>
-
-Farmers make their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Farmers are both suppliers and consumers of resources, in contrast to the traditional [client-server](https://en.wikipedia.org/wiki/Client-server) model in which the consumption and supply of resources is divided. <br/>
-
+ThreeFold's Peer-to-Peer (P2P) computing network is a distributed architecture that splits tasks and workloads between its peers, [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_farming). Farmers are equal participants in the network and together they form a peer-to-peer network of nodes, the ThreeFold Grid.
+<br/>
+Farmers make their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Farmers are both suppliers and consumers of resources, in contrast to the traditional [client-server](https://en.wikipedia.org/wiki/Client-server) model in which the consumption and supply of resources is divided.
+<br/>
 In the near future, ThreeFold will create Digital Twin, which will go beyond the era of peers doing similar things while sharing resources. It will actually enable much more than that. Digital Twin will create a complete new digital world with diverse peers that can bring in unique resources and capabilities to a [virtual community](https://en.wikipedia.org/wiki/Virtual_community) on the ThreeFold Grid. This will empower the network of peers to engage in greater tasks beyond those that can be accomplished by individual peers, and are beneficial to all the peers.
 
 ### Why did ThreeFold choose peer-to-peer? 
@@ -32,8 +32,8 @@ Everything starts (or should start) from the why, and the ThreeFold story starte
 
 ### Why does the world needs peer-to-peer? 
 
-By developing the technology, the conviction that peer-to-peer was the best solution for humanity and the planet strengthened itself. Why? Well, put simply, a peer-to-peer system removes all forms of intermediaries, unnecessary steps and complexity from the picture. Therefore, it simplifies the architecture in an incredible way. The benefits are many but here are the most popular benefits: <br/>
-
+By developing the technology, the conviction that peer-to-peer was the best solution for humanity and the planet strengthened itself. Why? Well, put simply, a peer-to-peer system removes all forms of intermediaries, unnecessary steps and complexity from the picture. Therefore, it simplifies the architecture in an incredible way. The benefits are many but here are the most popular benefits:
+<br/>
 - *Privacy*: Our peer-to-peer environment means no middlemen or intermediaries, meaning data travels directly between peers and stored on the nodes of their choice rather than being sent through and stored by a third party.
 - *Security*: Data stored in data centers is susceptible to security breaches. In bypassing data centers and exchanging data directly between peers, we can achieve much greater security as it reduces code and back doors significantly. 
 - *Scalability*: In a many-to-many system, scale is essentially unlimited. There is simply no bottleneck. And hardware (nodes) can be added at ease compared to current data center model.
