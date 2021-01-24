@@ -12,7 +12,7 @@ created: 2020-12-15
 
 ### What is Peer-to-Peer?
 
-Peer-to-peer (P2P) is a term that originated from the distributed computer application architecture where tasks and workloads are shared between peers, popularized by [Napster](en.wikipedia.org/wiki/Napster), a revolutionary file storing system from the late 1990s.
+Peer-to-peer (P2P) is a term that originated from the distributed computer application architecture where tasks and workloads are shared between peers, popularized by [Napster](https://en.wikipedia.org/wiki/Napster), a revolutionary file storing system from the late 1990s.
 
 The concept inspired new structures and philosophies in many areas of human interaction. P2P systems and groups are typically critical of authoritarian and centralized social structures and believe in equality, meritocracy, flat systems, participatory & circular economies, as the concept represents a concrete pathway to these outcomes or visions. 
 
@@ -22,9 +22,9 @@ P2P systems are network, not linear or 'pyramidal' hierarchies (though they ma
 
 ThreeFold's Peer-to-Peer (P2P) computing network is a distributed architecture that splits tasks and workloads between its peers, [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_farming). Farmers are equal participants in the network and together they form a peer-to-peer network of nodes, the ThreeFold Grid. 
 
-Farmers make their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Farmers are both suppliers and consumers of resources, in contrast to the traditional [client-server](en.wikipedia.org/wiki/Client-server) model in which the consumption and supply of resources is divided. 
+Farmers make their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Farmers are both suppliers and consumers of resources, in contrast to the traditional [client-server](https://en.wikipedia.org/wiki/Client-server) model in which the consumption and supply of resources is divided. 
 
-In the near future, ThreeFold will create Digital Twin, which will go beyond the era of peers doing similar things while sharing resources. It will actually enable much more than that. Digital Twin will create a complete new digital world with diverse peers that can bring in unique resources and capabilities to a [virtual community](en.wikipedia.org/wiki/Virtual_community) on the ThreeFold Grid. This will empower the network of peers to engage in greater tasks beyond those that can be accomplished by individual peers, and are beneficial to all the peers. 
+In the near future, ThreeFold will create Digital Twin, which will go beyond the era of peers doing similar things while sharing resources. It will actually enable much more than that. Digital Twin will create a complete new digital world with diverse peers that can bring in unique resources and capabilities to a [virtual community](https://en.wikipedia.org/wiki/Virtual_community) on the ThreeFold Grid. This will empower the network of peers to engage in greater tasks beyond those that can be accomplished by individual peers, and are beneficial to all the peers. 
 
 ### Why did ThreeFold choose peer-to-peer? 
 
