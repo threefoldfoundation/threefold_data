@@ -10,7 +10,6 @@ authors: [sabrina_sadik]
 created: 2019-11-21
 ---
 
-
 ## The neutrality of the current Internet is in danger.
 
 Have you seen ‘The Great Hack’ on Netflix? It’s a documentary about the Cambridge Analytica hacking scandal, where personal data of millions of peoples’ Facebook profiles were harvested without their consent and used for political advertising purposes. 
@@ -33,4 +32,6 @@ Combining the values of the ThreeFold Foundation (freedom, equality and fairness
 <br/>
 <br/>
 Please visit [our forum](https://forum.threefold.io) if you have any questions or would like to continue the conversation!
-
+<br/>
+<br/>
+Photo by Linh Nguyen on [Unsplash](https://unsplash.com/photos/J8k-gzI0Zy0).
