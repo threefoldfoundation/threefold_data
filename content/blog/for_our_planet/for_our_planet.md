@@ -7,8 +7,11 @@ image: ./better_solution.png
 image_caption: sustainability
 excerpt: We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours..
 authors: [kristof_de_spiegeleer]
-created: 2018-10-18
+created: 2020-12-02
 ---
+<br/>
+<br/>
+*This article was originally written in October 2018 and updated in December 2020.*
 <br/>
 <br/>
 Today, the global Internet and IT infrastructure requires enormous amounts of energy, responsible for about 10% of annual global energy consumption. This makes the IT industry amongst the most pollutive industries in the world (along with the often-discussed airline industry, for comparison).
