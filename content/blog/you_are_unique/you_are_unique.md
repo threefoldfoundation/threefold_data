@@ -31,3 +31,6 @@ One decentralized application, one digital wallet, one login and one you. Becaus
 <br/>
 <br/>
 Have questions? Feel free to ask us on our [forum](https://forum.threefold.io)!
+<br/>
+<br/>
+*Photo by Jessica Ruscello on [Unsplash](https://unsplash.com/photos/DoSDQvzjeH0).*
