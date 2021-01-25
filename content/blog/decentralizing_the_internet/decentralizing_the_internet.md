@@ -2,7 +2,7 @@
 id: decentralzing_the_internet
 title: Decentralizing the Internet
 tags: [farming, grid, tech]
-image: ./decentralzing_the_internet.png
+image: ./decentralizing_the_internet.png
 category: [farming, cloud]
 image_caption: technology internet
 excerpt: In this article, we discuss the general concept of a ‘decentralized grid’ and how anyone can plug-in capacity to the ThreeFold Grid.
@@ -15,11 +15,12 @@ created: 2019-08-21
 In 1989, the Internet changed the world as we know it with the introduction of the World Wide Web. With time the Internet empowered people to share information in a decentralized way. Shortly after, big companies like Facebook, Google, and Apple emerged, providing many solutions that revolutionized the way we live. The “sharing economy” has grown exponentially over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
 <br/>
 <br/>
+
 - Enables a much easier integration of independent players into the sharing economy.
 - Eliminates the need for extensive management and structure of marketplace operators.
-<br/>
-<br/>
-We are entering a flat-structure economy. An economy where fewer managerial levels are needed for the system to function. New technologies such as blockchain and the Internet of Things facilitate this ongoing trend. Participants can now interact on a peer-to-peer basis, forming marketplaces and organizations according to pre-agreed, programmed contracts.
+  <br/>
+  <br/>
+  We are entering a flat-structure economy. An economy where fewer managerial levels are needed for the system to function. New technologies such as blockchain and the Internet of Things facilitate this ongoing trend. Participants can now interact on a peer-to-peer basis, forming marketplaces and organizations according to pre-agreed, programmed contracts.
 
 # The current Internet is centralized
 
@@ -42,7 +43,7 @@ By doing this you will become an operator of a "micro data center" and with that
 You can build your server (3node) and configure it, but also options for people with less technical knowledge are available. Please see [pre-register.threefold.io](https://pre-register.threefold.io) to see how easy it is for anyone to become a ThreeFold Farmer.
 <br/>
 <br/>
-*Blog written in 2019, updated January 2021.*
+_Blog written in 2019, updated January 2021._
 <br/>
 <br/>
-*Photo by Alina Grubnyak on [Unsplash](https://unsplash.com/photos/ZiQkhI7417A).*
+_Photo by Alina Grubnyak on [Unsplash](https://unsplash.com/photos/ZiQkhI7417A)._

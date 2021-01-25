@@ -6,7 +6,7 @@ category: [farming, cloud]
 image: ./intro_tf_token.png
 image_caption: tokens crypto
 excerpt: The ThreeFold Token (TFT) is a decentralised digital currency used to buy autonomous and decentralised Internet services (compute, storage, and application) on the ThreeFold Network..
-authors: [sacha_oobegadoo]
+authors: [sacha_obeegadoo]
 created: 2020-01-04
 ---
 

@@ -6,7 +6,7 @@ category: [farming, cloud]
 image: ./digibyte_threefold.png
 image_caption: partners blockchain
 excerpt: The DigiByte Foundation and the ThreeFold Foundation are aligned – both focused on values, working towards their visions and missions in creating a truly decentralized, equal, and sustainable world that empowers humanity.
-authors: [sacha_oobegadoo]
+authors: [sacha_obeegadoo]
 created: 2020-05-22
 ---
 

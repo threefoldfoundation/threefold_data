@@ -6,7 +6,7 @@ category: [farming, cloud]
 image: ./harmony_threefold.png
 image_caption: partners blockchain
 excerpt: Harmony and ThreeFold will work together on developer and user projects on the ThreeFold Grid and Pangaea..
-authors: [sacha_oobegadoo]
+authors: [sacha_obeegadoo]
 created: 2020-05-29
 ---
 
