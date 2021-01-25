@@ -34,4 +34,4 @@ Combining the values of the ThreeFold Foundation (freedom, equality and fairness
 Please visit [our forum](https://forum.threefold.io) if you have any questions or would like to continue the conversation!
 <br/>
 <br/>
-Photo by Linh Nguyen on [Unsplash](https://unsplash.com/photos/J8k-gzI0Zy0).
+*Photo by Linh Nguyen on [Unsplash](https://unsplash.com/photos/J8k-gzI0Zy0).*
