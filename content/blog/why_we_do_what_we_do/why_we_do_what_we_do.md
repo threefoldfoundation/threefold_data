@@ -16,9 +16,9 @@ We are growing a green and responsible peer-to-peer Internet that is available e
 ## At ThreeFold, we are driven by three main values:
 <br/>
 <br/>
-- Equality is the foundation for a fair world where everyone is given the opportunity to be empowered and to achieve their full potential.
-- Freedom of thought, opinion, creativity and faith are fundamentals to achieve peace and fulfillment of humankind’s potential.
-- Sustainability ensures the future of life on earth. It is about adopting the behavior and mindset to minimize our footprint.
+* Equality is the foundation for a fair world where everyone is given the opportunity to be empowered and to achieve their full potential.
+* Freedom of thought, opinion, creativity and faith are fundamentals to achieve peace and fulfillment of humankind’s potential.
+* Sustainability ensures the future of life on earth. It is about adopting the behavior and mindset to minimize our footprint.
 <br/>
 <br/>
 Let’s take a deeper look.
