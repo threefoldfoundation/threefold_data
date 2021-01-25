@@ -12,16 +12,21 @@ created: 2020-08-13
 
 
 [SKALE](https://skale.network/) and [ThreeFold](https://threefold.io) are perfectly aligned in their visions to build a truly decentralized internet and a scalable web3 infrastructure. Both focus on creating community-owned and scalable technologies that can positively impact the lives of millions of individuals and enterprises around the globe. 
-
+<br/>
+<br/>
 SKALE and ThreeFold are excited to announce their collaborative partnership that will focus on solving scalability and decentralization limitations faced by Ethereum and Blockchain developers. This collaboration will also empower the SKALE developer community, and web3 developers, with the ThreeFold peer-to-peer cloud, enabling them to:
-
+<br/>
+<br/>
 1. Build highly scalable dApps on Ethereum using SKALE’s elastic Blockchain network.
 2. Completely decentralize their IT infrastructure using ThreeFold’s P2P compute, storage, and networking capacities (providing far more affordability, privacy, and decentralization through its native cloud automation and Smart Contract for IT). 
-
+<br/>
+<br/>
 Adnan Fatayerji, co-founder at ThreeFold said, _“SKALE is perfectly positioned to take Ethereum and its dApp developers to the next level while pioneering scaling solutions for the Blockchain industry! ThreeFold and SKALE form such an ideal fit in this regard. By combining SKALE’s modular protocol and ThreeFold's universal substrate for decentralized storage and compute, developers are able to build highly scalable dApps and deploy workloads that are closer to the source, cost-effective, and easy to manage. We are excited to collaborate with the SKALE ecosystem!“_
-
+<br/>
+<br/>
 The ThreeFold team is inviting node operators around the world to contribute to the SKALE ecosystem by deploying their SKALE validator nodes after Phase 3 Mainnet availability on the ThreeFold Grid and is calling for game-changing, conscious web3 developers to build impactful applications.
-
+<br/>
+<br/>
 _"It's been exciting to work with the ThreeFolds team as they build their vision for providing node operators with a platform to decentralize their IT infrastructure,"_ said Christine Perry, VP Solutions Engineering, SKALE Labs. _"Not only do we share the mutual goal of a truly decentralized secure, scalable network. SKALE developers will be able use ThreeFold's peer-to-peer cloud to more easily build highly scalable Ethereum Dapps."_
 
 ### About SKALE: 
@@ -31,7 +36,9 @@ SKALE is an elastic blockchain network that gives developers the ability to easi
 ### About ThreeFold: 
 
 ThreeFold has developed the largest and most advanced peer-to-peer internet grid in the world, that enables individuals and organizations  to build and deploy their web2 and web3 applications in a complete decentralized, private, sustainable, and autonomous IT infrastructure through its peer-to-peer cloud capacity and developer tools. 
-
+<br/>
+<br/>
 With a collective and incentivized ecosystem of Farmers around the globe, the [ThreeFold Grid](https://threefold.io/) has achieved 80+ petabytes of capacity, 18K+ CPU cores, distributed in 21 countries, and is constantly expanding across the edges. ThreeFold has a broad array of technology partners such as HPE, DigiByte, Stellar, Neo, Dash, TomoChain,  HoloChain Harmony, WaykiChain, SelfKey  and many others. 
-
+<br/>
+<br/>
 ThreeFold aims to empower a more equal, autonomous, and sustainable world and does so by providing the necessary peer-to-peer technologies and infrastructure to the world while incentivizing growth in developing regions. Visit [Threefold.io](https://threefold.io) to learn more, and [forum.threefold.io](https://forum.threefold.io) to chat with the team. 
