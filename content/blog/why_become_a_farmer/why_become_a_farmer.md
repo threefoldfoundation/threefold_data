@@ -11,8 +11,11 @@ created: 2020-05-03
 ---
 
 The ThreeFold Foundation is changing the way how "we" as a whole approach the internet and its underlying technology. We believe building the internet back from the ground up is the only way to dismantle the monster it has grown into – a polluting greed-machine that allows people’s data to be abused for money all while just being accessible to just half of the earth’s inhabitants.
-
+<br/>
+<br/>
 And the best part is, you can have a part in the global shift towards a more sustainable, inclusive, and respectful internet by becoming a ThreeFold Farmer.
+<br/>
+<br/>
 
 ## So what are farmers?
 
@@ -29,6 +32,8 @@ As mentioned in the previous paragraph, capacity is rented. This means people th
 ## What else?
 
 Capacity for the ThreeFold Grid can be added in all shapes and sizes. It could be a small box no larger than a modem that you put in your office or home, or could be a fully-fledged data center node. The idea is that the grid becomes spread out as much as it can be, as this has some huge benefits for all users and the environment.
+<br/>
+<br/>
 
 1. Less power waste: Less energy is needed to cool all these smaller nodes that are far away from each other, than putting the same resources in a giant room together and having them sit on top off, and beside each other (this is what happens now in large scale data centers).
 
@@ -37,5 +42,7 @@ Capacity for the ThreeFold Grid can be added in all shapes and sizes. It could b
 3. More Privacy: This decentralized approach makes it so that there is no "all-seeing eye" within the network – unlike the current setup where tech giants basically own all their users’ data by putting it in their own data centers.
 
 4. More Accessibility: Due to the fact that these resources can be added in small form-factors, it makes it possible to now put internet resources anywhere in the world where there’s a network to plug into (cables in the ground). And this makes it that now people that have limited-to-no funds have access to what the UN declared a human right: the internet. ut more than that, education, connection, entertainment, all the internet brought the western world over the past decade.
+<br/>
+<br/>
 
-To find out more about how you can become a farmer, please visit ThreeFold’s website [www.threefold.io](www.threefold.io). Our [wiki](https://wiki.threefold.io) or register to for first access to our next batch of 3Node here: [https://www.farmer.threefold.io/](https://www.farmer.threefold.io/). We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. 
+To find out more about how you can become a farmer, please visit ThreeFold’s website [www.threefold.io](www.threefold.io). Our [wiki](https://wiki.threefold.io) or register to for first access to our next batch of 3Node here: [https://pre-register.threefold.io/](https://pre-register.threefold.io/). We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. 
