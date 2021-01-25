@@ -7,7 +7,7 @@ image: ./threefold_presearch.png
 image_caption: blockchain partners
 excerpt: Privacy and decentralization are some of the values shared by both Presearch and ThreeFold, at the core of their missions to create scalable technologies..
 authors: [benjelloun_oussama]
-created: 2020-01-27
+created: 2020-11-27
 ---
 
 Privacy and decentralization are some of the values shared by both [Presearch](https://www.presearch.io/) and [ThreeFold](https://threefold.io), at the core of their missions to create scalable technologies that can positively impact the lives of millions of individuals and enterprises around the globe.
