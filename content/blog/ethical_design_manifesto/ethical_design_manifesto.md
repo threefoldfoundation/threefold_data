@@ -12,6 +12,9 @@ created: 2017-06-06
 <br/>
 <br/>
 Organizations should always respect human rights, human effort and human experience. To enable a sustainable and prosperous civilization and world, we need a strong value system.
+<br/>
+<br/>
+*Ideas and texts were inspired from https://ind.ie/ethical-design/. We added our own twist to it.*
 
 ### Respect Human Rights
 
@@ -35,9 +38,6 @@ Organizations should always respect human rights, human effort and human experie
 - **Inclusiveness**: Design should always be global and inclusive. We are all equal.
 - **Design**: Products should be visually appealing and should achieve it's purpose.
 - **Transparency**: Organisational records and strategies should be accessible to everyone.
-<br/>
-<br/>
-*Ideas and texts were inspired from https://ind.ie/ethical-design/. We added our own twist to it.*
 <br/>
 <br/>
 *Photo by Renee Fisher on [Unsplash](https://unsplash.com/photos/N7oCVnnhgCA).*
