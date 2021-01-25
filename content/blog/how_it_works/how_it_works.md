@@ -82,4 +82,4 @@ Essentially, the ThreeFold Token is the medium of exchange on the new internet. 
 We hope that helps explains things. Obviously there is [a whole wiki](https://wiki.threefold.io) to dive in to. If you don’t find what you’re looking for, please ask us on our [forum](https://forum.threefold.io)!
 <br/>
 <br/>
-Photo by Nong Vang on [Unsplash](https://unsplash.com/photos/9pw4TKvT3po).
+*Photo by Nong Vang on [Unsplash](https://unsplash.com/photos/9pw4TKvT3po).*
