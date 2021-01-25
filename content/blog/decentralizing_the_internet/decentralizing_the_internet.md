@@ -43,3 +43,6 @@ You can build your server (3node) and configure it, but also options for people 
 <br/>
 <br/>
 *Blog written in 2019, updated January 2021.*
+<br/>
+<br/>
+*Photo by Alina Grubnyak on [Unsplash](https://unsplash.com/photos/ZiQkhI7417A).*
