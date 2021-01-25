@@ -5,13 +5,16 @@ tags: [tech, sustainability]
 category: [farming, cloud]
 image: ./internet_is_growing_wild.png
 image_caption: planet
-excerpt: A big majority of users in the world connect to servers that are not present in their region and as such experience higher costs and low performance.
+excerpt: The internet is growing at an extremely fast pace, but is that a good thing?
 authors: [andreas_hartl]
 created: 2019-12-05
 ---
 <br/>
 <br/>
-The internet is growing in a way which is not sustainable, there has to be an alternative.
+The current growth of internet needs 4000+ new large scale data centers of computer systems. The global data growth will reach more than 40 Zetabytes by 2020 which represents an average yearly growth of 42% starting at 4.5 Zetabytes in 2013. To host all this data, over 4000 new big data centers have to to be built. And to achieve this goal, $ 1 trillion USD investment capital is needed and land totalling the size of the UK would be needed.
+<br/>
+<br/>
+The Internet is one of the fastest growing industries in the world. In this article we'll explain why that's not always such a good thing and where we see opportunities.
 
 ## Internet capacity needs to become localized
 
@@ -22,10 +25,6 @@ As a consequence most Internet users use Internet-based services running on infr
 <br/>
 <br/>
 Our mission is to empower and inspire people to recognize abundance by living new experiences one hour at a time.
-
-## The world needs a responsible internet
-
-On a humanitarian level the opportunities for creativity, learning and development are currently negatively influenced by a lack of access to performant and affordable Internet services. Since [Internet access is a human right](https://www.businessinsider.com/un-says-internet-access-is-a-human-right-2016-7#:~:text=Due%20to%20the%20lack%20of,20.), it should protect the status quo between the developed and less-developed regions of our world.
 
 ## The Internet needs to perform better
 
@@ -40,7 +39,7 @@ If we could go down to the core algorithms and take another look at these, and i
 <br/>
 Only upsides, right? Well a huge downside of such an approach is that vendors will make less revenue and more importantly less margin as systems will run for longer, be more stable and require less updates. So why would vendors innovate at the core of their solution?
 
-## Currently the Internet is extremely unsustainable
+## The Internet needs to become more sustainable
 
 Did you know that the current Internet is responsible for between 5 and 10% of global energy consumptions? Making it more harmful to our planet than the airline Industry. The good news is that we can achieve 10x more power efficiency by addressing certain areas such as storage.
 <br/>
@@ -53,7 +52,7 @@ Power consumption is a function of better compute and storage performance that i
 <br/>
 Read more about how ThreeFold achieves sustainability in [the following blog](https://www.farming.threefold.io/blog/post/for_our_planet/).
 
-## Internet capacity is expensive
+## The Internet needs to become more affordable
 
 The biggest cost in running IT architectures is the human cost. Today's complex systems, built out of ‘band aid and patches’ point solutions, organically-grown and badly documented IT infrastructures, need an armada of people to keep them ticking. Even though this is an example, one can learn a lot from the trends that are presented:
 <br/>
@@ -66,7 +65,7 @@ The biggest cost in running IT architectures is the human cost. Today's complex 
 <br/>
 These figures present industry average numbers and paint a troubling picture that IT is a sizeable part of an overall budget, and that most spending is going to have the right knowledge skills insourced to the organisation to run the core IT architecture it relies on. For any other discipline in any organisation this would present an unacceptable risk to the business and its continuity - strangely not for IT.
 
-## People are a source of downtime, more intelligence is needed
+## The Internet needs to become self-healing
 
 The biggest source of downtime in computer systems is people. Getting people involved in fixing infrastructure problems creates the risk of accidentally causing more system downtime. A very recent example on this hit a large organisation cloud service provider.
 <br/>
@@ -79,9 +78,10 @@ Managing a data center that contains solutions for information transportation, s
 <br/>
 The time has come that we no longer rely on people to do the right thing in case of emergency - the complexity is overwhelming and the dependency on the availability of that information is huge. Having people to do manual deployments and operational responsibilities does not provide the agility and speed to keep up with the continuous exponential growth of the industry. It is time to take the human element out of IT and let smart and autonomous systems to take over. This will also let people focus on more creative activities.
 
+## The world needs a responsible internet
+
+On a humanitarian level the opportunities for creativity, learning and development are currently negatively influenced by a lack of access to performant and affordable Internet services. Since [Internet access is a human right](https://www.businessinsider.com/un-says-internet-access-is-a-human-right-2016-7#:~:text=Due%20to%20the%20lack%20of,20.), it should protect the status quo between the developed and less-developed regions of our world.
+
 ## The Internet is growing fast, with the wrong solutions
 
-The current growth of internet needs 4000+ new large scale data centers of computer systems. The global data growth will reach more than 40 Zetabytes by 2020 which represents an average yearly growth of 42% starting at 4.5 Zetabytes in 2013. To host all this data, over 4000 new big data centers have to to be built. And to achieve this goal, $ 1 trillion USD investment capital is needed and land totalling the size of the UK would be needed.
-<br/>
-<br/>
 It is evident that the current solutions are super unsustainable and make no sense. Luckily, ThreeFold and many other start-ups are deploying new solutions.
