@@ -5,7 +5,7 @@ tags: [tech, cloud]
 image: ./zero_people.png
 image_caption: future
 excerpt: Classic IT infrastructure setup is complex and is not cost-effective. Applications need a specific environment to operate in, built by integrating different technology components from different vendors. Elements of such a setup are operating systems, storage systems, networks, security systems, authentication systems, and more.
-authors: [roel_van_sabben]
+authors: [weynand_kuijpers]
 created: 2020-08-17
 ---
 
@@ -17,7 +17,7 @@ Classic IT infrastructure setup is complex and is not cost-effective. Applicatio
 
 Putting components together is called (system) integration, and integration requires agreement on how these components will fit together and the knowledge to do it.
 
-This complexity and need for integration originate from the way the IT industry historically developed. With time more and more layers appeared to bring new possibilities. Additional layers masked existing problems. Instead of fixing the underlying issues, several third parties needed to be involved, adding complexity and increased costs (such as license costs, upgrades, updates, remote hands, etc.). Complexity has become a business model.
+This complexity and need for integration originate from the way the IT industry historically developed. With time more and more layers appeared to bring new possibilities. Additional layers masked existing problems. Instead of fixing the underlying issues, several third parties needed to be involved, adding complexity and increased costs (such as license costs, upgrades, updates, etc.). Complexity has become a business model.
 
 ## Where can we get inspiration to do it a different way?
 
@@ -25,9 +25,9 @@ What if we could build IT architectures in a different way.  What if we would no
 
 ### Looking at nature for inspiration
 
-Let's start by looking for inspiration in nature. Suppose we consider IT systems to be a complex system. Are there parallels that we can draw between systems that exist in nature (and have evolved and improved over thousands of years) and those within the IT industry.
+Let's start by looking for inspiration in nature. Suppose we consider IT systems to be a complex system. Are there parallels that we can draw between systems that exist in nature (and have evolved and improved over thousands of years) and those within the IT industry?
 
-In nature, we see two kinds of systems (societies): centralized and decentralized systems.  Examples of centralized systems are hurds/groups of animals living together where there is a hierarchy in the way they organize themselves. For decentralized systems, we can look at beehives and anthills.  Organizing efforts and benefits are distinct and come at a different cost.
+In nature, we see two kinds of systems (societies): centralized and decentralized systems.  Examples of centralized systems are herds, groups, or schools of animals living together where there is a hierarchy in the way they organize themselves. For decentralized systems, we can look at beehives and anthills.  Organizing efforts and benefits are distinct and come at a different cost.
 
 ### Centralized systems in nature
 
@@ -47,17 +47,17 @@ What if we can develop a new concept for creating, deploying, and operating IT w
 
 ### The concept
 
-To build this concept, we will draw the use of the human way of operating a large ship. The crew of a vessel has different roles, which we will call the *coordinators*. Some of these coordinators could be a captain, officers, engineers, and oilers.  These coordinators have in-depth knowledge of their specific tasks but usually lack a detailed understanding of the other roles. In the "hive" of a ship, the specific requests to get tasks done are sent to coordinators who will receive, interpret, execute their particular tasks, and report the (non-) progress of these tasks or subtasks.  For example, the captain will create and agree to a schedule of maintenance tasks for the engine room. These are daily, weekly and monthly tasks that should be completed by the engineers and oilers. The engineers and oilers do not get continuous input from the captain. They get one instruction to follow the schedule and know what needs to be done for every task. The intermediate state (what is complete and what still needs to addressed) is stored by the coordinators executing the tasks. This is the most efficient way of accomplishing tasks.
+To build this concept, we will draw the use of the human way of operating a large ship. The crew of a vessel has different roles, which we will call the *coordinators*. Some of these coordinators could be a captain, officers, engineers, and oilers.  These coordinators have in-depth knowledge of their specific tasks but usually lack a detailed understanding of the other roles. In the "hive" of a ship, the specific requests to get tasks done are sent to coordinators who will receive, interpret, execute their particular tasks, and report the (non-) progress of these tasks or subtasks.  For example, the captain will create and agree to a schedule of maintenance tasks for the engine room. These are daily, weekly and monthly tasks that should be completed by the engineers and oilers. The engineers and oilers do not get continuous input from the captain. They get one instruction to follow the schedule and know what needs to be done for every task. The intermediate state (what is complete and what still needs to be addressed) is stored by the coordinators executing the tasks. This is the most efficient way of accomplishing tasks.
 
 ### Jumping to the IT industry
 
 If we bring this concept to the IT world, we conclude that today's IT systems are built in a significantly different way.  Most architectures (if not all) have a central facility that stores *all* information and *all* states of activity in a so-called central 'database.' A general norm within IT. However, these types of architectures are inefficient and are very complex - like the ship analogy -  a central command room (database) is created where every coordinator needs to report back. (1) The current level of activity, (2) the completion (state) of tasks, (3) the proper understanding of upcoming tasks by the coordinator to accomplish tasks in-progress or future - hence leading to the undesirable outcome of complexity due to centralization. 
 
-In the ship example, we deem this type of functioning/workflow inefficient; however, in the IT world, it is a common way of doing.  Furthermore, IT infrastructures usually have different databases to store "state" in different parts of the IT architecture.  The analogy would translate to different command rooms that orchestrate different functions on the ship in our ship. This, in turn, introduces the need for another role in starting coordinating between the different command rooms to ensure that all information is shared and communicated. Taking this pattern forward leads to an endless loop of adding interfaces, layers, bridges between different parts of the system that all store information, multiple times, and in different ways.  
+In the ship example, we deem this type of functioning/workflow inefficient; however, in the IT world, it is a common way of doing it.  Furthermore, IT infrastructures usually have different databases to store "state" in different parts of the IT architecture.  The analogy would translate to different command rooms that orchestrate different functions on the ship in our ship. This, in turn, introduces the need for another role in starting coordinating between the different command rooms to ensure that all information is shared and communicated. Taking this pattern forward leads to an endless loop of adding interfaces, layers, bridges between different parts of the system that all store information, multiple times, and in different ways.  
 
 ### Datastores
 
-By design, a decentralized IT  architecture should not use centralized data storage (databases) for multiple tasks (roles). It instead should feature a similar approach to the way of functioning as in the 'ship' example. In this architecture,  roles get short and precise instructions of the jobs to be completed and autonomously execute them.  We call these execution engines *coordinators*.  Coordinators receive instructions, run on instructions and store all information about the current task *locally.*  They store all the relevant information in a local storage facility (available to the individual coordinators only) and provide information about the state of execution if and when other coordinators ask for a state update.
+By design, a decentralized IT  architecture should not use centralized data storage (databases) for multiple tasks (roles). It instead should feature a similar approach to the way of functioning as in the 'ship' example. In this architecture,  roles get short and precise instructions of the jobs to be completed and autonomously execute.  We call these execution engines *coordinators*.  Coordinators receive instructions, run on instructions and store all information about the current task *locally.*  They store all the relevant information in a local storage facility (available to the individual coordinators only) and provide information about the state of execution if and when other coordinators ask for a state update.
 
 ## Magical Coordinator
 
@@ -87,4 +87,4 @@ To simplify common IT architectures, we should look at a   new way of creating s
 
 Such a system should ideally be owned by many (not just a single organization, bringing centralization back into the equations) that operate IT tasks for many.  We have not seen such a system in existence, but we are as TFTech building and rolling out technology that can do this.
 
-We believe that IT's future is in decentralization where specific coordinators (bots) will roam a network of capacity looking for a task to do, making themselves available where needed, creating more of them if the system grows, and allowing the global population to deploy and operate IT workloads.
+We believe that IT's future is in decentralization where specific coordinators (bots) will roam a network of capacity looking for a task to do, making themselves available where needed, creating more of them when the system grows, and allowing the global population to deploy and operate IT workloads.

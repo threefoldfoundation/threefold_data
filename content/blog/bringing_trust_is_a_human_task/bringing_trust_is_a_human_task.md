@@ -6,7 +6,7 @@ image: ./bringing_trust.png
 image_caption: humans
 excerpt: Everyone thinks that Satoshi Nakamoto invented blockchain technology when he published his whitepaper in January 2009
 authors: [weynand_kuijpers]
-created: 
+created: 2019-08-17
 ---
 
 ## A little history on blockchain technology
