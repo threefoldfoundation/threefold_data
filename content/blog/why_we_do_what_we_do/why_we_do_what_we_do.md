@@ -12,8 +12,7 @@ created: 2020-04-08
 <br/>
 <br/>
 We are growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone — across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed.
-<br/>
-<br/>
+
 ## At ThreeFold, we are driven by three main values:
 <br/>
 <br/>
