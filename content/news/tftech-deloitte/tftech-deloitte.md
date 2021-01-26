@@ -1,5 +1,5 @@
 ---
-id: threefold_news1
+id: tf_tech_deloitte
 title: ThreeFold Tech recognized by Deloitte Belgium
 tags: [tftech]
 category: [farming]

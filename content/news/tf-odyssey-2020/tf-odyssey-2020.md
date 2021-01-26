@@ -1,5 +1,5 @@
 ---
-id: threefold_news1
+id: threefold_at_odyssey
 title: ThreeFold @ Odyssey Momentum 2020!
 tags: [events]
 category: [farming]

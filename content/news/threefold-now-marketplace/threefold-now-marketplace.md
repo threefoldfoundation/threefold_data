@@ -1,5 +1,5 @@
 ---
-id: threefold_news1
+id: tf_now_marketplace_coming_soon
 title: ThreeFold Now Marketplace is coming soon!
 tags: [marketplace]
 category: [farming]

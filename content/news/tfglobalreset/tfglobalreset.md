@@ -1,5 +1,5 @@
 ---
-id: threefold_news1
+id: global_reset
 title: ThreeFold participating @ Global Reset!
 tags: [event]
 category: [farming]

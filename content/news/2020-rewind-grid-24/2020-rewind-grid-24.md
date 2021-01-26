@@ -1,5 +1,5 @@
 ---
-id: threefold_news1
+id: 2020_rewind
 title: A 2020 Rewind & Grid 2.4 News!
 tags: [tech, grid]
 category: [farming]

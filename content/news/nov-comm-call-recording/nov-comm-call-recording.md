@@ -1,5 +1,5 @@
 ---
-id: threefold_news1
+id: nov_2020_community_call_rec
 title: The November 2020 community call recording
 tags: [community]
 category: [farming]
