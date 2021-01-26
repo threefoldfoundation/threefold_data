@@ -1,10 +1,11 @@
 ---
-title: 3Bot Connect renamed to ThreeFold Connect
-date: 2020-11-17
-published: true
-tags: ['tfconnect']
-canonical_url: false
-description: "As mentioned as a preview in our October update, 3Bot Connect is now more accurately named ThreeFold Connect across devices."
+id: 3Bot Connect renamed to ThreeFold Connect
+tags: [tech]
+category: []
+image: ./post1.png
+image_caption: threefold tech
+excerpt: As mentioned as a preview in our October update, 3Bot Connect is now more accurately named ThreeFold Connect across devices.
+created: 2020-11-17
 ---
 
 Quick update!
