@@ -3,7 +3,7 @@ id: liquid_breach
 title: Liquid security breach, action suggested
 tags: [token, liquid, tft]
 category: [farming]
-image: ./post1.png
+image: ./liquidsecurity.jpeg
 image_caption: Liquid security breach, action suggested
 excerpt: We have just been informed there has been a security incident at Liquid.com. Although no funds seem to have been affected by the breach, Liquid.com does recommend all customers to change their password and 2FA at their earliest convenience.
 authors: [sam_taggart]

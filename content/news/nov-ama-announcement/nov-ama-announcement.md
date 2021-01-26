@@ -3,7 +3,7 @@ id: november_ama_next_week
 title: November 2020 Ask Me Anything next week
 tags: [community, ama]
 category: [farming]
-image: ./post1.png
+image: ./nov2020ama.png
 image_caption: November 2020 Ask Me Anything next week
 excerpt: ThreeFold will be hosting an Ask Me Anything on Tuesday November 10 at 5pm CET!
 authors: [sam_taggart]

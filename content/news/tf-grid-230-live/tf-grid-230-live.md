@@ -3,7 +3,7 @@ id: tf_23_is_live
 title: TF Grid 2.3.0 is live!
 tags: [grid, tech]
 category: [farming]
-image: ./post1.png
+image: ./tfgrid230live.png
 image_caption: TF Grid 2.3.0 is live!
 excerpt: The release introduces some improvements to the grid’s stability, new features, and testnet resource additions. You can read more within!
 authors: [sam_taggart]

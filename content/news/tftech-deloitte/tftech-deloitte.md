@@ -3,7 +3,7 @@ id: threefold_news1
 title: ThreeFold Tech recognized by Deloitte Belgium
 tags: [tftech]
 category: [farming]
-image: ./post1.png
+image: ./tftechdeloittefinalist.jpeg
 image_caption: ThreeFold Tech recognized by Deloitte Belgium
 excerpt: Congratulations to ThreeFold Tech, which was recognized as one of 10 finalists by Deloitte Belgium in its Rising Star competition! More within.
 authors: [sam_taggart]

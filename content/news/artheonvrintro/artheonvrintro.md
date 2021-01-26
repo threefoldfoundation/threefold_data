@@ -3,7 +3,7 @@ id: artheon_vr_museum
 title: Take a look at the Artheon VR Museum!
 tags: [partner,project]
 category: [partner, project]
-image: ./****.png
+image: ./artheonvrintro.png
 image_caption: Take a look at the Artheon VR Museum!
 excerpt: Here's a look at an incredible project happening in the ThreeFold universe!
 authors: [sam_taggart]
