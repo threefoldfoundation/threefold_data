@@ -3,7 +3,7 @@ id: threefold_news1
 title: ThreeFold participating @ Global Reset!
 tags: [event]
 category: [farming]
-image: ./post1.png
+image: ./dummy.png
 image_caption: ThreeFold participating @ Global Reset!
 excerpt: ThreeFold is proud to be supporting and attending the Global Reset Summit taking place this weekend, December 5 & 6.
 authors: [sam_taggart]

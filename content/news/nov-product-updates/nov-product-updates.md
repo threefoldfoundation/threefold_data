@@ -3,7 +3,7 @@ id: 10_product_highlights
 title: November 10 product management highlights
 tags: [3bot, tfgrid, marketplace]
 category: [farming]
-image: ./post1.png
+image: ./dummy.png
 image_caption: November 10 product management highlights
 excerpt: Some quick product management highlights for you, within, & a major thank you to everyone working so hard on these products and solutions every day!
 authors: [sam_taggart]

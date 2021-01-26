@@ -3,7 +3,7 @@ id: threefold_news1
 title: The November 2020 community call recording
 tags: [community]
 category: [farming]
-image: ./post1.png
+image: ./dummy.png
 image_caption: The November 2020 community call recording
 excerpt: For those who missed yesterday's community call (~30 minutes) or would like to rewatch, you can find the recording within!
 authors: [sam_taggart]

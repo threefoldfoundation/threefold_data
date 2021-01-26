@@ -3,7 +3,7 @@ id: ama_recording_nov_2020
 title: Sharing the November 2020 AMA recording
 tags: [community, ama]
 category: [farming]
-image: ./post1.png
+image: ./
 image_caption: Sharing the November 2020 AMA recording
 excerpt: For those who missed the Ask Me Anything on Tuesday evening, you can find the call recording within!
 authors: [sam_taggart]
