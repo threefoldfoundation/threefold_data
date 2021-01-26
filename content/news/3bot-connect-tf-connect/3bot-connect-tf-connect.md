@@ -3,7 +3,7 @@ id: 3bot_connect_renamed
 title: 3Bot Connect renamed to ThreeFold Connect 
 tags: [tech, app]
 category: []
-image: ./post1.png
+image: ./tfconnectupdate.png
 image_caption: 3bot connect renamed
 excerpt: As mentioned as a preview in our October update, 3Bot Connect is now more accurately named ThreeFold Connect across devices.
 authors: [sam_taggart]
