@@ -1,22 +1,13 @@
 ---
+id: artheon_vr_museum
 title: Take a look at the Artheon VR Museum!
-date: 2020-12-09
-published: true
-tags: ['partner','project']
-cover_image: ./images/artheonvrintro.png
-canonical_url: false
-description: "Here's a look at an incredible project happening in the ThreeFold universe!"
----
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
-category: [farming]
-image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+tags: [partner,project]
+category: [partner, project]
+image: ./****.png
+image_caption: Take a look at the Artheon VR Museum!
+excerpt: Here's a look at an incredible project happening in the ThreeFold universe!
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-12-09
 ---
 
 The **Artheon Virtual Reality Museum** allows visitors to explore and interact with hundreds of thousands of pieces of fine art, with or without a VR headset!

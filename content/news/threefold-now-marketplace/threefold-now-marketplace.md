@@ -1,22 +1,13 @@
 ---
-title: ThreeFold Now Marketplace is coming soon!
-date: 2020-10-22
-published: true
-tags: ['Marketplace']
-canonical_url: false
-description: "ThreeFold Now Marketplace is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌 Read more within."
----
-
----
 id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
+title: ThreeFold Now Marketplace is coming soon!
+tags: [marketplace]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: ThreeFold Now Marketplace is coming soon!
+excerpt: ThreeFold Now Marketplace is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌 Read more within.
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-10-22
 ---
 
 ThreeFold **Now Marketplace** is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌

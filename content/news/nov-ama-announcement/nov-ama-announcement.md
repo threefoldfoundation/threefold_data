@@ -1,23 +1,13 @@
 ---
+id: november_ama_next_week
 title: November 2020 Ask Me Anything next week
-date: 2020-11-04
-published: true
-tags: ['community','ama']
-cover_image: ./images/nov2020ama.png
-canonical_url: false
-description: "ThreeFold will be hosting an Ask Me Anything on Tuesday November 10 at 5pm CET!"
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
+tags: [community, ama]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: November 2020 Ask Me Anything next week
+excerpt: ThreeFold will be hosting an Ask Me Anything on Tuesday November 10 at 5pm CET!
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-11-04
 ---
 
 It's a chance to ask the ThreeFold Foundation Team any questions you might have.

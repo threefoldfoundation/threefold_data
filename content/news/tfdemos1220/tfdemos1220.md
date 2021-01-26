@@ -1,23 +1,13 @@
 ---
+id: tf_demos_much_watch
 title: ThreeFold Product Demos Are a Must Watch!
-date: 2020-12-11
-published: true
-tags: ['tfgrid','demos','evdc']
-cover_image: ./images/tfproductdemos1220.png
-canonical_url: false
-description: "Demos of the latest & greatest ThreeFold products & solutions – some of which are available today & some coming soon on testnet."
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
+tags: [grid, demo, evdc]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: ThreeFold Product Demos Are a Must Watch!
+excerpt: Demos of the latest & greatest ThreeFold products & solutions – some of which are available today & some coming soon on testnet.
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-12-11
 ---
 
 Demos of the latest & greatest ThreeFold products & solutions – P2P Video Conferencing, File Browser, 0-DB Filesystem, Edge Virtual Data Center, & more – some of which are available today & some coming soon on testnet.

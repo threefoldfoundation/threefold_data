@@ -1,23 +1,13 @@
 ---
+id: oktober_2020_community_call
 title: ThreeFold's October 2020 community update is here
-date: 2020-10-30
-published: true
-tags: ['update','community']
-cover_image: ./images/oct2020communityupdate.png
-canonical_url: false
-description: "It’s the end of October and a lot has gone on this month – an upgrade to testnet, progress on ThreeFold Now, some notable new team members, and more! Find the link to the full update within!"
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
+tags: [community, update]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: ThreeFold's October 2020 community update is here
+excerpt: It’s the end of October and a lot has gone on this month – an upgrade to testnet, progress on ThreeFold Now, some notable new team members, and more! Find the link to the full update within!
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-10-30
 ---
 
 It’s the end of October and a lot has gone on this month – an upgrade to testnet, progress on ThreeFold Now, some notable new team members, and more!

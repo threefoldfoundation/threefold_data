@@ -1,23 +1,13 @@
 ---
+id: tf_23_is_live
 title: TF Grid 2.3.0 is live!
-date: 2020-11-20
-published: true
-tags: ['tfgrid',]
-cover_image: ./images/tfgrid230live.png
-canonical_url: false
-description: "The release introduces some improvements to the grid’s stability, new features, and testnet resource additions. You can read more within!"
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
+tags: [grid, tech]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: TF Grid 2.3.0 is live!
+excerpt: The release introduces some improvements to the grid’s stability, new features, and testnet resource additions. You can read more within!
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-11-20
 ---
 
 **ThreeFold Grid 2.3 is LIVE on mainnet!**

@@ -1,22 +1,13 @@
 ---
+id: 10_product_highlights
 title: November 10 product management highlights
-date: 2020-11-10
-published: true
-tags: ['marketplace','tfgrid','3bot']
-canonical_url: false
-description: "Some quick product management highlights for you, within, & a major thank you to everyone working so hard on these products and solutions every day!"
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
+tags: [3bot, tfgrid, marketplace]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: November 10 product management highlights
+excerpt: Some quick product management highlights for you, within, & a major thank you to everyone working so hard on these products and solutions every day!
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-11-10
 ---
 
 ✨ **New ThreeFold Now Marketplace Solution!**

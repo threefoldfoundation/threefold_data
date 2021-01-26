@@ -1,23 +1,13 @@
 ---
+id: community_call_nov_2020_announcement
 title: Announcing the November 2020 community call
-date: 2020-10-26
-published: true
-tags: ['community']
-cover_image: ./images/nov2020communitycall.png
-canonical_url: false
-description: "Mark your calendars! Next Monday November 2nd at 5pm CET we will host a 30-minute community call to update you on exciting progress and to show you what we’ll be working towards in the coming months."
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
 tags: [tech, internet, future]
 category: [farming]
 image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+image_caption: Announcing the November 2020 community call
+excerpt: Mark your calendars! Next Monday November 2nd at 5pm CET we will host a 30-minute community call to update you on exciting progress and to show you what we’ll be working towards in the coming months.
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-10-26
 ---
 
 **Mark your calendars!**

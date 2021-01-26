@@ -1,23 +1,13 @@
 ---
-id: 3Bot Connect renamed to ThreeFold Connect
-tags: [tech]
+id: 3bot_connect_renamed
+title: 3Bot Connect renamed to ThreeFold Connect 
+tags: [tech, app]
 category: []
 image: ./post1.png
-image_caption: threefold tech
+image_caption: 3bot connect renamed
 excerpt: As mentioned as a preview in our October update, 3Bot Connect is now more accurately named ThreeFold Connect across devices.
-created: 2020-11-17
----
-
----
-id: threefold_news1
-title: ThreeFold Tech a Rising Star finalist
-tags: [tech, internet, future]
-category: [farming]
-image: ./post1.png
-image_caption: threefold tech
-excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
 authors: [sam_taggart]
-created: 2020-10-29
+created: 2020-11-17
 ---
 
 Quick update!
