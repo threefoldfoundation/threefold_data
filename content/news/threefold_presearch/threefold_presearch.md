@@ -19,8 +19,6 @@ Presearch and ThreeFold are thrilled to officially announce their collaborative 
 Presearch (and its node and storage infrastructure) will benefit from ThreeFold’s peer-to-peer cloud in two different ways:
 
 ### 1. Powering Presearch node operators with a decentralized cloud infrastructure
-<br/>
-<br/>
 The Presearch community will be able to deploy their Presearch nodes in a few clicks in a completely decentralized cloud infrastructure, using the ThreeFold peer-to-peer cloud and its developer tools. Thus, they can escape the monopolies of centralized cloud providers, and reduce the technical complexity of running Blockchain nodes. 
 <br/>
 <br/>
