@@ -7,6 +7,18 @@ canonical_url: false
 description: "ThreeFold is proud to be supporting and attending the Global Reset Summit taking place this weekend, December 5 & 6."
 ---
 
+---
+id: threefold_news1
+title: ThreeFold Tech a Rising Star finalist
+tags: [tech, internet, future]
+category: [farming]
+image: ./post1.png
+image_caption: threefold tech
+excerpt: Congratulations to ThreeFold Tech Clapping hands sign which was recognized as one of 10 finalists.
+authors: [sam_taggart]
+created: 2020-10-29
+---
+
 As part of the Summit and beyond, we will be exploring what a digital reset would look like – where you are the center of your digital life.
 <br/>
 <br/>
