@@ -7,7 +7,7 @@ image: ./2020rewindgrid24.png
 image_caption: A 2020 Rewind & Grid 2.4 News!
 excerpt: Grid 2.4 is now live on testnet and we've got some 2020 highlights to share with you as well!
 authors: [sam_taggart]
-created: 021-01-12
+created: 2021-01-12
 ---
 
 Hi all, we hope your 2021 has been off to a fabulous start!
