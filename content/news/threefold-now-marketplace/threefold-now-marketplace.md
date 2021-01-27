@@ -3,7 +3,7 @@ id: tf_now_marketplace_coming_soon
 title: ThreeFold Now Marketplace is coming soon!
 tags: [marketplace]
 category: [farming]
-image: ./tfproductdemos1220.png
+image: ./tfnowmarketplace.png
 image_caption: ThreeFold Now Marketplace is coming soon!
 excerpt: ThreeFold Now Marketplace is a peer-to-peer alternative to centralized cloud providers, enabling you to deploy independently and keep ownership of your own data. 🙌 Read more within.
 authors: [sam_taggart]
