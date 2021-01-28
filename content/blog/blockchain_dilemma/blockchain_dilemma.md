@@ -105,9 +105,10 @@ The key element in finding a solution for this problem is to take the human elem
 A way to get around the trusted people problem is to select a platform on which software can be downloaded, compiled, installed, and operated without human intervention.  Such a platform is a unique platform that has not been developed and launched. Such a platform would have to have the following characteristics. To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way.  The three elements are:
 <br/>
 <br/>
-*   A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications.  This operating system  needs to be stateless to keep as simple as possible: **Zero-OS**
-*   A virtual system administrator that is able to perform system administration tasks to make the system operate, self-heal and execute instructions from authenticated and authorized sources.  **3Bot**
-*   A ledger or database to store information with regards to authentication, operational and financial transactions. **Zero-Chain**
+
+- **Zero-OS**: A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications.  This operating system  needs to be stateless to keep as simple as possible: 
+- **3Bot**: A virtual system administrator that is able to perform system administration tasks to make the system operate, self-heal and execute instructions from authenticated and authorized sources.
+- **Zero-Chain**: A ledger or database to store information with regards to authentication, operational and financial transactions.
 <br/>
 <br/>
 This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial. This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes. 
