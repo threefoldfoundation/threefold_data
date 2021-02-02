@@ -25,13 +25,21 @@ To direct respective content (blog/news/people/projects) to your project please 
 `content/../../.md file`
 
 then look for:
+
 - blog
+
 category: []
+
 - news
+
 category: []
+
 - people:
+
 memberships: []
+
 - project:
+
 tags: []
 
 and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc.) in respective veriable.
