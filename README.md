@@ -45,20 +45,28 @@ Projects:
 
 Exapmle:
 
-"An escape from the Great Hack" blog post
+- "An escape from the Great Hack" blog post
+
 category: [farming, cloud]
+
 will show on farming.threefold.io and cloud.threefold.io websites
 
-"Take a look at the Artheon VR Museum!" news post
+- "Take a look at the Artheon VR Museum!" news post
+
 category: [digitaltwin, cloud]
+
 will show on cloud.threefold.io and twin.threefold.io websites
 
-Kristof de Spiegeleer
+- Kristof de Spiegeleer
+
 memberships: [ambassador, farmer, foundation, tech, cofounders, fairswap]
+
 will show on farming.threefold.io, cloud.threefold.io, fair-swap.org, twin.threefold.io, threefold.io websites
 
-AIQOM project
+- AIQOM project
+
 tags: [digitaltwin, grid, cloud]
+
 will show on cloud.threefold.io and twin.threefold.io websites
 
 
