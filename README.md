@@ -21,8 +21,8 @@ This projects represents a one source of truth for threefold data
 
 ## Data direction into your project
 
-To direct respective content (blog/news/people/projects) to your project please open 
-content/../../.md file
+To direct respective content (blog/news/people/projects) to your project please open: 
+`content/../../.md file`
 
 then look for:
 - blog
