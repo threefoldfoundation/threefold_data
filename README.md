@@ -28,19 +28,19 @@ then look for:
 
 - blog
 
-category: []
+category: [ ]
 
 - news
 
-category: []
+category: [ ]
 
 - people:
 
-memberships: []
+memberships: [ ]
 
 - project:
 
-tags: []
+tags: [ ]
 
 and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc.) in respective veriable.
 Projects: 
