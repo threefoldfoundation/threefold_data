@@ -12,7 +12,7 @@ image: ./the_humanized_internet.png
 image_caption: the_humanized_internet
 logo: ./logo.png
 members: [monique_morrow, akram_alfawakheeri]
-websites: https://www.thehumanizedinternet.org/
+websites: https://www.moniquemorrow.com/humanized-internet
 tags: [digitaltwin, cloud]
 private: 0
 potential:

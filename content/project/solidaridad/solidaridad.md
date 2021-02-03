@@ -12,7 +12,7 @@ image: ./solidaridad.jpg
 image_caption: solidaridad
 logo: ./logo.png
 members: [jeroen_douglas]
-websites: www.solidaridadnetwork.org
+websites: https://ww.solidaridadnetwork.org
 tags: [digitaltwin, grid, cloud, farming]
 private: 0
 potential: 

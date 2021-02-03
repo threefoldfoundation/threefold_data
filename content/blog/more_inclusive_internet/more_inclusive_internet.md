@@ -9,7 +9,8 @@ excerpt: Today we are working with partners in the clean energy and network / co
 authors: [sam_taggart]
 created: 2021-01-03
 ---
-
+<br/>
+<br/>
 Today, more than 40% of the world is without access to the internet, a tool which brings incredible access to knowledge (education) and important information, communication tools that keep loved ones connected and are crucial for emergencies, and economic opportunities. And over the last year, as the world is spending more time at home, digital economies are booming and education is going remote. With an uncertain future, we need to fix the digital divide or we risk leaving billions of people even further behind.
 
 ### The Data Center Problem: Cost & Proximity

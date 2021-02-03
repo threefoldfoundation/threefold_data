@@ -73,7 +73,6 @@ In addition to our blockchain technology, we have also developed ItsYou.Online, 
 All of our technology is open-source and can be accessed in the following Github Repos:
 <br/>
 <br/>
-* Zero-OS: https://github.com/Zero-OS
-* Jumpscale: https://github.com/jumpscale
-* At Your Service (AYS): https://github.com/Jumpscale/ays9
-* Rivine: https://github.com/rivine/rivine
+* Zero-OS: https://github.com/threefoldtech/zos
+* Jumpscale: https://github.com/threefoldtech/js-ng
+* BCDB : https://github.com/threefoldtech/bcdb

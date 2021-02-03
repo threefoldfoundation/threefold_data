@@ -39,7 +39,7 @@ In addition to Bitcoin’s feature set, Dash currently also offers instant trans
 
 ### About ThreeFold:
 
-ThreeFold has developed the largest and most advanced peer-to-peer Internet grid in the world.  They launched the [ThreeFold Grid](https://threefold.io/capacity.html) V2.0 in  April 2020 – a  more performant, private & secure, affordable, and sustainable solution than centralized cloud and internet providers. 
+ThreeFold has developed the largest and most advanced peer-to-peer Internet grid in the world.  They launched the [ThreeFold Grid](https://explorer.grid.tf/) V2.0 in  April 2020 – a  more performant, private & secure, affordable, and sustainable solution than centralized cloud and internet providers. 
 <br/>
 <br/>
 With a collective and incentivized ecosystem of Farmers (independent Internet capacity providers) around the globe, the ThreeFold Grid  is now open for developers to build on top of it,  and users can now benefit from all the advantages of the ThreeFold Grid.

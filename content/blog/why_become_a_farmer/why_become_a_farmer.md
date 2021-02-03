@@ -9,7 +9,8 @@ excerpt: The ThreeFold Foundation is changing the way how "we" as a whole approa
 authors: [roel_van_sabben]
 created: 2020-05-03
 ---
-
+<br/>
+<br/>
 The ThreeFold Foundation is changing the way how "we" as a whole approach the internet and its underlying technology. We believe building the internet back from the ground up is the only way to dismantle the monster it has grown into – a polluting greed-machine that allows people’s data to be abused for money all while just being accessible to just half of the earth’s inhabitants.
 <br/>
 <br/>
@@ -45,4 +46,4 @@ Capacity for the ThreeFold Grid can be added in all shapes and sizes. It could b
 <br/>
 <br/>
 
-To find out more about how you can become a farmer, please visit ThreeFold’s website [www.threefold.io](www.threefold.io). Our [wiki](https://wiki.threefold.io) or register to for first access to our next batch of 3Node here: [https://pre-register.threefold.io/](https://pre-register.threefold.io/). We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. 
+To find out more about how you can become a farmer, please visit ThreeFold’s website [www.threefold.io](https://www.threefold.io). Our [wiki](https://wiki.threefold.io) or register to for first access to our next batch of 3Node here: [https://pre-register.threefold.io/](https://pre-register.threefold.io/). We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. 

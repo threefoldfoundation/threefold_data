@@ -9,7 +9,8 @@ excerpt: We probably don’t need to tell you that the invention of Blockchain t
 authors: [andreas_hartl]
 created: 2020-02-03
 ---
-
+<br/>
+<br/>
 We probably don’t need to tell you that the invention of Blockchain technology changed the world dramatically. The ThreeFold application of Blockchain technology to compute and storage capacity is one of the most exciting initiatives we have seen to date.
 
 ### The problem

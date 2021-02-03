@@ -35,7 +35,7 @@ The DigiByte Foundation is a volunteer-managed organization that operates in a n
 ThreeFold has developed the largest and most advanced peer-to-peer Internet grid in the world.  They launched the ThreeFold Grid V2.0 in  April 2020 – a  more performant, private & secure, affordable, and sustainable solution than centralized cloud and internet providers. 
 <br/>
 <br/>
-With a collective and incentivized ecosystem of Farmers (independent Internet capacity providers) around the globe, the [ThreeFold Grid](https://threefold.io/capacity.html)  is now open for developers to build on top of it,  and users can now benefit from all the advantages of the ThreeFold Grid.
+With a collective and incentivized ecosystem of Farmers (independent Internet capacity providers) around the globe, the [ThreeFold Grid](https://explorer.grid.tf/)  is now open for developers to build on top of it,  and users can now benefit from all the advantages of the ThreeFold Grid.
 <br/>
 <br/>
 The ThreeFold Foundation aims to empower a more equal, autonomous (decentralized) and sustainable world, and does so  by providing the necessary peer-to-peer technologies and infrastructure to the world, while incentivizing growth in developing regions.

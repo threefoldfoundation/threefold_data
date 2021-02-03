@@ -12,7 +12,7 @@ image: ./digibyte.png
 image_caption: digibyte
 logo: ./logo.png
 members: [hans_koning]
-websites: https://digibyte.io/, https://digibytefoundation.io/
+websites: https://digibytefoundation.io/
 tags: [cloud, farming]
 private: 0
 potential:
