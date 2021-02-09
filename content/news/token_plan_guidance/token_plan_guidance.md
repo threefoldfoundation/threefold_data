@@ -3,7 +3,7 @@ id: token_plan_guidance
 title: Seeking participation with the TFT plan
 tags: [token,farming,community]
 category: [farming]
-image: ./token-plan-guidance.png
+image: ./token_plan_guidance.png
 image_caption: Token Plan Guidance Committee
 excerpt: We have some final decisions to make regarding the token & farming plan & we're calling for the community's help!
 authors: [sam_taggart]
