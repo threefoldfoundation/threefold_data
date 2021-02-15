@@ -51,7 +51,7 @@ Projects:
 - foundation
 - fairswap
 
-Exapmle:
+Example:
 
 - "An escape from the Great Hack" blog post
 
