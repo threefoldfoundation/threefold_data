@@ -54,6 +54,7 @@ Current active memberships (for people):
 - `farmers`
 - `aci`
 - `fairswap`
+- `twin`
 
 ## Example:
 
