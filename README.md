@@ -24,25 +24,18 @@ This projects represents a one source of truth for threefold data
 To direct respective content (blog/news/people/projects) to your project please open: 
 `content/../../.md file`
 
-then look for:
+look for variables:
 
-- blog
+- blog: `category: [ ]`
 
-category: [ ]
+- news: `category: [ ]`
 
-- news
+- people: `memberships: [ ]`
 
-category: [ ]
+- project:`tags: [ ]`
 
-- people:
+and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc), or memberships for people.
 
-memberships: [ ]
-
-- project:
-
-tags: [ ]
-
-and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc.)
 Current active projects: 
 - twin
 - cloud
@@ -62,7 +55,7 @@ Current active memberships (for people):
 - aci
 - fairswap
 
-Example:
+## Example:
 
 - "An escape from the Great Hack" blog post
 
@@ -72,7 +65,7 @@ will show on farming.threefold.io and cloud.threefold.io websites Blog
 
 - "Take a look at the Artheon VR Museum!" news post
 
-`category: [digitaltwin, cloud]`
+`category: [twin, cloud]`
 
 will show on cloud.threefold.io and twin.threefold.io websites NewsRoom
 
@@ -84,7 +77,7 @@ will show on farming.threefold.io, cloud.threefold.io, fair-swap.org, twin.three
 
 - AIQOM project
 
-`tags: [digitaltwin, grid, cloud]`
+`tags: [twin, grid, cloud]`
 
 will show on cloud.threefold.io and twin.threefold.io websites Partners/Projects
 
