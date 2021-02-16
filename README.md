@@ -37,23 +37,23 @@ look for variables:
 and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc), or memberships for people.
 
 Current active projects: 
-- `twin
-- `cloud
-- `farming
-- `tech
-- `foundation
-- `fairswap
-- `aci
+- `twin`
+- `cloud`
+- `farming`
+- `tech`
+- `foundation`
+- `fairswap`
+- `aci`
 
 Current active memberships (for people):
-- cofounders
-- tech
-- foundation
-- ambassadors
-- matchmakers
-- farmers
-- aci
-- fairswap
+- `cofounders`
+- `tech`
+- `foundation`
+- `ambassadors`
+- `matchmakers`
+- `farmers`
+- `aci`
+- `fairswap`
 
 ## Example:
 
