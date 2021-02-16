@@ -42,40 +42,51 @@ memberships: [ ]
 
 tags: [ ]
 
-and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc.) in respective veriable.
-Projects: 
-- digitaltwin
+and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc.)
+Current active projects: 
+- twin
 - cloud
 - farming
 - tech
 - foundation
+- fairswap
+- aci
+
+Current active memberships (for people):
+- cofounders
+- tech
+- foundation
+- ambassadors
+- matchmakers
+- farmers
+- aci
 - fairswap
 
 Example:
 
 - "An escape from the Great Hack" blog post
 
-category: [farming, cloud]
+`category: [farming, cloud]`
 
-will show on farming.threefold.io and cloud.threefold.io websites
+will show on farming.threefold.io and cloud.threefold.io websites Blog
 
 - "Take a look at the Artheon VR Museum!" news post
 
-category: [digitaltwin, cloud]
+`category: [digitaltwin, cloud]`
 
-will show on cloud.threefold.io and twin.threefold.io websites
+will show on cloud.threefold.io and twin.threefold.io websites NewsRoom
 
 - Kristof de Spiegeleer
 
-memberships: [ambassador, farmer, foundation, tech, cofounders, fairswap]
+`memberships: [ambassadors, farmers, foundation, tech, cofounders, fairswap]`
 
-will show on farming.threefold.io, cloud.threefold.io, fair-swap.org, twin.threefold.io, threefold.io websites
+will show on farming.threefold.io, cloud.threefold.io, fair-swap.org, twin.threefold.io, threefold.io websites Team/People
 
 - AIQOM project
 
-tags: [digitaltwin, grid, cloud]
+`tags: [digitaltwin, grid, cloud]`
 
-will show on cloud.threefold.io and twin.threefold.io websites
+will show on cloud.threefold.io and twin.threefold.io websites Partners/Projects
 
 
 
