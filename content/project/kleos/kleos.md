@@ -13,7 +13,7 @@ image_caption: kleos
 logo: ./logo.png
 members: [george_el_aily]
 websites: https://www.kleos.net
-tags: [grid, farming]
+tags: [tech, farming]
 private: 0
 potential: 
 linkedin: https://www.linkedin.com/company/kleos/

@@ -13,7 +13,7 @@ image_caption: aiqom
 logo: ./logo.png
 members: [samer_obeidat]
 websites: https://aiqom.ai/
-tags: [digitaltwin, grid, cloud]
+tags: [twin, cloud]
 private: 1
 potential:
 linkedin: https://www.linkedin.com/company/aiqom/

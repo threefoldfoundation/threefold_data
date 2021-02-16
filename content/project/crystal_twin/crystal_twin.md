@@ -13,7 +13,7 @@ image_caption: crystal_twin
 logo: ./logo.png
 members: [justin_snyder, brooks_cole, sacha_obeegadoo]
 websites:
-tags: [digitaltwin]
+tags: [twin, aci]
 private: 0
 potential:
 linkedin: ''

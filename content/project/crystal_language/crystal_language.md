@@ -13,7 +13,7 @@ image_caption: crystal_language
 logo: ./logo.png
 members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
-tags: [digitaltwin]
+tags: [twin, aci]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/crystal-language/about/

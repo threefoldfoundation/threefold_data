@@ -13,7 +13,7 @@ image_caption: unit
 logo: ./logo.png
 members: [michael_healy]
 websites: https://unit.ventures/
-tags: [digitaltwin, cloud, farming]
+tags: [twin, cloud, farming, aci]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/unitventures/

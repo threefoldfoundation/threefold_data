@@ -13,7 +13,7 @@ image_caption: threefold tech
 logo: ./logo.jpg
 members: [kristof_de_spiegeleer, christopher_hutton, andreas_hartl, roel_van_sabben, sabrina_sadik, owen_kemp]
 websites: https://threefold.tech/
-tags: [grid, cloud, farming]
+tags: [tech, cloud, farming]
 private: 0
 potential: 
 linkedin: https://www.linkedin.com/company/threefold-tech/

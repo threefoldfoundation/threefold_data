@@ -13,7 +13,7 @@ image_caption: money_of_good
 logo: ./logo.png
 members: [marcelo_bohrer]
 websites: https://www.thefutureofgood.info
-tags: [digitaltwin, cloud]
+tags: [twin, aci]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/moneyofgood/

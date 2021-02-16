@@ -13,7 +13,7 @@ image_caption: solidaridad
 logo: ./logo.png
 members: [jeroen_douglas]
 websites: https://ww.solidaridadnetwork.org
-tags: [digitaltwin, grid, cloud, farming]
+tags: [twin, tech, cloud, farming, aci, foundtion]
 private: 0
 potential: 
 linkedin: https://www.linkedin.com/company/solidaridad/

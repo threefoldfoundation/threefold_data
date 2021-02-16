@@ -13,7 +13,7 @@ image_caption: Matic
 logo: ./logo.png
 members: [anurag_arjun, arjun_kalsy]
 websites: https://matic.network/
-tags: [cloud, farming, grid]
+tags: [cloud, farming]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/matic-network/

@@ -13,7 +13,7 @@ image_caption: covid_fighters
 logo: ./logo.png
 members: [boris_fahrnberger]
 websites: https://www.artichoke-computing.com/
-tags: [digitaltwin]
+tags: [twin, aci]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/covidfighters/

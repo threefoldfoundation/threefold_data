@@ -13,7 +13,7 @@ image_caption: digibyte
 logo: ./logo.png
 members: [hans_koning]
 websites: https://digibytefoundation.io/
-tags: [cloud, farming]
+tags: [cloud, farming, aci, tech, foundation]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/digibyte-payment-network/

@@ -13,7 +13,7 @@ image_caption: beliive
 logo: ./logo.png
 members: [lorrana_scarpioni]
 websites: https://beliive.com
-tags: [digitaltwin]
+tags: [twin, aci]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/beliive/

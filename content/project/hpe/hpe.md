@@ -13,7 +13,7 @@ image_caption: hpe
 logo: ./logo.png
 members: []
 websites: https://www.hpe.com/us/en/about.html
-tags: [grid, farming]
+tags: [tech, farming]
 private: 0
 potential: 
 linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise/

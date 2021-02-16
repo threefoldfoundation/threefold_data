@@ -13,7 +13,7 @@ image_caption: earthproject
 logo: ./logo.png
 members: [koen_timmers]
 websites: hhttps://www.climate-action.info/
-tags: [digitaltwin, cloud, farming]
+tags: [twin, aci, farming, foundation]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/take-action-global/

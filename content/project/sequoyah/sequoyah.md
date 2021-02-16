@@ -13,7 +13,7 @@ image_caption: sequoyah
 logo: ./logo.png
 members: [dennis_lindberg]
 websites: https://sequoyah.dk/
-tags: [cloud, farming]
+tags: [cloud, farming, tech]
 private: 0
 potential: 
 linkedin: ''

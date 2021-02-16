@@ -13,7 +13,7 @@ image_caption: generation_blue
 logo: ./logo.png
 members: [alan_laubsch]
 websites: https://generation.blue/
-tags: [digitaltwin]
+tags: [twin, aci]
 private: 0
 potential:
 linkedin: https://www.linkedin.com/company/genblue/
