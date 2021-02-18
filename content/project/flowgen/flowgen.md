@@ -52,6 +52,13 @@ Both Flowgen and ThreeFold are focused on the need for decentralisation, making 
 
 ## TFGrid Solution
 
+TFTech's primary interest is to prove the agreed joint use case for our technologies by means of an agreed showcase project and to capitalise on the marketable value of such a project and our partnership.
+
+Additionally, TFTech would seek to pursue the following secondary objectives:
+
+Expansion of Threefold Grid: to identify new prospect ThreeFold farmers and generate new sales for certified capacity on TF Grid via the HPE strategic alliance.
+New Decentralized Apps: to identify new decentralized applications to potentially deploy and demonstrate on TF Grid.
+
 ### Roadmap
 
 Planning for the deployment of a joint showcase to demonstrate the viability and integration of our technologies.
