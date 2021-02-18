@@ -10,7 +10,7 @@ excerpt: Cloud 28+ is the world's largest independent community promoting cloud 
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: cloud_28
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://cloud28plus.com
 tags: []

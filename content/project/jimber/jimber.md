@@ -10,7 +10,7 @@ excerpt: Jimber is an Enterprise Security Solution provider. Using the ThreeFold
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: jimber
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://jimber.org
 tags: []

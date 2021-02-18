@@ -10,7 +10,7 @@ excerpt: Liquid is the world’s most comprehensive and secure trading platform.
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: liquid
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://www.liquid.com
 tags: []

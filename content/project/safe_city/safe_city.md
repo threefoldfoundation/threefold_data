@@ -10,7 +10,7 @@ excerpt: Safe City is a technology partner, with a core focus on deploying digit
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: safe_city
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://www.safecity.com
 tags: []

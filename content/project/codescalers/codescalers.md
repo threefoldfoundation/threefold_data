@@ -10,7 +10,7 @@ excerpt: CodeScalers’ mission is to develop promising technology for start-up 
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: codescalers
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://codescalers.com/
 tags: []

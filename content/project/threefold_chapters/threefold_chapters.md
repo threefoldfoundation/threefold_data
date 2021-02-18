@@ -10,7 +10,7 @@ excerpt: Chapters are independent groups of people and organizations who are rep
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: threefold_chapters
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: 
 tags: []

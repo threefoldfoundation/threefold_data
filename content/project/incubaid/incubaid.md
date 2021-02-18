@@ -10,7 +10,7 @@ excerpt: BTC-Alpha is a digital asset trading platform providing advanced financ
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: btc_alpha
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://btc-alpha.com/en/
 tags: []

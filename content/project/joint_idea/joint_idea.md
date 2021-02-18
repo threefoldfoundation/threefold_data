@@ -10,7 +10,7 @@ excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativ
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: joint_idea
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://www.lifeworkslabs.com
 tags: []

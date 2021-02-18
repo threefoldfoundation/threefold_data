@@ -10,7 +10,7 @@ excerpt: FreeFlow Nation is a complementary digital nation which flows freely ac
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: freeflownation
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://freeflownation.org
 tags: []

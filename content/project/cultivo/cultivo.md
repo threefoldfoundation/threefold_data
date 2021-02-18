@@ -10,7 +10,7 @@ excerpt: A digital alliance to protect our tropical rainforest and empower its i
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: cultivo
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://cultivo.earth
 tags: []

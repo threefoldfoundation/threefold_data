@@ -10,7 +10,7 @@ excerpt: The ThreeFold Grid is built by independent people that together create 
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: threefold_grid
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://threefold.tech/
 tags: []

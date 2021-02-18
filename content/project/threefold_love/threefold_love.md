@@ -10,7 +10,7 @@ excerpt: A tokenized initiative promoting the TF Token Economy while supporting 
 created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: threefold_love
-logo: ''
+logo: ./logo_placeholder.png
 members: []
 websites: https://www.threefold.love/
 tags: []
