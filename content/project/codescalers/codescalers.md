@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: CodeScalers’ mission is to develop promising technology for start-up companies in cloud computing and datacenters.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: codescalers
 logo: ''
 members: []

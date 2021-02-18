@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: FreeFlow Nation is a complementary digital nation which flows freely across physical borders, and which welcomes everyone as a digital citizen.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: freeflownation
 logo: ''
 members: []

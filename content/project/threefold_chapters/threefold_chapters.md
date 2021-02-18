@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: Chapters are independent groups of people and organizations who are representing and promoting the ThreeFold Movement.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: threefold_chapters
 logo: ''
 members: []

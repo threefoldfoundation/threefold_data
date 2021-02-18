@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: Jimber is an Enterprise Security Solution provider. Using the ThreeFold Grid for enterprise security gateway solutions.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: jimber
 logo: ''
 members: []

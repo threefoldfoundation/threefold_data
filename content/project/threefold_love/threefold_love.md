@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: threefold_love
 logo: ''
 members: []

@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: Safe City is a technology partner, with a core focus on deploying digital technologies within the UAE.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: safe_city
 logo: ''
 members: []

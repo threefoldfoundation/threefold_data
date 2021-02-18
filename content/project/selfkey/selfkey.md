@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: SelfKey is a fast-growing blockchain startup developing digital identity solutions.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: selfkey
 logo: ''
 members: []

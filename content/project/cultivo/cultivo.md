@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: A digital alliance to protect our tropical rainforest and empower its inhabitants.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: cultivo
 logo: ''
 members: []

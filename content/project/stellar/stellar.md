@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: Stellar is an open-source network for currencies and payments.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: stellar
 logo: ''
 members: []

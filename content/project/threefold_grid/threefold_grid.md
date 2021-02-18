@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: The ThreeFold Grid is built by independent people that together create a pool of connected compute and storage capacity.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: threefold_grid
 logo: ''
 members: []

@@ -8,7 +8,7 @@ cities: []
 rank: 2
 excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativity, and serendipity by connecting ideas, people, place, and time.
 created: 2020-04-20
-image: ''
+image: ./placeholder.jpg
 image_caption: joint_idea
 logo: ''
 members: []
