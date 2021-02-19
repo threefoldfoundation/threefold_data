@@ -13,7 +13,7 @@ image_caption: threefold_foundation
 logo: ./logo.png
 members: [kristof_de_spiegeleer, roel_van_sabben, kristine_vilnite, sam_taggart, sacha_obegadoo, adnan_fatayerji, karoline_zizka, maximilian_rang]
 websites: https://www.threefold.me
-tags: [twin, cloud, farming, aci]
+tags: [twin, cloud, farming, aci, foundation]
 private: 0
 potential: 
 linkedin: https://www.linkedin.com/company/threefold-foundation/
