@@ -10,6 +10,6 @@ websites: https://threefold.io/
 image: ./waleed_hammam.jpg
 projects: [threefold_tech]
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---

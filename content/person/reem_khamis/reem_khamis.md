@@ -8,8 +8,8 @@ excerpt: Reem believes in books, and that technology is the key to making the wo
 linkedin: https://www.linkedin.com/in/rkhamis/
 websites: https://threefold.io/
 image: ./reem_khamis.jpg
-projects: [threefold_tech, threefold_foundation]
+projects: [threefold_tech]
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---

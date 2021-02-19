@@ -8,7 +8,7 @@ excerpt: Product Development Consultant with a passion in blockchain, sustainabi
 linkedin: https://www.linkedin.com/in/sastiadi
 websites: https://threefold.io/, https://sashaastiadi.com/
 image: ./sasha_astiadi.png
-projects: [threefold_foundation, crystal_twin]
+projects: [threefold_foundation]
 countries: [Indonesia, Spain, Germany]
 cities: [Bali, Barcelona, Berlin]
 private: 0

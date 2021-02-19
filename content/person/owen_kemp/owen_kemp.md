@@ -8,7 +8,7 @@ excerpt: Founder at ThreeFold Tech
 linkedin: https://www.linkedin.com/in/owen-kemp-b6b5a113/
 websites: https://threefold.io/, https://www.mazraa.io/
 image: ./owen_kemp.jpeg
-projects: [threefold_foundation]
+projects: [threefold_tech]
 countries: [Austria]
 cities: [Vienna]
 private: 0

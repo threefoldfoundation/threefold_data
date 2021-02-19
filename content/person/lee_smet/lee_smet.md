@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/lee-smet-4a279a136/
 websites: https://threefold.io/
 image: ./lee_smet.png
 projects: [threefold_tech]
-countries: [Egypt]
-cities: [Cairo]
+countries: [Belgium]
+cities: [Lochristi]
 private: 0
 ---
