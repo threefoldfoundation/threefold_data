@@ -59,6 +59,7 @@ Current active memberships (for people):
 - `cloud`
 - `farmers`
 - `mazraa`
+- `jimber`
 
 ## Example:
 
