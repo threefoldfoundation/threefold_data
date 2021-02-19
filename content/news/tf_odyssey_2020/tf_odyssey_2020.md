@@ -2,7 +2,7 @@
 id: threefold_at_odyssey
 title: ThreeFold @ Odyssey Momentum 2020!
 tags: [events]
-category: [farming]
+category: [foundation]
 image: ./odysseymomentum.jpeg
 image_caption: ThreeFold @ Odyssey Momentum 2020!
 excerpt: Momentum is an online event of 49 hours with more than 2,000 participants and 105 teams working on 21 complex 21st-century problems.

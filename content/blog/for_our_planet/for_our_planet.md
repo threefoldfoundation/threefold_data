@@ -2,7 +2,7 @@
 id: for_our_planet
 title: A better solution for our planet
 tags: [farming, sustainability]
-category: [farming, digitaltwin]
+category: [farming,twin,foundation,cloud,aci]
 image: ./better_solution.png
 image_caption: sustainability
 excerpt: We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours..
@@ -46,7 +46,7 @@ Currently, most storage vendors follow the path of least resistance when trying 
 <br/>
 Zero-OS was designed to solve root problem issues by design. While still using high-performance hardware components on the ThreeFold Grid, the algorithm of Zero-OS maximizes utilization possibilities. This enables greater performance and sustainability. Some key examples how this is achieved:
 
-### Eliminating unecessary elements from standard architectures
+### Eliminating unnecessary elements from standard architectures
 
 Virtualization adds a layer of software between the actual end-user workload and physical hardware. It also allows for multiple workloads to run on the same hardware by using excess capacity. There is definitely merit in building a virtualization solution. Building an effective virtualization solution that does not require abundant context switching is key and this is why Zero-OS has been developed. Zero-OS uses a minimal Linux kernel that allows for a number of user spaces to co-exist. In these user spaces, containerized versions of software can be run, eliminating the need for hypervisors, virtual OS to fuel the virtual machines, and guest operating systems. This also minimizes the required overhead for the host OS.
 

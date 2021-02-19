@@ -2,7 +2,7 @@
 id: tft_on_liquid_and_btcalpha
 title: Co-create the new Internet. Participate with TFT!
 tags: [token]
-category: [farming, cloud]
+category: [farming,foundation,aci]
 image: ./tft_on_liquid_and_btcalpha.png
 image_caption: tokens blockchain
 excerpt: Do you believe that the world needs change? Do you believe in decentralization? Equality? Sustainability?..

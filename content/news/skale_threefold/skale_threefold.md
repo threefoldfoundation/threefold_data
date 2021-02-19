@@ -2,7 +2,7 @@
 id: skale_threefold
 title: ThreeFold partners with SKALE to empower its developer community
 tags: [partner, blockchain]
-category: [farming, cloud]
+category: [farming,cloud,foundation]
 image: ./skale_threefold.png
 image_caption: partners blockchain
 excerpt: SKALE and ThreeFold are excited to announce their collaborative partnership that will focus on solving scalability and decentralization limitations faced by Ethereum and Blockchain developers.

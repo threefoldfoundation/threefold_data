@@ -2,7 +2,7 @@
 id: new_digital_currency
 title: The need for a sustainable digital currency
 tags: [token]
-category: [farming, cloud]
+category: [farming,foundation]
 image: ./new_digital_currency.png
 image_caption: tokens
 excerpt: Cryptocurrencies commonly face some major problems, which can be solved.

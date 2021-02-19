@@ -2,7 +2,7 @@
 id: how_it_works
 title: ThreeFold's Long Story Short
 tags: [tech]
-category: [farming, cloud]
+category: [farming,cloud,foundation]
 image: ./how_it_works.png
 image_caption: technology
 excerpt: The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.

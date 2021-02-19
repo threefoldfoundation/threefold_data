@@ -2,7 +2,7 @@
 id: new_neutral_internet
 title: The need for ThreeFold's neutral internet
 tags: [tech, farming, token]
-category: [farming, cloud]
+category: [farming,cloud,foundation]
 image: ./new_neutral_internet.png
 image_caption: planet internet
 excerpt: The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies.

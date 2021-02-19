@@ -2,7 +2,7 @@
 id: community_call_nov_2020_announcement
 title: Announcing the November 2020 community call
 tags: [tech, internet, future]
-category: [farming]
+category: [farming,cloud,foundation,twin]
 image: ./nov2020communitycall.png
 image_caption: Announcing the November 2020 community call
 excerpt: Mark your calendars! Next Monday November 2nd at 5pm CET we will host a 30-minute community call to update you on exciting progress and to show you what we’ll be working towards in the coming months.

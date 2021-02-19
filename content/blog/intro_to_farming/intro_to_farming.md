@@ -2,7 +2,7 @@
 id: intro_to_farming
 title: An intro to ThreeFold Farming
 tags: [farming]
-category: [farming, cloud]
+category: [farming]
 image: ./intro_to_farming.png
 image_caption: internet farming
 excerpt: We probably don’t need to tell you that the invention of Blockchain technology changed the world dramatically..

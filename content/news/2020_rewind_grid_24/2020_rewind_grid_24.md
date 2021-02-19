@@ -2,7 +2,7 @@
 id: 2020_rewind
 title: A 2020 Rewind & Grid 2.4 News!
 tags: [tech, grid]
-category: [farming]
+category: [farming,foundation,cloud,twin]
 image: ./2020rewindgrid24.png
 image_caption: A 2020 Rewind & Grid 2.4 News!
 excerpt: Grid 2.4 is now live on testnet and we've got some 2020 highlights to share with you as well!

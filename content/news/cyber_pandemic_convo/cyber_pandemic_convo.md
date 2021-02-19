@@ -3,7 +3,7 @@ id: cyber_pandemic_convo
 title: Join the Conversation - The Cyber Pandemic is Here
 tags: [news, event]
 image: ./cyber_pandemic_convo.png
-category: [farming, cloud]
+category: [farming,cloud,foundation,aci]
 image_caption: cyberpandemic
 excerpt: The cyber pandemic is here, but it’s not too late!
 authors: [sacha_obeegadoo]

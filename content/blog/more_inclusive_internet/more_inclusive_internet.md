@@ -2,7 +2,7 @@
 id: more_inclusive_internet
 title: We need a more inclusive internet
 tags: [farming, equality]
-category: [farming, cloud]
+category: [farming,cloud,foundation,aci,twin]
 image: ./more_inclusive_internet.png
 image_caption: planet internet
 excerpt: Today we are working with partners in the clean energy and network / connectivity to build the solutions that are needed to provide fair and uninterrupted internet access with all corners of the world.

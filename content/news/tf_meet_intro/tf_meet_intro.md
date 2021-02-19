@@ -2,7 +2,7 @@
 id: tf_meet_post_1
 title: Get to know TF Meet
 tags: [marketplace, meet]
-category: [farming]
+category: [farming,cloud,foundation]
 image: ./tfmeetintro.png
 image_caption: Get to know TF Meet
 excerpt: ThreeFold Meet is a P2P alternative to centralized video conferencing solutions.

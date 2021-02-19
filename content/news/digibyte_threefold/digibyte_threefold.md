@@ -2,7 +2,7 @@
 id: digibyte_threefold
 title: DigiByte integrates with ThreeFold’s decentralized Grid
 tags: [partner, news, tech]
-category: [farming, cloud]
+category: [farming,cloud,foundation,aci]
 image: ./digibyte_threefold.png
 image_caption: partners blockchain
 excerpt: The DigiByte Foundation and the ThreeFold Foundation are aligned – both focused on values, working towards their visions and missions in creating a truly decentralized, equal, and sustainable world that empowers humanity.

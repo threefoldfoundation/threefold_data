@@ -3,7 +3,7 @@ id: dash_threefold
 title: Dash & Dash NEXT partners with ThreeFold
 tags: [partner, news, tech]
 image: ./dash_threefold.png
-category: [farming, cloud]
+category: [farming,cloud,foundation]
 image_caption: blockchain
 excerpt: Dash, Dash NEXT and the ThreeFold Foundation are excited to officially announce their collaboration, effective the end of June 2020.
 authors: [sacha_obeegadoo]

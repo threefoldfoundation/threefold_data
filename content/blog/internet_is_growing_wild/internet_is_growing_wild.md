@@ -2,7 +2,7 @@
 id: internet_is_growing_wild
 title: Internet is growing wild
 tags: [tech, sustainability]
-category: [farming, cloud]
+category: [farming,cloud,foundation,aci,twin]
 image: ./internet_is_growing_wild.png
 image_caption: planet
 excerpt: The internet is growing at an extremely fast pace, but is that a good thing?
@@ -28,7 +28,7 @@ Our mission is to empower and inspire people to recognize abundance by living ne
 
 ## The Internet needs to perform better
 
-Compute and Storage vendors create poor-performing solutions. There have been yearly improvements in hardware following Moore's law. While this has allowed ThreeFold to progress and innovate, it has also led to software developers taking these advances for granted; cutting corners where they can, creating sub-optimal code and allowing software components to be layered on top of each other to achieve certain behavioural functionalities.
+Compute and Storage vendors create poor-performing solutions. There have been yearly improvements in hardware following Moore's law. While this has allowed ThreeFold to progress and innovate, it has also led to software developers taking these advances for granted; cutting corners where they can, creating sub-optimal code and allowing software components to be layered on top of each other to achieve certain behavioral functionalities.
 <br/>
 <br/>
 The inefficiencies have now led to a situation where organically-grown IT architectures are immensely complex. They use a variety of components from different software and hardware vendors integrated by so called 'integrators'. The overall effort and cost involved to create, operate and maintain such architectures is growing continuously and requiring an ever-increasing budget and resourcing to continue.
