@@ -10,6 +10,6 @@ websites: https://threefold.io/
 image: ./samir_hosny.jpg
 projects: [threefold_tech]
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---

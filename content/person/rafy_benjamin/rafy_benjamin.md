@@ -10,6 +10,6 @@ websites: https://threefold.io/
 projects: [threefold_tech]
 image: ./rafy_benjamin.jpg
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---

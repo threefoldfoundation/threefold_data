@@ -10,6 +10,6 @@ websites: https://threefold.io/
 projects: [threefold_tech]
 image: ./mahmoud_ayoub_processed.jpg
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---

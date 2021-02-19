@@ -10,6 +10,6 @@ websites: https://threefold.io/
 image: ./rana_hassan.jpg
 projects: [threefold_tech]
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---

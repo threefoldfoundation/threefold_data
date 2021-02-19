@@ -44,6 +44,7 @@ Current active projects:
 - `foundation`
 - `fairswap`
 - `aci`
+- `mazraa`
 
 Current active memberships (for people):
 - `cofounders`
@@ -57,6 +58,8 @@ Current active memberships (for people):
 - `twin`
 - `cloud`
 - `farmers`
+- `mazraa`
+- `jimber`
 
 ## Example:
 
