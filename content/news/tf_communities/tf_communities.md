@@ -6,7 +6,7 @@ category: [farming,cloud,foundation,twin,aci]
 image: ./tf_communities.png
 image_caption: TF x Conscious Communities
 authors: [sam_taggart]
-created: 2020-02-12
+created: 2021-02-12
 ---
 
 We’re in talks with an already-live, large-scale "conscious community" project to create their own independent grid of capacity!
