@@ -19,9 +19,9 @@ This projects represents a one source of truth for threefold data
 `gridsome explore --host 0.0.0.0 --port 8080`
 
 
-## Data direction into your project
+## Pull data into your project
 
-To direct respective content (blog/news/people/projects) to your project please open: 
+To pull respective content (blog/news/people/projects) to your project open: 
 `content/../../.md file`
 
 look for variables:
@@ -34,7 +34,7 @@ look for variables:
 
 - project:`tags: [ ]`
 
-and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc), or memberships for people.
+and provide project's name (e.g. digitaltwin, cloud, tech, foundation etc), or membership for people.
 
 Current active projects: 
 - `twin`
