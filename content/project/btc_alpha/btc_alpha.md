@@ -8,9 +8,9 @@ cities: []
 rank: 2
 excerpt: BTC-Alpha is a digital asset trading platform providing advanced financial services to traders worldwide since 2016.
 created: 2020-04-20
-image: ./placeholder.jpg
+image: ./btc_alpha.png
 image_caption: btc_alpha
-logo: ./logo_placeholder.png
+logo: ./logo.png
 members: []
 websites: https://btc-alpha.com/en/
 tags: []

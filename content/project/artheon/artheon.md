@@ -8,7 +8,7 @@ cities: [Moscow]
 rank: 3
 excerpt: A virtual museum online with 50.000+ pieces of art on top of TFGrid.
 created: 2020-04-20
-image: ./artheon.jpg
+image: ./artheon.png
 image_caption: artheon
 logo: ./logo.png
 members: [vasily_gnuchev]
