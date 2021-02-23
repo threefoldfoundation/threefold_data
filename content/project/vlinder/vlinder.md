@@ -1,13 +1,10 @@
 ---
 id: vlinder
 title: Personal Finance App
-status: planned
-startdate: 2021-03-20
 countries: [Russia, Austria]
 cities: [Perm, Salzburg]
 rank: 3
 excerpt: Providing a new perspective on people's lifestyle empowering them to act on Earth’s global problems.
-created: 2020-04-20
 image: ./vlinder.png
 image_caption: vlinder
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [sergey_ivliev]
 websites: https://vlinder.app
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/vlinderapp/
 ---
 
@@ -56,11 +52,11 @@ Vlinder is included in ThreeFold’s [Token Distribution Event (TDE)](https://wi
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Vlinder, and the growth of a new Conscious Internet.
 
-## TFGrid solution
+<!-- ## TFGrid solution
 
 ### Roadmap
 
 - Q1 2021
   - Integration of personal planet first finance app on top of 3bot/Crystal Twin.
-
+ -->
 

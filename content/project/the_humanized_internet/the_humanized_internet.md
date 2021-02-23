@@ -1,13 +1,10 @@
 ---
 id: the_humanized_internet
 title: The Humanized Internet
-status: planned
-startdate: 2021-03-20
 countries: [Switzerland, Germany]
 cities: [Zürich, Berlin]
 rank: 4
 excerpt: Providing digital identity for those individuals most underserved.
-created: 2020-04-20
 image: ./the_humanized_internet.png
 image_caption: the_humanized_internet
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [monique_morrow, akram_alfawakheeri]
 websites: https://www.moniquemorrow.com/humanized-internet
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -47,9 +43,10 @@ ThreeFold has technology in place to run decentralized programs created by The H
  
 “Human dignity is based upon freedom, and freedom upon human dignity. The one presupposes the other.” Join us in creating Conscious Humanized Internet for everyone.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
 - Q1 2021
   - Integrate on ThreeFold Grid, 3Bot
+ -->

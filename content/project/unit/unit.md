@@ -1,13 +1,10 @@
 ---
 id: unit
 title: UNIT
-status: planned
-startdate: 2021-03-20
 countries: [Global]
 cities: [Global]
 rank: 3
 excerpt: Supporting people by helping them to develop a business around their passion.
-created: 2020-04-20
 image: ./unit.png
 image_caption: unit
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [michael_healy]
 websites: https://unit.ventures/
 tags: [twin, cloud, farming, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/unitventures/
 ---
 
@@ -57,10 +53,10 @@ Unit is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Unit, and the growth of a new Conscious Internet.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
 - Q1 2021
   - Integration on TF Grid, 3Bot
-
+ -->

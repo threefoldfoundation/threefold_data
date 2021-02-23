@@ -1,22 +1,18 @@
 ---
 id: jimber
 title: Jimber
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: Jimber is an Enterprise Security Solution provider. Using the ThreeFold Grid for enterprise security gateway solutions.
-created: 2020-04-20
 image: ./placeholder.jpg
-image_caption: jimber
+image_caption: Jimber
 logo: ./logo_placeholder.png
-members: []
+members: [jonas_delrue,ivan_coene,ken_de_moor,tobias_chielens]
 websites: https://jimber.org
 tags: []
 private: 0
-potential:
-linkedin: ''
+linkedin: https://www.linkedin.com/company/jimber/
 ---
 
 # Jimber
@@ -27,7 +23,7 @@ Jimber is an Enterprise Security Solution provider. Using the ThreeFold Grid for
 Jimber is currently involved in 3Bot technology development as well as some experiences (autonomated and decentralized applications) that will live on the ThreeFold Grid, and accessble by 3Bot.
 
 
-## Mission
+<!-- ## Mission
 
 ## Impact
 
@@ -41,5 +37,6 @@ Jimber is currently involved in 3Bot technology development as well as some expe
 
 ### Roadmap
 
+ -->
 
 

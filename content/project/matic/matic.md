@@ -1,13 +1,10 @@
 ---
 id: matic_network
 title: Matic Network
-status: planned
-startdate: 2021-03-20
 countries: [Global]
 cities: []
 rank: 3
 excerpt: Decentralized scalability platform solution using an adapted version of the Plasma framework.
-created: 2020-04-20
 image: ./matic.png
 image_caption: Matic
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [anurag_arjun, arjun_kalsy]
 websites: https://matic.network/
 tags: [cloud, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/matic-network/
 ---
 
@@ -38,7 +34,7 @@ Matic and ThreeFold joined forces to provide key benefits in successfully runnin
 - Together we will expand Matic's community-led Blockchain across the geographical edges, while creating a more inclusive and cost-effective participation model for anybody on earth to be involved in the growing Matic ecosystem
 
 
-### Roadmap
+<!-- ### Roadmap
 
 - Q4 2020
   - 1-click Matic validator node deployment
@@ -46,3 +42,4 @@ Matic and ThreeFold joined forces to provide key benefits in successfully runnin
    - Matic’s ETH  SideChain integration  with the ThreeFold grid and 3BOT:  Build autonomous Ethereum dApps on Matic, powered by ThreeFold’s P2P cloud
 Q2 2021
    - Additional 1-click storage and compute solutions for the Matic community
+ -->

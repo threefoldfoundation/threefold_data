@@ -1,8 +1,6 @@
 ---
 id: threefold_love
 title: ThreeFold Love
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
@@ -15,7 +13,6 @@ members: []
 websites: https://www.threefold.love/
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -38,7 +35,7 @@ Purchase TF Love branded fair trade merchandise and TF Love swag (stickers, pins
 
 ThreeFold Love is a people-centered movement behind the technology, working on the ground to activate and engage communities around the world to come together to become more responsible digital citizens and inviting nonprofits, grassroots organizations and the rapid expanding global conscious community into the fold.
 
-## Impact
+<!-- ## Impact
 
 ## Powered by ThreeFold
 
@@ -50,5 +47,5 @@ ThreeFold Love is a people-centered movement behind the technology, working on t
 
 ### Roadmap
 
-
+ -->
 

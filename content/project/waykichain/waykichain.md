@@ -1,13 +1,10 @@
 ---
 id: waykichain
 title: Waykichain
-status: planned
-startdate: 2021-03-20
 countries: [Hong Kong]
 cities: []
 rank: 3 
 excerpt: Community driven Blockchain for DeFi and financial dApps.
-created: 2019-07-20
 image: ./waykichain.png
 image_caption: waykichain
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [richard_chen]
 websites: https://www.waykichain.com/
 tags: [cloud, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/
 ---
 
@@ -38,8 +34,8 @@ By using The ThreeFold P2P cloud and the 3Bot, The WaykiChain community of devel
 ThreeFold's compute, storage, and networking capacities empower them to decentralize their cloud-computing infrastructures, with far more affordability and distribution compared to centralized cloud-providers, and with native cloud automation via ThreeFold’s Smart contract for IT.
 Get started
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
 

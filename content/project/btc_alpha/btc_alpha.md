@@ -1,8 +1,6 @@
 ---
 id: btc_alpha
 title: BTC-Alpha
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
@@ -15,7 +13,6 @@ members: []
 websites: https://btc-alpha.com/en/
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -39,11 +36,11 @@ According to latest General Exchange Security Rating, provided by ICOrating, BTC
 
 ## Join saving our planet!
 
-## Support this project
+<!-- ## Support this project
 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
 
 

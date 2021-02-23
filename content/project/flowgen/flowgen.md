@@ -1,13 +1,10 @@
 ---
 id: flowgen
 title: FlowGen
-status: planned
-startdate: 2021-03-20
 countries: [Switzerland]
 cities: [Zug]
 rank: 2
 excerpt: Ground-breaking Technology in the Wind Energy Sector
-created: 2020-04-20
 image: ./flowgen.png
 logo: ./logo.png
 image_caption: flowgen
@@ -15,7 +12,6 @@ members: [tom_clausen, dirk_kuester]
 websites: https://www.flowgen.com/
 tags: [tech, farming, cloud]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/flowgen-technology/
 ---
 
@@ -59,7 +55,7 @@ Additionally, TFTech would seek to pursue the following secondary objectives:
 Expansion of Threefold Grid: to identify new prospect ThreeFold farmers and generate new sales for certified capacity on TF Grid via the HPE strategic alliance.
 New Decentralized Apps: to identify new decentralized applications to potentially deploy and demonstrate on TF Grid.
 
-### Roadmap
+<!-- ### Roadmap
 
 Planning for the deployment of a joint showcase to demonstrate the viability and integration of our technologies.
-Pursuing joint sales opportunities for the deployment of our decentralized renewable power + decentralized IT proposition
+Pursuing joint sales opportunities for the deployment of our decentralized renewable power + decentralized IT proposition -->

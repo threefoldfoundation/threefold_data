@@ -1,13 +1,10 @@
 ---
 id: cicolab
 title: Collective Intelligence Collaboratory
-status: planned
-startdate: 2021-03-20
 countries: [France, Switzerland]
 cities: []
 rank: 1
 excerpt: Bringing together visionaries from diverse fields to amplify network intelligence.
-created: 2020-04-20
 image: ./cicolab.png
 image_caption: cicolab
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [lauren_moore_nignon, charles_blass]
 websites: https://www.collectiveintelligencecollaboratory.com
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/cicollaboratory/
 ---
 
@@ -83,12 +79,12 @@ We can help people, projects and companies “Powered by ThreeFold” to find th
 We’re also developing innovative gaming methods to assess risk and minimize mis- or disinformation (aka “Crap Detection”). Thus the ThreeFold network can remain safe, healthy and vibrant, and protect itself from toxic patterns of abuse that have destroyed other coalitions.
 
 
-## Join saving our planet!
+<!-- ## Join saving our planet!
 
 We invite you to [join the conversation](https://www.collectiveintelligencecollaboratory.com/the-collaboratory), explore our [knowledge repository](https://workflowy.com/s/collective-intellige/j4VFPGtdeKapOPmH), get involved in and support our [Rapid Learning Network](https://docs.google.com/presentation/d/1fJyb323YcNEdXBlhbMd5OtLd4zRhXJsd-dGkCysXGBs/edit#slide=id.g6cb7bf93bd_0_19).
 
 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
