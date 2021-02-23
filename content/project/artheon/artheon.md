@@ -1,13 +1,10 @@
 ---
 id: artheon
 title: Virtual Reality Museum
-status: test
-startdate: 2021-03-20
 countries: [Russia]
 cities: [Moscow]
 rank: 3
 excerpt: A virtual museum online with 50.000+ pieces of art on top of TFGrid.
-created: 2020-04-20
 image: ./artheon.jpg
 image_caption: artheon
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [vasily_gnuchev]
 websites: https://artheon.co/
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: 
 ---
 
@@ -47,15 +43,13 @@ Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold 
  
 Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to become the most inclusive and sustainable museum in the world!
 
-## Support this project
+<!-- ## Support this project
 
 Artheon is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
-Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Artheon, and the growth of a new Conscious Internet.
+Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Artheon, and the growth of a new Conscious Internet. -->
 
-## TFGrid Solution
 
-### Roadmap
-
+<!-- ### Roadmap
 - Q4 2020
-  - Integration with ThreeFold Grid
+  - Integration with ThreeFold Grid -->
