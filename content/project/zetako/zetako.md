@@ -1,13 +1,10 @@
 ---
 id: zetako
 title: Lossless Data Compression
-status: planned
-startdate: 2021-03-20
 countries: [Luxembourg, France, Portugal]
 cities: [Luxembourg, St. Florent, Lisbon]
 rank: 3
 excerpt: Reducing energy usage & CO2 emission of the transmission and storage of data
-created: 2020-04-20
 image: ./zetako.png
 image_caption: zetako
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [claus_rosenberg_gotthard]
 websites: https://zetako.ai
 tags: [tech, cloud, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/zetako/
 ---
 
@@ -60,7 +56,7 @@ Zetako is included in ThreeFold’s [Token Distribution Event (TDE)](https://wik
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Zetako, and the growth of a new Conscious Internet.
 
-### Roadmap
+<!-- ### Roadmap
 
 - Q1 2021
-  - Integrate within ThreeFold Grid
+  - Integrate within ThreeFold Grid -->

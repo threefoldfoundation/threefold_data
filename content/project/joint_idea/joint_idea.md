@@ -1,13 +1,10 @@
 ---
 id: joint_idea
 title: Joint Idea
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativity, and serendipity by connecting ideas, people, place, and time.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: joint_idea
 logo: ./logo_placeholder.png
@@ -15,8 +12,7 @@ members: []
 websites: https://www.lifeworkslabs.com
 tags: []
 private: 0
-potential:
-linkedin: ''
+linkedin: https://www.linkedin.com/company/joint-idea/
 ---
 
 # Joint Idea
@@ -33,7 +29,7 @@ Strengthening the humanity, love, and faith within us is necessary to avoid mass
 It is up to us to avoid being reduced products of advertising platforms that are out to exploit our vulnerabilities, cognitive biases, and bad habits. The Threefold approach offers a ray of hope at a time when it is needed the most.
 
 
-## Mission
+<!-- ## Mission
 
 ## Impact
 
@@ -47,5 +43,7 @@ It is up to us to avoid being reduced products of advertising platforms that are
 
 ### Roadmap
 
+TODO: Add People?
 
+ -->
 

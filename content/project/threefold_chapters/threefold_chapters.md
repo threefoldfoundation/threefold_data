@@ -1,13 +1,10 @@
 ---
 id: threefold_chapters
 title: ThreeFold Chapters
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: Chapters are independent groups of people and organizations who are representing and promoting the ThreeFold Movement.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: threefold_chapters
 logo: ./logo_placeholder.png
@@ -15,7 +12,6 @@ members: []
 websites: 
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 

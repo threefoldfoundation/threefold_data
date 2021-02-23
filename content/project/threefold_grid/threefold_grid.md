@@ -1,13 +1,10 @@
 ---
 id: threefold_grid
 title: ThreeFold Grid
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: The ThreeFold Grid is built by independent people that together create a pool of connected compute and storage capacity.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: threefold_grid
 logo: ./logo_placeholder.png
@@ -15,7 +12,6 @@ members: []
 websites: https://threefold.tech/
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -32,7 +28,7 @@ farmers investment in hardware to build and operate the internet capacity pool. 
 these are people that build services and applications on the TF Grid.
 - **as a customer is using applications and services developed by developers on Farmers capacity**:  
 customers use applications on the TF Grid and consume TF Grid resources for which they pay in TF tokens.
-
+<!-- 
 ## Mission
 
 ## Impact
@@ -45,4 +41,4 @@ customers use applications on the TF Grid and consume TF Grid resources for whic
 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->

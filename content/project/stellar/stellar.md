@@ -1,13 +1,10 @@
 ---
 id: stellar
 title: Stellar
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: Stellar is an open-source network for currencies and payments.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: stellar
 logo: ./logo_placeholder.png
@@ -15,8 +12,7 @@ members: []
 websites: https://www.stellar.org
 tags: []
 private: 0
-potential:
-linkedin: ''
+linkedin: https://www.linkedin.com/company/stellar-development-foundation/
 ---
 
 # Stellar
@@ -27,7 +23,7 @@ Stellar is an open-source network for currencies and payments. Stellar makes it 
 
 TFT lives on the Stellar Blockchain. TFT holders benefit from a big ecosystem of proven wallets and mediums of exchange. Stellar's mission to promote financial inclusion is completely aligned with the ThreeFold's vision  for an inclusive Internet.
 
-## Mission
+<!-- ## Mission
 
 ## Impact
 
@@ -39,7 +35,7 @@ TFT lives on the Stellar Blockchain. TFT holders benefit from a big ecosystem of
 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
 
 

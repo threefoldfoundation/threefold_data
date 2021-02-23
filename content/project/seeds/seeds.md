@@ -1,13 +1,10 @@
 ---
 id: seeds
 title: Regenerative Economy
-status: planned
-startdate: 2021-03-20
 countries: [Global]
 cities: []
 rank: 3
 excerpt: Creating a regenerative financial system for a thriving global society.
-created: 2020-04-20
 image: ./seeds.png
 image_caption: seeds
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [rieki_cordon, nikolaus_heger, franz_josef_allmayer]
 websites: https://www.joinseeds.com/
 tags: [twin, cloud, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 ---
 
@@ -49,6 +45,6 @@ SEEDS and ThreeFold are a natural pair of decentralized cooperative internet to 
 The evidence is clear, the current system is reaching a historical moment that demands a paradigmatic shift. Join us!
 
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->

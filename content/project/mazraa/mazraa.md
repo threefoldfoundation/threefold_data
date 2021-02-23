@@ -1,13 +1,10 @@
 ---
 id: mazraa
 title: Mazraa
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: Mazraa is an independent Farming Cooperative based in Dubai UAE.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: mazraa
 logo: ./logo_placeholder.png
@@ -15,8 +12,7 @@ members: []
 websites: https://www.mazraa.io
 tags: []
 private: 0
-potential:
-linkedin: ''
+linkedin: https://www.linkedin.com/company/mazraa/about/
 ---
 
 # Mazraa
@@ -28,7 +24,7 @@ Mazraa is an independent Farming Cooperative based in Dubai UAE. IT runs a hosti
 Mazraa is home to a group of consultants who support the growth of the ThreeFold Foundation and ThreeFold Grid. They deliver promotional services for the ThreeFold Foundation in order to support mainstream exposure and adoption. Mazraa also assists ThreeFold in the commercialization fo the ThreeFold Token.
 
 
-## Mission
+<!-- ## Mission
 
 ## Impact
 
@@ -42,5 +38,7 @@ Mazraa is home to a group of consultants who support the growth of the ThreeFold
 
 ### Roadmap
 
+TODO: Add People
+ -->
 
 

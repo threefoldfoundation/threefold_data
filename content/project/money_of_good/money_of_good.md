@@ -1,13 +1,10 @@
 ---
 id: money_of_good
 title: Socioeconomic Meditation Platform
-status: planned
-startdate: 2021-03-20
 countries: [Germany]
 cities: [Munich]
 rank: 3
 excerpt: Driving transition to a new fair and sustainable economy through meditation.
-created: 2020-04-20
 image: ./money_of_good.jpg
 image_caption: money_of_good
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [marcelo_bohrer]
 websites: https://www.thefutureofgood.info
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/moneyofgood/
 ---
 
@@ -59,10 +55,10 @@ Money of Good is included in ThreeFold’s [Token Distribution Event (TDE)](http
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Money of Good, and the growth of a new Conscious Internet.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
 - Q1 2021
-  - Integration on TF Grid, 3Bot, TF Wallet
+  - Integration on TF Grid, 3Bot, TF Wallet -->
 
