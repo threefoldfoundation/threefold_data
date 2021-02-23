@@ -1,13 +1,10 @@
 ---
 id: threefold_foundation
 title: ThreeFold Foundation
-status: public
-startdate: 2018-01-01
 countries: [UAE, Switzerland, Belgium]
-cities: [Dubai, Lugano]
+cities: [Dubai, Lugano, Ghent]
 rank: 4
 excerpt: The ThreeFold Foundation along with its partners is growing the ThreeFold Grid and a new peer-to-peer internet.
-created: 2018-01-01
 image: ./threefold_foundation.png
 image_caption: threefold_foundation
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [kristof_de_spiegeleer, roel_van_sabben, kristine_vilnite, sam_taggart,
 websites: https://www.threefold.me
 tags: [twin, cloud, farming, aci, foundation]
 private: 0
-potential: 
 linkedin: https://www.linkedin.com/company/threefold-foundation/
 ---
 
@@ -52,7 +48,7 @@ TF Foundation is included in ThreeFold’s [Token Distribution Event (TDE)](http
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support TF Foundation, and the growth of a new Conscious Internet.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
@@ -64,3 +60,4 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
   - TF Grid user interface
 - Q1 2021
   - Promotion Phase II
+ -->

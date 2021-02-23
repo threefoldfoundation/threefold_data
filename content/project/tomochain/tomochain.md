@@ -1,13 +1,10 @@
 ---
 id: tomochain
 title: Tomochain
-status: planned
-startdate: 2021-03-20
 countries: [Vietnam]
 cities: [Saigon]
 rank: 3
 excerpt: The efficient blockchain powered by proof of stake voting consensus.
-created: 2019-06-20
 image: ./tomochain.png
 image_caption: tomochain
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [kyn_chaturvedi]
 websites: https://tomochain.com/
 tags: [cloud, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/tomochain/
 ---
 
@@ -38,7 +34,7 @@ TomoChain provides a broad array of developers tools and a whole suite of Blockc
 And by leveraging the decentralization, docker/kubernetes compatibility, and privacy aspects of ThreeFold's P2P compute/storage/networking capacities, developers have the ability to build robust and scalable containerized dApps on top of TomoChain and deploy them close to where their users are located.
 
 
-### Roadmap
+<!-- ### Roadmap
 
 - Q4 2020
   - 1-click Tomochain full node and masternnode deployment
@@ -47,4 +43,4 @@ And by leveraging the decentralization, docker/kubernetes compatibility, and pri
 -Q1 2021 
    - TomoChain’s Smart-contract  and API integration with the ThreeFold grid and 3BOT  Build autonomous dApps on TomoChain, powered by ThreeFold’s P2P cloud
 Q2 2021
-   - Additional 1-click storage and compute solutions for the TomoChain community
+   - Additional 1-click storage and compute solutions for the TomoChain community -->

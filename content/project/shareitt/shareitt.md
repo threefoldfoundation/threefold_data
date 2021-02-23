@@ -1,13 +1,10 @@
 ---
 id: shareitt
 title: Community Platform
-status: planned
-startdate: 2021-03-20
 countries: [Global]
 cities: []
 rank: 3
 excerpt: Empowering communities socially, financially, and environmentally.
-created: 2020-04-20
 image: ./shareitt.png
 image_caption: shareitt
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [arie_ben_david]
 websites: https://www.shareitt.com
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/shareitt/
 ---
 
@@ -49,10 +45,11 @@ The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and 
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Shareitt, and the growth of a new Conscious Internet.
 
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
 - Q1 2021
   - Integrate on ThreeFold Grid, 3Bot and TF Wallet
 
+ -->

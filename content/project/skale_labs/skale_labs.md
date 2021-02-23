@@ -1,13 +1,10 @@
 ---
 id: skale_labs
 title: Powerful Ethereum dApps
-status: planned
-startdate: 2021-03-20
 countries: [USA]
 cities: [San Francisco]
 rank: 2
 excerpt: Run your dApps in a decentralized modular cloud built for real-world needs and configured for your requirements.
-created: 2019-08-20
 image: ./skale_image.png
 image_caption: skale_labs
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [christine_renee_perry]
 websites: https://skale.network/
 tags: [cloud, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/skale-labs/
 ---
 

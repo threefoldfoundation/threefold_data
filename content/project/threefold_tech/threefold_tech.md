@@ -1,13 +1,10 @@
 ---
 id: threefold_tech
 title: ThreeFold Tech
-status: public
-startdate: 2021-03-20
 countries: [Belgium]
 cities: [Lochristi]
 rank: 4
 excerpt: Powering the Information Technology workloads of tomorrow.
-created: 2021-03-20
 image: ./threefold_tech.png
 image_caption: threefold tech
 logo: ./logo.jpg
@@ -15,7 +12,6 @@ members: [kristof_de_spiegeleer, christopher_hutton, andreas_hartl, roel_van_sab
 websites: https://threefold.tech/
 tags: [tech, cloud, farming]
 private: 0
-potential: 
 linkedin: https://www.linkedin.com/company/threefold-tech/
 ---
 
@@ -48,8 +44,9 @@ Make a wise investment.
 Make a positive impact.
 
 Become a TF Tech investor https://www.threefold.tech/investors.html
-
+<!-- 
 ## TFGrid Solution
 
 ### Roadmap
 
+ -->

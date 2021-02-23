@@ -1,13 +1,10 @@
 ---
 id: veda
-title: ThreeFold Love
-status: planned
-startdate: 2021-03-20
+title: Veda
 countries: []
 cities: []
 rank: 2
 excerpt: A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: veda
 logo: ./logo_placeholder.png
@@ -15,7 +12,6 @@ members: []
 websites: https://www.veda-egypt.com
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -38,7 +34,7 @@ Purchase TF Love branded fair trade merchandise and TF Love swag (stickers, pins
 
 ThreeFold Love is a people-centered movement behind the technology, working on the ground to activate and engage communities around the world to come together to become more responsible digital citizens and inviting nonprofits, grassroots organizations and the rapid expanding global conscious community into the fold.
 
-## Impact
+<!-- ## Impact
 
 ## Powered by ThreeFold
 
@@ -49,6 +45,6 @@ ThreeFold Love is a people-centered movement behind the technology, working on t
 ## TFGrid Solution
 
 ### Roadmap
-
+ -->
 
 

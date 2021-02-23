@@ -1,13 +1,10 @@
 ---
 id: solidaridad
 title: Solidaridad
-status: planned
-startdate: 2021-03-20
 countries: [Central America, East and Central Africa, Europe, North America, Asia, South America, Southern Africa, West Africa]
 cities: []
 rank: 5
 excerpt: Provide an alternative income stream and create digital services for farmers across the globe.
-created: 2021-03-20
 image: ./solidaridad.jpg
 image_caption: solidaridad
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [jeroen_douglas]
 websites: https://ww.solidaridadnetwork.org
 tags: [twin, tech, cloud, farming, aci, foundation]
 private: 0
-potential: 
 linkedin: https://www.linkedin.com/company/solidaridad/
 ---
 
@@ -49,7 +45,7 @@ The values of data sovereignty and collaboration that Threefold embodies are cen
 Our vision is collaborative, we need to join forces and build a global coalition that shares a vision, but also a common  platform with sufficient scale to upend the existing industries that extract value from our planet and our communities without providing anything back. We are interested in finding companies who want to change the way they source commodities, donors who want to maximize impact, and innovators who are looking for pathways to scale innovations that can work for our communities such as innovative connectivity solutions, content and analytics, infrastructure and match-making solutions, amongst others. We are also very interested in seeing how complementary currencies and local incentive systems can help communities adopt best practices and support the global fight against climate change.
 
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
