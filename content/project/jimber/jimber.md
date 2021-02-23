@@ -8,7 +8,7 @@ excerpt: Jimber is an Enterprise Security Solution provider. Using the ThreeFold
 image: ./placeholder.jpg
 image_caption: Jimber
 logo: ./logo_placeholder.png
-members: [jonas_delrue]
+members: [jonas_delrue,ivan_coene,ken_de_moor,tobias_chielens]
 websites: https://jimber.org
 tags: []
 private: 0
@@ -37,7 +37,6 @@ Jimber is currently involved in 3Bot technology development as well as some expe
 
 ### Roadmap
 
-TODO: Add people
  -->
 
 
