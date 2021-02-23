@@ -1,13 +1,10 @@
 ---
 id: cloud_28
 title: Cloud 28+
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: Cloud 28+ is the world's largest independent community promoting cloud service and knowledge sharing.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: cloud_28
 logo: ./logo_placeholder.png
@@ -15,7 +12,6 @@ members: []
 websites: https://cloud28plus.com
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -35,11 +31,11 @@ Cloud28+ supports the expansion of the Threefold Grid by proposing ThreeFold sol
 
 ## Join saving our planet!
 
-## Support this project
+<!-- ## Support this project
 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
 
 

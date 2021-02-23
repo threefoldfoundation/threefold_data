@@ -1,13 +1,10 @@
 ---
 id: crystal_home
 title: Circular & Self-Sufficient Homes
-status: planned
-startdate: 2021-03-20
 countries: [The Netherlands]
 cities: []
 rank: 2
 excerpt: Circular & self-sufficient homes reducing the CO2 footprint and the waste production.
-created: 2020-04-20
 image: ./crystal_home.jpg
 image_caption: crystal_home
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [bert_van_decraen]
 websites: https://www.crystalhome.org/
 tags: [twin, aci, farming]
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -50,17 +46,17 @@ Each crystal home can be equipped with its very own node, meaning each new home 
 
 Today’s challenges require bold and imaginative leaps into the future. They demand ideas that inspire, unite and create impact. Let’s reinvent reality together!
 
-## Support this project
+<!-- ## Support this project
 
 Crystal Home is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
-Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Crystal Home, and the growth of a new Conscious Internet.
+Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Crystal Home, and the growth of a new Conscious Internet. -->
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
 - Q1 2021
     - First 10 Crystal Homes Sold
 - Q3 2021
-    - Ingegrate 3Bot/Crystal Twin in Crystal Home
+    - Ingegrate 3Bot/Crystal Twin in Crystal Home -->

@@ -1,21 +1,17 @@
 ---
 id: aiqom
 title: Create & Learn AI
-status: planned
-startdate: 2021-01-02
 countries: [Global]
-cities: []
-rank: 2
+cities: [Global]
+rank: 3
 excerpt: Leading AI R&D lab and is backed by impactful angel investors, visionary machine learning scientists.
-created: 2020-13-11
 image: ./aiqom.png
 image_caption: aiqom
 logo: ./logo.png
 members: [samer_obeidat]
 websites: https://aiqom.ai/
 tags: [twin, cloud]
-private: 1
-potential:
+private: 0
 linkedin: https://www.linkedin.com/company/aiqom/
 ---
 
@@ -30,7 +26,6 @@ AIQOM is  a leading AI R&D lab and is backed by impactful angel investors, visio
 
 To unlock Special AI Powers. To make your AI Identity See, Read, Hear, Calculate, Feel, Think and Predict. To bring Your AI Creations To The World.
 
-
 ## Impact
 
 AIQOM empowers people of all ages to become responsible AI Citizens to easily learn and create machine learning models. Our platform allows users to export and integrate their AI with websites, mobile apps, games, drones, vehicles, smart homes – and even their actual physical programmable robots.
@@ -40,8 +35,8 @@ AIQOM empowers people of all ages to become responsible AI Citizens to easily le
 
 ## Join saving our planet
 
-
+<!-- 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 

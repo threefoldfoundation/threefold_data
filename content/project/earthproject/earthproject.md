@@ -1,13 +1,10 @@
 ---
 id: earthproject
 title: Education For Refugees
-status: test
-startdate: 2021-03-20
 countries: [Belgium, US]
 cities: [Hasselt, Florida]
 rank: 5
 excerpt: Providing refugees a chance to learn, create, equaly partake and succeed.
-created: 2020-04-20
 image: ./earthproject.png
 image_caption: earthproject
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [koen_timmers]
 websites: hhttps://www.climate-action.info/
 tags: [twin, aci, farming, foundation]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/take-action-global/
 ---
 
@@ -56,7 +52,7 @@ Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize ele
 
 Every child deserves an education. Inspire change. Take action. Join us making the planet a better place by fighting polarization and giving everyone in the world a quality education.
 
-## Support this project
+<!-- ## Support this project
 
 EarthProject is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
@@ -69,6 +65,6 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
 - Q4 2020
     - Platform launch with focus on refugees
 - Q4 2021
-    - Platform extension with focus on climate change
+    - Platform extension with focus on climate change -->
     
 

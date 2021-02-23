@@ -1,13 +1,10 @@
 ---
 id: cultivo
 title: Cultivo
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: A digital alliance to protect our tropical rainforest and empower its inhabitants.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: cultivo
 logo: ./logo_placeholder.png
@@ -15,7 +12,6 @@ members: []
 websites: https://cultivo.earth
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -52,11 +48,11 @@ Cultivo’s Objectives with ThreeFold:
 
 ## Join saving our planet!
 
-## Support this project
+<!-- ## Support this project
 
 ## TFGrid Solution
 
 ### Roadmap
-
+ -->
 
 

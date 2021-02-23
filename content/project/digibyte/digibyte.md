@@ -1,13 +1,10 @@
 ---
 id: digibyte_foundation
 title: Digibyte Foundation
-status: test
-startdate: 2021-03-20
 countries: [Global]
-cities: []
+cities: [Global]
 rank: 5
 excerpt: An innovative blockchain for digital assets, smart contracts, dApps and secure authentication.
-created: 2020-04-20
 image: ./digibyte.png
 image_caption: digibyte
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [hans_koning]
 websites: https://digibytefoundation.io/
 tags: [cloud, farming, aci, tech, foundation]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 ---
 
@@ -49,7 +45,7 @@ The DigiByte network runs on a mix of servers managed by DigiByte volunteers and
 
 ThreeFold's technology helps the DigiByte software to use less underlying capacity for processing and that networking enhances time to reach consensus.
 
-## Support this project
+<!-- ## Support this project
 
 Digibyte Foundation is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
@@ -60,4 +56,4 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
 ### Roadmap
 
 - Q1 2021
-  - Go to market integration for TF Token
+  - Go to market integration for TF Token -->

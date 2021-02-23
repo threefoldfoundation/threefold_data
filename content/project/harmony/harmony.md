@@ -1,13 +1,10 @@
 ---
 id: harmony
 title: Harmony
-status: planned
-startdate: 2021-03-20
 countries: [USA]
 cities: [San Francisco]
 rank: 3
 excerpt: Open consensus for 10 Billion people to scale trust and create a radically fair economy.
-created: 2019-07-20
 image: ./harmony.png
 image_caption: harmony
 logo: ./harmony_logo.png
@@ -15,7 +12,6 @@ members: [li_jiang, nikalos_kost]
 websites: https://www.harmony.one/
 tags: [cloud, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/harmony-one/
 ---
 
@@ -41,7 +37,7 @@ This gives its node operators control over their containerized validator nodes, 
 By Leveraging ThreeFold's decentralized storage, compute, and networking, as well as its compatibility with Docker, Kubernetes, S3 storage, containerized databases, and other open-source software, Harmony's developer community unlocks an additional alternative to centralized cloud providers
 This brings the ability to build highly-scalable cloud-native and Blockchain-based applications and deploy them close to where their users are.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
@@ -50,4 +46,4 @@ This brings the ability to build highly-scalable cloud-native and Blockchain-bas
 -Q1 2021 
    - Harmony’s Smart-contract  and API integration with the ThreeFold grid and 3BOT  Build autonomous dApps on TomoChain, powered by ThreeFold’s P2P cloud
 Q2 2021
-   - Additional 1-click storage and compute solutions for the Harmony community
+   - Additional 1-click storage and compute solutions for the Harmony community -->
