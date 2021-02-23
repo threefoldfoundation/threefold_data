@@ -1,13 +1,10 @@
 ---
 id: dash
 title: Dash
-status: internal
-startdate: 2020-12-01
 countries: [Global]
-cities: []
+cities: [Global]
 rank: 3
 excerpt: Instant transactions and micro-fees. Any amount, anytime, anywhere. 
-created: 2020-04-28
 image: ./dash.png
 image_caption: dash
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [felix_mago, sascha_jochum]
 websites: https://www.dash.org/
 tags: [cloud, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/groups/8642659/
 ---
 
@@ -28,9 +24,11 @@ In addition to Bitcoin’s feature set, Dash currently also offers instant trans
 Learn more about Dash on their [website](https://www.dash.org).
 
 
-## Mission and Impact
+## Mission
 
 Dash gives you the freedom to move your money any way you want. Grab a coffee, split a check, or pay your phone bill. Dash moves money anywhere, to anyone, instantly, for less than a cent.
+
+## Impact
 
 Dash is a digital currency that enables anyone, anywhere in the world to make quick, easy and cheap payments at any time without going through a central authority. Based on a decentralized peer-to-peer network, and secured by strong cryptography, Dash offers a safe and user-friendly payment method without barriers. Dash is portable, inexpensive, divisible and fast digital cash for both the internet and everyday life.
 
@@ -47,11 +45,11 @@ or by running a Dash Masternode for a more advanced contribution to the Dash gov
 Futhermore, ThreeFold and Dash are planning more deeper integration that will allow to use ThreeFold storage and compute capacity for Dash blockchain developers.
 
 
-### Roadmap
+<!-- ### Roadmap
 
 - Dec 2020
  - Quick deployment for Dash nodes on ThreeFold capacity
 - Q1 2021 
- - Planning of the deeper integration
+ - Planning of the deeper integration -->
 
 

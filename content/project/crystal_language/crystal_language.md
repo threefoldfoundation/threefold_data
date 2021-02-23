@@ -1,13 +1,10 @@
 ---
 id: crystal_language
 title: Crystal Programming Language
-status: internal
-startdate: 2021-03-20
 countries: [Argentina]
 cities: [Buenos Aires]
 rank: 2
 excerpt: A programming language for programmer and the computer - the best of both worlds.
-created: 2020-04-20
 image: ./crystal_language.png
 image_caption: crystal_language
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/crystal-language/about/
 ---
 
@@ -49,7 +45,7 @@ Crystal is a project of Manas.Tech, built along the years with the support of th
 
 You can join our mission to build better technology for the future, by becoming a direct sponsor of Crystal.
 
-## Support this project
+<!-- ## Support this project
 
 Crystal Programming Language is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
@@ -63,4 +59,4 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
 - Q1 2021
   - Serverless Functions/Actors based on Crystal Lang on top of TFGrid
 - Q2 2021
-  - Crystal Twin Core v2.0
+  - Crystal Twin Core v2.0 -->

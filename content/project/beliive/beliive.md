@@ -1,13 +1,10 @@
 ---
 id: beliive
 title: World's Largest Time Bank
-status: planned
-startdate: 2021-03-20
 countries: [Brazil, US]
 cities: [San Francisco]
 rank: 3
 excerpt: Empowering people to recognize abundance by living new experiences one hour at a time.
-created: 2020-04-20
 image: ./beliive.png
 image_caption: beliive
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [lorrana_scarpioni]
 websites: https://beliive.com
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/beliive/
 ---
 
@@ -49,7 +45,7 @@ Beliive and ThreeFold recognize the power of equality to include and connect peo
 The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion. With Beliive you can offer for example one hour of Spanish Lessons receiving a time credit of one hour in return, then you can exchange this credit for any activity available in the community, like financial advice, dance lessons or someone to fix something for you.
 
 
-## Support this project
+<!-- ## Support this project
 
 Beliive is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
@@ -62,5 +58,5 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
 - Q1 2021
     - API integration
 - Q3 2021
-    - Crystal Twin Integration
+    - Crystal Twin Integration -->
 

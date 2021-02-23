@@ -1,13 +1,10 @@
 ---
 id: btc_alpha
 title: BTC-Alpha
-status: planned
-startdate: 2021-03-20
 countries: []
 cities: []
 rank: 2
 excerpt: BTC-Alpha is a digital asset trading platform providing advanced financial services to traders worldwide since 2016.
-created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: btc_alpha
 logo: ./logo_placeholder.png
@@ -15,7 +12,6 @@ members: []
 websites: https://btc-alpha.com/en/
 tags: []
 private: 0
-potential:
 linkedin: ''
 ---
 
@@ -39,11 +35,11 @@ According to latest General Exchange Security Rating, provided by ICOrating, BTC
 
 ## Join saving our planet!
 
-## Support this project
+<!-- ## Support this project
 
 ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->
 
 
 

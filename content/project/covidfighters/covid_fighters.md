@@ -1,13 +1,10 @@
 ---
 id: covidfighters
 title: Covid Testing Solution
-status: planned
-startdate: 2021-03-20
 countries: [Austria]
 cities: [Vienna]
 rank: 1
 excerpt: Re-gaining social life and staying healthy with covid testing solution on Crystal Twin.
-created: 2020-04-20
 image: ./covid_fighters.png
 image_caption: covid_fighters
 logo: ./logo.png
@@ -15,7 +12,6 @@ members: [boris_fahrnberger]
 websites: https://www.artichoke-computing.com/
 tags: [twin, aci]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/covidfighters/
 ---
 
@@ -49,8 +45,8 @@ Covid Fighters applications will run on the ThreeFold Grid. ThreeFold may also p
 
 Providing the necessary technology, logistics and solutions to maintain a safe environment for societies while eradicating pandemics and other similar threats.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
-
+ -->
 
