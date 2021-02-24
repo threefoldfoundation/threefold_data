@@ -5,7 +5,7 @@ countries: [Central America, East and Central Africa, Europe, North America, Asi
 cities: []
 rank: 5
 excerpt: Provide an alternative income stream and create digital services for farmers across the globe.
-image: ./solidaridad.jpg
+image: ./solidaridad.png
 image_caption: solidaridad
 logo: ./logo.png
 members: [jeroen_douglas]

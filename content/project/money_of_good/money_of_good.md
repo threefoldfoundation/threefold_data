@@ -5,7 +5,7 @@ countries: [Germany]
 cities: [Munich]
 rank: 3
 excerpt: Driving transition to a new fair and sustainable economy through meditation.
-image: ./money_of_good.jpg
+image: ./money_of_good.png
 image_caption: money_of_good
 logo: ./logo.png
 members: [marcelo_bohrer]
