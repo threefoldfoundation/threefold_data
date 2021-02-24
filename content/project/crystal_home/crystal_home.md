@@ -5,7 +5,7 @@ countries: [The Netherlands]
 cities: []
 rank: 2
 excerpt: Circular & self-sufficient homes reducing the CO2 footprint and the waste production.
-image: ./crystal_home.jpg
+image: ./crystalhome.png
 image_caption: crystal_home
 logo: ./logo.png
 members: [bert_van_decraen]

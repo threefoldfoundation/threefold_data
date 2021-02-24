@@ -5,7 +5,7 @@ countries: [Austria]
 cities: [Vienna]
 rank: 1
 excerpt: Re-gaining social life and staying healthy with covid testing solution on Crystal Twin.
-image: ./covid_fighters.png
+image: ./covidfighters.png
 image_caption: covid_fighters
 logo: ./logo.png
 members: [boris_fahrnberger]

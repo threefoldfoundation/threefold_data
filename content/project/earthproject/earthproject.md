@@ -5,7 +5,7 @@ countries: [Belgium, US]
 cities: [Hasselt, Florida]
 rank: 5
 excerpt: Providing refugees a chance to learn, create, equaly partake and succeed.
-image: ./earthproject.png
+image: ./tagprojects.png
 image_caption: earthproject
 logo: ./logo.png
 members: [koen_timmers]

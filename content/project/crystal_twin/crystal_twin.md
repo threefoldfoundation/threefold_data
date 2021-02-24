@@ -5,7 +5,7 @@ countries: [Global]
 cities: [Global]
 rank: 3
 excerpt: Your digital twin serving as a gateway to the new digital world of peer-to-peer experiences.
-image: ./crystal_twin.png
+image: ./crystaltwin.png
 image_caption: crystal_twin
 logo: ./logo.png
 members: [brooks_cole, sacha_obeegadoo]

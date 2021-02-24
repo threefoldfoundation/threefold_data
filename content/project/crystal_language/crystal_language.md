@@ -5,7 +5,7 @@ countries: [Argentina]
 cities: [Buenos Aires]
 rank: 2
 excerpt: A programming language for programmer and the computer - the best of both worlds.
-image: ./crystal_language.png
+image: ./crystallang.png
 image_caption: crystal_language
 logo: ./logo.png
 members: [juan_wajnerman, brian_j_cardiff]

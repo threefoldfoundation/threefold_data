@@ -5,9 +5,9 @@ countries: [Egypt]
 cities: [Cairo]
 rank: 2
 excerpt: CodeScalers mission is to develop promising technology for start-up companies in cloud computing and datacenters.
-image: ./placeholder.jpg
+image: ./codescalers.png
 image_caption: codescalers
-logo: ./logo_placeholder.png
+logo: ./logo.png
 members: []
 websites: https://codescalers.com/
 tags: []
