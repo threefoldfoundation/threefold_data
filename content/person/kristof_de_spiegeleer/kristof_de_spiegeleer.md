@@ -8,8 +8,8 @@ excerpt: Nerd engineer, humanist & motivated entrepreneur.
 linkedin: https://www.linkedin.com/in/despiegk/
 websites: https://www.threefold.io, https://www.threefold.me, https://www.incubaid.com/
 image: ./kristof_de_spiegeleer.jpeg
-projects: [threefold_foundation, threefold_tech]
+projects: [threefold_foundation, threefold_tech, fairswap]
 countries: [Belgium, Switzerland, Egypt]
-cities: [Ghent, Lugano, El Ghouna]
+cities: [Ghent, Lugano, El Gouna]
 private: 0
 ---
