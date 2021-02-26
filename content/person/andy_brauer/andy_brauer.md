@@ -7,8 +7,8 @@ bio: With 40 years of experience in the ICT Industry he covered most areas inclu
 excerpt: Previously Chief Technology Officer of Business Connexion, the largest Information and Communications technology company in Africa.
 linkedin: https://www.linkedin.com/in/andy-brauer-617a902/
 websites: 
-image: ./andy_brauer_processed.jpg
-projects: [threefold_foundation]
+image: ./andy_brauer.jpg
+projects: []
 countries: [South Africa]
 cities: [Johannesburg]
 private: 1

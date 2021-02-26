@@ -3,10 +3,10 @@ id: abdelrahman_ghanem
 name: Abdelrahman Ghanem
 rank: 2
 memberships: [tech]
-bio: A software engineer, mainly working on Jumpscale platform and Kosmos
-excerpt: A software engineer, mainly working on Jumpscale platform and Kosmos
+bio: A software engineer, mainly working on Jumpscale platform and Kosmos.
+excerpt: A software engineer, mainly working on Jumpscale platform and Kosmos.
 linkedin: https://www.linkedin.com/in/abdelrahman-ghanem-41a31815/
-websites: https://threefold.io/, https://www.mazraa.io/
+websites: https://threefold.tech
 image: ./abdelrahman_ghanem_processed.jpg
 projects: [threefold_tech]
 countries: [Egypt]
