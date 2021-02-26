@@ -10,6 +10,6 @@ websites: https://dashnext.org/
 image: ./felix.jpg
 projects: [dash]
 countries: [Thailand]
-cities: [Bangkok City]
+cities: [Bangkok]
 private: 0
 ---
