@@ -8,7 +8,7 @@ excerpt: Beautiful women, the mother of men, our mission here is to protect the 
 linkedin: https://www.linkedin.com/in/jenniferlongcr/
 websites: http://www.biolleyfarms.com/
 image: ./jennifer_long.jpeg
-projects: [threefold_foundation]
+projects: []
 countries: [Costa Rica]
 cities: [Buenos Aires]
 private: 0
