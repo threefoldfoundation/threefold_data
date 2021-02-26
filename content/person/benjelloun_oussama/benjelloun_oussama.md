@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/oussama-benjelloun-110b51128/
 websites: https://threefold.io/, https://www.mazraa.io/, https://www.fair-swap.org
 image: ./benjelloun_oussama.png
 projects: [threefold_foundation]
-countries: []
+countries: [Marocco]
 cities: []
 private: 0
 ---
