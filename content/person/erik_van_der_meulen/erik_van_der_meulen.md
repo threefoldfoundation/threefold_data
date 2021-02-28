@@ -8,7 +8,7 @@ excerpt: Erik firmly believes that entrepreneurship provides the only sustainabl
 linkedin: https://www.linkedin.com/in/evdm66/
 websites: 
 projects: []
-image: ./erik_van_der_meulen_processed.jpg
+image: ./erik_van_der_meulen.jpg
 countries: [The Netherlands]
 cities: []
 private: 1
