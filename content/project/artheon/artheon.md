@@ -13,14 +13,14 @@ members: [vasily_gnuchev]
 websites: https://artheon.co/
 tags: [twin, aci]
 private: 0
-linkedin: 
+linkedin:
 ---
 
 # Artheon
 
 ## About
 
-*The Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we have compiled 40,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere. 
+_The Artheon VR Museum_ is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we have compiled 40,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere.
 
 <BR>
 
@@ -40,8 +40,10 @@ Art can act as a catalyst to tap into our inner potential as well as our collect
 
 Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold Grid. Being hosted on the ThreeFold Grid was an evident choice for Artheon so as to share our history, art and culture on an equal and sustainable Internet.
 
- ## Join saving our planet
- 
+TFGrid allows everyone in the world with acces to this wonderful virtual reality with more performance and lower cost.
+
+## Join saving our planet
+
 Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to become the most inclusive and sustainable museum in the world!
 
 <!-- ## Support this project
@@ -49,7 +51,6 @@ Artheon VR Museum is growing into a crowdsourced global art database empowering 
 Artheon is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
 Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Artheon, and the growth of a new Conscious Internet. -->
-
 
 <!-- ### Roadmap
 - Q4 2020
