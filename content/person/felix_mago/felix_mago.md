@@ -7,7 +7,7 @@ bio: Driving real-life adoption of Blockchain and cryptocurrency payments. Build
 excerpt: Dash NEXT Co-Founder. Business focused expert in Blockchain, DeFi, decentralization and cryptocurrency payments
 linkedin: https://www.linkedin.com/in/felix-mago/
 websites: https://dashnext.org/
-image: ./felix.jpg
+image: ./felix_mago.jpg
 projects: [dash]
 countries: [Thailand]
 cities: [Bangkok]
