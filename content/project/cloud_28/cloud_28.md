@@ -10,9 +10,9 @@ image_caption: cloud_28
 logo: ./logo.png
 members: []
 websites: https://cloud28plus.com
-tags: []
+tags: [cloud]
 private: 0
-linkedin: ""
+linkedin: ''
 ---
 
 # Cloud 28+

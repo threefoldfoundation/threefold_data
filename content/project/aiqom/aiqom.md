@@ -36,10 +36,3 @@ AIQOM empowers people of all ages to become responsible AI Citizens to easily le
 Aiqom want to use the Digital Twin as the Digital Avatar as a backend to their AI system. The Digital Twin helps provide more privacy, scale and energy efficiency to Aiqom personal AI solutions. Aiqom can make Digital Twin's more intelligent and responsive in a sustainable smart way to the needs of our day to day digital life. Its the fusion of AI and our personal Digital Life.
 
 Expectation is to have joint products out by end 2021.
-
-## Join saving our planet
-
-<!--
-## TFGrid Solution
-
-### Roadmap -->
