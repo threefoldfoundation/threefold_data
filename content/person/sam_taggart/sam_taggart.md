@@ -8,12 +8,11 @@ excerpt: Let's co-create a better future for humanity and for our planet.
 linkedin: https://www.linkedin.com/in/samtaggart/
 websites: https://threefold.io/
 image: ./sam_taggart.jpg
-projects: [threefold_foundation]
+projects: [threefold_foundation, twin, aci]
 countries: [Nomad]
 cities: [Nomad]
 private: 0
 ---
-# Sam Taggart
 
 <BR>
 

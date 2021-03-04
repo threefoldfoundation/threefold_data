@@ -8,7 +8,7 @@ excerpt: Monk, studying the philosophical traditions of India, gaining deep insi
 linkedin: 
 websites: http://justlovecollective.com/
 image: ./rishi_chidananda.jpeg
-projects: [threefold_foundation]
+projects: []
 countries: []
 cities: []
 private: 0

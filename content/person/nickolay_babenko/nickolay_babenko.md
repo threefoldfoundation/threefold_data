@@ -8,7 +8,7 @@ excerpt: Engineer crypto-entrepreneur avant la lettre
 linkedin: https://www.linkedin.com/in/babenkonickolay/
 websites: https://threefold.io/, https://www.mazraa.io/, https://www.fair-swap.org
 image: ./nickolay_babenko.jpg
-projects: [threefold_tech]
+projects: [threefold_foundation, fairswap, twin]
 countries: [Russia]
 cities: [Moscow]
 private: 0

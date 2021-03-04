@@ -13,7 +13,6 @@ countries: [Thailand, Indonesia, Austria]
 cities: [Bali, Ubud, Vienna]
 private: 0
 ---
-# Nikolaus Heger
 
 <BR>
 
