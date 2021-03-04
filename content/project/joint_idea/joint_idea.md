@@ -5,9 +5,9 @@ countries: []
 cities: []
 rank: 2
 excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativity, and serendipity by connecting ideas, people, place, and time.
-image: ./placeholder.jpg
+image: ./jointidea.png
 image_caption: joint_idea
-logo: ./jointidea.png
+logo: ./joint_idea_logo.png
 members: []
 websites: https://www.lifeworkslabs.com
 tags: [aci, farming, twin]
