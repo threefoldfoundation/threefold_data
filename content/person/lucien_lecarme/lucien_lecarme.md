@@ -8,7 +8,7 @@ excerpt: Lucien firmly believes that for humanity to step into a new economic sy
 linkedin: https://www.linkedin.com/in/lucien-lecarme-68080148/
 websites: 
 image: ./lucien_lecarme.jpg
-projects: [threefold_foundation]
+projects: []
 countries: []
 cities: []
 private: 1

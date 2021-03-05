@@ -8,7 +8,7 @@ excerpt: Belgian researcher, lecturer, and author.
 linkedin: https://www.linkedin.com/in/timmerskoen/
 websites: http://koentimmers.com, http://takeactionglobal.org
 image: ./koen_timmers.jpg
-projects: [earthproject]
+projects: [climate_action_project]
 countries: [Belgium]
 cities: [Hasselt]
 private: 0

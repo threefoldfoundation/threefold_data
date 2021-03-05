@@ -5,7 +5,7 @@ countries: [Portugal]
 cities: []
 rank: 2
 excerpt: Empower every global citizen to protect and regenerate nature.
-image: ./generation_blue.png
+image: ./genblue.png
 image_caption: generation_blue
 logo: ./logo.png
 members: [alan_laubsch]

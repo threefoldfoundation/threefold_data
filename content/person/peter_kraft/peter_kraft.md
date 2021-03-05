@@ -7,10 +7,10 @@ bio: I worked 35 years for HP/HPE as sales/product manager/EMEA Director for Bus
 
 excerpt: Worked 35 years for HP/HPE as sales/product manager/EMEA Director for Business Critical Server Business.
 linkedin: https://www.linkedin.com/in/peter-kraft-3775931/
-websites: https://threefold.io/
-projects: [threefold_foundation]
-image: ./peter_kraf_processed.jpg
-countries: [Austrian]
+websites: 
+projects: []
+image: ./peter_kraf.jpg
+countries: [Austria]
 cities: []
 private: 1
 ---

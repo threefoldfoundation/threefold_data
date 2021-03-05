@@ -1,6 +1,6 @@
 ---
-id: digibyte_foundation
-title: Digibyte Foundation
+id: digibyte
+title: Digibyte
 countries: [Global]
 cities: [Global]
 rank: 5
@@ -16,11 +16,11 @@ linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 ---
 
 
-# DigiByte Foundation
+# DigiByte
 
 ## About
 
-The Digibyte Foundation's vision is to empower a sustainable decentralized world. The core values of the Digibyte community are decentralization, inclusiveness, permissionless, integrity, transparency - openness, consensus, thought leadership. We aim to stimulate global adoption of our blockchain and similar technologies that fulfil the core principles of decentralization in general. Decentralization needs to happen to see a better redistribution of opportunities, growth and value within our global society.
+The Digibyte's vision is to empower a sustainable decentralized world. The core values of the Digibyte community are decentralization, inclusiveness, permissionless, integrity, transparency - openness, consensus, thought leadership. We aim to stimulate global adoption of our blockchain and similar technologies that fulfil the core principles of decentralization in general. Decentralization needs to happen to see a better redistribution of opportunities, growth and value within our global society.
 
 <BR>
 

@@ -2,19 +2,17 @@
 id: sacha_obeegadoo
 name: Sacha Obeegadoo
 rank: 4
-memberships: [foundation]
+memberships: [foundation, twin, aci]
 bio: Sacha is a positive and outgoing individual. Seeking challenging and dynamic opportunities, he invests himself in sustainable activities with a view to producing real results and doing good for the world. He believes that change is the only constant.
 excerpt: Organisational and Ecosystem Strategy
 linkedin: https://www.linkedin.com/in/sachaobeegadoo/
-websites: https://threefold.io/, https://www.mazraa.io/
+websites: https://threefold.io/
 image: ./sacha_obeegadoo.jpg
-projects: [threefold_foundation]
+projects: [threefold_foundation, twin, aci]
 countries: [Nomad]
 cities: [Nomad]
 private: 0
 ---
-
-# Sacha Obeegadoo
 
 <BR>
 

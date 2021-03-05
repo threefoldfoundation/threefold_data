@@ -10,6 +10,6 @@ websites: https://dashnext.org/
 image: ./sascha_jochum.jpg
 projects: [dash]
 countries: [Thailand]
-cities: [Bangkok City]
+cities: [Bangkok]
 private: 0
 ---

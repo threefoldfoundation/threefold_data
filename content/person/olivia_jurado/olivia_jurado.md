@@ -8,7 +8,7 @@ excerpt: Olivia is a Co-Founder of the THREEFOLD LOVE initiative.
 linkedin: https://www.linkedin.com/in/oliviajurado/
 websites:
 projects: [threefold_love]
-image: ./olivia_jurado_processed.jpg
+image: ./olivia_jurado.jpg
 countries: []
 cities: []
 private: 1

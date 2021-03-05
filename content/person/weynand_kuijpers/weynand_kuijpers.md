@@ -2,11 +2,11 @@
 id: weynand_kuijpers
 name: Weynand Kuijpers
 rank: 4
-memberships: [foundation, tech, cofounders]
+memberships: [foundation, tech, cofounders, ambassadors, farmers]
 bio: Weynand is a rocket scientist that loves slingshotting new technologies into customer-centric orbits. He has been working with teams at the start of the internet and spent the celebration of the year 2000 sitting in a datacenter.  Nothing happened there and then but in the following years he developed a growing interest to help, optimise and simplify the world of IT. First follower, team player and very passionate about bringing equal opportunities to young talent around the world. For Weynand, the Internet is where the next generation will expand their minds and innovate. He experienced this first-hand when his son outsmarted him by learning online how to boil an egg in a microwave. Such learning ability should be available globally, sustainably and efficiently.
 excerpt: An international entrepreneur and part of a diverse team of innovators.
 linkedin: https://www.linkedin.com/in/weynandkuijpers/
-websites: https://threefold.io/, https://www.mazraa.io/
+websites: https://threefold.io/, https://threefold.tech
 image: ./weynand_kuijpers.jpeg
 projects: [threefold_foundation, threefold_tech]
 countries: [UAE, Spain]

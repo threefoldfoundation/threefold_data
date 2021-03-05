@@ -5,15 +5,17 @@ countries: []
 cities: []
 rank: 2
 excerpt: Safe City is a technology partner, with a core focus on deploying digital technologies within the UAE.
-image: ./placeholder.jpg
+image: ./safe_city2.png
 image_caption: safe_city
-logo: ./logo_placeholder.png
+logo: ./safe_city.png
 members: []
 websites: https://www.safecity.com
-tags: []
+tags: [cloud]
 private: 0
 linkedin: https://www.linkedin.com/company/safecitygroup/
 ---
+
+![](img/safe_citypng)
 
 # Safe City
 
@@ -33,10 +35,7 @@ Safe City is a technology partner, with a core focus on deploying digital techno
 
 ## TFGrid Solution
 
-### Roadmap 
+### Roadmap
 
 TODO: Add people?
 -->
-
-
-

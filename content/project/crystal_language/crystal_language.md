@@ -10,11 +10,10 @@ image_caption: crystal_language
 logo: ./logo.png
 members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
-tags: [twin, aci]
+tags: []
 private: 0
 linkedin: https://www.linkedin.com/company/crystal-language/about/
 ---
-
 
 # Crystal Programming Language
 
@@ -27,7 +26,6 @@ It started out, like many things at [Manas.Tech](https://manas.tech/), as an exp
 <iframe src="https://player.vimeo.com/video/444820297" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
-
 
 ## Mission
 

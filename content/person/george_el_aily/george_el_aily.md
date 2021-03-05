@@ -11,5 +11,5 @@ projects: [kleos]
 image: ./george_el_aily.jpg
 countries: []
 cities: []
-private: 1
+private: 0
 ---

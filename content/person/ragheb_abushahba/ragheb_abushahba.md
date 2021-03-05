@@ -7,9 +7,9 @@ bio: Ragheb Abushahba, Independent Egyptologist, intuitive life coach, Siddha Yo
 excerpt: Ragheb Abushahba, Independent Egyptologist, intuitive life coach, Siddha Yogi, affectionately known as RA the Coach.
 linkedin: https://www.linkedin.com/in/ragheb-abushahba-a101034/
 websites:
-projects: [threefold_foundation]
-image: ./ragheb_abushahba_processed.jpg
+projects: []
+image: ./ragheb_abushahba.jpg
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 1
 ---

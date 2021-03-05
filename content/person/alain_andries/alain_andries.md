@@ -7,8 +7,8 @@ bio: Experienced Managing Director with a demonstrated history of working in the
 excerpt: Director Sales EMEA, Enterprise & Partner Sales at Syniverse
 linkedin: https://www.linkedin.com/in/alain-andries-a04a9110/
 websites: 
-image: ./alain.jpeg
-projects: [threefold_foundation]
+image: ./alain_andries.jpeg
+projects: []
 countries: [Belgium]
 cities: []
 private: 1

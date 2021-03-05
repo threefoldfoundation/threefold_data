@@ -8,7 +8,7 @@ excerpt: Future-proof Competence Developer | Matchmaker | Inspirator | Passionat
 linkedin: https://www.linkedin.com/in/yveskerwyn/
 websites:
 image: ./yves_kerwyn.jpg
-projects: [threefold_foundation]
+projects: []
 countries: [Belgium]
 cities: [Ghent]
 private: 1

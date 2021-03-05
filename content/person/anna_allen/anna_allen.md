@@ -8,7 +8,7 @@ excerpt: A Social Scientist, she is Globally known as a renowned Advisor, Author
 linkedin: https://www.linkedin.com/in/annanaturalista/
 websites: https://www.annanaturalista.com/
 image: ./anna_allen.jpeg
-projects: [anna_naturalista]
+projects: []
 countries: [Italy]
 cities: [Damanhur]
 private: 0

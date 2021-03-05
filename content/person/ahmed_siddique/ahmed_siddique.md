@@ -7,7 +7,7 @@ bio: A hardworking individual and a casual guy who loves to explore new ideas in
 excerpt: A hardworking individual and a casual guy who loves to explore new ideas in Tech.
 linkedin: https://www.linkedin.com/in/ahmed-siddique-a4126a98/
 websites: https://threefold.io/, https://www.mazraa.io/
-image: ./ahmed.jpeg
+image: ./ahmed_siddique.jpeg
 projects: [threefold_foundation]
 countries: [UAE]
 cities: [Dubai]
