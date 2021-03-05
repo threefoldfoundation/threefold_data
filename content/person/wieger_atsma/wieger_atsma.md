@@ -7,7 +7,7 @@ bio: Wieger have been working for several companies in the field of communicatio
 excerpt: Wieger have been working in communications and advertising for over 20 years.
 linkedin: https://www.linkedin.com/in/wiegeratsma/
 websites: 
-image: ./wieger_atsma_processed.jpg
+image: ./wieger_atsma.jpg
 projects: []
 countries: [The Netherlands]
 cities: []
