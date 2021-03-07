@@ -3,7 +3,7 @@ id: a_better_understanding_of_wealth
 title: A Better Understanding of Wealth
 tags: [values, twin]
 category: [Digital Twin]
-image: ./a_better_understanding_of_wealth.jpeg
+image: ./a_better_understanding_of_wealth.jpg
 image_caption: a better understanding of wealth
 excerpt: Wealth is more than the accumulation of money and resources.
 authors: [alexandre_hannelas]
