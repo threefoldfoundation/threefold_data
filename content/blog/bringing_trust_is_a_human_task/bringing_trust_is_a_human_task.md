@@ -1,7 +1,7 @@
 ---
 id: threefold_foundation_33
 title: Bringing Trust is a Human Task 
-tags: [Twin]
+tags: [Digital Twin]
 category: [twin]
 image: ./bringing_trust.png
 image_caption: humans
