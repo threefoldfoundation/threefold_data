@@ -1,7 +1,7 @@
 ---
 id: escape_great_hack
 title: An escape from the Great Hack
-tags: [tech]
+tags: [tech, twin, farming, cloud, foundation, aci]
 category: [farming,cloud,twin,foundation,aci]
 image: ./escape_great_hack.png
 image_caption: technology hackers

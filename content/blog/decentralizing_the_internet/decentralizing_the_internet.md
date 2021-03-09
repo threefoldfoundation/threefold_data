@@ -2,6 +2,7 @@
 id: decentralzing_the_internet
 title: Decentralizing the Internet
 tags: [farming, grid, tech]
+category: [farming, grid, tech]
 image: ./decentralizing_the_internet.png
 category: [farming,cloud,foundation,aci]
 image_caption: technology internet

@@ -1,8 +1,8 @@
 ---
 id: actually_you_are_the_product 
 title: Actually you are the product 
-tags: [peer_to_peer, twin]
-category: [Digital Twin]
+tags: [Digital Twin]
+category: [twin]
 image: ./actually_you_are_the_product.png
 image_caption: actually you are the product
 excerpt: Now more than ever with this global pandemic happening since late 2019, our lives are being shaped by our interaction with the digital world
