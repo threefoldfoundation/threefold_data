@@ -17,9 +17,15 @@ linkedin: ''
 
 # Cloud 28+
 
-Cloud 28+ is the world's largest independent community promoting cloud service and knowledge sharing. It serves end customers, cloud service providers, solution providers, ISVs, systems integrators, distributors, and government entities dedicated to accelerating enterprise cloud adoption.
+<br/>
 
-Cloud28+ supports the expansion of the Threefold Grid by proposing ThreeFold solutions within their communities.
+![cloud](cloud_28_2.png)
+
+<br/>
+
+**Cloud 28+** is the world's largest independent community promoting cloud service and knowledge sharing. It serves end customers, cloud service providers, solution providers, ISVs, systems integrators, distributors, and government entities dedicated to accelerating enterprise cloud adoption.
+
+**Cloud28+** supports the expansion of the Threefold Grid by proposing ThreeFold solutions within their communities.
 
 <!-- ## Support this project
 

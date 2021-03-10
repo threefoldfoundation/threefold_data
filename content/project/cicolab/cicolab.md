@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/cicollaboratory/
 
 # Collective Intelligence Collaboratory
 
+<br/>
+
+![cicolab](cicolab2.png)
+
+<br/>
+
 ## About
 
 At *Collective Intelligence Collaboratory - CICOLAB*, we know that by combining the right mix of diverse voices, simple tools, and methods that really work – such as better profiling methods, mapping, collaborative editing, peer learning, and Rapid Sensemaking – we can create the conditions where paradigm-shifters in multiple fields can better collaborate. In these ways we can better find each other, communicate more easily about what we are working on, and learn about tools and techniques to co-create, co-work and co-produce more effectively.
@@ -61,21 +67,25 @@ We design easy ways to generate “Deep Profiles,” videos and short texts that
 CICOLAB is at the crossroads of many different networks. Our prolific network weaving is driven by purpose, creativity and fun. Increasingly we include groups of many cultures speaking many languages.
 We host discussions and process them thoroughly (generating transcripts, summary notes, and graphic art) to leave behind “knowledge trails” for anyone to follow.
 
+<br/>
 
 ## Mission
 
 CICOLAB brings together visionaries from diverse fields to develop simple, practical ways to amplify network intelligence.
 
+<br/>
+
 ## Impact
 
 We create, collect and apply effective, accessible tools and methods to make groups smarter. Our approach is to allow the communication of projects, ideas and people to be easier and better so network members can find, align and collaborate with each other. 
 
+<br/>
+
 ## Powered by ThreeFold
 
-We can help people, projects and companies “Powered by ThreeFold” to find their “soul mates” (i.e. ideal partners) around the world by developing a dynamic, scalable onboarding system that helps network members find their place in the ecosystem and better convey their needs and offers. 
+We can help people, projects and companies “Powered by ThreeFold” to find their “soul mates” (i.e. ideal partners) around the world by developing a dynamic, scalable onboarding system that helps network members find their place in the ecosystem and better convey their needs and offers.
 
-<BR>
-
+<br/>
 We’re also developing innovative gaming methods to assess risk and minimize mis- or disinformation (aka “Crap Detection”). Thus the ThreeFold network can remain safe, healthy and vibrant, and protect itself from toxic patterns of abuse that have destroyed other coalitions.
 
 

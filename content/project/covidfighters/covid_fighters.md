@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/covidfighters/
 
 # CovidFighters
 
+<br/>
+
+![covid](covidfighters2.png)
+
+<br/>
+
 ## About
 
 Covid Fighters have built a technology consortium to test Covid19 from a mobile unit to test whether or not a test subject is infected and contagious. The actual test takes only a few hours and the mobile unit can be deployed in a matter of days.
@@ -33,13 +39,23 @@ Various types of people (that need to be tested) can be tested easily and freque
 
 To bring the highest standards of safety during Covid 19 while empowering people to maintain their ‘normal lives’ during such situations.
 
+<br/>
+
 ## Impact
 
 By bringing the necessary solutions for mass testing and auditing, Covid Fighters can prevent the further spread of viruses such as Covid 19 while enabling individuals, businesses and economies to maintain their 'usual' ongoing activities. Considering how Covid Impacted our world, such solutions are of upmost importance to protect our poeple and economies.
 
+<br/>
+
+![covidfighters](covidfighters_action.jpg)
+
+<br/>
+
 ## Powered by ThreeFold
 
 Covid Fighters applications will run on the ThreeFold Grid. ThreeFold may also potentially provide 3bot technology to ensure privacy and security around people's data.
+
+<br/>
 
 ## Join saving our planet!
 

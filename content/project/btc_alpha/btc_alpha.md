@@ -13,10 +13,16 @@ members: []
 websites: https://btc-alpha.com/en/
 tags: []
 private: 0
-linkedin: ""
+linkedin: ''
 ---
 
 # BTC-Alpha
+
+<br/>
+
+![btc_alpha](btc_alpha2.png)
+
+<br/>
 
 ## About
 

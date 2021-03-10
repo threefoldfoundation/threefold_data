@@ -18,6 +18,12 @@ linkedin:
 
 # Artheon
 
+<br/>
+
+![artheon](artheon2.jpg)
+
+<br/>
+
 ## About
 
 _The Artheon VR Museum_ is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we have compiled 40,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere.
@@ -32,15 +38,25 @@ _The Artheon VR Museum_ is and always will be a free educational platform offeri
 
 Artheon's mission is to enable free global access to history, art and culture to accelerate human development and improve our ability to tap into collective intelligence.
 
+<br/>
+
 ## Impact
 
 Art can act as a catalyst to tap into our inner potential as well as our collective intelligence. When going through the history of humanity, it is clear that Art played a major role in shaping the most advanced civilizations of humankind, across eras. Art is a proven tool to inspire faith and elevate cultural growth, while bringing a new perspectives about our reality. Today, studies show that there is a positive correlation between schoolchildren's grades in math and literacy, and their involvement with drama or music activities. Also, art brings people together and gives people a chance to be part of a community. Art influences society by changing opinions, instilling values and translating experiences across space and time. Research has shown art affects the fundamental sense of self. Therefore we believe that free global access to art and culture is a prerequisite for a development of human kind.
+
+<br/>
+
+![artheon](artheon_experience.jpg)
+
+<br/>
 
 ## Powered by ThreeFold
 
 Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold Grid. Being hosted on the ThreeFold Grid was an evident choice for Artheon so as to share our history, art and culture on an equal and sustainable Internet.
 
 TFGrid allows everyone in the world with acces to this wonderful virtual reality with more performance and lower cost.
+
+<br/>
 
 ## Join saving our planet
 

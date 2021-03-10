@@ -8,15 +8,20 @@ excerpt: An innovative blockchain for digital assets, smart contracts, dApps and
 image: ./digibyte.png
 image_caption: digibyte
 logo: ./logo.png
-members: [hans_koning]
-websites: https://digibytefoundation.io/
+members: [hans_koning, rudy_bouwman, rutger_krijnen]
+websites: https://digibyte.io/
 tags: [cloud, farming, aci, tech, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 ---
 
-
 # DigiByte
+
+<br/>
+
+![digibyte](digibyte2.jpg)
+
+<br/>
 
 ## About
 
@@ -33,13 +38,19 @@ The Digibyte's vision is to empower a sustainable decentralized world. The core 
 
 DigiByte is more than a faster digital currency; it is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication.
 
+<br/>
+
 ## Impact
 
 Thousands of volunteers from all over the world have contributed to DigiByte in countless ways for years to make it what it is today. DigiByte is a collective movement to protect and promote the true principles of decentralization and empower communities to establish and maintain a sustainable decentralized world. The DigiByte Foundation aims to initiate and promote projects and community initiatives, but also promote the DigiByte ecosystem and further development by supporting creators, developers and marketers, with a focus on outreach, awareness, education, adoption.
 
+<br/>
+
 ## Powered by ThreeFold
 
 The DigiByte network runs on a mix of servers managed by DigiByte volunteers and virtual machines or containers in commercial cloud provider environments.  This is decentralized to a degree but can be more decentralized if the DigiByte blockchain nodes can run on ThreeFold Grid nodes truly decentralized, energy-efficient and everywhere. 
+
+<br/>
 
 ## Join saving our planet!
 

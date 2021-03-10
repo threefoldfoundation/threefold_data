@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/beliive/
 
 # Beliive
 
+<br/>
+
+![beliive](beliive2.png)
+
+<br/>
+
 ## About
 
 *Beliive* is a community where people can exchange experiences and services using time as the only currency. With 200.000 members to date Beliive is the world's largest time bank. Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time and the way we collaborate with each other. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complimentary economy based on an abundant resource available to everyone equally.
@@ -32,13 +38,23 @@ linkedin: https://www.linkedin.com/company/beliive/
 
 Our mission is to empower and inspire people to recognize abundance by living new experiences one hour at a time.
 
+<br/>
+
 ## Impact
 
 We have created a platform where low-income and unemployed people can exchange their time (hours) of volunteering for knowledge and skills. To scale this and to allow for collaboration opportunities, Beliive has an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology.
 
+<br/>
+
+![beliive](beliive_app.jpg)
+
+<br/>
+
 ## Powered by ThreeFold
 
 Beliive and ThreeFold recognize the power of equality to include and connect people to their unlimited abundance. We are peer-to-peer systems that are here to support the awakening of humanity to its own potential. Beliive will connect users' wallets and identity with ThreeFold, using its technology to support time exchange transactions. Beliive will also connect time credits to TF Foundation partners and communities, providing a peer-to-peer platform for TF Foundation to spread the use of time credits for economic empowerment.
+
+<br/>
 
 ## Join saving our planet!
 
