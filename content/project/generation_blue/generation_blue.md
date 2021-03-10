@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/genblue/
 
 # Generation Blue
 
+<br/>
+
+![generation_blue](generationblue2.png)
+
+<br/>
+
 ## About
 
 Earth positive means taking responsibility for our footprint and leaving the planet better than when we found it. We enable the shift to an Earth Positive economy based on reciprocity, where every act of consumption is met with an opposite act of regeneration and protection of nature. We do this by building a marketplace of products and services powered by positive impact assets – tokens that when purchased, go directly and verifiably (via blockchain) to regenerative impact like the protection of rainforest or restoration of mangroves.
@@ -32,13 +38,19 @@ Earth positive means taking responsibility for our footprint and leaving the pla
 
 Empower every global citizen to protect and regenerate nature
 
+<br/>
+
 ## Impact
 
 We protect biodiversity – focusing on the most threatened ecosystems such as tropical forests and mangroves – by empowering communities with verified positive impact assets. Anyone can get earth positive via our marketplace of token-backed products and services.
 
+<br/>
+
 ## Powered by ThreeFold
 
 We are proud to partner with ThreeFold to securely host our decentralized mobile apps.
+
+<br/>
 
 ## Join saving our planet!
 

@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/harmony-one/
 
 # Harmony
 
+<br/>
+
+![harmony](harmony2.png)
+
+<br/>
+
 ## About
 
 Harmony is a fast and open blockchain for decentralized applications.
@@ -27,6 +33,7 @@ Harmony is a fast and open blockchain for decentralized applications.
 - Harmony aims to build an open network of nodes operated and governed by a large community.
 - Harmony has designed a novel Proof-of-Stake (PoS) mechanism for network security and economics - Effective Proof-of-Stake (EPoS) which reduces centralization and distributes rewards fairly to thousands of validators
 
+<br/>
 
 ## Harmony and ThreeFold
 
