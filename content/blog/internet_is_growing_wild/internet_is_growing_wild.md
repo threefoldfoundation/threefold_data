@@ -2,7 +2,7 @@
 id: internet_is_growing_wild
 title: Internet is growing wild
 tags: [tech, sustainability]
-category: [farming,cloud,foundation,aci,twin]
+category: [farming,cloud,foundation,aci]
 image: ./internet_is_growing_wild.png
 image_caption: planet
 excerpt: The internet is growing at an extremely fast pace, but is that a good thing?

@@ -2,7 +2,7 @@
 id: why_become_a_farmer
 title: Why Anyone Should Consider Becoming A (ThreeFold) Farmer
 tags: [farming, grid]
-category: [farming]
+category: [farming, grid]
 image: ./become_a_farmer.png
 image_caption: farming
 excerpt: The ThreeFold Foundation is changing the way how "we" as a whole approach the internet and its underlying technology..
