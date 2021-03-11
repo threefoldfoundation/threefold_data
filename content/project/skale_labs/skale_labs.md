@@ -5,7 +5,7 @@ countries: [USA]
 cities: [San Francisco]
 rank: 2
 excerpt: Run your dApps in a decentralized modular cloud built for real-world needs and configured for your requirements.
-image: ./skale_image.png
+image: ./skale_labs.png
 image_caption: skale_labs
 logo: ./logo.png
 members: [christine_renee_perry]
@@ -17,13 +17,20 @@ linkedin: https://www.linkedin.com/company/skale-labs/
 
 # Skale Labs
 
-## About
+<br/>
 
+![skale](skale_labs2.png)
+
+<br/>
+
+## About
 
 SKALE is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum.
 
 - SKALE chains can execute sub-second block times, run up to 2,000 tps per chain, and run full-state smart contracts in addition to decentralized storage, execute Rollups, and machine learning in EVM.
 - The SKALE Network is an open-source project with many contributors including SKALE Labs.
+
+<br/>
 
 ## Powered by ThreeFold
 

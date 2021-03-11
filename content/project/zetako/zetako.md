@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/zetako/
 
 # Zetako
 
+<br/>
+
+![zetako](zetako2.png)
+
+<br/>
+
 ## About
 
 We are creating, storing, and sending more data than ever before, and this trend will certainly continue as more people come online and with trends such as Internet of Things and 5G, as examples. More data means more energy consumption, which is not good for our planet.
@@ -36,25 +42,31 @@ This next part is a little geeky. :) We have developed a brand new mathematical 
 
 Zetako is dedicated to reducing energy usage &  CO2 emission for the transmission and storage of data by applying a new lossless data compression technology.
 
+<br/>
+
 ## Impact
 
 We are in a position to become the standard of lossless data compression for the next decades that will provide a solution to the problem of every growing amount of data and the energy used to transport and store it.
 
 By reducing the size of data files - whether when transported or stored - we reduce the amount of energy that is required to do so and by reducing energy consumption we reduce C02 emissions.
 
+<br/>
+
 ## Powered by ThreeFold  
 
 We would like to be embedded into the backbone of ThreeFold - to be the de facto lossless data compression algorithm being used - benefitting all stakeholders. In combination with ThreeFold's already-efficient infrastructure, we will provide State-of-the-Art lossless compression made for the 21st century, culminating it less use of resources for the benefit of all.
+
+<br/>
 
 ## Join saving our planet!
 
 It is expected that in 2025 the world will produce 175 ZB of data and an eye-watering 9.000 Terawatt will be used to operate and handle this - We need to look at reducing the energy consumption that goes into our digital lives.
 
-## Support this project
+<!-- ## Support this project
 
 Zetako is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
-Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Zetako, and the growth of a new Conscious Internet.
+Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Zetako, and the growth of a new Conscious Internet. -->
 
 <!-- ### Roadmap
 

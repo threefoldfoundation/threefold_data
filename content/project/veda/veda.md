@@ -1,38 +1,40 @@
 ---
 id: veda
 title: Veda
-countries: []
-cities: []
+countries: [Egypt]
+cities: [Nile]
 rank: 2
-excerpt: A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.
-image: ./placeholder.jpg
+excerpt: Discover ancient Egypt and feel its special energies.
+image: ./veda.png
 image_caption: veda
-logo: ./logo_placeholder.png
-members: []
+logo: ./logo.png
+members: [isabelle_peeters]
 websites: https://www.veda-egypt.com
-tags: []
+tags: [aci]
 private: 0
 linkedin: ''
 ---
 
-# ThreeFold Love
+# Veda Retreats
+
+<br/>
+
+![veda](veda2.jpg)
+
+<br/>
 
 ## About
 
-A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.  
+VEDA offers unique, authentic, and private cruises with organic food, green energy, and a warm-hearted crew.
+<br/>
+There is no other experience like us on the Nile.
 
-- TF Love Stories, ThreeFold Love Farm, Love Nodes
-- Public & TF Community Engagement 
-- Empowering women and marginalized communities by guiding them into the digital economy
-- Alternative fundraising methods for grassroots projects
-- Digital Platform (coming soon)
-- Connect with us and share your love stories with us on FFP, Instagram [@threefold.love](https://www.instagram.com/threefold.love/), Twitter [@love_threefold](https://twitter.com/love_threefold) & FB
+<BR>
 
-Purchase TF Love branded fair trade merchandise and TF Love swag (stickers, pins, t-shirts, caps etc.) that directly support the causes we partner with. [ TFTs Accepted :) ]
+<iframe src="https://player.vimeo.com/371621672" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-## Mission
+<BR>
 
-ThreeFold Love is a people-centered movement behind the technology, working on the ground to activate and engage communities around the world to come together to become more responsible digital citizens and inviting nonprofits, grassroots organizations and the rapid expanding global conscious community into the fold.
 
 <!-- ## Impact
 

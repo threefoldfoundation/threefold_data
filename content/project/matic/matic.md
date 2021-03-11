@@ -17,6 +17,12 @@ linkedin: https://www.linkedin.com/company/matic-network/
 
 # Matic network 
 
+<br/>
+
+![matic](matic2.jpg)
+
+<br/>
+
 ## About
 
 Matic Network is a decentralized scalability platform solution using an adapted version of the Plasma framework that empowers Ethereum-based DApps with the high-speed and extremely low-cost transactions required to achieve mass adoption.
@@ -24,6 +30,7 @@ Matic Network is a decentralized scalability platform solution using an adapted 
 - With 60+ DApps building on their network already, Matic Network is one of the most widely adopted DApp platforms in the industry.
 - The Matic Network blockchain achieves finality using PoS checkpoints which are pushed to the Ethereum mainchain. This enables a single Matic sidechain to theoretically achieve 65,535 transactions per block, and possibly millions of transactions on multiple chains in the future.
 
+<br/>
 
 ## Matic Network and ThreeFold
 

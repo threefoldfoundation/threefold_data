@@ -5,9 +5,9 @@ countries: []
 cities: []
 rank: 2
 excerpt: Stellar is an open-source network for currencies and payments.
-image: ./placeholder.jpg
+image: ./stellar.png
 image_caption: stellar
-logo: ./logo_placeholder.png
+logo: ./logo.png
 members: []
 websites: https://www.stellar.org
 tags: []
@@ -16,6 +16,12 @@ linkedin: https://www.linkedin.com/company/stellar-development-foundation/
 ---
 
 # Stellar
+
+<br/>
+
+![stellar](stellar2.jpg)
+
+<br/>
 
 ## About
 

@@ -15,17 +15,24 @@ private: 0
 linkedin: https://www.linkedin.com/company/neo-blockchain/
 ---
 
+# NEO
 
-# Joint Mission
-Solving IT decentralization and cloud computing efficiency for NEO dApp developers and node operators!
+<br/>
 
-# About NEO
-NEO is a scalable, fast, and ultra-secure blockchain driven by a global community of developers and node operators.
+![neo](neo2.jpeg)
+
+<br/>
+
+## About
+**NEO** is a scalable, fast, and ultra-secure blockchain driven by a global community of developers and node operators.
 
 * It utilizes blockchain technology and digital identities to digitize and automate the management of assets using smart contracts.
 * Using a distributed network, it aims to create a smart economy by building infrastructures of the next-gen Internet and creating a solid foundation for mass blockchain adoption.
 
-# NEO and ThreeFold
+## Mission
+Solving IT decentralization and cloud computing efficiency for NEO dApp developers and node operators!
+
+## NEO and ThreeFold
 ThreeFold and NEO came together to solve one major problem, which is IT decentralization for dApp developers, and particularly for developers and enterprises looking into building decentralized applications on top of the NEO Blockchain.
 
 * Through our collaboration, ThreeFold is empowering NEO dApp developers with peer-to-peer cloud capacity for decentralized storage, compute, and networking to further cost-efficiently decentralize their IT infrastructure – escaping the monopolies of centralized cloud providers, without compromising on security and efficiency.

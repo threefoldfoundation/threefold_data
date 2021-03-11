@@ -15,8 +15,13 @@ private: 0
 linkedin: https://www.linkedin.com/company/unitventures/
 ---
 
-
 # Unit
+
+<br/>
+
+![unit](unit2.png)
+
+<br/>
 
 ## About
 
@@ -35,23 +40,30 @@ We have an underlying UNIT technology which powers two-sided marketplaces (like 
 
 To build the next economy.
 
+<br/>
+
 ## Impact
 
 We believe well-being of all is important, and are committed to creating opportunities and solving inequality in the world by moving towards being structured as a cooperative, this means that the value created is distributed with the customers and providers, not just the founders and the investors. This will ultimately solve the huge income inequity. We believe  this will give an opportunity for people to do good, and focus on what they enjoy, rather than simply making money to support themselves.
+
+<br/>
 
 ## Powered by ThreeFold
 
 We are planning to use ThreeFold's peer-to-peer infrastructure for the Unit.
 
+<br/>
  
 ## Join saving our planet
  
 Reach out to one of our community members, to join the platforms or events, as well as if you’re interested in being a provider or customer to support the circular economy.
 
-## Support this project
+
+<!-- ## Support this project
+
 Unit is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
-Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Unit, and the growth of a new Conscious Internet.
+Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Unit, and the growth of a new Conscious Internet. -->
 
 <!-- ## TFGrid Solution
 

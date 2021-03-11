@@ -7,7 +7,7 @@ bio: Farmers hold the key to a more sustainable society. With smallholder farmer
 excerpt: My dream is to support practices that create well-being with the poorest farmers and workers on our globe.
 linkedin: https://www.linkedin.com/in/jeroen-douglas/
 websites: https://www.solidaridadnetwork.org/
-image: ./jeroen_douglas.jpg
+image: ./jeroen_douglas.png
 projects: [solidaridad]
 countries: [The Netherlands]
 cities: [Utrecht]

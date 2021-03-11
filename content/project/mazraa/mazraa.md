@@ -8,7 +8,7 @@ excerpt: Mazraa is an independent Farming Cooperative based in Dubai UAE.
 image: ./placeholder.jpg
 image_caption: mazraa
 logo: ./logo_placeholder.png
-members: []
+members: [adnan_fatayerji, gloria_anne]
 websites: https://www.mazraa.io
 tags: []
 private: 0
@@ -16,6 +16,12 @@ linkedin: https://www.linkedin.com/company/mazraa/about/
 ---
 
 # Mazraa
+
+<br/>
+
+![mazraa](mazraa2.png)
+
+<br/>
 
 ## About
 

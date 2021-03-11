@@ -5,9 +5,9 @@ countries: []
 cities: []
 rank: 2
 excerpt: Liquid is the world’s most comprehensive and secure trading platform.
-image: ./placeholder.jpg
+image: ./liquid2.png
 image_caption: liquid
-logo: ./logo_placeholder.png
+logo: ./logo.png
 members: []
 websites: https://www.liquid.com
 tags: []
@@ -16,6 +16,12 @@ linkedin: https://www.linkedin.com/company/liquidglobal/
 ---
 
 # Liquid
+
+<br/>
+
+![liquid](liquid2.png)
+
+<br/>
 
 ## About
 

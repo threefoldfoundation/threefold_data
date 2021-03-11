@@ -15,8 +15,13 @@ private: 0
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 ---
 
-
 # SEEDS
+
+<br/>
+
+![seeds](seeds2.png)
+
+<br/>
 
 ## About
 
@@ -32,13 +37,19 @@ linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 
 SEEDS is a global movement that aligns radical empowerment of purpose with finance with the mission to bring about a modern day Renaissance. SEEDS is a regenerative financial system for a thriving global society.
 
+<br/>
+
 ## Impact
 
 Holistic approaches are accomplished by evaluating the effectiveness through all four dimensions of natural, human, social and built capital. We measure effectiveness based on the valuation of all outcomes with the understanding that human activity should enhance the environment and the community by providing benefits to the majority and not only a few.
 
+<br/>
+
 ## Powered by ThreeFold
 
 SEEDS and ThreeFold are a natural pair of decentralized cooperative internet to run a decentralized cooperative financial system. We intend to integrate our systems. Together we provide essential tools for shaping a civilization which is more resilient, rewarding, and regenerative.
+
+<br/>
 
 ## Join saving our planet!
 
