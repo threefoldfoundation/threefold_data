@@ -2,7 +2,7 @@
 id: christopher_hutton
 name: Christopher Hutton
 rank: 2
-memberships: [tech, ambassadors, cofounders]
+memberships: [tech, cofounders]
 bio: A serial entrepreneur and technology fanatic for 25 years now. Always researching tech trends and looking for new technologies to introduce to Africa.
 excerpt: A serial entrepreneur and technology fanatic.
 linkedin: https://www.linkedin.com/in/chris-hutton-a3034777/
