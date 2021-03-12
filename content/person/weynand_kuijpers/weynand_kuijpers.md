@@ -7,7 +7,7 @@ bio: Weynand is a rocket scientist that loves slingshotting new technologies int
 excerpt: An international entrepreneur and part of a diverse team of innovators.
 linkedin: https://www.linkedin.com/in/weynandkuijpers/
 websites: https://threefold.io/, https://threefold.tech
-image: ./weynand_kuijpers.jpeg
+image: ./weynand_kuijpers.png
 projects: [threefold_foundation, threefold_tech]
 countries: [UAE, Spain]
 cities: [Dubai, Madrid]
