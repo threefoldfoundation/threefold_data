@@ -3,10 +3,10 @@ id: own_kemp
 name: Owen Kemp
 rank: 4
 memberships: [tech, cofounders]
-bio: In all walks of life, Owen looks for an equitable exchange of value and believes in doing everything in a socially responsible way. He loves working with diverse teams as they best represent our amazing planet. Emerging markets have been his passion and his profession. he has travelled to almost 150 countries helping local teams to flourish. Once described as an optimist and anarchist. he has humour and enjoys doing things in an unconventional way.
-excerpt: Founder at ThreeFold Tech
+bio: Owen Kemp is an experienced executive in the IT space, having led several multi-billion dollar businesses for HP in all world-wide markets. He was responsible for HP’s world-wide Finance Industry business, launched HP in to the emerging markets of Sub-Saharan Africa and Middle East and ran HP’s subsidiary in Russia with an emphasis on improving balance of trade, R&D and corporate citizenship. Since leaving HP, Owen has focused on assisting start-ups (early to late stage) with his broad management and market experience. Among others he has worked with cutting-edge companies in Cloud- and Edge computing; Smart City technologies; Eco-Tech; Fin-Tech; Reg-Tech and Digital Marketing; Block-chain and Cryptocurrency. In addition to working with Private Equity funds in New York, Russia and Austria, he was also advising various Family Offices. He is also an advisor to the Austrian Government in attracting foreign investment to Austria. Owen is a professional management consultant, coach and mentor and has helped many companies in improving their strategy including business development, internationalisation, Go-To-Market and partnership strategy, recruitment and more. Owen has known and worked with Kristof de Spiegeleer since 2011and is now fully on board of the ThreeFold Foundation and TF Tech.
+excerpt: I am an optimist and love doing things differently than the norm.
 linkedin: https://www.linkedin.com/in/owen-kemp-b6b5a113/
-websites: https://threefold.io/
+websites: https://threefold.tech
 image: ./owen_kemp.jpeg
 projects: [threefold_tech]
 countries: [Austria]
@@ -20,4 +20,6 @@ private: 0
 
 <BR>
 
+# Why Threefold?
 
+I believe in decentralisation and democracy in our digital lives.
