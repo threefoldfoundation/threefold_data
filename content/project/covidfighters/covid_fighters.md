@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/covidfighters/
 
 <br/>
 
-![covid](covidfighters2.png)
+![covid](./covidfighters2.png)
 
 <br/>
 
@@ -47,7 +47,7 @@ By bringing the necessary solutions for mass testing and auditing, Covid Fighter
 
 <br/>
 
-![covidfighters](covidfighters_action.jpg)
+![covidfighters](./covidfighters_action.jpg)
 
 <br/>
 

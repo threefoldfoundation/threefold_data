@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/green-edge-cloud/
 
 <br/>
 
-![green_edge](greenedge2.png)
+![green_edge](./greenedge2.png)
 
 <br/>
 

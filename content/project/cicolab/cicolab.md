@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/cicollaboratory/
 
 <br/>
 
-![cicolab](cicolab2.png)
+![cicolab](./cicolab2.png)
 
 <br/>
 

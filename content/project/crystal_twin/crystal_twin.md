@@ -19,7 +19,7 @@ linkedin: ""
 
 <br/>
 
-![crystaltwin](crystaltwin2.png)
+![crystaltwin](./crystaltwin2.png)
 
 <br/>
 

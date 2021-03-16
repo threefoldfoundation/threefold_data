@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE
 
 <br/>
 
-![waykichain](waykichain2.png)
+![waykichain](./waykichain2.png)
 
 <br/>
 

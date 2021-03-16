@@ -20,7 +20,7 @@ linkedin:
 
 <br/>
 
-![artheon](artheon2.jpg)
+![artheon](./artheon2.jpg)
 
 <br/>
 
@@ -46,7 +46,7 @@ Art can act as a catalyst to tap into our inner potential as well as our collect
 
 <br/>
 
-![artheon](artheon_experience.jpg)
+![artheon](./artheon_experience.jpg)
 
 <br/>
 

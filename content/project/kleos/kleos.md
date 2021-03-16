@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/kleos/
 
 <br/>
 
-![kleos](kleos2.png)
+![kleos](./kleos2.png)
 
 <br/>
 

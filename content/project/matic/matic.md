@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/matic-network/
 
 <br/>
 
-![matic](matic2.jpg)
+![matic](./matic2.jpg)
 
 <br/>
 

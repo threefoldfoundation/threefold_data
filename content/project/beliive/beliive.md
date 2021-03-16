@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/beliive/
 
 <br/>
 
-![beliive](beliive2.png)
+![beliive](./beliive2.png)
 
 <br/>
 
@@ -46,7 +46,7 @@ We have created a platform where low-income and unemployed people can exchange t
 
 <br/>
 
-![beliive](beliive_app.jpg)
+![beliive](./beliive_app.jpg)
 
 <br/>
 

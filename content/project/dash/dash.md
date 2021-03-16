@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/groups/8642659/
 
 <br/>
 
-![dash](dash2.png)
+![dash](./dash2.png)
 
 <br/>
 

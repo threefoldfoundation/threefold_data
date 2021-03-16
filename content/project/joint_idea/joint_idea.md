@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/joint-idea/
 
 <br/>
 
-![jointidea](jointidea2.jpg)
+![jointidea](./jointidea2.jpg)
 
 <br/>
 

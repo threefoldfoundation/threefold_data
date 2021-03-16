@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/tomochain/
 
 <br/>
 
-![tomochain](tomochain2.jpg)
+![tomochain](./tomochain2.jpg)
 
 <br/>
 

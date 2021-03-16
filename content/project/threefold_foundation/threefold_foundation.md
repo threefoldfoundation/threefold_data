@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/threefold-foundation/
 
 <br/>
 
-![threefold_foundation](threefold_foundation2.png)
+![threefold_foundation](./threefold_foundation2.png)
 
 <br/>
 

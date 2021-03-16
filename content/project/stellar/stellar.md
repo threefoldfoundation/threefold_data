@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/stellar-development-foundation/
 
 <br/>
 
-![stellar](stellar2.jpg)
+![stellar](./stellar2.jpg)
 
 <br/>
 

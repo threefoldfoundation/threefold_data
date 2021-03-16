@@ -20,7 +20,7 @@ linkedin: ''
 
 <br/>
 
-![btc_alpha](btc_alpha2.png)
+![btc_alpha](./btc_alpha2.png)
 
 <br/>
 

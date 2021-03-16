@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/vlinderapp/
 
 <br/>
 
-![vlinder](vlinder2.png)
+![vlinder](./vlinder2.png)
 
 <br/>
 

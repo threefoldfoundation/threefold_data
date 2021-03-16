@@ -19,7 +19,7 @@ linkedin: ''
 
 <br/>
 
-![veda](veda2.jpg)
+![veda](./veda2.jpg)
 
 <br/>
 

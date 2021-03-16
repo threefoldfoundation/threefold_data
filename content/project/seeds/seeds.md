@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 
 <br/>
 
-![seeds](seeds2.png)
+![seeds](./seeds2.png)
 
 <br/>
 

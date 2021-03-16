@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/zetako/
 
 <br/>
 
-![zetako](zetako2.png)
+![zetako](./zetako2.png)
 
 <br/>
 

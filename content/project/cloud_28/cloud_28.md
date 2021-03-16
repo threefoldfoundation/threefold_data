@@ -19,7 +19,7 @@ linkedin: ''
 
 <br/>
 
-![cloud](cloud_28_2.png)
+![cloud](./cloud_28_2.png)
 
 <br/>
 
