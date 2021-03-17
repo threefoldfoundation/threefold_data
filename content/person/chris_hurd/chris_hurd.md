@@ -2,14 +2,18 @@
 id: chris_hurd
 name: Chris Hurd
 rank: 1
-memberships: [] # ambassadors
-bio: A graduate of Cambridge University, Chris has spent most of his career to date in the financial services sector, with the last 20 years spent in senior banking roles in London, Singapore and Moscow. These and other previous positions have contributed to a rich and varied set of skills and experience which he is now deploying in the non-executive and advisory spheres. In this context, the aims of ThreeFold Foundation are both close to his heart and offer the opportunity for him to make a strong contribution and impact. Chris is married with 3 children and currently resides in the UK, but travels widely and maintains strong ties with Asia in particular. He greatly enjoys working with people and exploring new interests and cultures. Ambassador fell in love with Threefold ThreeFold Foundation offers new channels of access and investment to a very diverse audience and so deserves to succeed. It is a step into the future whose potential for good knows no boundaries.
-excerpt: Chris has spent most of his career to date in the financial services sector.
+memberships: [ambassadors]
+bio: Having graduated from the University of Cambridge, I spent most of my career to date in wholesale banking with the HSBC Group. This gave me priceless experience and geographic exposure with my last 3 jobs being at MD level in London, Singapore and Moscow respectively. My responsibilities for managing and leading teams of people in the customer front line helped to fine tune my values which centre around doing the right thing by people and for myself. Since moving on from banking I have been fortunate in being able to acquire new skills and to reinvent, but always with the same values as an underpin. Time is very precious and should be well spent with a sense of humour an absolute essential.
+excerpt:  Compared to many, I have been lucky in life, but remain keen not to let it rest there and to continue developing and helping others to do so.
 linkedin: https://www.linkedin.com/in/chris-hurd-29a5581b/
-websites: 
-projects: []
-image: ./chris_hurd.jpg
+websites: https://d3ainvestments.com
+projects: [d3a_investments]
+image: ./chris_hurd.png
 countries: [UK]
-cities: []
-private: 1
+cities: [Hertfordshire]
+private: 0
 ---
+
+## Why ThreeFold?
+
+I was delighted to join Threefold as an Ambassador as it is an environment which resonates well with who I am . Its appeal for me lies in its potential for massive social benefit combined with investment opportunity.
