@@ -7,7 +7,7 @@ memberships: [
     foundation, 
     tech, 
     cofounders, 
-    aci, 
+    aci_members, 
     cloud, 
     wisdom_council, 
     technology_council,
@@ -17,7 +17,7 @@ excerpt: Nerd engineer, humanist & motivated entrepreneur.
 linkedin: https://www.linkedin.com/in/despiegk/
 websites: https://www.threefold.io, https://www.threefold.me, https://www.incubaid.com/
 image: ./kristof_de_spiegeleer.jpeg
-projects: [threefold_foundation, threefold_tech, fairswap]
+projects: [threefold_foundation, threefold_tech]
 countries: [Belgium, Switzerland, Egypt]
 cities: [Ghent, Lugano, El Gouna]
 private: 0

@@ -2,7 +2,7 @@
 id: sacha_obeegadoo
 name: Sacha Obeegadoo
 rank: 4
-memberships: [foundation, twin, aci]
+memberships: [foundation, twin, aci_members]
 bio: Sacha is a positive and outgoing individual. Seeking challenging and dynamic opportunities, he invests himself in sustainable activities with a view to producing real results and doing good for the world. He believes that change is the only constant.
 excerpt: Organisational and Ecosystem Strategy
 linkedin: https://www.linkedin.com/in/sachaobeegadoo/
