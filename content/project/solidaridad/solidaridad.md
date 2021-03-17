@@ -27,7 +27,7 @@ linkedin: https://www.linkedin.com/company/solidaridad/
 
 # Solidaridad
 
-![img](solidaridad2.jpg)
+![img](./solidaridad2.jpg)
 
 <br/>
 
@@ -59,7 +59,7 @@ The values of data sovereignty and collaboration that Threefold embodies are cen
 
 <br/>
 
-![img](solidaridad_app.jpg)
+![img](./solidaridad_app.jpg)
 
 
 <br/>

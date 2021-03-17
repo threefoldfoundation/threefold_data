@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/company/moneyofgood/
 
 <br/>
 
-![money_of_good](money_of_good2.jpg)
+![money_of_good](./money_of_good2.jpg)
 
 <br/>
 

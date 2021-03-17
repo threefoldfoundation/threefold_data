@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/harmony-one/
 
 <br/>
 
-![harmony](harmony2.png)
+![harmony](./harmony2.png)
 
 <br/>
 

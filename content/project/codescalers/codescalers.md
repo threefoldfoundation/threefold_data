@@ -19,7 +19,7 @@ linkedin: ''
 
 <br/>
 
-![codescalers](codescalers2.jpg)
+![codescalers](./codescalers2.jpg)
 
 <br/>
 

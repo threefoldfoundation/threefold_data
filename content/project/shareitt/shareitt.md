@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/shareitt/
 
 <br/>
 
-![shareitt](shareitt2.jpg)
+![shareitt](./shareitt2.jpg)
 
 <br/>
 

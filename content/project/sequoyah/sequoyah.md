@@ -19,7 +19,7 @@ linkedin: ''
 
 <br/>
 
-![sequoyah](sequoyah2.png)
+![sequoyah](./sequoyah2.png)
 
 <br/>
 

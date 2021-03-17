@@ -8,7 +8,7 @@ excerpt: I have 11+ years of experience in building technology products.
 linkedin: https://www.linkedin.com/in/anuragarjun/
 websites: https://matic.network/
 image: ./anurag_arjun.jpeg
-projects: [matic_network]
+projects: [polygon]
 countries: [India]
 cities: [Banglore]
 private: 0

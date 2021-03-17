@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/skale-labs/
 
 <br/>
 
-![skale](skale_labs2.png)
+![skale](./skale_labs2.png)
 
 <br/>
 

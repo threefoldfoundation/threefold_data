@@ -20,7 +20,7 @@ linkedin: ''
 
 <br/>
 
-![crystalhome](crystalhome2.jpg)
+![crystalhome](./crystalhome2.jpg)
 
 <br/>
 

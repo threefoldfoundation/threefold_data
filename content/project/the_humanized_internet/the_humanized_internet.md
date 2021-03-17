@@ -19,7 +19,7 @@ linkedin: ''
 
 <br/>
 
-![the_humanized_internet](the_humanized_internet2.png)
+![the_humanized_internet](./the_humanized_internet2.png)
 
 <br/>
 

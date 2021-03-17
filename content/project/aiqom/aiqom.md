@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/aiqom/
 
 <br/>
 
-![aiqom](aiqom2.png)
+![aiqom](./aiqom2.png)
 
 <br/>
 
@@ -43,7 +43,7 @@ AIQOM empowers people of all ages to become responsible AI Citizens to easily le
 
 <br/>
 
-![beta](aiqom_beta.png)
+![beta](./aiqom_beta.png)
 
 <br/>
 

@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/mazraa/about/
 
 <br/>
 
-![mazraa](mazraa2.png)
+![mazraa](./mazraa2.png)
 
 <br/>
 

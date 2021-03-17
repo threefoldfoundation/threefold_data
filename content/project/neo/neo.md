@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/neo-blockchain/
 
 <br/>
 
-![neo](neo2.jpeg)
+![neo](./neo2.jpeg)
 
 <br/>
 

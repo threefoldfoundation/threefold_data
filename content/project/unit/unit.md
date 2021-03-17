@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/unitventures/
 
 <br/>
 
-![unit](unit2.png)
+![unit](./unit2.png)
 
 <br/>
 

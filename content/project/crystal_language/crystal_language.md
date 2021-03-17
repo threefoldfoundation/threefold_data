@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/crystal-language/about/
 
 <br/>
 
-![crystal_language](crystallanguage2.png)
+![crystal_language](./crystallanguage2.png)
 
 <br/>
 

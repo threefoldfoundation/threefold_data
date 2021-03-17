@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/safecitygroup/
 
 <br/>
 
-![safe_city](safe_city2.png)
+![safe_city](./safe_city2.png)
 
 <br/>
 

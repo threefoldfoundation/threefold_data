@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 
 <br/>
 
-![digibyte](digibyte2.jpg)
+![digibyte](./digibyte2.jpg)
 
 <br/>
 

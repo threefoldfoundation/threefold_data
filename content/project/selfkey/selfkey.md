@@ -19,7 +19,7 @@ linkedin: ''
 
 <br/>
 
-![selfkey](selfkey2.jpg)
+![selfkey](./selfkey2.jpg)
 
 <br/>
 

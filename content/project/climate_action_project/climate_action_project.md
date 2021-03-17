@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/take-action-global/
 
 <br/>
 
-![tag](climate_action_project.png)
+![tag](./climate_action_project.png)
 
 <br/>
 
@@ -51,7 +51,7 @@ We want to raise the bar of education by having experts to teach the students an
 
 <br/>
 
-![education](climate_action.jpg)
+![education](./climate_action.jpg)
 
 <br/>
 

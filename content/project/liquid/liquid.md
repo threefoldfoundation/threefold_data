@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/liquidglobal/
 
 <br/>
 
-![liquid](liquid2.png)
+![liquid](./liquid2.png)
 
 <br/>
 

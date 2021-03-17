@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise/
 
 <br/>
 
-![hpe](hpe2.jpg)
+![hpe](./hpe2.jpg)
 
 <br/>
 

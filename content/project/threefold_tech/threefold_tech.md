@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/threefold-tech/
 
 <br/>
 
-![threefold_tech](threefold_tech2.png)
+![threefold_tech](./threefold_tech2.png)
 
 <br/>
 

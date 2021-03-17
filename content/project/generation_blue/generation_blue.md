@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/genblue/
 
 <br/>
 
-![generation_blue](generationblue2.png)
+![generation_blue](./generationblue2.png)
 
 <br/>
 
