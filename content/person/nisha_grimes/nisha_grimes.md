@@ -7,7 +7,7 @@ bio: Nisha Grimes is an explorer, creator and a capacity development professiona
 excerpt: Nisha Grimes is an explorer, creator and a capacity development professional.
 linkedin: https://www.linkedin.com/in/nisha-grimes-8a61a689/
 websites: 
-image: ./nisha_grimes.jpg
+image: ./nisha_grimes.png
 projects: []
 countries: []
 cities: []
