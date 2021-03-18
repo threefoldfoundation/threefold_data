@@ -43,8 +43,6 @@ Every child deserves an education. We have built a community of thousands of tea
 
 Climate Action Project aims to develop a platform for peer-to-peer education, where teachers become students and students become teachers.
 
-<br/>
-
 ## Impact
 
 We want to raise the bar of education by having experts to teach the students and by initiating teacher training with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Additionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action.
@@ -53,13 +51,9 @@ We want to raise the bar of education by having experts to teach the students an
 
 ![education](./climate_action.jpg)
 
-<br/>
-
 ## Powered by ThreeFold
 
 Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize elements of Crystal Universe technology. Crystal Meet solution will be used to allow teachers to teach refugees. We have already been doing this for five years with projectkakuma.com and thanks to the ThreeFold we will be able to allow people globally to connect and learn from peers including refugees and people living in harsh conditions.
-
-<br/>
 
 ## Join saving our planet!
 

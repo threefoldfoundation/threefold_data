@@ -21,6 +21,8 @@ linkedin: ''
 ## About
 
 A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.  
+<br/>
+<br/>
 
 - TF Love Stories, ThreeFold Love Farm, Love Nodes
 - Public & TF Community Engagement 
@@ -28,7 +30,8 @@ A tokenized initiative promoting the TF Token Economy while supporting the growt
 - Alternative fundraising methods for grassroots projects
 - Digital Platform (coming soon)
 - Connect with us and share your love stories with us on FFP, Instagram [@threefold.love](https://www.instagram.com/threefold.love/), Twitter [@love_threefold](https://twitter.com/love_threefold) & FB
-
+<br/>
+<br/>
 Purchase TF Love branded fair trade merchandise and TF Love swag (stickers, pins, t-shirts, caps etc.) that directly support the causes we partner with. [ TFTs Accepted :) ]
 
 ## Mission

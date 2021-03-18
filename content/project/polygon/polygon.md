@@ -32,7 +32,6 @@ Polygon is one of the go-to solutions for developers building dApps on Ethereum,
 <br/>
 <br/>
 With Polygon, new features are being built around the existing proven technology to expand the ability to cater to diverse needs from the developer ecosystem. Polygon will continue to develop the core technology so that it can scale to a larger ecosystem. The $MATIC token is playing an increasingly important role, securing the system and enabling governance.
-<br/>
 
 ## Polygon and ThreeFold
 
@@ -47,7 +46,6 @@ By leveraging the ThreeFold P2P Cloud and its developer tools (the Edge Virtual 
 - Polygon dApp developers can leverage ThreeFold's P2P infrastructure (compute and storage) to totally decentralize their IT infrastructure, and not rely on centralized cloud providers
 <br/>
 <br/>
-
 Together we will expand Polygon's community-led Blockchain across the geographical edges, while creating a more inclusive and cost-effective participation model for anybody on earth to be involved in the growing Polygon ecosystem.
 
 <!-- ### Roadmap

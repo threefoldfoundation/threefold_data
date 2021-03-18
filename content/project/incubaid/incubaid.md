@@ -15,23 +15,7 @@ private: 0
 linkedin: ''
 ---
 
-# Incubaid
-
-## About
-
-## Mission
-
-## Impact
-
-## Powered by ThreeFold
-
-## Join saving our planet!
-
-## Support this project
-
-## TFGrid Solution
-
-### Roadmap
+# TODO
 
 
 

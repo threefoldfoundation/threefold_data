@@ -26,25 +26,20 @@ linkedin: https://www.linkedin.com/company/threefold-tech/
 ## About
 
 ThreeFold Tech is a company based on 15+ years of tech experience. (Established in Belgium.) Their Autonomous IT technology is positioned to disrupt IT infrastructure across sectors – internet, banking, telco, etc.
-
-ThreeFold Technology empowers a grid of IT capacity, which today is 10x bigger than all other blockchain players combined. More than $15MM USD has been spent creating this technology.
-
 <br/>
+<br/>
+ThreeFold Technology empowers a grid of IT capacity, which today is 10x bigger than all other blockchain players combined. More than $15MM USD has been spent creating this technology.
 
 ## Mission
 
 Create a decentralized peer-to-peer system inspired by nature.
 
-<br/>
-
 ## Impact
 
 - Better security
 - More uptime
-- Greater effeciencies 
-- Endles scalability
-
-<br/>
+- Greater efficiencies 
+- Endless scalability
 
 ## Powered by ThreeFold
 
