@@ -37,23 +37,19 @@ _Crystal Twin_ is your digital twin, a beautiful light being that is always conn
 
 Our mission is to shape a conscious digital world together. The world where all individuals, across regions have equal chances to learn, partake, and succeed. A world where freedom and liberalism are at the center. We are building a world where we live sustainably and where we think circularly. The priority is to ensure the best environment possible for us and all living species of this plant. Creating circular economies that use resources consciously, and where that which has true value becomes the center. Future economies will be digital and promote sustainability.
 
-<br/>
-
 ## Impact
 
 Today's economies are successful when depleting our planet's resources. This is a flawed approach to value creation. Crystal Twin will connect you to new sustainable digital economies that help drive success through green initiatives and value exchanges that live through Crystal experiences, minimizing carbon footprint, using resources consciously and creating a world where we live sustainably and through digital economies that promotes sustainability.
-
-While Crystal Twin may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for Crystal Twin makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures that data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to underserved communities.
-
-Additionally, the Crystal Universe ecosystem is creating a number of P2P experiences and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online communication.
-
 <br/>
+<br/>
+While Crystal Twin may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for Crystal Twin makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures that data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to underserved communities.
+<br/>
+<br/>
+Additionally, the Crystal Universe ecosystem is creating a number of P2P experiences and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online communication.
 
 ## Powered by ThreeFold
 
 Crystal Twin is built by Crystal Company, and lives on Threefold grid, serving as your digital self to the new digital world - the Crystal Universe - a new internet and peer-to-peer experiences. Developers, creators, and users can create their own experiences within the Crystal Universe, functionalities and features within the Threefold Grid’s peer-to-peer ecosystem.
-
-<br/>
 
 ## Join saving our planet!
 

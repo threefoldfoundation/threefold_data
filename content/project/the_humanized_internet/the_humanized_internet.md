@@ -37,19 +37,13 @@ linkedin: ''
 
 A non-profit organization focused on providing digital identity for those individuals most underserved.
 
-<br/>
-
 ## Impact
 
 Over one billion people worldwide have no official identity, making them vulnerable to abuses like incarceration and human trafficking. That includes 230 million children under five, and ten million stateless people. Not only can a secure identity help defend their rights, but it can provide access to essential services like education, health and banking. It can enable them to be sovereign individuals.
 
-<br/>
-
 ## Powered by ThreeFold
 
 ThreeFold has technology in place to run decentralized programs created by The Humanized Internet. In partnership with ThreeFold The Humanized Internet can scale it's mission of providing digital identity for large populations empowering people in places that are most vulnerable to identity abuse.
-
-<br/>
 
 ## Join saving our planet!
  

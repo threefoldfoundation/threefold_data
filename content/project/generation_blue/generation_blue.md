@@ -33,24 +33,17 @@ Earth positive means taking responsibility for our footprint and leaving the pla
 
 <BR>
 
-
 ## Mission
 
-Empower every global citizen to protect and regenerate nature
-
-<br/>
+Empower every global citizen to protect and regenerate nature.
 
 ## Impact
 
 We protect biodiversity – focusing on the most threatened ecosystems such as tropical forests and mangroves – by empowering communities with verified positive impact assets. Anyone can get earth positive via our marketplace of token-backed products and services.
 
-<br/>
-
 ## Powered by ThreeFold
 
 We are proud to partner with ThreeFold to securely host our decentralized mobile apps.
-
-<br/>
 
 ## Join saving our planet!
 

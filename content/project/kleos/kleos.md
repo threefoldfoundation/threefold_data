@@ -25,21 +25,15 @@ linkedin: https://www.linkedin.com/company/kleos/
 
 ## About
 
-Kleos aims at becoming the most ecofriendly telecom mediator leaving a minimal carbon footprint on the environment, through minimizing the need for bulk production of antennas, base stations and probes amongst other capacitors.
-
-<br/>
+Kleos aims at becoming the most eco-friendly telecom mediator leaving a minimal carbon footprint on the environment, through minimizing the need for bulk production of antennas, base stations and probes amongst other capacitors.
 
 ## Mission
 
 To empower the telecom industry in operating to the highest levels of technological breakthroughs by combining innovation with practicality.
 
-<br/>
-
 ## Impact
 
 Approved to use ThreeFold Tech within the baystations they deploy. Critical in low income countries where internet connectivity is expensive and inaccessible. 
-
-<br/>
 
 ## Powered by ThreeFold
 

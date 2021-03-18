@@ -27,7 +27,6 @@ linkedin: https://www.linkedin.com/company/vlinderapp/
 
 Vlinder means butterfly in Dutch. We believe in the butterfly effect of a small behavioral change in a connected world. We envision the Vlinder app as a tool empowering you to make those changes. You will be able to know and mitigate your personal environmental footprint by investing in high-impact products and connecting with sustainability-focused businesses. We will provide you with a helicopter view of your bank cards, crypto wallets, and cash expenses while automatically estimating your carbon footprint. You will be able to contribute to community projects and make a profit from offsetting your CO2 emissions by investing in green products with high return.
 
-
 <BR>
 
 <iframe src="https://player.vimeo.com/video/434681704" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -38,24 +37,22 @@ Vlinder means butterfly in Dutch. We believe in the butterfly effect of a small 
 
 Our mission is to make people happier by providing a new perspective on their lifestyle and empowering them to act on Earth’s global problems.
 
-<br/>
-
 ## Impact
 
 COVID-19 mitigation is a great example of what can be done when we act together. Vlinder helps people become more mindful about their consumption behaviour and investments and empowers them to act on climate change. If we join forces, we can face any challenge, even climate change.
-
-<br/>
 
 ## Powered by ThreeFold
 
 Vlinder will provide carbon offset options for ThreeFold ecosystem making it planet-positive and optimize its own running costs using ThreeFold infrastructure.
 
-<br/>
-
 ## Join saving our planet!
 
 We invite you to join us on this journey of creating an ecosystem for conscious consumption and sustainable financial decisions.
+<br/>
+<br/>
 How can you contribute? First of all, by becoming our first user. [The Vlinder app beta](https://vlinder.app) is available for iOS and Android in the eurozone countries.
+<br/>
+<br/>
 If you are in Germany or Austria and run a sustainable business or manage an impact community, feel free to reach out to us to discuss possible partnerships.
 
 <!-- ## Support this project

@@ -2,14 +2,18 @@
 id: peter_richter
 name: Peter Richter
 rank: 1
-memberships: [] # ambassadors
-bio: Born in Belgium, from German/Dutch descent, Peter is a German citizen with a 25+ year background in Logistics & Supply Chain, of which the last 15 years managing the Supply Chain for Ferrero Russia. In 09/2010 left Ferrero – Appointed Business Development Director at Swiss based DEGA AG - sphere (Industrial Park Development & Decentralised Energy). In 04/2014 – Divested 67% of Dega’s 30MW CHP Plant to E.ON Connecting Energies In 11/2014 – Appointed GM at E.ON Connecting Energies Russia – sphere (B2B Decentralised Energy). In 02/2016 – Became self employed project integration / management consultant –sphere (primarily Industrial Development & Construction and Decentralised Energy). In 07/2019 – Joined the Business Development Team of Threefold Tech – part-time – sphere (IT infrastructure). In 08/2019 – Appointed GM at Kadeon Development – part-time – sphere (Industrial Development & Construction). Peter is the Chairman of the Expert Council at the Chamber of Commerce & Industry of Odintsovo (RF), Member of the Expert Council at the Strategy Foundation, as well as an Ambassador at the Threefold Foundation. Business Development fell in love with Threefold Threefold is a wonderful Ecosystem based on cutting edge & disruptive information technology, bringing together amazing people and offering a range of great business models, as well as incredible social impact opportunities, hopefully allowing us to contribute to making this a better world for generations to come
-excerpt: Peter is a German citizen with a 25+ year background in Logistics & Supply Chain
+memberships: [ambassadors]
+bio: Born and raised in Belgium, of Dutch/German descent and calling Moscow, Russia home for the last 25+ years. With 25+ year of logistics & supply chain, for the past 10 years active in Industrial Development & Construction, Decentralised Energy and rolling into project integration/management in a very broad sphere of projects. Multilingual and a natural networker with a global reach, seeking to contribute to making this planet of ours a better place to live on.
+excerpt: Making it even more important to contribute my bit to make this word non-discriminating and inclusive for all!
 linkedin: https://www.linkedin.com/in/richterpeter/
-websites: 
-projects: []
-image: ./peter_richter.jpg
-countries: [Germany, The Netherlands]
-cities: []
+websites: https://threefold.tech, https://kadeon.ru, https://qatoil.com
+image: ./peter_richter.png
+projects: [qatoil, threefold_tech, kadeon_development, vmga_holding]
+countries: [Russia]
+cities: [Moscow]
 private: 0
 ---
+
+## Why ThreeFold?
+
+ThreeFold is definitely a disruptive Tech in many ways, combining great economics with sustainability, enabling Tech to position itself for contributing to positive, non-discriminating inclusivity and social impact on this "by definition" beautiful planet of ours. 

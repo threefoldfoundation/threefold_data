@@ -27,19 +27,13 @@ linkedin: ''
 
 Sequoyah is the leading provider of diamonds, alloys and prefabricated alloys to jewelers and designers in Denmark and Scandinavia.
 
-<br/>
-
 ## Mission
 
 Ecologically sound, conflict-free sources for diamonds and alloys.
 
-<br/>
-
 ## Impact
 
 A partnership with TF Tech to build a decentralized banking system where by each user will have access to multiple digital and market assets at the palm of their hand.
-
-<br/>
 
 ## Powered by ThreeFold
 

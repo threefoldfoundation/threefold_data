@@ -26,10 +26,9 @@ linkedin: https://www.linkedin.com/company/liquidglobal/
 ## About
 
 Liquid is the world’s most comprehensive and secure trading platform. Buy and sell Bitcoin, Ethereum, XRP and many other cryptocurrencies with fiat or crypto.
-
+<br/>
+<br/>
 ThreeFold Tokens have been listed on the Liquid exchange as from May 2020.
-
-
 
 <!--
 ## Mission

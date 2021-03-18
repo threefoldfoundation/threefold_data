@@ -37,19 +37,13 @@ It started out, like many things at [Manas.Tech](https://manas.tech/), as an exp
 
 Easy to write languages used to mean that you had to sacrifice speed. And getting fast meant enduring difficult syntax. Crystal means no longer having to choose: a programming language that adjusts to the needs of the programmer and the computer: easy to learn and code, but very performant and typesafe. The best of both worlds.
 
-<br/>
-
 ## Impact
 
 Crystal is easy to write, which makes it easy to learn: that gives developers a short ramp-up time, and beginners can get things running in a very short time. Crystal is also super fast: it is used by scientists to run genome sequencing faster than ever before, and that helps save lives, save resources and, being so user-friendly, it saves them time in costly and tedious maintenance.
 
-<br/>
-
 ## Powered by ThreeFold
 
 Crystal is a project of Manas.Tech, built along the years with the support of the community and Manas’ own: we match the contributions of the community to double every dollar’s impact. But it means that a great deal of effort goes, not only into developing the language, but also into trying to get funding. ThreeFold’s contribution allows our team to focus on doing what we do best, and enables us to dedicate more full-time engineers to accelerate Crystal’s development.
-
-<br/>
 
 ## Join saving our planet!
 
