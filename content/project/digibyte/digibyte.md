@@ -1,6 +1,6 @@
 ---
 id: digibyte
-title: Digibyte
+title: DigiByte
 countries: [Global]
 cities: [Global]
 rank: 5
