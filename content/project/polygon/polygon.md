@@ -10,7 +10,7 @@ image_caption: Polygon
 logo: ./logo.png
 members: [anurag_arjun, arjun_kalsy]
 websites: https://polygon.technology/
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/matic-network/
 ---

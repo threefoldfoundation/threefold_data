@@ -10,7 +10,7 @@ image_caption: skale_labs
 logo: ./logo.png
 members: [christine_renee_perry]
 websites: https://skale.network/
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/skale-labs/
 ---

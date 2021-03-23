@@ -10,7 +10,7 @@ image_caption: aiqom
 logo: ./logo.png
 members: [samer_obeidat]
 websites: https://aiqom.ai/
-tags: [twin, cloud, aci]
+tags: [twin, cloud, aci, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/aiqom/
 ---

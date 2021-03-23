@@ -10,7 +10,7 @@ logo: ./logo.png
 image_caption: flowgen
 members: [tom_clausen, dirk_kuester]
 websites: https://www.flowgen.com/
-tags: [tech, farming, cloud]
+tags: [foundation, farming, cloud]
 private: 0
 linkedin: https://www.linkedin.com/company/flowgen-technology/
 ---

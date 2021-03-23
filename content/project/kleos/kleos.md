@@ -10,7 +10,7 @@ image_caption: kleos
 logo: ./logo.png
 members: [george_el_aily]
 websites: https://www.kleos.net
-tags: [tech, farming]
+tags: [farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/kleos/
 ---

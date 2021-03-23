@@ -11,7 +11,7 @@ image_caption: artheon
 logo: ./logo.png
 members: [vasily_gnuchev]
 websites: https://artheon.co/
-tags: [twin, aci]
+tags: [twin, aci, foundation]
 private: 0
 linkedin:
 ---

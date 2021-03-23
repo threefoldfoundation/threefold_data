@@ -10,7 +10,7 @@ image_caption: harmony
 logo: ./harmony_logo.png
 members: [li_jiang, nikalos_kost]
 websites: https://www.harmony.one/
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/harmony-one/
 ---

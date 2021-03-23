@@ -10,7 +10,7 @@ image_caption: crystal_home
 logo: ./logo.png
 members: [bert_van_decraen]
 websites: https://www.crystalhome.org/
-tags: [twin, aci, farming]
+tags: [twin, aci, farming, foundation]
 private: 0
 linkedin: ''
 ---

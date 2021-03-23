@@ -10,7 +10,7 @@ image_caption: neo
 logo: ./logo.png
 members: [denis_suslov]
 websites: https://neo.org/
-tags: [farming, cloud]
+tags: [farming, cloud, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/neo-blockchain/
 ---

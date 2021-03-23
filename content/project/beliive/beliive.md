@@ -10,7 +10,7 @@ image_caption: beliive
 logo: ./logo.png
 members: [lorrana_scarpioni]
 websites: https://beliive.com
-tags: [twin, aci]
+tags: [twin, aci, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/beliive/
 ---

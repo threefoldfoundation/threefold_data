@@ -10,7 +10,7 @@ image_caption: waykichain
 logo: ./logo.png
 members: [richard_chen]
 websites: https://www.waykichain.com/
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/
 ---

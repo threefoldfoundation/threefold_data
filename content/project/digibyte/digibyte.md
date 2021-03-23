@@ -10,7 +10,7 @@ image_caption: digibyte
 logo: ./logo.png
 members: [hans_koning, rudy_bouwman, rutger_krijnen]
 websites: https://digibyte.io/
-tags: [cloud, farming, aci, tech, foundation]
+tags: [cloud, farming, aci, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 ---

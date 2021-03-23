@@ -10,7 +10,7 @@ image_caption: joint_idea
 logo: ./logo.png
 members: []
 websites: https://www.lifeworkslabs.com
-tags: [aci, farming, twin]
+tags: [aci, farming, twin, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/joint-idea/
 ---

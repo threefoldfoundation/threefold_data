@@ -10,7 +10,7 @@ image_caption: vlinder
 logo: ./logo.png
 members: [sergey_ivliev]
 websites: https://vlinder.app
-tags: [twin, aci]
+tags: [twin, aci, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/vlinderapp/
 ---

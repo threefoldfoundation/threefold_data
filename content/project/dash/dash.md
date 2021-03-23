@@ -10,7 +10,7 @@ image_caption: dash
 logo: ./logo.png
 members: [felix_mago, sascha_jochum]
 websites: https://www.dash.org/
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/groups/8642659/
 ---

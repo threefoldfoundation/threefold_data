@@ -10,7 +10,7 @@ image_caption: shareitt
 logo: ./logo.png
 members: [arie_ben_david, roel_wofert, mickey_malul]
 websites: https://www.shareitt.com
-tags: [twin, aci]
+tags: [twin, aci, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/shareitt/
 ---
