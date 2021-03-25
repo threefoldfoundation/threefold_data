@@ -1,7 +1,7 @@
 ---
 id: internet_inequalities
 title: We're Tackling Internet Inequalities
-tags: [partner,update]
+tags: [partner,why,update]
 category: [farming,foundation]
 image: ./internet_inequalities.png
 image_caption: internet inequalities

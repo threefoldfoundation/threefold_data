@@ -1,7 +1,7 @@
 ---
 id: token_plan_guidance
 title: Seeking participation with the TFT plan
-tags: [token,farming,community]
+tags: [threefold_token,farming,community]
 category: [farming,foundation]
 image: ./token_plan_guidance.png
 image_caption: Token Plan Guidance Committee

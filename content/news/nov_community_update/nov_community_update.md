@@ -1,7 +1,7 @@
 ---
 id: nov_2020_update_video
 title: ThreeFold's November 2020 community update
-tags: [community, update]
+tags: [community,update]
 category: [farming,cloud,foundation,twin]
 image: ./nov2020update.png
 image_caption: ThreeFold's November 2020 community update

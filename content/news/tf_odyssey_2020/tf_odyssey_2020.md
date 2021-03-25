@@ -1,7 +1,7 @@
 ---
 id: threefold_at_odyssey
 title: ThreeFold @ Odyssey Momentum 2020!
-tags: [events]
+tags: [event,update,community]
 category: [foundation]
 image: ./odysseymomentum.jpeg
 image_caption: ThreeFold @ Odyssey Momentum 2020!

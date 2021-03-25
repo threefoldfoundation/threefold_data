@@ -1,7 +1,7 @@
 ---
 id: digital_twin_coming
 title: Digital Twin v1 is Coming!
-tags: [twin,update]
+tags: [digital_twin,update]
 category: [farming,cloud,foundation,twin]
 image: ./digitaltwincoming.png
 image_caption:

@@ -1,7 +1,7 @@
 ---
 id: tf_tech_deloitte
 title: ThreeFold Tech recognized by Deloitte Belgium
-tags: [tftech]
+tags: [technology,update]
 category: [farming,cloud,foundation]
 image: ./tftechdeloittefinalist.jpeg
 image_caption: ThreeFold Tech recognized by Deloitte Belgium

@@ -1,7 +1,7 @@
 ---
 id: threefold_hpe
 title: ThreeFold partners with Hewlett Packard Enterprise
-tags: [partner]
+tags: [partner,update,technology]
 category: [farming,cloud,foundation]
 image: ./threefold_hpe.png
 image_caption: partners

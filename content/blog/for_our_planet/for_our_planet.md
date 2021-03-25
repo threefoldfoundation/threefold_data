@@ -1,7 +1,7 @@
 ---
 id: for_our_planet
 title: A better solution for our planet
-tags: [farming, sustainability]
+tags: [threefold_farming,why]
 category: [farming,twin,foundation,cloud,aci]
 image: ./better_solution.png
 image_caption: sustainability

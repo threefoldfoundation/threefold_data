@@ -1,7 +1,7 @@
 ---
 id: qsfs_intro
 title: Say Hello to the Quantum Safe Filesystem
-tags: [cloud,update]
+tags: [threefold_cloud,update,technology]
 category: [foundation,cloud]
 image: ./qsfs_intro.png
 image_caption: quantum safe filesystem

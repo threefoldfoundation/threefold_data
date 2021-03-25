@@ -1,7 +1,7 @@
 ---
 id: threefold_foundation_32
 title: Edge Cloud, not Grid Cloud
-tags: [cloud, tech]
+tags: [threefold_cloud, technology]
 category: [tftech, cloud]
 image: ./edge_cloud.png
 image_caption: cloud

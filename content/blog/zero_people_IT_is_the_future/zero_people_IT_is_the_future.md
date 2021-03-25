@@ -1,7 +1,7 @@
 ---
 id: threefold_foundation_30
 title: Zero People IT is the Future
-tags: [tech, cloud]
+tags: [technology, threefold_cloud]
 ategory: [tech, cloud]
 image: ./zero_people.png
 image_caption: future

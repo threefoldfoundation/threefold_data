@@ -1,7 +1,7 @@
 ---
 id: tech_new_internet
 title: A new approach to the Internet Architecture
-tags: [tech, grid]
+tags: [technology,threefold_grid]
 category: [farming,cloud,foundation]
 image: ./tech_new_internet.png
 image_caption: internet tech

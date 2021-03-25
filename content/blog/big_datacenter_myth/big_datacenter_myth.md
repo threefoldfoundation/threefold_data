@@ -1,7 +1,7 @@
 ---
 id: big_datacenter_myth
 title: Datacenter Myths
-tags: [tech, sustainability]
+tags: [technology,threefold_grid_,why]
 category: [farming,cloud,foundation,aci]
 image: ./big_datacenter_myth.png
 image_caption: internet servers

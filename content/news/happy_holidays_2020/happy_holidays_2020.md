@@ -1,7 +1,7 @@
 ---
 id: happy_holidays_2020
 title: Happy Holidays!
-tags: []
+tags: [community]
 category: [farming,cloud,twin,aci,foundation]
 image: ./happyholidays2020.png
 image_caption: Happy Holidays!

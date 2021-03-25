@@ -1,7 +1,7 @@
 ---
 id: tf_corporateunplugged
 title: ThreeFold on Corporate Unplugged Podcast
-tags: [podcast, interview]
+tags: [interview,community]
 category: [farming,cloud,foundation,twin]
 image: ./tf_corporateunplugged.png
 image_caption: threefold on corporate unplugged

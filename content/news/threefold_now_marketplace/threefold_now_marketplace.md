@@ -1,7 +1,7 @@
 ---
 id: tf_now_marketplace_coming_soon
 title: ThreeFold Now Marketplace is coming soon!
-tags: [marketplace]
+tags: [threefold_cloud,technology]
 category: [farming,cloud,foundation]
 image: ./tfnowmarketplace.png
 image_caption: ThreeFold Now Marketplace is coming soon!

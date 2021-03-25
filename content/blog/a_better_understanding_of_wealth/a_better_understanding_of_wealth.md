@@ -1,7 +1,7 @@
 ---
 id: a_better_understanding_of_wealth
 title: A Better Understanding of Wealth
-tags: [values]
+tags: [why,digital_twin]
 category: [twin]
 image: ./a_better_understanding_of_wealth.jpg
 image_caption: a better understanding of wealth

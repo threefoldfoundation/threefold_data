@@ -1,7 +1,7 @@
 ---
 id: tft_on_liquid_and_btcalpha
 title: Co-create the new Internet. Participate with TFT!
-tags: [token]
+tags: [threefold_token]
 category: [farming,foundation,aci]
 image: ./tft_on_liquid_and_btcalpha.png
 image_caption: tokens blockchain

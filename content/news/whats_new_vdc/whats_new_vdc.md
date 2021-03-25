@@ -1,7 +1,7 @@
 ---
 id: whats_new_vdc
 title: New Updates to the VDC!
-tags: [cloud,update,vdc]
+tags: [threefold_cloud,technology,update]
 category: [foundation,cloud]
 image: ./whats_new_vdc.png
 image_caption: vdc new updates

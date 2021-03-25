@@ -1,8 +1,8 @@
 ---
 id: why_should_i_care
 title: Why should I care? 
-tags: [Digital Twin]
-category: [peer_to_peer, twin]
+tags: [digital_twin,why]
+category: [twin]
 image: ./why_should_i_care.jpg
 image_caption: Why should I care
 excerpt: Do you remember the time where you could create your own safe space and decide what others see and know?

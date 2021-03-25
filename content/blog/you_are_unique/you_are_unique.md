@@ -1,7 +1,7 @@
 ---
 id: unique
 title: You Are Unique
-tags: [autonomy, equality, human, farming]
+tags: [why,farming]
 category: [twin,foundation]
 image: ./unique.png
 image_caption: humanity

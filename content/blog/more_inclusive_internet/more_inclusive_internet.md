@@ -1,7 +1,7 @@
 ---
 id: more_inclusive_internet
 title: We need a more inclusive internet
-tags: [farming, equality]
+tags: [farming,why]
 category: [farming,cloud,foundation,aci,twin]
 image: ./more_inclusive_internet.png
 image_caption: planet internet

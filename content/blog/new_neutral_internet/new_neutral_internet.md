@@ -1,7 +1,7 @@
 ---
 id: new_neutral_internet
 title: The need for ThreeFold's neutral internet
-tags: [tech, farming, token]
+tags: [technology,farming,threefold_token,why]
 category: [farming,cloud,foundation]
 image: ./new_neutral_internet.png
 image_caption: planet internet

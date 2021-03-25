@@ -1,7 +1,7 @@
 ---
 id: nov_2020_community_call_rec
 title: The November 2020 community call recording
-tags: [community]
+tags: [community,update,event]
 category: [farming,cloud,foundation,twin]
 image: ./novcommcallrecording.png
 image_caption: The November 2020 community call recording

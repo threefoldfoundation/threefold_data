@@ -1,7 +1,7 @@
 ---
 id: how_it_works
 title: ThreeFold's Long Story Short
-tags: [tech]
+tags: [technology,why]
 category: [farming,cloud,foundation]
 image: ./how_it_works.png
 image_caption: technology

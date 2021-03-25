@@ -1,7 +1,7 @@
 ---
 id: tf_grid_24_update
 title: Great Results on Grid 2.4 Testing!
-tags: [grid,update]
+tags: [threefold_grid,update,technology,community]
 category: [farming,cloud,foundation]
 image: ./tf_grid_24_update.png
 image_caption: Grid 2.4 Testing Update

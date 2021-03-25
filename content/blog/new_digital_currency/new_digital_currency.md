@@ -1,7 +1,7 @@
 ---
 id: new_digital_currency
 title: The need for a sustainable digital currency
-tags: [token]
+tags: [threefold_token]
 category: [farming,foundation]
 image: ./new_digital_currency.png
 image_caption: tokens

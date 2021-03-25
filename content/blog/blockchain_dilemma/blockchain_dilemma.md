@@ -1,7 +1,7 @@
 ---
 id: threefold_foundation_34
 title: Solving the Blockchain Dilemma
-tags: [tech, grid]
+tags: [technology,threefold_grid,blockchain]
 category: [tech, grid]
 image: ./blockchain_dilemma.png
 image_caption: blockchain

@@ -1,7 +1,7 @@
 ---
 id: what_is_peer_to_peer
 title: What is Peer-to-Peer and Why is it so important?
-tags: [peer_to_peer, internet]
+tags: [peer_to_peer,why,farming,technology,threefold_grid]
 category: [farming,cloud,twin,foundation]
 image: ./peer_to_peer.png
 image_caption: peer to peer

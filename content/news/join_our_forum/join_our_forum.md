@@ -1,7 +1,7 @@
 ---
 id: join_our_forum
 title: Join Our Forum!
-tags: [update,forum,community]
+tags: [community]
 category: [farming,foundation,cloud,twin]
 image: ./join_our_forum.png
 image_caption: join our forum

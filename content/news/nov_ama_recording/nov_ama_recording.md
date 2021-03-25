@@ -1,7 +1,7 @@
 ---
 id: ama_recording_nov_2020
 title: Sharing the November 2020 AMA recording
-tags: [community, ama]
+tags: [community,update,event]
 category: [farming,cloud,foundation,twin]
 image: ./novamarecording.png
 image_caption: Sharing the November 2020 AMA recording

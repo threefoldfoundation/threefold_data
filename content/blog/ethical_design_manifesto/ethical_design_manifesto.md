@@ -1,7 +1,7 @@
 ---
 id: ethical_design_manifesto
 title: Creating solutions that respect humanity and the planet
-tags: [sustainability]
+tags: [why]
 category: [farming,twin,cloud,foundation,aci]
 image: ./ethical_design_manifesto.png
 image_caption: humanity

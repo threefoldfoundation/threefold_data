@@ -1,7 +1,7 @@
 ---
 id: who_uses_tf_cloud
 title: Use Cases for the ThreeFold Cloud
-tags: [cloud,update]
+tags: [threefold_cloud,update,technology]
 category: [foundation,cloud]
 image: ./who_uses_tf_cloud.png
 image_caption: who uses tf cloud

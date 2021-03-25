@@ -1,7 +1,7 @@
 ---
 id: threefold_foundation_33
 title: Bringing Trust is a Human Task 
-tags: [Digital Twin]
+tags: [blockchain,technology]
 category: [twin]
 image: ./bringing_trust.png
 image_caption: humans
@@ -26,6 +26,8 @@ The two characteristics that have spawned interest in Blockchain technology are 
 <br/>
 <br/> 
 Examples of centralized setups today:
+<br/>
+
 - **Monetary**: Fiat currencies are governed and controlled by central banks.  According to Wikipedia: "A central bank, reserve bank, or monetary authority is an institution that manages a state's currency, money supply, and interest rates. Central banks also oversee the commercial banking system of their respective countries. In contrast to a commercial bank, a central bank has a monopoly on increasing the monetary base in the state and prints the national currency, which serves as the state's legal tender. Central banks also act as a "lender of last resort" to the banking sector during a financial crisis. Most central banks also have supervisory and regulatory powers to ensure the solvency of member institutions, prevent bank runs, and prevent reckless or fraudulent behavior by member banks." So central banks control fiat currencies, and other institutions control central banks.
 - **World Wide Web (WWW)**: The World Wide Web is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and accessible via the Internet. English scientist Tim Berners-Lee invented the World Wide Web in 1989. Although distributed by design, this technology shares and exposes globally developed information and centralized functions crucial to make this World Wide Web work: large (commercial) monopolies have developed centralized search facilities, e.g., yellow pages of the world wide web. These search facilities now control what you find when you are looking for a specific search term.
 <br/>
@@ -42,7 +44,6 @@ To investigate what potential right use cases exist for blockchain technologies,
 ### Blockchains are "Super Scalable"
  
 Are they? Pure blockchain deployments are not super scalable compared to conventional (server-based) transaction methods.  Current financial blockchain transaction times are very slow compared to any other (currency) transaction technologies out there, being it card transactions like Mastercard, VISA, or money transfers from one bank account to another.
- 
  
 ### Blockchain technology brings "Impeccable security."
  

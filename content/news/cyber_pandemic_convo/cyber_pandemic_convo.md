@@ -1,7 +1,7 @@
 ---
 id: cyber_pandemic_convo
 title: Join the Conversation - The Cyber Pandemic is Here
-tags: [news, event]
+tags: [interview,event,community]
 image: ./cyber_pandemic_convo.png
 category: [farming,cloud,foundation,aci]
 image_caption: cyberpandemic
