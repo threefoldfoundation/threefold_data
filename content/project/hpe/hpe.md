@@ -10,7 +10,7 @@ image_caption: hpe
 logo: ./logo.png
 members: []
 websites: https://www.hpe.com/us/en/about.html
-tags: [tech, farming]
+tags: [foundation, farming]
 private: 0
 linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise/
 ---

@@ -10,7 +10,7 @@ image_caption: tomochain
 logo: ./logo.png
 members: [kyn_chaturvedi]
 websites: https://tomochain.com/
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/tomochain/
 ---

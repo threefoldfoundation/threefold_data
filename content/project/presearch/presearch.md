@@ -10,7 +10,7 @@ image_caption: presearch
 logo: ./logo.png
 members: [trey_grainger]
 websites: https://presearch.org
-tags: [cloud, farming]
+tags: [cloud, farming, foundation]
 private: 0
 linkedin: https://www.linkedin.com/company/presearchofficial
 ---

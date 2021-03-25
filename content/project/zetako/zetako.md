@@ -10,7 +10,7 @@ image_caption: zetako
 logo: ./logo.png
 members: [claus_rosenberg_gotthard]
 websites: https://zetako.ai
-tags: [tech, cloud, aci]
+tags: [cloud, aci]
 private: 0
 linkedin: https://www.linkedin.com/company/zetako/
 ---
