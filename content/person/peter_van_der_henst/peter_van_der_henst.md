@@ -8,7 +8,7 @@ excerpt: Peter is HR-manager and Financial Advisor For TF Tech
 linkedin: https://www.linkedin.com/in/petervanderhenst/
 websites: https://threefold.tech
 projects: [threefold_tech]
-image: ./peter_van_der_henst.jpg
+image: ./peter_van_der_henst.png
 countries: [Belgium]
 cities: []
 private: 0
