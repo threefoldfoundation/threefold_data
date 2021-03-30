@@ -26,11 +26,11 @@ To pull respective content (blog/news/people/projects) to your project open:
 
 look for variable:
 
-- `website: [ ]`
+- `category: [ ]`
 
 and provide (currently active) website's name:
 - `twin`
-- `cloud`tags:
+- `cloud`
 - `farming`
 - `tech`
 - `foundation`
@@ -61,4 +61,5 @@ projects:
 
 blog/news:
 - can vary quire a lot depending on respective article or post
-tags:
+
+
