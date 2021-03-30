@@ -1,7 +1,7 @@
 ---
 id: mike_filipenko
 name: Mike Filipenko
-rank: 3
+rank: 4
 tags: [grid_guardians]
 category: [foundation, farming]
 bio: Have been working in the blockchain space for 4 years. Business Development Consultant excited about Blockchain. Specializing in exchanges development, DeFi and trading.

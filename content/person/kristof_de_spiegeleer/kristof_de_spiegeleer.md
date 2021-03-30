@@ -1,14 +1,13 @@
 ---
 id: kristof_de_spiegeleer
 name: Kristof de Spiegeleer
-rank: 4
+rank: 1
 tags: [
     farmers, 
     foundation, 
     tech, 
     cofounders, 
     aci_members, 
-    cloud, 
     wisdom_council, 
     technology_council,
     ]

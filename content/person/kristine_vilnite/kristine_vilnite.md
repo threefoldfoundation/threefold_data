@@ -1,11 +1,11 @@
 ---
 id: kristine_vilnite
 name: Kristine Vilnite
-rank: 4
-tags: [foundation, aci_members, twin]
-category:
-bio: A loving, kind, explorer fully dedicating her professional path to build a sustainable foundaton for the future. Kristine is a compassionate innovator, founder, advisor, sustainable development advocate, adding value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm.
-excerpt: A loving, kind, explorer building a sustainable foundaton for the future.
+rank: 2
+tags: [foundation, aci_members]
+category: [foundation, aci]
+bio: A loving, kind, explorer fully dedicating her professional path to build a sustainable foundation for the future. Kristine is a compassionate innovator, founder, advisor, sustainable development advocate, adding value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm.
+excerpt: A loving, kind, explorer building a sustainable foundation for the future.
 linkedin: https://www.linkedin.com/in/kristinevilnite/
 websites: https://threefold.io/
 image: ./kristine_vilnite.jpg

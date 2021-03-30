@@ -1,9 +1,9 @@
 ---
 id: mahmoud_ayoub
 name: Mahmoud Ayoub
-rank: 1
+rank: 4
 tags: [tech]
-category:
+category: [foundation]
 bio: Mahmoud is a passionate Computer Scientist who loves exploring new areas in life and technology. Software Engineer fell in love with Threefold because threefold is the future of technology.
 excerpt: Mahmoud is a passionate Computer Scientist who loves exploring new areas in life and technology.
 websites: https://threefold.io/

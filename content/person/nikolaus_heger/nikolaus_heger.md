@@ -1,9 +1,9 @@
 ---
 id: nikolaus_heger
 name: Nikolaus Heger
-rank: 4
+rank: 3
 tags: [aci_members, partners]
-category:
+category: [aci]
 bio: Ex Apple, Ex Silicon Valley, full stack developer, meditator, blockchain wizard, 20 years experience as software architect, mobile app developer, and full stack developer.
 excerpt: Wizard of Integrity @ SEEDS, Hypha Ltd
 linkedin: https://www.linkedin.com/in/nikolausheger/

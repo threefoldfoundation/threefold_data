@@ -1,9 +1,9 @@
 ---
 id: jonas_de_zitter
 name: Jonas De Zitter
-rank: 1
+rank: 4
 tags: [ambassadors]
-category:
+category: [foundation]
 bio: Hi. My name is Jonas De Zitter, living in East Flanders Belgium. I have always been fascinated by all kinds of technology.. After my engineering studies, I started working at a development company in Ghent where I make custom electronics and provide consultancy. Since 2016 I have become involved in crypto, after which I founded CryptoConnect together with Gert De Spiegeleer. From that company I started developing green battery systems and I assist Gert with his fast-growing start-up Ethernetics.
 excerpt: I'm a passionated electronics engineer, interested in all kinds of exciting technology like blockchain, green energy, power electronics, and of course Threefold.
 linkedin: https://www.linkedin.com/in/jonas-de-zitter-15300911/
