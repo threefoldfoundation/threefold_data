@@ -51,7 +51,7 @@ people:
 - `partners`
 - `wisdom_council`
 - `technology_council`
-- `grid_council`
+- `grid_guardians`
 
 projects:
 - `blockchain`
