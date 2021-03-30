@@ -60,6 +60,7 @@ projects:
 - `impact`
 
 blog/news:
-- can vary quire a lot depending on respective article or post
+- can vary quite a lot depending on respective article or post
+- please get in touch with sam or sacha if you are adding a blog or news post yourself
 
 
