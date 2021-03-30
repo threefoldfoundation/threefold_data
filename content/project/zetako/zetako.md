@@ -8,6 +8,7 @@ excerpt: Reducing energy usage & CO2 emission of the transmission and storage of
 image: ./zetako.png
 image_caption: zetako
 logo: ./logo.png
+category:
 members: [claus_rosenberg_gotthard]
 websites: https://zetako.ai
 tags: [cloud, aci]

@@ -8,6 +8,7 @@ excerpt: Empowering people to recognize abundance by living new experiences one 
 image: ./beliive.png
 image_caption: beliive
 logo: ./logo.png
+category:
 members: [lorrana_scarpioni]
 websites: https://beliive.com
 tags: [twin, aci, foundation]

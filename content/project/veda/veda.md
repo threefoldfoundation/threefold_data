@@ -8,6 +8,7 @@ excerpt: Discover ancient Egypt and feel its special energies.
 image: ./veda.png
 image_caption: veda
 logo: ./logo.png
+category:
 members: [isabelle_peeters]
 websites: https://www.veda-egypt.com
 tags: [aci]

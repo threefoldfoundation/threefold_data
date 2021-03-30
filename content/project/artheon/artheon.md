@@ -9,6 +9,7 @@ created: 2020-04-20
 image: ./artheon.png
 image_caption: artheon
 logo: ./logo.png
+category:
 members: [vasily_gnuchev]
 websites: https://artheon.co/
 tags: [twin, aci, foundation]

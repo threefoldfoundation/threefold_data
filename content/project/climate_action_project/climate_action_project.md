@@ -8,6 +8,7 @@ excerpt: Providing refugees a chance to learn, create, equaly partake and succee
 image: ./tagprojects.png
 image_caption: climate_action_project
 logo: ./logo.png
+category:
 members: [koen_timmers]
 websites: https://www.climate-action.info/
 tags: [twin, aci, farming, foundation]

@@ -8,6 +8,7 @@ excerpt: Providing a new perspective on people's lifestyle empowering them to ac
 image: ./vlinder.png
 image_caption: vlinder
 logo: ./logo.png
+category:
 members: [sergey_ivliev]
 websites: https://vlinder.app
 tags: [twin, aci, foundation]

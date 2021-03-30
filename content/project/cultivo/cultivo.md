@@ -8,6 +8,7 @@ excerpt: A digital alliance to protect our tropical rainforest and empower its i
 image: ./placeholder.jpg
 image_caption: cultivo
 logo: ./logo_placeholder.png
+category:
 members: []
 websites: https://cultivo.earth
 tags: []

@@ -8,6 +8,7 @@ excerpt: Ground-breaking Technology in the Wind Energy Sector
 image: ./flowgen.png
 logo: ./logo.png
 image_caption: flowgen
+category:
 members: [tom_clausen, dirk_kuester]
 websites: https://www.flowgen.com/
 tags: [foundation, farming, cloud]

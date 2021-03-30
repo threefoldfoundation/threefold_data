@@ -18,6 +18,7 @@ excerpt: Provide an alternative income stream and create digital services for fa
 image: ./solidaridad.png
 image_caption: solidaridad
 logo: ./logo.png
+category:
 members: [jeroen_douglas]
 websites: https://www.solidaridadnetwork.org/
 tags: [twin, cloud, farming, aci, foundation]

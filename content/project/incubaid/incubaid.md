@@ -8,6 +8,7 @@ excerpt:
 image: ./placeholder.jpg
 image_caption: Incubaid
 logo: ./logo_placeholder.png
+category:
 members: []
 websites: https://btc-alpha.com/en/
 tags: []

@@ -8,6 +8,7 @@ excerpt: HPE wants to help ThreeFold to offer hardware and IT services to the co
 image: ./hpe.png
 image_caption: hpe
 logo: ./logo.png
+category:
 members: []
 websites: https://www.hpe.com/us/en/about.html
 tags: [foundation, farming]

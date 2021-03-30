@@ -8,6 +8,7 @@ excerpt: SelfKey is a fast-growing blockchain startup developing digital identit
 image: ./selfkey.png
 image_caption: selfkey
 logo: ./logo.png
+category:
 members: []
 websites: https://selfkey.org
 tags: []

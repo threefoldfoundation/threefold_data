@@ -8,6 +8,7 @@ excerpt: DigitalEnergy is a large ThreeFold farmer with a datacenter based in Mo
 image: ./placeholder.jpg
 image_caption: digital_energy
 logo: ./logo_placeholder.png
+category:
 members: []
 websites: https://digitalenergy.online/
 tags: []

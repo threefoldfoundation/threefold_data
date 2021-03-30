@@ -8,6 +8,7 @@ excerpt: Bringing together visionaries from diverse fields to amplify network in
 image: ./cicolab.png
 image_caption: cicolab
 logo: ./logo.png
+category:
 members: [lauren_moore_nignon, charles_blass]
 websites: https://www.collectiveintelligencecollaboratory.com
 tags: [twin, aci]

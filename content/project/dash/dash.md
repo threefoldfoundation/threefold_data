@@ -8,6 +8,7 @@ excerpt: Instant transactions and micro-fees. Any amount, anytime, anywhere.
 image: ./dash.png
 image_caption: dash
 logo: ./logo.png
+category:
 members: [felix_mago, sascha_jochum]
 websites: https://www.dash.org/
 tags: [cloud, farming, foundation]

@@ -8,6 +8,7 @@ excerpt: Your digital twin serving as a gateway to the new digital world of peer
 image: ./crystaltwin.png
 image_caption: crystal_twin
 logo: ./logo.png
+category:
 members: [brooks_cole, sacha_obeegadoo]
 websites:
 tags: []

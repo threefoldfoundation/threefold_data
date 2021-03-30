@@ -8,6 +8,7 @@ excerpt: Stellar is an open-source network for currencies and payments.
 image: ./stellar.png
 image_caption: stellar
 logo: ./logo.png
+category:
 members: []
 websites: https://www.stellar.org
 tags: []

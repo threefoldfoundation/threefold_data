@@ -8,6 +8,7 @@ excerpt: Build a decentralized banking system where by each user will have acces
 image: ./sequoyah.png
 image_caption: sequoyah
 logo: ./logo.png
+category:
 members: [dennis_lindberg]
 websites: https://sequoyah.dk/
 tags: [cloud, farming, foundation]

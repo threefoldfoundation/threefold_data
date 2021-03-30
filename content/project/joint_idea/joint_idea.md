@@ -8,6 +8,7 @@ excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativ
 image: ./jointidea.png
 image_caption: joint_idea
 logo: ./logo.png
+category:
 members: []
 websites: https://www.lifeworkslabs.com
 tags: [aci, farming, twin, foundation]

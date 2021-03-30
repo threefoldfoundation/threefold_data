@@ -8,6 +8,7 @@ excerpt: FreeFlow Nation is a complementary digital nation which flows freely ac
 image: ./placeholder.jpg
 image_caption: freeflownation
 logo: ./logo_placeholder.png
+category:
 members: []
 websites: https://freeflownation.org
 tags: []

@@ -9,6 +9,7 @@ created: 2020-04-20
 image: ./placeholder.jpg
 image_caption: threefold_love
 logo: ./logo_placeholder.png
+category:
 members: [olivia_jurado]
 websites: https://www.threefold.love/
 tags: []

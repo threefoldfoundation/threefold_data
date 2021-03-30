@@ -8,6 +8,7 @@ excerpt: Leading AI R&D lab and is backed by impactful angel investors, visionar
 image: ./aiqom.png
 image_caption: aiqom
 logo: ./logo.png
+category:
 members: [samer_obeidat]
 websites: https://aiqom.ai/
 tags: [twin, cloud, aci, foundation]

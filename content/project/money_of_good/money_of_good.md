@@ -8,6 +8,7 @@ excerpt: Driving transition to a new fair and sustainable economy through medita
 image: ./money_of_good.png
 image_caption: money_of_good
 logo: ./logo.png
+category:
 members: [marcelo_bohrer]
 websites: https://www.thefutureofgood.info
 tags: [twin, aci, foundation]

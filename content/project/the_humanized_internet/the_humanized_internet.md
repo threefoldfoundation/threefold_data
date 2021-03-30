@@ -8,6 +8,7 @@ excerpt: Providing digital identity for those individuals most underserved.
 image: ./the_humanized_internet.png
 image_caption: the_humanized_internet
 logo: ./logo.png
+category:
 members: [monique_morrow, akram_alfawakheeri]
 websites: https://www.moniquemorrow.com/humanized-internet
 tags: [twin, aci]

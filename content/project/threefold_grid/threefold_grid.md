@@ -8,6 +8,7 @@ excerpt: The ThreeFold Grid is built by independent people that together create 
 image: ./placeholder.jpg
 image_caption: threefold_grid
 logo: ./logo_placeholder.png
+category:
 members: []
 websites: https://threefold.tech/
 tags: []
