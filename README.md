@@ -50,6 +50,8 @@ people:
 - `aci_members`
 - `partners`
 - `wisdom_council`
+- `technology_council`
+- `grid_council`
 
 projects:
 - `blockchain`
