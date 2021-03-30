@@ -1,5 +1,5 @@
 ---
-id: dash_threefold
+id: threefold_dash
 title: Dash & Dash NEXT partners with ThreeFold
 tags: [partner,technology,update,blockchain]
 image: ./dash_threefold.png

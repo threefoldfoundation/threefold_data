@@ -1,5 +1,5 @@
 ---
-id: digibyte_threefold
+id: threefold_digibyte
 title: DigiByte integrates with ThreeFold’s decentralized Grid
 tags: [partner,technology,update,blockchain]
 category: [farming,cloud,foundation,aci]

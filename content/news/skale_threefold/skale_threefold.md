@@ -1,5 +1,5 @@
 ---
-id: skale_threefold
+id: threefold_skale
 title: ThreeFold partners with SKALE to empower its developer community
 tags: [partner,update,technology,blockchain]
 category: [farming,cloud,foundation]

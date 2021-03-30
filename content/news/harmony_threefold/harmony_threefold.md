@@ -1,5 +1,5 @@
 ---
-id: threefold_foundation_23
+id: threefold_harmony
 title: Harmony Integrates with ThreeFold’s Decentralized Grid
 tags: [partner,technology,update,blockchain]
 category: [farming,cloud,foundation]
