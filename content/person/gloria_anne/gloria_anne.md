@@ -2,7 +2,7 @@
 id: gloria_anne
 name: Gloria Anne
 rank: 3
-memberships: [foundation, mazraa]
+tags: [foundation, mazraa]
 bio: The relentlessly helpful office administrator in Mazraa, but she is also like a bookkeeper. Admin & Bookkeeping fell in love with Threefold The feeling of contributing to something larger than myself... very significant.
 excerpt: The relentlessly helpful office administrator in Mazraa.
 linkedin: https://www.linkedin.com/in/gloria-anne-c/

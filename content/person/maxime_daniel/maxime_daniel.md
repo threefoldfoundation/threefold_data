@@ -2,7 +2,7 @@
 id: maxime_daniel
 name: Maxime Daniel
 rank: 3
-memberships: [tech, technology_council]
+tags: [tech, technology_council]
 bio: C, python and nodejs developer, Gentoo user, Linux and Music addict
 excerpt: C, python and nodejs developer, Gentoo user, Linux and Music addict
 linkedin: https://www.linkedin.com/in/maxime-daniel-29bb8055/

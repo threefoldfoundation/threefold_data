@@ -2,7 +2,7 @@
 id: george_el_aily
 name: George El Aily
 rank: 2
-memberships: [cloud]
+tags: [cloud]
 bio: Helping in positioning countries as a frontiers in the telecom sector.
 excerpt: CEO of Kleos - most ecofriendly telecom mediator.
 linkedin: https://www.linkedin.com/in/george-el-aily/

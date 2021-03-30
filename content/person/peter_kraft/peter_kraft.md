@@ -2,7 +2,7 @@
 id: peter_kraft
 name: Peter Kraft
 rank: 1
-memberships: [ambassadors]
+tags: [ambassadors]
 bio: I worked 35 years for HP/HPE as sales/product manager/EMEA Director for Business Critical Server Business, last 10 years as EMEA Mission Critical Server Presales Manager, where I managed an EMEA team of presales specialists who nursed new technologies entering the market as well as managed mature technologies that faced declining business. I retired end of 2017, still eagerly following new technologies as I am an engineer with a Mechanical Engineering diploma from TU Graz, Austria. I am married, have 2 adult daughters, love computers and DIY repairs of any kind, my motorbike and Pilates and engage myself in charity clubs (Round Table, Club 41) since over 30 years.
 excerpt: I am a “technology affine” person and always interested in new technologies and advances in IT technology, which I follow closely and try new solutions myself wherever possible.
 linkedin: https://www.linkedin.com/in/peter-kraft-3775931

@@ -30,7 +30,7 @@ look for variable:
 
 and provide (currently active) website's name:
 - `twin`
-- `cloud`
+- `cloud`tags:
 - `farming`
 - `tech`
 - `foundation`
@@ -61,3 +61,4 @@ projects:
 
 blog/news:
 - can vary quire a lot depending on respective article or post
+tags:
