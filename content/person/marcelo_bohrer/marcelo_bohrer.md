@@ -2,7 +2,7 @@
 id: marcelo_bohrer
 name: Marcelo Bohrer
 rank: 4
-tags: [aci_members]
+tags: [aci_members, partners]
 category:
 bio: Marcelo Bohrer is a creative thinker, focused on design and innovation, passionate about bringing transformative ideas to life, and use them to make the world a better place. With extensive experience in using design thinking to develop solutions to complex scenarios, he created several enterprises with a wide impact such as the Nadism Club and the CyberorganicStuff. Marcelo also has a long track of spiritual investigation, especially about Buddhism.
 excerpt: A creative thinker, focused on design and innovation, passionate about bringing transformative ideas to life.
