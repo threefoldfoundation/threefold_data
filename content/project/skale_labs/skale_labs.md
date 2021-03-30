@@ -8,10 +8,10 @@ excerpt: Run your dApps in a decentralized modular cloud built for real-world ne
 image: ./skale_labs.png
 image_caption: skale_labs
 logo: ./logo.png
-category:
+category: [cloud, farming, foundation]
 members: [christine_renee_perry]
 websites: https://skale.network/
-tags: [cloud, farming, foundation]
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/skale-labs/
 ---

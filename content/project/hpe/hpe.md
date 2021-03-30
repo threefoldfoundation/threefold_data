@@ -3,15 +3,15 @@ id: hpe
 title: Hewlett Packard Enterprise
 countries: [California, US]
 cities: [San Jose]
-rank: 5
+rank: 1
 excerpt: HPE wants to help ThreeFold to offer hardware and IT services to the community.
 image: ./hpe.png
 image_caption: hpe
 logo: ./logo.png
-category:
+category: [foundation, farming]
 members: []
 websites: https://www.hpe.com/us/en/about.html
-tags: [foundation, farming]
+tags: [infrastructure, technology]
 private: 0
 linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise/
 ---

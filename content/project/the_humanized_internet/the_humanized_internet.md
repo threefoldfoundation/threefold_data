@@ -3,15 +3,15 @@ id: the_humanized_internet
 title: The Humanized Internet
 countries: [Switzerland, Germany]
 cities: [Zürich, Berlin]
-rank: 4
+rank: 2
 excerpt: Providing digital identity for those individuals most underserved.
 image: ./the_humanized_internet.png
 image_caption: the_humanized_internet
 logo: ./logo.png
-category:
+category: [twin, aci]
 members: [monique_morrow, akram_alfawakheeri]
 websites: https://www.moniquemorrow.com/humanized-internet
-tags: [twin, aci]
+tags: [community]
 private: 0
 linkedin: ''
 ---

@@ -3,15 +3,15 @@ id: threefold_foundation
 title: ThreeFold Foundation
 countries: [UAE, Switzerland, Belgium]
 cities: [Dubai, Lugano, Ghent]
-rank: 4
+rank: 2
 excerpt: The ThreeFold Foundation along with its partners is growing the ThreeFold Grid and a new peer-to-peer internet.
 image: ./threefold_foundation.png
 image_caption: threefold_foundation
 logo: ./logo.png
-category:
+category: [twin, cloud, farming, aci, foundation]
 members: [kristof_de_spiegeleer, roel_van_sabben, kristine_vilnite, sam_taggart, sacha_obegadoo, adnan_fatayerji, karoline_zizka, maximilian_rang]
 websites: https://www.threefold.io
-tags: [twin, cloud, farming, aci, foundation]
+tags: [impact, community]
 private: 0
 linkedin: https://www.linkedin.com/company/threefold-foundation/
 ---

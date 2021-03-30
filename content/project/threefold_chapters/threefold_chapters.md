@@ -3,12 +3,12 @@ id: threefold_chapters
 title: ThreeFold Chapters
 countries: []
 cities: []
-rank: 2
+rank: ''
 excerpt: Chapters are independent groups of people and organizations who are representing and promoting the ThreeFold Movement.
 image: ./placeholder.jpg
 image_caption: threefold_chapters
 logo: ./logo_placeholder.png
-category:
+category: []
 members: []
 websites: 
 tags: []

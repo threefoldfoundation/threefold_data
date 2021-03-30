@@ -3,12 +3,12 @@ id: freeflownation
 title: FreeFlow Nation
 countries: []
 cities: []
-rank: 2
+rank: ''
 excerpt: FreeFlow Nation is a complementary digital nation which flows freely across physical borders, and which welcomes everyone as a digital citizen.
 image: ./placeholder.jpg
 image_caption: freeflownation
 logo: ./logo_placeholder.png
-category:
+category: []
 members: []
 websites: https://freeflownation.org
 tags: []

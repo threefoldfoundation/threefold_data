@@ -3,15 +3,15 @@ id: crystal_language
 title: Crystal Programming Language
 countries: [Argentina]
 cities: [Buenos Aires]
-rank: 2
+rank: 4
 excerpt: A programming language for programmer and the computer - the best of both worlds.
 image: ./crystallang.png
 image_caption: crystal_language
 logo: ./logo.png
-category:
+category: [aci]
 members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
-tags: [aci]
+tags: [experience]
 private: 0
 linkedin: https://www.linkedin.com/company/crystal-language/about/
 ---

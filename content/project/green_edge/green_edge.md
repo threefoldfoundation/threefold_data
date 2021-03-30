@@ -3,15 +3,15 @@ id: green_edge
 title: Green Edge
 countries: [South Africa, East Africa]
 cities: [Johannesburg, Cape Town, Nairobi]
-rank: 3
+rank: 2
 excerpt: Creating a decentralised internet that is inherently equal, sustainable, private and secure.
 image: ./greenedge.png
 image_caption: green_edge
 logo: ./logo.png
-category:
+category: [foundation, cloud, farming, aci]
 members: [joe_foxton, mariza_wellesley_wesley, michael_wellesley_wesley]
 websites: https://green-edge.net/
-tags: [foundation, cloud, farming, aci]
+tags: [technology, farming]
 private: 0
 linkedin: https://www.linkedin.com/company/green-edge-cloud/
 ---

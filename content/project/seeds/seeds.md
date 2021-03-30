@@ -8,10 +8,10 @@ excerpt: Creating a regenerative financial system for a thriving global society.
 image: ./seeds.png
 image_caption: seeds
 logo: ./logo.png
-category:
+category: [twin, cloud, aci]
 members: [rieki_cordon, nikolaus_heger, franz_josef_allmayer]
 websites: https://www.joinseeds.com/
-tags: [twin, cloud, aci]
+tags: [community]
 private: 0
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 ---

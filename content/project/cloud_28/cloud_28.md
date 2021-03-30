@@ -3,15 +3,15 @@ id: cloud_28
 title: Cloud 28+
 countries: []
 cities: []
-rank: 2
+rank: 4
 excerpt: Cloud 28+ is the world's largest independent community promoting cloud service and knowledge sharing.
 image: ./cloud28plus.png
 image_caption: cloud_28
 logo: ./logo.png
-category:
+category: [cloud]
 members: []
 websites: https://cloud28plus.com
-tags: [cloud]
+tags: [technology]
 private: 0
 linkedin: ''
 ---

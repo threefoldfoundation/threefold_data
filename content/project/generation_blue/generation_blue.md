@@ -3,15 +3,15 @@ id: generation_blue
 title: Tokenized Regeneration
 countries: [Portugal]
 cities: []
-rank: 2
+rank: 3
 excerpt: Empower every global citizen to protect and regenerate nature.
 image: ./genblue.png
 image_caption: generation_blue
 logo: ./logo.png
-category:
+category: [twin, aci]
 members: [alan_laubsch]
 websites: https://generation.blue/
-tags: [twin, aci]
+tags: [experience, impact]
 private: 0
 linkedin: https://www.linkedin.com/company/genblue/
 ---

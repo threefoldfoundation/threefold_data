@@ -3,15 +3,15 @@ id: cicolab
 title: Collective Intelligence Collaboratory
 countries: [France, Switzerland]
 cities: []
-rank: 1
+rank: 5
 excerpt: Bringing together visionaries from diverse fields to amplify network intelligence.
 image: ./cicolab.png
 image_caption: cicolab
 logo: ./logo.png
-category:
+category: [twin, aci]
 members: [lauren_moore_nignon, charles_blass]
 websites: https://www.collectiveintelligencecollaboratory.com
-tags: [twin, aci]
+tags: [community]
 private: 0
 linkedin: https://www.linkedin.com/company/cicollaboratory/
 ---

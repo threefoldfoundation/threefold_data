@@ -3,15 +3,15 @@ id: aiqom
 title: Create & Learn AI
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: 2
 excerpt: Leading AI R&D lab and is backed by impactful angel investors, visionary machine learning scientists.
 image: ./aiqom.png
 image_caption: aiqom
 logo: ./logo.png
-category:
+category: [twin, cloud, aci, foundation]
 members: [samer_obeidat]
 websites: https://aiqom.ai/
-tags: [twin, cloud, aci, foundation]
+tags: [technology, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/aiqom/
 ---

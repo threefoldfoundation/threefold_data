@@ -8,10 +8,10 @@ excerpt: Providing a new perspective on people's lifestyle empowering them to ac
 image: ./vlinder.png
 image_caption: vlinder
 logo: ./logo.png
-category:
+category: [twin, aci, foundation]
 members: [sergey_ivliev]
 websites: https://vlinder.app
-tags: [twin, aci, foundation]
+tags: [experience, impact]
 private: 0
 linkedin: https://www.linkedin.com/company/vlinderapp/
 ---

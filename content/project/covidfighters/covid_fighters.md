@@ -3,15 +3,15 @@ id: covidfighters
 title: Covid Testing Solution
 countries: [Austria]
 cities: [Vienna]
-rank: 1
+rank: 5
 excerpt: Re-gaining social life and staying healthy with covid testing solution on Crystal Twin.
 image: ./covidfighters.png
 image_caption: covid_fighters
 logo: ./logo.png
-category:
+category: [twin, aci]
 members: [boris_fahrnberger]
 websites: https://www.artichoke-computing.com/
-tags: [twin, aci]
+tags: [experience, impact]
 private: 0
 linkedin: https://www.linkedin.com/company/covidfighters/
 ---

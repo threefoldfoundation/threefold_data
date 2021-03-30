@@ -3,15 +3,15 @@ id: sequoyah
 title: Sequoyah
 countries: [Denmark]
 cities: [Copenhagen]
-rank: 1
+rank: 4
 excerpt: Build a decentralized banking system where by each user will have access to multiple digital and market assets at the palm of their hand.
 image: ./sequoyah.png
 image_caption: sequoyah
 logo: ./logo.png
-category:
+category: [cloud, farming, foundation]
 members: [dennis_lindberg]
 websites: https://sequoyah.dk/
-tags: [cloud, farming, foundation]
+tags: [technology]
 private: 0
 linkedin: ''
 ---

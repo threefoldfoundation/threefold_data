@@ -3,12 +3,12 @@ id: crystal_twin
 title: Crystal Twin
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: ''
 excerpt: Your digital twin serving as a gateway to the new digital world of peer-to-peer experiences.
 image: ./crystaltwin.png
 image_caption: crystal_twin
 logo: ./logo.png
-category:
+category: []
 members: [brooks_cole, sacha_obeegadoo]
 websites:
 tags: []

@@ -3,15 +3,15 @@ id: threefold_tech
 title: ThreeFold Tech
 countries: [Belgium]
 cities: [Lochristi]
-rank: 4
+rank: 2
 excerpt: Powering the Information Technology workloads of tomorrow.
 image: ./threefold_tech.png
 image_caption: threefold tech
 logo: ./logo.jpg
-category:
+category: [tech, cloud, farming]
 members: [kristof_de_spiegeleer, christopher_hutton, andreas_hartl, roel_van_sabben, sabrina_sadik, owen_kemp]
 websites: https://threefold.tech/
-tags: [tech, cloud, farming]
+tags: [technology, infrastructure]
 private: 0
 linkedin: https://www.linkedin.com/company/threefold-tech/
 ---

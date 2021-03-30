@@ -3,12 +3,12 @@ id: stellar
 title: Stellar
 countries: []
 cities: []
-rank: 2
+rank: ''
 excerpt: Stellar is an open-source network for currencies and payments.
 image: ./stellar.png
 image_caption: stellar
 logo: ./logo.png
-category:
+category: []
 members: []
 websites: https://www.stellar.org
 tags: []

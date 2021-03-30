@@ -8,10 +8,10 @@ excerpt: A decentralized search engine, powered by the community.
 image: ./presearch.png
 image_caption: presearch
 logo: ./logo.png
-category:
+category: [cloud, farming, foundation]
 members: [trey_grainger]
 websites: https://presearch.org
-tags: [cloud, farming, foundation]
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/presearchofficial
 ---

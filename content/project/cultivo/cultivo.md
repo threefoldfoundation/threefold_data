@@ -3,12 +3,12 @@ id: cultivo
 title: Cultivo
 countries: []
 cities: []
-rank: 2
+rank: 4
 excerpt: A digital alliance to protect our tropical rainforest and empower its inhabitants.
 image: ./placeholder.jpg
 image_caption: cultivo
 logo: ./logo_placeholder.png
-category:
+category: []
 members: []
 websites: https://cultivo.earth
 tags: []

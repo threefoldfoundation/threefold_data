@@ -8,10 +8,10 @@ excerpt: Community driven Blockchain for DeFi and financial dApps.
 image: ./waykichain.png
 image_caption: waykichain
 logo: ./logo.png
-category:
+category: [cloud, farming, foundation]
 members: [richard_chen]
 websites: https://www.waykichain.com/
-tags: [cloud, farming, foundation]
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/
 ---

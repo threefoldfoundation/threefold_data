@@ -2,16 +2,16 @@
 id: polygon
 title: Polygon
 countries: [Global]
-cities: []
+cities: [Global]
 rank: 3
 excerpt: Protocol and framework for building Ethereum-compatible blockchain networks.
 image: ./polygon.png
 image_caption: Polygon
 logo: ./logo.png
-category:
+category: [cloud, farming, foundation]
 members: [anurag_arjun, arjun_kalsy]
 websites: https://polygon.technology/
-tags: [cloud, farming, foundation]
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/matic-network/
 ---

@@ -3,15 +3,15 @@ id: neo
 title: NEO
 countries: [Global]
 cities: []
-rank: 2
+rank: 3
 excerpt: Scalable, fast, and ultra-secure blockchain driven by a global community of developers.
 image: ./neo.png
 image_caption: neo
 logo: ./logo.png
-category:
+category: [farming, cloud, foundation]
 members: [denis_suslov]
 websites: https://neo.org/
-tags: [farming, cloud, foundation]
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/neo-blockchain/
 ---

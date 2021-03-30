@@ -3,15 +3,15 @@ id: zetako
 title: Lossless Data Compression
 countries: [Luxembourg, France, Portugal]
 cities: [Luxembourg, St. Florent, Lisbon]
-rank: 3
+rank: 4
 excerpt: Reducing energy usage & CO2 emission of the transmission and storage of data
 image: ./zetako.png
 image_caption: zetako
 logo: ./logo.png
-category:
+category: [cloud, aci]
 members: [claus_rosenberg_gotthard]
 websites: https://zetako.ai
-tags: [cloud, aci]
+tags: [technology]
 private: 0
 linkedin: https://www.linkedin.com/company/zetako/
 ---

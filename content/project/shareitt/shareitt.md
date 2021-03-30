@@ -8,10 +8,10 @@ excerpt: Empowering communities socially, financially, and environmentally.
 image: ./shareitt.png
 image_caption: shareitt
 logo: ./logo.png
-category:
+category: [twin, aci, foundation]
 members: [arie_ben_david, roel_wofert, mickey_malul]
 websites: https://www.shareitt.com
-tags: [twin, aci, foundation]
+tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/shareitt/
 ---

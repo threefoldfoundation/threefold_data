@@ -1,17 +1,17 @@
 ---
 id: joint_idea
 title: Joint Idea
-countries: []
-cities: []
-rank: 2
+countries: [Turkey]
+cities: [Istanbul]
+rank: 3
 excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativity, and serendipity by connecting ideas, people, place, and time.
 image: ./jointidea.png
 image_caption: joint_idea
 logo: ./logo.png
-category:
+category: [aci, farming, twin, foundation]
 members: []
 websites: https://www.lifeworkslabs.com
-tags: [aci, farming, twin, foundation]
+tags: [community]
 private: 0
 linkedin: https://www.linkedin.com/company/joint-idea/
 ---

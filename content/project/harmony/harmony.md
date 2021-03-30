@@ -8,10 +8,10 @@ excerpt: Open consensus for 10 Billion people to scale trust and create a radica
 image: ./harmony.png
 image_caption: harmony
 logo: ./harmony_logo.png
-category:
+category: [cloud, farming, foundation]
 members: [li_jiang, nikalos_kost]
 websites: https://www.harmony.one/
-tags: [cloud, farming, foundation]
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/harmony-one/
 ---

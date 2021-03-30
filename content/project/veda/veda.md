@@ -3,15 +3,15 @@ id: veda
 title: Veda
 countries: [Egypt]
 cities: [Nile]
-rank: 2
+rank: 3
 excerpt: Discover ancient Egypt and feel its special energies.
 image: ./veda.png
 image_caption: veda
 logo: ./logo.png
-category:
+category: [aci]
 members: [isabelle_peeters]
 websites: https://www.veda-egypt.com
-tags: [aci]
+tags: [community, experience]
 private: 0
 linkedin: ''
 ---
