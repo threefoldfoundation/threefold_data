@@ -49,6 +49,7 @@ people:
 - `farmers`
 - `aci_members`
 - `partners`
+- 'wisdom_council'
 
 projects:
 - `blockchain`
