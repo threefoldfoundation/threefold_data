@@ -3,6 +3,7 @@ id: ivan_coene
 name: Ivan Coene
 rank: 2
 tags: [tech, jimber]
+category:
 bio: Front-end developer at Jimber
 excerpt: Front-end developer fell in love with Threefold  
 linkedin: https://www.linkedin.com/in/ivancoene/

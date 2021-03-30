@@ -3,6 +3,7 @@ id: ashraf_fouda
 name: Ashraf Fouda
 rank: 2
 tags: [tech]
+category:
 bio: Software Engineer with passion in new technologies, love every thing that is realy new and challenging. Threefold is changing the world by decentralizing and neutralizing the internet
 excerpt: Software Engineer with passion in new technologies, love every thing that is realy new.
 linkedin: https://www.linkedin.com/in/ashraffouda/

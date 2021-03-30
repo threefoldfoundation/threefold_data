@@ -3,6 +3,7 @@ id: richard_chen
 name: Richard Chen
 rank: 2
 tags: [cloud]
+category:
 bio: Build the best DeFi blockchain that is stable, payable, issuable, tradable, borrowable and savable!
 excerpt: Co-founder and CTO at WaykiChain
 linkedin: https://www.linkedin.com/in/richardchenxd/
