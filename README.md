@@ -47,7 +47,7 @@ people:
 - `ambassadors`
 - `matchmakers`
 - `farmers`
-- `aci_memebers`
+- `aci_members`
 - `partners`
 
 projects:
