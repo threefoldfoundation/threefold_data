@@ -9,7 +9,7 @@ excerpt: Experienced business lawyer, assisting founders, investors and private 
 linkedin: https://www.linkedin.com/in/pierre-van-hoorebeke-5958343/
 websites: https://threefold.io/, https://threefold.tech
 projects: [threefold_tech, threefold_foundation]
-image: ./pierre_van_hoorebeke.jpg
+image: ./pierre_van_hoorebeke.png
 countries: [Belgium]
 cities: []
 private: 0
