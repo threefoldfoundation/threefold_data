@@ -38,9 +38,9 @@ and provide (currently active) website's name:
 - `aci`
 - `mazraa`
 
-We use tags to filter people/projects/blog/news:
+We use tags to filter projects/blog/news and memberships to filter people:
 
-people:
+memberships for people:
 - `cofounders`
 - `tech`
 - `foundation`
@@ -53,7 +53,7 @@ people:
 - `technology_council`
 - `grid_guardians`
 
-projects:
+tags for projects:
 - `blockchain`
 - `experience`
 - `technology`
@@ -62,7 +62,7 @@ projects:
 - `infrastructure`
 - `impact`
 
-blog/news:
+tags for blog and news:
 - can vary quite a lot depending on respective article or post
 - please get in touch with sam or sacha if you are adding a blog or news post yourself
 
