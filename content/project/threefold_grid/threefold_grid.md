@@ -3,7 +3,7 @@ id: threefold_grid
 title: ThreeFold Grid
 countries: []
 cities: []
-rank: ''
+rank: 0
 excerpt: The ThreeFold Grid is built by independent people that together create a pool of connected compute and storage capacity.
 image: ./placeholder.jpg
 image_caption: threefold_grid

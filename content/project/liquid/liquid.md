@@ -3,7 +3,7 @@ id: liquid
 title: Liquid
 countries: []
 cities: []
-rank: ''
+rank: 0
 excerpt: Liquid is the world’s most comprehensive and secure trading platform.
 image: ./liquid2.png
 image_caption: liquid
