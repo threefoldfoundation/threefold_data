@@ -2,7 +2,7 @@
 id: geert_stox
 name: Geert Stox
 rank: 4
-tags: [ambassadors]
+memberships: [ambassadors]
 category: [foundation]
 bio: Marketing and communication expert, starting from human-centred design. Currently focussed on campaigns for the EC, building trust through purpose-driven ideas.
 excerpt: Value-oriented, ideas-driven, evidence-based, striving to bring reason back in symbiosis with emotion.

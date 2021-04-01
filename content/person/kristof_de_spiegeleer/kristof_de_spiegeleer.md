@@ -2,7 +2,7 @@
 id: kristof_de_spiegeleer
 name: Kristof de Spiegeleer
 rank: 1
-tags: [
+memberships: [
     farmers, 
     foundation, 
     tech, 

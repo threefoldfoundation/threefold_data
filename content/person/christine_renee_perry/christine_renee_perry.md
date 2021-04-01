@@ -2,7 +2,7 @@
 id: christine_renee_perry
 name: Christine Renee Perry
 rank: 1
-tags: [partners]
+memberships: [partners]
 category: [cloud, foundation]
 bio: VP of Global solutions engineering, my goal is to increase blockchain usability, through scalability solutions that aim to simplify the integration of blockchain into real world applications.
 excerpt: VP of Global solutions engineering.

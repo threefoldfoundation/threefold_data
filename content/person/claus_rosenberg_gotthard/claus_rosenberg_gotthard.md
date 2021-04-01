@@ -2,7 +2,7 @@
 id: claus_rosenberg_gotthard
 name: Claus Rosenberg Gotthard
 rank: 3
-tags: [aci_members, partners]
+memberships: [aci_members, partners]
 category: [aci]
 bio: Danish, born entrepreneur with over 30 years of venture building experience, failures and success along the way. I have lived in Lisbon since 2018 with my wife who is an Artist.
 excerpt: Danish, born entrepreneur with over 30 years of venture building experience.

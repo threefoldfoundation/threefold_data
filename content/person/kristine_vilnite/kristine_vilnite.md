@@ -2,7 +2,7 @@
 id: kristine_vilnite
 name: Kristine Vilnite
 rank: 2
-tags: [foundation, aci_members]
+memberships: [foundation, aci_members]
 category: [foundation, aci]
 bio: A loving, kind, explorer fully dedicating her professional path to build a sustainable foundation for the future. Kristine is a compassionate innovator, founder, advisor, sustainable development advocate, adding value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm.
 excerpt: A loving, kind, explorer building a sustainable foundation for the future.

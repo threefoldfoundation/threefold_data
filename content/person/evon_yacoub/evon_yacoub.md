@@ -2,7 +2,7 @@
 id: evon_yacoub
 name: Evon Yacoub
 rank: 5
-tags: [tech]
+memberships: [tech]
 category: [foundation]
 bio: Experienced Office Manager with a demonstrated history of working in the computer software industry. Skilled in Human Resources, Management, Office Administration. has Strong administrative professional. Admin Coordinator fell in love with Threefold I dream about a world where everyone can be happy.
 excerpt: Experienced Office Manager with a demonstrated history of working in the computer software industry.

@@ -2,7 +2,7 @@
 id: denis_suslov
 name: Denis Suslov 
 rank: 4
-tags: [partners]
+memberships: [partners]
 category: [foundation, cloud]
 bio: Ecosystem Growth at NEO blockchain
 excerpt: Ecosystem Growth at NEO blockchain

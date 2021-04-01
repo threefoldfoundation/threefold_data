@@ -2,7 +2,7 @@
 id: andrew_john_brauer
 name: Andrew John Brauer
 rank: 5
-tags: [ambassadors, grid_guardians]
+memberships: [ambassadors, grid_guardians]
 category: [foundation, farming]
 bio: Former chief technology officer for Huawei Africa, He was the CTO at Business Connexion (BCX) for 12 years.  He has over 40 years of ICT experience in research, and introducing new technologies. He has also specialised in business and technology strategy across various fields including networking telecommunications, system management, software development  cloud computing. and  Renewable energy.. He has worked extensively in Europe and Africa.
 excerpt:  Andy passion is about touching the Future today and never stop learning.

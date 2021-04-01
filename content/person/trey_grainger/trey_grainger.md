@@ -2,7 +2,7 @@
 id: trey_grainger
 name: Trey Grainger
 rank: 3
-tags: [partners]
+memberships: [partners]
 category: [foundation, cloud]
 bio: CTO at Presearch, building a decentralized search engine powered by community. Experienced Engineering and Data Science Executive with a demonstrated history building incredibly strong software teams and products. Particularly strong background in the Search and Information Retrieval, Recommendation Systems, and Data Analytics spaces.
 excerpt: CTO at Presearch

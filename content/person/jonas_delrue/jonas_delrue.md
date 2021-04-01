@@ -2,7 +2,7 @@
 id: jonas_delrue
 name: Jonas Delrue
 rank: 2
-tags: [tech]
+memberships: [tech]
 category: [foundation, twin]
 bio: As a student, Jonas was already programming for Cisco, Excentis and other IT firms. During his professional career, Jonas had various positions from developer over team leader to CTO of Artilium, leading a team of 40 developers and testers. Right now Jonas is technical lead and founder within Jimber.
 excerpt: Jonas is technical lead and founder within Jimber.

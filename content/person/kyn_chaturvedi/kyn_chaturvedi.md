@@ -2,7 +2,7 @@
 id: kyn_chaturvedi
 name: Kyn Chaturvedi
 rank: 4
-tags: [partners]
+memberships: [partners]
 category: [foundation, cloud]
 bio: VP of Global solutions engineering, my goal is to increase blockchain usability, through scalability solutions that aim to simplify the integration of blockchain into real world applications.
 excerpt: VP of Global solutions engineering, my goal is to increase blockchain usability.

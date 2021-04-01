@@ -2,7 +2,7 @@
 id: ken_de_moor
 name: Ken De Moor
 rank: 3
-tags: [tech]
+memberships: [tech]
 category: [foundation, twin]
 bio: Quality Assurance Engineer working for Jimber and helping test and organize threefold projects. QA Engineer fell in love with Threefold Because I like to work on new and exciting technologies that could change the world.
 excerpt: Quality Assurance Engineer working for Jimber and helping test and organize threefold projects.
