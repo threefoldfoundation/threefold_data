@@ -3,7 +3,7 @@ id: crystal_home
 title: Circular & Self-Sufficient Homes
 countries: [The Netherlands]
 cities: []
-rank: 3
+rank: 4
 excerpt: Circular & self-sufficient homes reducing the CO2 footprint and the waste production.
 image: ./crystalhome.png
 image_caption: crystal_home

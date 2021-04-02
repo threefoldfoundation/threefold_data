@@ -3,7 +3,7 @@ id: joint_idea
 title: Joint Idea
 countries: [Turkey]
 cities: [Istanbul]
-rank: 3
+rank: 4
 excerpt: Joint Idea is a synergy platform that cultivates consciousness, creativity, and serendipity by connecting ideas, people, place, and time.
 image: ./jointidea.png
 image_caption: joint_idea

@@ -3,7 +3,7 @@ id: harmony
 title: Harmony
 countries: [USA]
 cities: [San Francisco]
-rank: 3
+rank: 2
 excerpt: Open consensus for 10 Billion people to scale trust and create a radically fair economy.
 image: ./harmony.png
 image_caption: harmony

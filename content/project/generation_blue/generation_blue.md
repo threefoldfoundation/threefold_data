@@ -3,7 +3,7 @@ id: generation_blue
 title: Tokenized Regeneration
 countries: [Portugal]
 cities: []
-rank: 3
+rank: 4
 excerpt: Empower every global citizen to protect and regenerate nature.
 image: ./genblue.png
 image_caption: generation_blue

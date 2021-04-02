@@ -3,7 +3,7 @@ id: aiqom
 title: Create & Learn AI
 countries: [Global]
 cities: [Global]
-rank: 2
+rank: 3
 excerpt: Leading AI R&D lab and is backed by impactful angel investors, visionary machine learning scientists.
 image: ./aiqom.png
 image_caption: aiqom
