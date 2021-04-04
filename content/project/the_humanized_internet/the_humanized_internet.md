@@ -3,7 +3,7 @@ id: the_humanized_internet
 title: The Humanized Internet
 countries: [Switzerland, Germany]
 cities: [Zürich, Berlin]
-rank: 2
+rank: 3
 excerpt: Providing digital identity for those individuals most underserved.
 image: ./the_humanized_internet.png
 image_caption: the_humanized_internet

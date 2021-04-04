@@ -3,7 +3,7 @@ id: money_of_good
 title: Socioeconomic Meditation Platform
 countries: [Germany]
 cities: [Munich]
-rank: 3
+rank: 4
 excerpt: Driving transition to a new fair and sustainable economy through meditation.
 image: ./money_of_good.png
 image_caption: money_of_good

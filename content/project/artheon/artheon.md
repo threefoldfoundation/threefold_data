@@ -3,7 +3,7 @@ id: artheon
 title: Virtual Reality Museum
 countries: [Russia]
 cities: [Moscow]
-rank: 3
+rank: 4
 excerpt: A virtual museum online with 50.000+ pieces of art on top of TFGrid.
 created: 2020-04-20
 image: ./artheon.png

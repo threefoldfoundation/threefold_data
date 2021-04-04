@@ -3,7 +3,7 @@ id: presearch
 title: Presearch
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: 2
 excerpt: A decentralized search engine, powered by the community.
 image: ./presearch.png
 image_caption: presearch
