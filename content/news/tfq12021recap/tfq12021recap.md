@@ -23,4 +23,4 @@ Here's a quick look at the first three months of 2021 for ThreeFold:
 <br/>
 <br/>
 
-Find the full update [here](https://new.threefold.io/info/threefold#/threefold__q12021recap), with more details.
+Find the full update [here](https://threefold.io/info/threefold#/threefold__q12021recap), with more details.

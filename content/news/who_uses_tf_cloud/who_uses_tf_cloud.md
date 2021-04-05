@@ -29,7 +29,7 @@ And later this year, any DApp developer will be able to run their JavaScript app
 <br/>
 <br/>
 
-Learn more about [the benefits](https://new.threefold.io/info/threefold#/threefold__grid_why) of the ThreeFold Grid.
+Learn more about [the benefits](https://threefold.io/info/threefold#/threefold__grid_why) of the ThreeFold Grid.
 <br/>
 <br/>
 
