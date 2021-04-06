@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/crystal-language/about/
 ---
 
-# Crystal Programming Language
-
 <br/>
 
 ![crystal_language](./crystallanguage2.png)

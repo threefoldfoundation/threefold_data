@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 ---
 
-# DigiByte
-
 <br/>
 
 ![digibyte](./digibyte2.jpg)

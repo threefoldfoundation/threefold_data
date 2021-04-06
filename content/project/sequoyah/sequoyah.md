@@ -16,8 +16,6 @@ private: 0
 linkedin: ''
 ---
 
-# Sequoyah
-
 <br/>
 
 ![sequoyah](./sequoyah2.png)

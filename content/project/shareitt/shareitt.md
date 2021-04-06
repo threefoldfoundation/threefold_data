@@ -1,6 +1,6 @@
 ---
 id: shareitt
-title: Community Platform
+title: Shareitt
 countries: [Global]
 cities: [Global]
 rank: 3
@@ -15,8 +15,6 @@ tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/shareitt/
 ---
-
-# Shareitt
 
 <br/>
 

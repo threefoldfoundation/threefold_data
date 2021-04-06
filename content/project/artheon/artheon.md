@@ -1,10 +1,10 @@
 ---
 id: artheon
-title: Virtual Reality Museum
+title: Artheon VR Museum
 countries: [Russia]
 cities: [Moscow]
 rank: 4
-excerpt: A virtual museum online with 50.000+ pieces of art on top of TFGrid.
+excerpt: A virtual museum online with 50.000+ pieces of art on top of TF Grid.
 created: 2020-04-20
 image: ./artheon.png
 image_caption: artheon
@@ -17,8 +17,6 @@ private: 0
 linkedin:
 ---
 
-# Artheon
-
 <br/>
 
 ![artheon](./artheon2.jpg)
@@ -27,7 +25,7 @@ linkedin:
 
 ## About
 
-_The Artheon VR Museum_ is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we have compiled 40,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere.
+The [Artheon VR Museum](https://artheon.co/) is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we have compiled 40,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere.
 
 <BR>
 
@@ -43,11 +41,11 @@ Artheon's mission is to enable free global access to history, art and culture to
 
 Art can act as a catalyst to tap into our inner potential as well as our collective intelligence. When going through the history of humanity, it is clear that Art played a major role in shaping the most advanced civilizations of humankind, across eras. Art is a proven tool to inspire faith and elevate cultural growth, while bringing a new perspectives about our reality. Today, studies show that there is a positive correlation between schoolchildren's grades in math and literacy, and their involvement with drama or music activities. Also, art brings people together and gives people a chance to be part of a community. Art influences society by changing opinions, instilling values and translating experiences across space and time. Research has shown art affects the fundamental sense of self. Therefore we believe that free global access to art and culture is a prerequisite for a development of human kind.
 
-<br/>
+<BR>
 
-![artheon](./artheon_experience.jpg)
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Ofk22N2Ew1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
+<BR>
 
 ## Powered by ThreeFold
 
@@ -58,7 +56,7 @@ TFGrid allows everyone in the world with access to this wonderful virtual realit
 
 ## Join saving our planet
 
-Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to become the most inclusive and sustainable museum in the world!
+Artheon VR Museum is growing into a crowd-sourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to become the most inclusive and sustainable museum in the world!
 
 <!-- ## Support this project
 

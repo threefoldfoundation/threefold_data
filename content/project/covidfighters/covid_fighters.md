@@ -1,10 +1,10 @@
 ---
 id: covidfighters
-title: Covid Testing Solution
+title: COVID Fighters
 countries: [Austria]
 cities: [Vienna]
 rank: 5
-excerpt: Re-gaining social life and staying healthy with covid testing solution on Crystal Twin.
+excerpt: Re-gaining social life and staying healthy with COVID testing solution on Crystal Twin.
 image: ./covidfighters.png
 image_caption: covid_fighters
 logo: ./logo.png
@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/covidfighters/
 ---
 
-# CovidFighters
-
 <br/>
 
 ![covid](./covidfighters2.png)
@@ -26,10 +24,10 @@ linkedin: https://www.linkedin.com/company/covidfighters/
 
 ## About
 
-Covid Fighters have built a technology consortium to test Covid19 from a mobile unit to test whether or not a test subject is infected and contagious. The actual test takes only a few hours and the mobile unit can be deployed in a matter of days.
+COVID Fighters have built a technology consortium to test COVID 19 from a mobile unit to test whether or not a test subject is infected and contagious. The actual test takes only a few hours and the mobile unit can be deployed in a matter of days.
 <br/>
 <br/>
-Various types of people (that need to be tested) can be tested easily and frequently and have their contamination state verified and stored in a way that is easily auditable. The process is end-to-end and involves remote medical specialists to assist and advise. Covid Fighters are putting this consortium together to make the world a safer place for people and economies to maintain their 'normal’.
+Various types of people (that need to be tested) can be tested easily and frequently and have their contamination state verified and stored in a way that is easily auditable. The process is end-to-end and involves remote medical specialists to assist and advise. COVID Fighters are putting this consortium together to make the world a safer place for people and economies to maintain their 'normal’.
 
 <BR>
 

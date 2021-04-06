@@ -1,10 +1,10 @@
 ---
 id: beliive
-title: World's Largest Time Bank
+title: Beliive
 countries: [Brazil, US]
 cities: [San Francisco]
 rank: 3
-excerpt: Empowering people to recognize abundance by living new experiences one hour at a time.
+excerpt: World's largest time bank, empowering people to recognize abundance by living new experiences one hour at a time.
 image: ./beliive.png
 image_caption: beliive
 logo: ./logo.png
@@ -15,8 +15,6 @@ tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/beliive/
 ---
-
-# Beliive
 
 <br/>
 
@@ -33,7 +31,6 @@ linkedin: https://www.linkedin.com/company/beliive/
 <iframe src="https://player.vimeo.com/video/413225889" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
-
 
 ## Mission
 

@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/groups/8642659/
 ---
 
-# Dash
-
 <br/>
 
 ![dash](./dash2.png)

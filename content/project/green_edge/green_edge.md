@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/green-edge-cloud/
 ---
 
-# Green Edge Sustainable Development
-
 <br/>
 
 ![green_edge](./greenedge2.png)
@@ -26,7 +24,7 @@ linkedin: https://www.linkedin.com/company/green-edge-cloud/
 
 ## About
 
-*Green Edge Sustainable Development* is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
+Green Edge Sustainable Development is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
 
 <BR>
 

@@ -16,8 +16,6 @@ private: 0
 linkedin: ""
 ---
 
-# Crystal Twin
-
 <br/>
 
 ![crystaltwin](./crystaltwin2.png)

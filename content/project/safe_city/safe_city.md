@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/safecitygroup/
 ---
 
-# Safe City
-
 <br/>
 
 ![safe_city](./safe_city2.png)

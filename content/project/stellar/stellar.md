@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/stellar-development-foundation/
 ---
 
-# Stellar
-
 <br/>
 
 ![stellar](./stellar2.jpg)

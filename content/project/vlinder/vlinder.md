@@ -1,10 +1,10 @@
 ---
 id: vlinder
-title: Personal Finance App
+title: Vlinder
 countries: [Russia, Austria]
 cities: [Perm, Salzburg]
 rank: 3
-excerpt: Providing a new perspective on people's lifestyle empowering them to act on Earth’s global problems.
+excerpt: A personal finance app providing a new perspective on people's lifestyle, empowering them to act on Earth’s global problems.
 image: ./vlinder.png
 image_caption: vlinder
 logo: ./logo.png
@@ -15,8 +15,6 @@ tags: [experience, impact]
 private: 0
 linkedin: https://www.linkedin.com/company/vlinderapp/
 ---
-
-# Vlinder
 
 <br/>
 

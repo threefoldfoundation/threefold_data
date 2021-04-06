@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/casperlabs/
 ---
 
-# CasperLabs
-
 <br/>
 
 ![casperlabs](./casperlabs2.png)

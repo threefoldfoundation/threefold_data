@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/matic-network/
 ---
 
-# Polygon (Previously Matic Network)
-
 <br/>
 
 ![polygon](./polygon2.png)

@@ -1,6 +1,6 @@
 ---
 id: crystal_home
-title: Circular & Self-Sufficient Homes
+title: Crystal Home
 countries: [The Netherlands]
 cities: []
 rank: 4
@@ -15,8 +15,6 @@ tags: [experience]
 private: 0
 linkedin: ''
 ---
-
-# Crystal Home
 
 <br/>
 
@@ -36,7 +34,7 @@ Our planet needs a different approach to housing. The construction industry is o
 
 ## Mission
 
-Crystal home is building circular & self-sufficient homes reducing the CO2 footprint and the waste flow of the construction industry. And by doing this project we also can provide many people affordable housing in a sustainable way.
+Crystal Home is building circular & self-sufficient homes reducing the CO2 footprint and the waste flow of the construction industry. And by doing this project we also can provide many people affordable housing in a sustainable way.
 
 ## Impact
 

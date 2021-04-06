@@ -3,7 +3,7 @@ id: flowgen
 title: FlowGen
 countries: [Switzerland]
 cities: [Zug]
-rank: 2
+rank: 3
 excerpt: Ground-breaking Technology in the Wind Energy Sector
 image: ./flowgen.png
 logo: ./logo.png
@@ -15,8 +15,6 @@ tags: [technology]
 private: 0
 linkedin: https://www.linkedin.com/company/flowgen-technology/
 ---
-
-# FlowGen
 
 FlowGen is a dynamic company developing, producing and selling revolutionary small wind turbines. Instead of relying on conventional designs, FlowGen has designed their wind turbines from first principles, using the most advanced analytical tools available. In this way they have achieved performance levels previously thought impossible.
 <br/>

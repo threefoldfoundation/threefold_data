@@ -5,18 +5,16 @@ countries: []
 cities: []
 rank: 0
 excerpt: Liquid is the world’s most comprehensive and secure trading platform.
-image: ./liquid2.png
+image: ./liquid.png
 image_caption: liquid
 logo: ./logo.png
 category: []
 members: []
 websites: https://www.liquid.com
-tags: []
+tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/liquidglobal/
 ---
-
-# Liquid
 
 <br/>
 
@@ -27,9 +25,10 @@ linkedin: https://www.linkedin.com/company/liquidglobal/
 ## About
 
 Liquid is the world’s most comprehensive and secure trading platform. Buy and sell Bitcoin, Ethereum, XRP and many other cryptocurrencies with fiat or crypto.
-<br/>
-<br/>
-ThreeFold Tokens have been listed on the Liquid exchange as from May 2020.
+
+## Liquid and ThreeFold
+
+The ThreeFold Token (TFT) [has been listed](https://app.liquid.com/exchange/TFTBTC) on the Liquid exchange as from May 2020.
 
 <!--
 ## Mission

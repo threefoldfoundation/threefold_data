@@ -16,8 +16,6 @@ private: 0
 linkedin: ''
 ---
 
-# The Humanized Internet
-
 <br/>
 
 ![the_humanized_internet](./the_humanized_internet2.png)

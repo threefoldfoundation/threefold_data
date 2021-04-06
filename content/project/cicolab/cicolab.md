@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/cicollaboratory/
 ---
 
-# Collective Intelligence Collaboratory
-
 <br/>
 
 ![cicolab](./cicolab2.png)
@@ -40,7 +38,7 @@ At *Collective Intelligence Collaboratory - CICOLAB*, we know that by combining 
 Arguably, our planet depends upon humans figuring out how to get together and make good decisions together. But we don’t yet have the social frameworks or technology to effectively collaborate – we don’t flow as we grow – and we may be “running out of time” much more quickly than most of us realize.
 <br/>
 <br/>
-Generally when we try collaborating between more than three people, we struggle to overcome many barriers. These include using various messaging or collaboration tools (Facebook, Telegram, Instagram, etc.) which – by design – do not interoperate. 
+Generally when we try collaborating between more than three people, we struggle to overcome many barriers. These include using various messaging or collaboration tools (Facebook, Telegram, Instagram, etc.) which – by design – do not inter-operate. 
 <br/>
 <br/>
 New social operating systems have little insight or grounding in decentralized collective decision-making without top-down power structures. Even when people do manage to raise collaborative processes off the ground, projects often crash in flames.
@@ -60,7 +58,7 @@ Here are some examples of our colleagues’ activities:
 - Sean is developing a framework for measuring business impact beyond financial profits.
 <br/>
 <br/>
-While everyone is working on very different projects, we are all striving to create better conditions for decision-making, knowledge sharing, and highlighting flows of valuable information which may be invisible. CICOLAB cultivates an extensive “knowledge garden” i.e. database of interviews and roundtable discussions, plus maps and other visuals showing (a) various core aspects of collective intelligence, (b) who is working on what, and (c) their actual or possible relationships.
+While everyone is working on very different projects, we are all striving to create better conditions for decision-making, knowledge sharing, and highlighting flows of valuable information which may be invisible. CICOLAB cultivates an extensive “knowledge garden” i.e. database of interviews and round table discussions, plus maps and other visuals showing (a) various core aspects of collective intelligence, (b) who is working on what, and (c) their actual or possible relationships.
 
 ### The Process:
 

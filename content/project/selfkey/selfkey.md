@@ -16,8 +16,6 @@ private: 0
 linkedin: ''
 ---
 
-# SelfKey
-
 <br/>
 
 ![selfkey](./selfkey2.jpg)

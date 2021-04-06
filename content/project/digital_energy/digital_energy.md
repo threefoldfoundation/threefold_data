@@ -16,8 +16,6 @@ private: 0
 linkedin: ''
 ---
 
-# DigitalEnergy
-
 ## About
 
 DigitalEnergy is a large ThreeFold farmer with a data center based in Moscow, Russia. 

@@ -3,7 +3,7 @@ id: kleos
 title: Kleos
 countries: [Australia, Kingdom of Bahrein, United Kingdom, Cyprus, Lebanon, France, Mozambique, DRC & Ghana]
 cities: [Sydney, Manama, Southport, Cyprus, Hazmieh, Cedex]
-rank: 1
+rank: 2
 excerpt: 5G Telecommunication technology helping ThreeFold platform scale to serve the last mile in connectivity. 
 image: ./kleos.png
 image_caption: kleos
@@ -15,8 +15,6 @@ tags: [technology]
 private: 0
 linkedin: https://www.linkedin.com/company/kleos/
 ---
-
-# Kleos
 
 <br/>
 

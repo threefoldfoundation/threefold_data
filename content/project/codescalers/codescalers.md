@@ -16,8 +16,6 @@ private: 0
 linkedin: ''
 ---
 
-# CodeScalers
-
 <br/>
 
 ![codescalers](./codescalers2.jpg)

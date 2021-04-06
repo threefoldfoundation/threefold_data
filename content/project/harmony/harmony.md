@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/harmony-one/
 ---
 
-# Harmony
-
 <br/>
 
 ![harmony](./harmony2.png)

@@ -1,6 +1,6 @@
 ---
 id: generation_blue
-title: Tokenized Regeneration
+title: Generation Blue
 countries: [Portugal]
 cities: []
 rank: 4
@@ -15,8 +15,6 @@ tags: [experience, impact]
 private: 0
 linkedin: https://www.linkedin.com/company/genblue/
 ---
-
-# Generation Blue
 
 <br/>
 

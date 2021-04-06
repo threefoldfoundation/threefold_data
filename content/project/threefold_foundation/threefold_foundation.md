@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/threefold-foundation/
 ---
 
-# Threefold Foundation
-
 <br/>
 
 ![threefold_foundation](./threefold_foundation2.png)

@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/unitventures/
 ---
 
-# Unit
-
 <br/>
 
 ![unit](./unit2.png)

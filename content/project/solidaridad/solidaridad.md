@@ -26,8 +26,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/solidaridad/
 ---
 
-# Solidaridad
-
 ![img](./solidaridad2.jpg)
 
 <br/>

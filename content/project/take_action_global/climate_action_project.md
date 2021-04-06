@@ -1,22 +1,20 @@
 ---
-id: climate_action_project
-title: Education For Refugees
+id: take_action_global
+title: Take Action Global
 countries: [Belgium, US]
 cities: [Hasselt, Florida]
 rank: 1
-excerpt: Providing refugees a chance to learn, create, equaly partake and succeed.
+excerpt: We create opportunities for students to take action on social good causes.
 image: ./tagprojects.png
-image_caption: climate_action_project
+image_caption: take_action_global
 logo: ./logo.png
 category: [twin, aci, farming, foundation]
 members: [koen_timmers]
-websites: https://www.climate-action.info/
+websites: http://www.takeactionglobal.org/
 tags: [impact, community]
 private: 0
 linkedin: https://www.linkedin.com/company/take-action-global/
 ---
-
-# Climate Action Project
 
 <br/>
 
@@ -26,7 +24,7 @@ linkedin: https://www.linkedin.com/company/take-action-global/
 
 ## About
 
-Every child deserves an education. We have built a community of thousands of teachers globally which allows us to connect to children and teachers in refugee camps. Our platform allows to train teachers in refugee camps (67% of which haven't completed secondary education) and have interactions between refugee students and students globally changing their mindset and fighting polarization.
+Building on more than 60 years of classroom experience empowering students to be curious, ask questions, take action, and make a difference in their communities, we are bringing together like-minded educators seeking a different way of teaching and learning. The team at TAG is committed to creating space for teachers and students to work at local and global levels for the betterment of humanity for today and for tomorrow.
 
 <BR>
 
@@ -34,27 +32,25 @@ Every child deserves an education. We have built a community of thousands of tea
 
 <BR>
 
+## Mission
+
+To inspire change by providing opportunities for students around the world to take action on social good causes through education.
+
+## Impact
+
+Through endeavors like the [Climate Action Project](https://www.climate-action.info/), our [Innovation Lab Schools](https://innovationlabschools.com/), and [Project Kakuma](https://www.projectkakuma.com/), we find ways to connect thousands of teachers with students around the world to provide free, quality, meaningful education.
+
+We want to raise the bar of education by having experts to teach the students and by initiating teacher training with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Additionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action.
+
 <BR>
 
 <iframe src="https://player.vimeo.com/video/425810410" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
 
-## Mission
-
-Climate Action Project aims to develop a platform for peer-to-peer education, where teachers become students and students become teachers.
-
-## Impact
-
-We want to raise the bar of education by having experts to teach the students and by initiating teacher training with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Additionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action.
-
-<br/>
-
-![education](./climate_action.jpg)
-
 ## Powered by ThreeFold
 
-Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize elements of Crystal Universe technology. Crystal Meet solution will be used to allow teachers to teach refugees. We have already been doing this for five years with projectkakuma.com and thanks to the ThreeFold we will be able to allow people globally to connect and learn from peers including refugees and people living in harsh conditions.
+Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize elements of Digital Twin technology. The Video Chat (Meet) solution will be used to allow teachers to teach refugees. We have already been doing this for five years with Project Kakuma, and thanks to the ThreeFold we will be able to allow people globally to connect and learn from peers, including refugees and others living in harsh conditions.
 
 ## Join saving our planet!
 

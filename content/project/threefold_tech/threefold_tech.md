@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/threefold-tech/
 ---
 
-# Threefold Tech
-
 <br/>
 
 ![threefold_tech](./threefold_tech2.png)
@@ -33,7 +31,7 @@ ThreeFold Technology empowers a grid of IT capacity, which today is 10x bigger t
 
 ## Mission
 
-Create a decentralized peer-to-peer system inspired by nature.
+Empowering data privacy and sovereignty through decentralized Web 3.0 infrastructure. The cure to the cyber pandemic.
 
 ## Impact
 
@@ -44,7 +42,7 @@ Create a decentralized peer-to-peer system inspired by nature.
 
 ## Powered by ThreeFold
 
-ThreeFold Foundation is focused on democratizing internet compute and storage capacity to enable a responsible internet for all. This is the primary reference of ThreeFold Tech. TFTech software empowers people to create neutral, green and private capacity across the globe that’s blockchain-driven and 100% decentralized. This “hyper-distributed” network enables developers from all over the world to bring to life decentralized applications and solutions, and digital service/application providers to host their applications closer to end users.
+ThreeFold Foundation is focused on democratizing internet compute and storage capacity to enable a responsible Internet for all. This is the primary reference of ThreeFold Tech. TFTech software empowers people to create neutral, green and private capacity across the globe that’s blockchain-driven and 100% decentralized. This “hyper-distributed” network enables developers from all over the world to bring to life decentralized applications and solutions, and digital service/application providers to host their applications closer to end users.
 
 <!-- # Support this project
 

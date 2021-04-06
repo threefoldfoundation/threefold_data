@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/joint-idea/
 ---
 
-# Joint Idea
-
 <br/>
 
 ![jointidea](./jointidea2.jpg)

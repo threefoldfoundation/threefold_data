@@ -16,8 +16,6 @@ private: 0
 linkedin: ""
 ---
 
-# Cultivo
-
 ## About
 
 In the tropical rainforest of southern Costa Rica, Cultivo is an organization that carries out and promotes reforestation and organic food forest farming, using regenerative methods and practices in close harmony with the natural environment while providing sustainable livelihoods and access to responsible digital technologies for farmers and rural communities.

@@ -1,6 +1,6 @@
 ---
 id: seeds
-title: Regenerative Economy
+title: SEEDS
 countries: [Global]
 cities: []
 rank: 3
@@ -15,8 +15,6 @@ tags: [community]
 private: 0
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 ---
-
-# SEEDS
 
 <br/>
 

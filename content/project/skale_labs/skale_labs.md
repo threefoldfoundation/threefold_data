@@ -1,6 +1,6 @@
 ---
 id: skale_labs
-title: Powerful Ethereum dApps
+title: SKALE
 countries: [USA]
 cities: [San Francisco]
 rank: 2
@@ -15,8 +15,6 @@ tags: [blockchain]
 private: 0
 linkedin: https://www.linkedin.com/company/skale-labs/
 ---
-
-# Skale Labs
 
 <br/>
 

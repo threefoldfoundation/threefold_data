@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/neo-blockchain/
 ---
 
-# NEO
-
 <br/>
 
 ![neo](./neo2.jpeg)

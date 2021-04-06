@@ -16,8 +16,6 @@ private: 0
 linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise/
 ---
 
-# HPE
-
 <br/>
 
 ![hpe](./hpe2.jpg)
