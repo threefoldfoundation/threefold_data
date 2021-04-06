@@ -52,7 +52,25 @@ By accelerating digital transformation in developing countries in ways that put 
 
 ## Powered by ThreeFold
 
-The values of data sovereignty and collaboration that Threefold embodies are central to our vision. We want to reclaim sustainability back to the communities who are the real stewards of our planet, and in today’s economy data plays a crucial role in achieving that vision. We are working together to tokenize farmers’ data and design innovative solutions that help them access services while retaining full security and ownership of their data. Through the Digital Twin technology we are able to deliver a completely new pathway for farmers, and help them generate and market real impact. We are working to set up a development unit within Threefold’s Cairo team, and co-design the Internet of the future for the world’s smallholders.
+The values of data sovereignty and collaboration that Threefold embodies are central to our vision. We want to reclaim sustainability back to the communities who are the real stewards of our planet, and in today’s economy data plays a crucial role in achieving that vision. We are working together to tokenize farmers’ data and design innovative solutions that help them access services while retaining full security and ownership of their data. Through the Digital Twin technology we are able to deliver a completely new pathway for farmers, and help them generate and market real impact. We are working to set up a development unit within ThreeFold’s Cairo team, and co-design the Internet of the future for the world’s smallholders.
+
+## What's the Latest? (April 2021)
+
+- Contract signed and being executed
+  - Kickstart Ping! project for sugarcane farmers in upper Egypt
+  - Looking for a dedicated project manager
+  - Feasibility project for larger projects to come
+- United Nations World Food Program contract has been awarded to Solidaridad
+  - Fair Data: Marketplace for farming data collected by farmers (smallholders)
+    - The Food industry needs information about the produce they use & sell
+    - In order to have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters
+    - Normally they contract surveyers to go to the fields and collect data from the farmers directly
+    - This is costly and inefficient
+    - Fair data will collect data once and be updated by the farmers themselves
+    - Fair data will recognize the farmer as the owner of the data
+    - Data sales proceeds (percentage) will go to the individual farmers. Digital currency & data economy
+    - Decentralized data storage – farmer-owned
+    - Marketplace for data analysis and refinement trading
 
 <br/>
 

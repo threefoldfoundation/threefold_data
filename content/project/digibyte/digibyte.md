@@ -34,7 +34,6 @@ The DigiByte's vision is to empower a sustainable decentralized world. The core 
 
 <BR>
 
-
 ## Mission
 
 DigiByte is more than a faster digital currency; it is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication.
@@ -46,6 +45,21 @@ Thousands of volunteers from all over the world have contributed to DigiByte in 
 ## Powered by ThreeFold
 
 The DigiByte network runs on a mix of servers managed by DigiByte volunteers and virtual machines or containers in commercial cloud provider environments.  This is decentralized to a degree but can be more decentralized if the DigiByte blockchain nodes can run on ThreeFold Grid nodes truly decentralized, energy-efficient and everywhere.
+
+## What's the Latest? (April 2021)
+
+- Draft layout for a new joint company has been created
+- Domain name purchased and web presence being built
+- Launch product set defined
+  - Enterprise secure video conferencing
+    - ThreeFold peer-to-peer video conferencing
+    - Integration to the DigiByte blockchain for reporting audit purposes
+  - Enterprise secure storage and archiving
+    - Quantum Safe storage facilities
+    - Blockchain audit and logging
+    - Always append storage
+  - Digital sovereign identity
+  - Bespoke blockchain solutions for enterprises
 
 ## Join saving our planet!
 
