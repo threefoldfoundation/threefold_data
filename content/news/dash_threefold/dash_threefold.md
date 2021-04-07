@@ -1,6 +1,6 @@
 ---
 id: threefold_dash
-title: Dash & Dash NEXT partners with ThreeFold
+title: Dash & Dash NEXT partner with ThreeFold
 tags: [partner,technology,update,blockchain]
 image: ./dash_threefold.png
 category: [farming,cloud,foundation]

@@ -9,7 +9,7 @@ image: ./greenedge.png
 image_caption: green_edge
 logo: ./logo.png
 category: [foundation, cloud, farming, aci]
-members: [joe_foxton, mariza_wellesley_wesley, michael_wellesley_wesley]
+members: [mariza_wellesley_wesley, michael_wellesley_wesley]
 websites: https://green-edge.net/
 tags: [technology, farming]
 private: 0
