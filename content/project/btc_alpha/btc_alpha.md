@@ -9,7 +9,7 @@ created: 2020-04-20
 image: ./btc_alpha.png
 image_caption: btc_alpha
 logo: ./logo.png
-category: [foundation]
+category: []
 members: []
 websites: https://btc-alpha.com/en/
 tags: [blockchain]
