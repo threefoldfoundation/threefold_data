@@ -53,9 +53,9 @@ The launch product set has been defined and will incorporate the following servi
 <br/>
 <br/>
 
-  - Enterprise secure video conferencing. Based on an integrated product using ThreeFold peer-to-peer video conferencing and remote web browsing technology plus the DigiByre access (Digi-ID) and blockchain technology.  This secure video conferencing service will be available fro group usage in Enterprise setting but will also come as a more secure option where the service is limited to 2 parties communicating peer-to-peer with no third party involvement
-  - Enterprise secure storage and archiving services.  ThreeFold Quantum Safe Storage technology will be deployed and optimized for Enterprise use cases starting with simple straightforward backup backends and secure archiving.  Integration with the DigiByte blockchain to create auditability and logging facilities services Enterprise storage needs.
-  - Bespoke blockchain solutions for enterprises.  Specific blockchain and infrastructure solutions can be built in an OEM structure to create blockchain as a service, cloud services and storage services.
+  - Enterprise secure video conferencing. Based on an integrated product using ThreeFold peer-to-peer video conferencing and remote web browsing technology plus the DigiByre access (Digi-ID) and blockchain technology. This secure video conferencing service will be available for group usage in Enterprise setting but will also come as a more secure option where the service is limited to 2 parties communicating peer-to-peer with no third party involvement.
+  - Enterprise secure storage and archiving services. ThreeFold Quantum Safe Storage technology will be deployed and optimized for Enterprise use cases starting with simple straightforward backup backends and secure archiving.  Integration with the DigiByte blockchain to create auditability and logging facilities services Enterprise storage needs.
+  - Bespoke blockchain solutions for enterprises. Specific blockchain and infrastructure solutions can be built in an OEM structure to create blockchain as a service, cloud services and storage services.
 
 ## Join saving our planet!
 

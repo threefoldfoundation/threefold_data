@@ -62,15 +62,15 @@ Solidaridad has launched a Fair Data [program](https://www.solidaridadnetwork.or
 <br/>
 <br/>
 
-- Record Keeping: Record and trace  work and output, along with helping to improve the way people work 
-- Formalization: decriminalize sectors which can lead to more transparency 
-- Capacity Building: Training, tracking and ‘certification’. 
-- Access to Information: Information sharing platforms focussing on trading and market updates.
-- Access to Finance:  Information and  details on where people are located, their registration, productivity, the training and certification, financial services providers would have more confidence to provide loans and other services 
+- Record Keeping: Record and trace work and output, along with helping to improve the way people work.
+- Formalization: Decriminalize sectors which can lead to more transparency. 
+- Capacity Building: Training, tracking and ‘certification.’
+- Access to Information: Information sharing platforms focusing on trading and market updates.
+- Access to Finance: Information and details on where people are located, their registration, productivity, training and certification – financial services providers would have more confidence to provide loans and other services.
 - Advanced Equipment and Technology: Access to the latest equipment will help improve efficiency.
 <br/>
 <br/>
-First focus will be on creating a marketplace for farming data collected by farmers (smallholders) which is wanted by the food industry have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters. This marketplace will connect smallholder farmers, analysts and large companies to provide the data needed to creating  reporting and make the smallholder farmers benefit by having a secondary income stream out of the information (data) that they provide.
+First focus will be on creating a marketplace for farming data collected by farmers (smallholders) which is wanted by the food industry have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters. This marketplace will connect smallholder farmers, analysts and large companies to provide the data needed to creating reporting, and the smallholder farmers will benefit by having a secondary income stream out of the information (data) that they provide.
 
 <br/>
 
