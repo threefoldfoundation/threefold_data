@@ -54,19 +54,23 @@ The values of data sovereignty and collaboration that Threefold embodies are cen
 
 ## What's the Latest? (April 2021)
 
-Contract between Solidaridad and ThreeFold has been signed and is being executed. Project Ping! will involve sugarcane farmers in upper Egypt and is currently operating as a feasibility study for the larger project to be formalised and initiated.
+Contract between Solidaridad and ThreeFold has been signed and is being executed. Project Ping! will involve sugarcane farmers in upper Egypt and is currently operating as a feasibility study for the larger project to be formalized and initiated.
+<br/>
+<br/>
 
-Solidaridad has launched a Fair Data [program](https://www.solidaridadnetwork.org/news/how-technology-can-boost-productivity-in-small-scale-mining/).  The Fair Data program hinges around provind services in the 4th industrial revolution where ThreeFold technology will help to achieve: 
-- Record Keeping: Record and trace  work and output, along with helping to improve the way people work 
-- Formalisation:  decriminalise  sectors which can lead to more transparency 
-- Capacity Building: Training, tracking and ‘certification’. 
-- Access to Information: Information sharing platforms focussing on trading and market updates.
-- Access to Finance:  Information and  details on where people are located, their registration, productivity, the training and certification, financial services providers would have more confidence to provide loans and other services 
-- Advanced Equipment and Technology: Access to the latest equipment will help improve efficiency. R
+Solidaridad has launched a Fair Data [program](https://www.solidaridadnetwork.org/news/how-technology-can-boost-productivity-in-small-scale-mining/). The Fair Data program hinges around providing services in the 4th industrial revolution where ThreeFold technology will help to achieve: 
+<br/>
+<br/>
 
-
-First focus will be on creating a marketplace for farming data collected by farmers (smallholders)
-which is wanter by the food industry have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters.  This marketplace will connect smallholder farmers, analysts and large companies to provide the data needed to creating  reporting and make the smallholder farmers benefit by having a secondary income stream out of the information (data) that theyu provide.
+- Record Keeping: Record and trace work and output, along with helping to improve the way people work.
+- Formalization: Decriminalize sectors which can lead to more transparency. 
+- Capacity Building: Training, tracking and ‘certification.’
+- Access to Information: Information sharing platforms focusing on trading and market updates.
+- Access to Finance: Information and details on where people are located, their registration, productivity, training and certification – financial services providers would have more confidence to provide loans and other services.
+- Advanced Equipment and Technology: Access to the latest equipment will help improve efficiency.
+<br/>
+<br/>
+First focus will be on creating a marketplace for farming data collected by farmers (smallholders) which is wanted by the food industry have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters. This marketplace will connect smallholder farmers, analysts and large companies to provide the data needed to creating reporting, and the smallholder farmers will benefit by having a secondary income stream out of the information (data) that they provide.
 
 <br/>
 
