@@ -58,6 +58,7 @@ Dash enthusiasts, developers, and non-developers use ThreeFold and its 3Bot Admi
 - or by running a Dash Masternode for a more advanced contribution to the Dash governance ecosystem.
 <br/>
 <br/> 
+
 Futhermore, ThreeFold and Dash are planning more deeper integration that will allow to use ThreeFold storage and compute capacity for Dash blockchain developers.
 
 <!-- ### Roadmap
