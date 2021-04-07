@@ -54,21 +54,19 @@ The values of data sovereignty and collaboration that Threefold embodies are cen
 
 ## What's the Latest? (April 2021)
 
-- Contract signed and being executed
-  - Kickstart Ping! project for sugarcane farmers in upper Egypt
-  - Looking for a dedicated project manager
-  - Feasibility project for larger projects to come
-- United Nations World Food Program contract has been awarded to Solidaridad
-  - Fair Data: Marketplace for farming data collected by farmers (smallholders)
-    - The Food industry needs information about the produce they use & sell
-    - In order to have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters
-    - Normally they contract surveyers to go to the fields and collect data from the farmers directly
-    - This is costly and inefficient
-    - Fair data will collect data once and be updated by the farmers themselves
-    - Fair data will recognize the farmer as the owner of the data
-    - Data sales proceeds (percentage) will go to the individual farmers. Digital currency & data economy
-    - Decentralized data storage – farmer-owned
-    - Marketplace for data analysis and refinement trading
+Contract between Solidaridad and ThreeFold has been signed and is being executed. Project Ping! will involve sugarcane farmers in upper Egypt and is currently operating as a feasibility study for the larger project to be formalised and initiated.
+
+Solidaridad has launched a Fair Data [program](https://www.solidaridadnetwork.org/news/how-technology-can-boost-productivity-in-small-scale-mining/).  The Fair Data program hinges around provind services in the 4th industrial revolution where ThreeFold technology will help to achieve: 
+- Record Keeping: Record and trace  work and output, along with helping to improve the way people work 
+- Formalisation:  decriminalise  sectors which can lead to more transparency 
+- Capacity Building: Training, tracking and ‘certification’. 
+- Access to Information: Information sharing platforms focussing on trading and market updates.
+- Access to Finance:  Information and  details on where people are located, their registration, productivity, the training and certification, financial services providers would have more confidence to provide loans and other services 
+- Advanced Equipment and Technology: Access to the latest equipment will help improve efficiency. R
+
+
+First focus will be on creating a marketplace for farming data collected by farmers (smallholders)
+which is wanter by the food industry have sustainability, equality, & human rights statements in their Corporate Social Responsibility Charters.  This marketplace will connect smallholder farmers, analysts and large companies to provide the data needed to creating  reporting and make the smallholder farmers benefit by having a secondary income stream out of the information (data) that theyu provide.
 
 <br/>
 
