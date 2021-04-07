@@ -24,7 +24,7 @@ linkedin: ''
 
 ## About
 
-*The Humanized Internet* is working to use new technologies to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity. The Humanized Internet is building a broad coalition of NGOs, international organizations and other actors to build a global consensus regarding each human being’s sovereign digital rights.
+[The Humanized Internet](https://www.moniquemorrow.com/humanized-internet) is working to use new technologies to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity. The Humanized Internet is building a broad coalition of NGOs, international organizations and other actors to build a global consensus regarding each human being’s sovereign digital rights.
 
 <BR>
 

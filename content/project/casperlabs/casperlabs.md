@@ -24,11 +24,7 @@ linkedin: https://www.linkedin.com/company/casperlabs/
 
 ## About
 
-CasperLabs, the developer of the Casper Network, provides professional services and support for organizations building on the Casper Network. Guided by open source principles, CasperLabs is committed to supporting the next wave of blockchain adoption among businesses and providing developers with a reliable and secure framework to build private, public and hybrid blockchain applications. Its team possesses deep enterprise technology experience, hailing from organizations including Google, Adobe, AWS, Dropbox and Microsoft.
-<br/>
-<br/>
-
-To learn more, visit [casperlabs.io](https://casperlabs.io). 
+[CasperLabs](https://casperlabs.io), the developer of the Casper Network, provides professional services and support for organizations building on the Casper Network. Guided by open source principles, CasperLabs is committed to supporting the next wave of blockchain adoption among businesses and providing developers with a reliable and secure framework to build private, public and hybrid blockchain applications. Its team possesses deep enterprise technology experience, hailing from organizations including Google, Adobe, AWS, Dropbox and Microsoft.
 
 ## CasperLabs and ThreeFold 
 
@@ -42,3 +38,6 @@ CasperLabs introduces blockchain technology for enterprises and developers with 
 <br/>
 <br/>
 On a smaller scale, anyone will be able to contribute to Casper's blockchain security, resiliency, scalability and decentralization, by deploying a Casper Validator node on the ThreeFold Grid in just a few clicks. The ThreeFold deployment mechanism removes all technical complexity of running Blockchain nodes.
+
+
+

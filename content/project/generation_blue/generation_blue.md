@@ -42,7 +42,7 @@ We protect biodiversity – focusing on the most threatened ecosystems such as t
 
 ## Powered by ThreeFold
 
-We are proud to partner with ThreeFold to securely host our decentralized mobile apps.
+We are proud to partner with ThreeFold to securely host our decentralized mobile apps on the most sustainable architecture we've found on the planet.
 
 ## Join saving our planet!
 

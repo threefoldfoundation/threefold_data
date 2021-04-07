@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/cicollaboratory/
 
 ## About
 
-At *Collective Intelligence Collaboratory - CICOLAB*, we know that by combining the right mix of diverse voices, simple tools, and methods that really work – such as better profiling methods, mapping, collaborative editing, peer learning, and Rapid Sensemaking – we can create the conditions where paradigm-shifters in multiple fields can better collaborate. In these ways we can better find each other, communicate more easily about what we are working on, and learn about tools and techniques to co-create, co-work and co-produce more effectively.
+At CICOLAB (Collective Intelligence Collaboratory), we know that by combining the right mix of diverse voices, simple tools, and methods that really work – such as better profiling methods, mapping, collaborative editing, peer learning, and Rapid Sensemaking – we can create the conditions where paradigm-shifters in multiple fields can better collaborate. In these ways we can better find each other, communicate more easily about what we are working on, and learn about tools and techniques to co-create, co-work and co-produce more effectively.
 
 <BR>
 
@@ -47,15 +47,6 @@ New social operating systems have little insight or grounding in decentralized c
 
 CICOLAB brings together thought leaders and experts from diverse areas of collective intelligence to figure out how we might work, build and learn together, better and faster. 
 We host and moderate online events for people with projects, initiatives and organizations which may overlap in surprising and synergistic ways. Through conversation we can meet each other and form deeper relationships.
-<br/>
-<br/>
-Here are some examples of our colleagues’ activities:
-<br/>
-<br/>
-- Marc-Antoine is a programmer and specialist in interoperable data structures;
-- Jillian is a facilitator guiding collaborative groups experiencing emotional difficulties;
-- Christina is designing software to map social relationships decentrally within a network;
-- Sean is developing a framework for measuring business impact beyond financial profits.
 <br/>
 <br/>
 While everyone is working on very different projects, we are all striving to create better conditions for decision-making, knowledge sharing, and highlighting flows of valuable information which may be invisible. CICOLAB cultivates an extensive “knowledge garden” i.e. database of interviews and round table discussions, plus maps and other visuals showing (a) various core aspects of collective intelligence, (b) who is working on what, and (c) their actual or possible relationships.

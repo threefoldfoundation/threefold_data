@@ -8,7 +8,7 @@ excerpt: Powering the Information Technology workloads of tomorrow.
 image: ./threefold_tech.png
 image_caption: threefold tech
 logo: ./logo.jpg
-category: [tech, cloud, farming]
+category: [cloud, farming]
 members: [kristof_de_spiegeleer, christopher_hutton, andreas_hartl, roel_van_sabben, sabrina_sadik, owen_kemp]
 websites: https://threefold.tech/
 tags: [technology, infrastructure]

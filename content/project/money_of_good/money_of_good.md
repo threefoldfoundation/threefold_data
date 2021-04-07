@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/moneyofgood/
 
 ## About
 
-*Money of Good* is a socioeconomic platform that uses disruptive proof-of-meditation technology (neurofeedback+blockchain) to offer people the chance to earn money as a reward for practicing meditation, improving their health, raising consciousness while fostering a new fair and sustainable economic model.
+[Money of Good](https://www.thefutureofgood.info) is a socioeconomic platform that uses disruptive proof-of-meditation technology (neurofeedback+blockchain) to offer people the chance to earn money as a reward for practicing meditation, improving their health, raising consciousness while fostering a new fair and sustainable economic model.
 <br/>
 <br/>
 We love this approach because the reward mechanism based on proof-of-meditation makes it possible to run the most effective and reliable basic income program globally, empowering individuals economically at the same time that encourages large parts of the population to embrace the daily practice of meditation.

@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/take-action-global/
 
 ## About
 
-Building on more than 60 years of classroom experience empowering students to be curious, ask questions, take action, and make a difference in their communities, we are bringing together like-minded educators seeking a different way of teaching and learning. The team at TAG is committed to creating space for teachers and students to work at local and global levels for the betterment of humanity for today and for tomorrow.
+Building on more than 60 years of classroom experience empowering students to be curious, ask questions, take action, and make a difference in their communities, we are bringing together like-minded educators seeking a different way of teaching and learning. The team at [TAG](http://www.takeactionglobal.org/) is committed to creating space for teachers and students to work at local and global levels for the betterment of humanity for today and for tomorrow.
 
 <BR>
 

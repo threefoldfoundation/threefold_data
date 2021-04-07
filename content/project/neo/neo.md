@@ -23,7 +23,7 @@ linkedin: https://www.linkedin.com/company/neo-blockchain/
 <br/>
 
 ## About
-**NEO** is a scalable, fast, and ultra-secure blockchain driven by a global community of developers and node operators.
+[NEO](https://neo.org/) is a scalable, fast, and ultra-secure blockchain driven by a global community of developers and node operators.
 <br/>
 <br/>
 

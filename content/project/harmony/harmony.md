@@ -27,7 +27,6 @@ linkedin: https://www.linkedin.com/company/harmony-one/
 Harmony is a fast and open blockchain for decentralized applications.
 <br/>
 <br/>
-
 - Its protocol has achieved secure and random state sharding, being the first sharded Proof of Stake on production.
 - Harmony's Mainnet supports thousands of nodes in multiple shards, producing blocks in a few seconds with instant finality.
 - The network's staking mechanism reduces centralization while supporting stake delegation, reward compounding and double-sign slashing.

@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE
 
 ## About 
 
-WaykiChain is a prominent blockchain platform based in China with a global community.
+[WaykiChain](https://www.waykichain.com/) is a prominent blockchain platform based in China with a global community.
 <br/>
 <br/>
 It is a DPoS (Delegated Proof of Stake) public blockchain that is highly scalable and with high-performance transaction processing capabilities (TPS 3300) and an efficient consensus mechanism.

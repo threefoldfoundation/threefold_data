@@ -32,7 +32,7 @@ linkedin: https://www.linkedin.com/company/solidaridad/
 
 ## About
 
-The Solidaridad Network is an international civil society organisation founded in 1969. Its main objective is facilitating the development of socially responsible, ecologically sound and profitable supply chains. It operates through nine regional expertise centers in over 50 countries. Solidaridad seeks to transform production practices to promote fair and profitable livelihoods and business opportunities, decent working conditions and a fair living wage. Solidaridad without depleting the landscapes where people live and thrive.
+[The Solidaridad Network](https://www.solidaridadnetwork.org/) is an international civil society organisation founded in 1969. Its main objective is facilitating the development of socially responsible, ecologically sound and profitable supply chains. It operates through nine regional expertise centers in over 50 countries. Solidaridad seeks to transform production practices to promote fair and profitable livelihoods and business opportunities, decent working conditions and a fair living wage. Solidaridad without depleting the landscapes where people live and thrive.
 
 <BR>
 

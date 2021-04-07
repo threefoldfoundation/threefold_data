@@ -3,7 +3,7 @@ id: safe_city
 title: Safe City
 countries: []
 cities: []
-rank: 4
+rank: 0
 excerpt: Safe City is a technology partner, with a core focus on deploying digital technologies within the UAE.
 image: ./safe_city.png
 image_caption: safe_city

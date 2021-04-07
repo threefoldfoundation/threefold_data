@@ -3,7 +3,7 @@ id: artheon
 title: Artheon VR Museum
 countries: [Russia]
 cities: [Moscow]
-rank: 4
+rank: 2
 excerpt: A virtual museum online with 50.000+ pieces of art on top of TF Grid.
 created: 2020-04-20
 image: ./artheon.png

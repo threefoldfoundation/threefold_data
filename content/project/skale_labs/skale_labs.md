@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/skale-labs/
 
 ## About
 
-SKALE is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum.
+[SKALE](https://skale.network/) is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum.
 <br/>
 <br/>
 

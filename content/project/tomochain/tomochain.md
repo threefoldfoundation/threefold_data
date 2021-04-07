@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/tomochain/
 
 ## About
 
-TomoChain is a scalable blockchain-powered via Proof-of-Stake Voting consensus and used commercially by companies globally. Their mission is to accelerate the onboarding of millions of users by empowering today’s applications with technology that masks the friction of Blockchain, all while retaining its underlying benefits. TomoChain’s technology and DeFi-focused flagship products include:
+[TomoChain](https://tomochain.com/) is a scalable blockchain-powered via Proof-of-Stake Voting consensus and used commercially by companies globally. Their mission is to accelerate the onboarding of millions of users by empowering today’s applications with technology that masks the friction of Blockchain, all while retaining its underlying benefits. TomoChain’s technology and DeFi-focused flagship products include:
 <br/>
 <br/>
 Fast & Near-Zero Fees: 2000 TPS, 2-second block time, ~$0 gas fees, and EVM compatible

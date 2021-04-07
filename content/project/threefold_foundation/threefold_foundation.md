@@ -8,7 +8,7 @@ excerpt: The ThreeFold Foundation along with its partners is growing the ThreeFo
 image: ./threefold_foundation.png
 image_caption: threefold_foundation
 logo: ./logo.png
-category: [twin, cloud, farming, aci, foundation]
+category: [aci]
 members: [kristof_de_spiegeleer, roel_van_sabben, kristine_vilnite, sam_taggart, sacha_obegadoo, adnan_fatayerji, karoline_zizka, maximilian_rang]
 websites: https://www.threefold.io
 tags: [impact, community]
