@@ -1,7 +1,7 @@
 ---
 id: anurag_arjun
 name: Anurag Arjun
-rank: 3
+rank: 4
 memberships: [partners]
 category: [cloud, foundation]
 bio: Chief Product officer at Polygon, my personal background is in software product management. I have 11+ years of experience in building technology products, with deep experience in working with structured and unstructured financial data.

@@ -1,7 +1,7 @@
 ---
 id: roel_wofert
 name: Roel Wofert
-rank: 3
+rank: 4
 memberships: [aci_members, partners]
 category: [aci]
 bio: I am specialized in finding, creating, and delivering measurable value. I enjoy helping organizations and executives to make a 'turn around' in their business (model) and a mind shift in their thinking and acting!

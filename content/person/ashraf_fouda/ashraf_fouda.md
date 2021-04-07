@@ -1,7 +1,7 @@
 ---
 id: ashraf_fouda
 name: Ashraf Fouda
-rank: 4
+rank: 3
 memberships: [tech]
 category: [foundation]
 bio: Software Engineer with passion in new technologies, love every thing that is really new and challenging. Threefold is changing the world by decentralizing and neutralizing the internet

@@ -1,7 +1,7 @@
 ---
 id: maged_motawea
 name: Maged Motawea
-rank: 5
+rank: 3
 memberships: [tech]
 category: [foundation]
 bio: Maged is a passionate Computer Scientist who loves exploring new areas in life and technology. Software Developer fell in love with Threefold because threefold is the future of technology.

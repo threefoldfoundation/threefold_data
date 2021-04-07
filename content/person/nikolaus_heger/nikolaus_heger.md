@@ -1,7 +1,7 @@
 ---
 id: nikolaus_heger
 name: Nikolaus Heger
-rank: 3
+rank: 4
 memberships: [aci_members, partners]
 category: [aci]
 bio: Ex Apple, Ex Silicon Valley, full stack developer, meditator, blockchain wizard, 20 years experience as software architect, mobile app developer, and full stack developer.
