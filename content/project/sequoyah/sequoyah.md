@@ -37,6 +37,4 @@ A partnership with TF Tech to build a decentralized banking system where by each
 
 ## Powered by ThreeFold
 
-Built on top of the ThreeFold Grid and using 3Bots to secure both identity and digital assets. Gateway to both fiat & cryptocurrencies through the creation of a token that is fully backed by gold, and exchangeable over the counter with other cryptocurrencies.
-
-And to provide a safe haven for their customers' data.
+In partnership with ThreeFold, Sequoyah will build on top of the ThreeFold Grid to secure both the identity of their customers and their digital assets. ThreeFold represents a gateway to to both fiat & cryptocurrencies and Sequoyah plans to create a token that is fully backed by gold and that is exchangeable over the counter with other cryptocurrencies.
