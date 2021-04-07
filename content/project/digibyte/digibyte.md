@@ -46,32 +46,14 @@ The DigiByte network runs on a mix of servers managed by DigiByte volunteers and
 
 ## What's the Latest? (April 2021)
 
-- Draft layout for a new joint company has been created
-- Domain name purchased and web presence being built
-- Launch product set defined
-  - Enterprise secure video conferencing
-    - ThreeFold peer-to-peer video conferencing
-    - Integration to the DigiByte blockchain for reporting audit purposes
-  - Enterprise secure storage and archiving
-    - Quantum Safe storage facilities
-    - Blockchain audit and logging
-    - Always append storage
-  - Digital sovereign identity
-  - Bespoke blockchain solutions for enterprises
+- Plans for a new company combining ThreeFold and DigiByte technology are being executed.  This company will promote and sell a combination of DigiByte and Threefold technologies to Enterprises.  First target market is going to be Europe with a view to make this company service a global customer base.  The companies is meant to start operating from May 2021 anwards.
+
+The launch product set has been defined and will incorporate the following services:
+  - Enterprise secure video conferencing. Based on an integrated product using ThreeFold peer-to-peer video conferencing and remote web browsing technology plus the DigiByre access (Digi-ID) and blockchain technology.  This secure video conferencing service will be available fro group usage in Enterprise setting but will also come as a more secure option where the service is limited to 2 parties communitcating peer to peer with no third party involvement
+  - Enterprise secure storage and archiving services.  ThreeFold Qunatum Safe Storage technology will be deployed and optimised for Enterprise use cases starting with simple straighforward backp backends and secure archiving.  Integration with the DigiByte blockchain to create auditablility and logging facilities services Enterprise storage needs.
+  - Bespoke blockchain solutions for enterprises.  Specific blockchain and infrastructure solutions can be bild in an OEM structure to create blockchain as a service, cllud services and storage services.
 
 ## Join saving our planet!
 
-ThreeFold's technology helps the DigiByte software to use less underlying capacity for processing and that networking enhances time to reach consensus.
+ThreeFold's technology helps the DigiByte software to use less underlying capacity for processing and that networking enhances time to reach consensus.  DigiBytes blockchain technology and multiple consensus mechanism together are a fantastic and sustainable platform to build (bespoke) Enterprise storage and blockchain technologies on.
 
-<!-- ## Support this project
-
-Digibyte Foundation is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
-The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
-Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Digibyte Foundation, and the growth of a new Conscious Internet.
-
-## TFGrid Solution
-
-### Roadmap
-
-- Q1 2021
-  - Go to market integration for TF Token -->
