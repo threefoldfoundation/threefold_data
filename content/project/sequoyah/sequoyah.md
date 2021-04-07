@@ -28,7 +28,8 @@ Sequoyah is the leading provider of diamonds, alloys and prefabricated alloys to
 
 ## Mission
 
-Ecologically sound, conflict-free sources for diamonds and alloys.
+Ecologically sound, conflict-free sources for diamonds and alloys, and provide a safe haven for their customers' data - the gold of the internet.
+
 
 ## Impact
 
