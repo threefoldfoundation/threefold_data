@@ -1,7 +1,7 @@
 ---
 id: boris_fahrnberger
 name: Boris Fahrnberger
-rank: 3
+rank: 4
 memberships: [aci_members, farmers, partners]
 category: [aci, farming]
 bio: Boris has worked in nearly all main sectors, including IT, finance, media and politics. As a senior andragogist and consultant he has helped thousands of people to develop and get inspired. The communication scientist founded Artichoke Computing, a Threefold farming company, in 2019 and recently the project “COVID Fighters”, the quickest biomolecular SARS-CoV-2 testing method on the planet.

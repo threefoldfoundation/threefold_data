@@ -1,7 +1,7 @@
 ---
 id: sascha_jochum
 name: Sascha Jochum
-rank: 3
+rank: 4
 memberships: [partners]
 category: [foundation, cloud]
 bio: Co-founder DASH Next

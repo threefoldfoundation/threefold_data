@@ -1,7 +1,7 @@
 ---
 id: atef_nazmy
 name: Atef Nazmy
-rank: 4
+rank: 3
 memberships: [tech]
 category: [foundation]
 bio: IT-Telecom & Networking Engineer, having a great passion to learn more about new technologies.

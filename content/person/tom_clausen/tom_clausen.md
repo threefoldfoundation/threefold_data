@@ -1,7 +1,7 @@
 ---
 id: tom_clausen
 name: Tom Clausen
-rank: 3
+rank: 4
 memberships: [partners]
 category: [foundation]
 bio: FIDES BUSINESS PARTNER, based in Zurich, is a private equity manager focused on special situations leveraging our extensive operational, entrepreneurial, restructuring and investment expertise.

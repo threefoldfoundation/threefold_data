@@ -1,7 +1,7 @@
 ---
 id: waleed_hammam
 name: Waleed Hammam
-rank: 4
+rank: 3
 memberships: [tech]
 category: [foundation]
 bio: Threefold is the gate for our digital freedom that was never existed before, It gave me the chance to learn special technologies and has great people working there.
