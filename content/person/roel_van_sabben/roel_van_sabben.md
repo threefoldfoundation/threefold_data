@@ -17,8 +17,8 @@ private: 0
 
 <BR>
 
-<iframe src="https://player.vimeo.com/video/414512583" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="aspect-w-16 aspect-h-9">
+  <iframe src="https://player.vimeo.com/video/414512583" width="640" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <BR>
-
-
