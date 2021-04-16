@@ -9,7 +9,7 @@ image: ./casperlabs.png
 image_caption: casperlabs
 logo: ./logo.png
 category: [cloud, farming, foundation]
-members: [neil_kapoor],[medha_parlikar]
+members: [medha_parlikar, neil_kapoor]
 websites: https://casperlabs.io/
 tags: [blockchain]
 private: 0
