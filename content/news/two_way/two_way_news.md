@@ -2,7 +2,7 @@
 id: two_way_news
 title: Join the ThreeFold Two-Way Chat
 tags: [update,community]
-image: ./threefoldtwowaynews
+image: ./threefoldtwowaynews.png
 category: [foundation,cloud,farming,marketplace,aci]
 image_caption: ThreeFold Two-Way
 excerpt: We've opened up a two-way chat on Telegram for the ThreeFold community!
