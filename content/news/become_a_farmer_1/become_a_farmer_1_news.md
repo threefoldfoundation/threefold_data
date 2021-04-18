@@ -5,7 +5,7 @@ tags: [farming,community]
 image: ./betheinternetnews.png
 category: [foundation,cloud,farming,marketplace,aci]
 image_caption: Be the Internet
-excerpt: Now, you can **BE THE INTERNET** by becoming a ThreeFold Farmer.
+excerpt: Now, you can BE THE INTERNET by becoming a ThreeFold Farmer.
 authors: [sam_taggart]
 created: 2021-04-18
 ---
