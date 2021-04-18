@@ -2,7 +2,7 @@
 id: casper_recording_1_news
 title: ThreeFold x CasperLabs Community Call Recording
 tags: [partner,community,blockchain,update]
-image: ./tfcasperrecording1news.png
+image: ./casper_recording_1.png
 category: [foundation,cloud,farming,marketplace,aci]
 image_caption: ThreeFold x Casper Call Recording
 excerpt: Thanks again to the team at Casper for having us on!
