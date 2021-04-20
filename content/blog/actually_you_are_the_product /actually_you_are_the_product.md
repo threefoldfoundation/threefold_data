@@ -1,7 +1,7 @@
 ---
-id: actually_you_are_the_product 
-title: Actually, you are the product 
-tags: [digital_twin,data,why]
+id: actually_you_are_the_product
+title: Actually, you are the product
+tags: [digital_twin, data, why]
 category: [twin]
 image: ./actually_you_are_the_product.png
 image_caption: actually you are the product
