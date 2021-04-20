@@ -10,7 +10,7 @@ authors: [sabrina_sadik]
 created: 2019-12-05
 ---
 
-# You are unique
+## You are unique
 
 During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing at ThreeFold.
 <br/>

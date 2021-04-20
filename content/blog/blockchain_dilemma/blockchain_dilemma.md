@@ -10,19 +10,18 @@ authors: [kristof_de_spiegeleer]
 created: 2018-03-07
 ---
 
-
-### Introduction
+## Introduction
 
 Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world, with countless use cases.
 <br/>
 <br/>
 In general, there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They are consensus algorithms on how transactions are verified and added to the ledger (forever, as blockchains provide an immutable record of events). More on these two types of blockchains below.
 
-### Blockchain Basics
+## Blockchain Basics
 
 A blockchain is, as the word says, a chain of blocks of information. These “blocks” contain information on transactions. For instance transactions like the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
 
-### Private, Permissioned or Public Blockchains
+## Private, Permissioned or Public Blockchains
 
 The complexity around a blockchain comes from how the blockchain software is run. The software can run in two different ways: a small (or large) number of nodes controlled by one single entity (private blockchain) a person or a company, or a large (or small) number of nodes controlled by multiple entities (public) that do not know each other and where anyone interested to run a blockchain node can join.
 <br/>
@@ -38,18 +37,18 @@ A public blockchain allows anyone to join the blockchain operation and create a 
 <br/>
 For these three types of blockchains, there are different mechanisms to protect and guarantee the validity of transactions and make them tamper-proof.
 
-### Private Data and Anonymous or Pseudo-Anonymous Data?
+## Private Data and Anonymous or Pseudo-Anonymous Data?
 
 For private blockchains, it is straightforward to see that all data that is stored on private blockchains is private and creates 100% anonymity for its users. The only entity or person that has access to information stored on the blockchain is the blockchain operator. This is comparable to how a bank operates. The bank knows everything about all of its customers and the customers only know about themselves - the non-bank customers do not know a thing.
 <br/>
 <br/>
 On a public blockchain, people can join and operate a blockchain node on which all information of that blockchain is stored. While private blockchains get their security from putting their blockchain nodes in secure buildings operated by trusted people a public blockchain achieves its security from having a large number of nodes that have the same data replicated over and over. A consensus algorithm is required in order to accept new data (new blocks) to the chain.
 
-### Consensus Protocols for Public Blockchains
+## Consensus Protocols for Public Blockchains
 
 The main consensus protocols used today are Proof-of-Work and Proof-of-Stake.
 
-#### Proof of Work (High Cost in Compute and Energy)
+### Proof of Work (High Cost in Compute and Energy)
 
 The proof of work consensus protocol is best explained as a race. The consensus is achieved by having all participating nodes solve a puzzle. The puzzle is a one-way translation of an amount of information consisting of the following items:
 - All the data that present the transactions in the block - all the data is known by all participating nodes
@@ -65,7 +64,7 @@ Once the block is completed, all nodes will get the complete block of transactio
 <br/>
 The node that will find the number first will announce that it has found a solution matching the required difficulty level and the variable number of shared with all nodes in the network to verify that his solution is correct. If a large portion of the nodes has verified the solution to be valid the solution is accepted and the block is added to the chain because consensus is reached.
 
-#### Proof of (Block) Stake (Low Cost in Compute and Energy)
+### Proof of (Block) Stake (Low Cost in Compute and Energy)
 
 With proof of stake consensus algorithms, the consensus algorithm does not solve puzzles in a race to be the first. The first step is to identify and allow a certain number of nodes to be part of the blockchain. This is called a permissioned blockchain because you need to have permission to partake. This permission is given by distributing stakes.
 <br/>
@@ -85,7 +84,7 @@ To make sure the one node that has solved the puzzle to match the difficulty lev
 <br/>
 The fact that the puzzle-solving includes historic block data and once a node is assigned to create the block and put it on a chain will not be able to use that block state for a period of time makes it very costly to try to tamper with the content of the block (and the next blocks). 
 
-#### The Blockchain Dilemma Problem
+## The Blockchain Dilemma Problem
 
 Public and private blockchains have their specific advantages and disadvantages and are very good for specific use cases - but not all. If we list the specifics of both we end up with a table like this:
 <br/>

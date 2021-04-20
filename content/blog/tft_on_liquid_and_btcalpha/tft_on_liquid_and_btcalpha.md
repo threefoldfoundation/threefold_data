@@ -10,7 +10,7 @@ authors: [sacha_obeegadoo]
 created: 2019-06-01
 ---
 
-### Do you believe that the world needs change?
+## Do you believe that the world needs change?
 
 Do you believe in decentralization? Equality? Sustainability?
 <br/>
@@ -23,7 +23,7 @@ The ThreeFold Token is the currency of the new Internet and brings true solution
 <br/>
 It supports the ThreeFold Foundation - an open ecosystem that is shaping a better world by empowering game-changing technology. ThreeFold is growing a green and conscious peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be autonomous, and providing equal chances to learn, partake and succeed.
 
-### Ready to support a new Internet?
+## Ready to support a new Internet?
 
 By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see [Token Distribution Event](https://wiki.threefold.io/#/tdeoverview) for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
 <br/>
