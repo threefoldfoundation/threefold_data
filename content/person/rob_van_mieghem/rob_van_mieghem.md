@@ -8,7 +8,7 @@ bio: Equality of opportunity is a fundamental right in my opinion. So is privacy
 excerpt: Technology today does not sufficiently support my personal believes of how a better world might look like.
 linkedin: https://www.linkedin.com/in/robvanmieghem/
 websites: https://threefold.tech
-image: ./rob_van_mieghem.png
+image: ./rob_van_mieghem.jpeg
 projects: [threefold_tech]
 countries: [Belgium]
 cities: [Gent]
