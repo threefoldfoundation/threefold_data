@@ -8,7 +8,7 @@ bio: Wandering the Net since it's inception (www wasn't even a thing back then..
 excerpt: Techie at heart, having lived professionally in the tech basements of the Internet.
 linkedin: https://www.linkedin.com/in/jand2/
 websites: https://threefold.tech
-image: ./jan_de_landtsheer.png
+image: ./jan_de_landtsheer.jpeg
 projects: [threefold_tech]
 countries: [Belgium]
 cities: [Gent]
