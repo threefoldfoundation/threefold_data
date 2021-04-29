@@ -4,7 +4,7 @@ title: India Blockchain Alliance
 countries: [India]
 cities: [Mumbai]
 rank: 2
-excerpt: 
+excerpt: IBA was established with the purpose of mutual assistance in the field of business development, networking, cooperation and defending the interests of the members of the alliance.
 image: ./iba.png
 image_caption: india blockchain alliance
 logo: ./logo.png
