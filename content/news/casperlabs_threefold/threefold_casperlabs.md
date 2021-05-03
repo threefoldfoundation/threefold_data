@@ -10,8 +10,6 @@ authors: [sam_taggart]
 created: 2021-04-07
 ---
 
-# ThreeFold and CasperLabs partner to scale opportunities for enterprises, everywhere
-
 CasperLabs and ThreeFold have a shared belief that decentralization is needed in order to build a better tomorrow. According to [CasperLabs](https://casperlabs.io/en/company), decentralization is "how we will create more open, transparent, permissionless networks powered by people — paving the way for a new era of equitable innovation."
 <br/>
 <br/>
