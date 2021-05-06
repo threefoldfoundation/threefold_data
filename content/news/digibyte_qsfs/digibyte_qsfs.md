@@ -1,11 +1,11 @@
 ---
 id: digibyte_qsfs
-title: DigiByte Foundation and ThreeFold Bring a New Level of Security to the Storage Space
+title: Two Great Technologies Unite to Create the Ultimate Protection for Our Data, a Quantum-Safe Storage Solution
 tags: [partner,technology,update,blockchain]
 category: [farming,cloud,foundation,aci]
 image: ./dg3qsfs.png
 image_caption: DigiByte and ThreeFold announce QSFS
-excerpt: Two great technologies unite to create the ultimate protection for our data, a quantum-safe storage solution
+excerpt: DigiByte Foundation and ThreeFold bring a new level of security to the storage space
 authors: [sam_taggart]
 created: 2021-05-06
 ---
