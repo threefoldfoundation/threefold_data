@@ -1,6 +1,6 @@
 ---
 id: digibyte_qsfs
-title: DigiByte and ThreeFold Bring a New Level of Security to the Storage Space
+title: DigiByte Foundation and ThreeFold Bring a New Level of Security to the Storage Space
 tags: [partner,technology,update,blockchain]
 category: [farming,cloud,foundation,aci]
 image: ./dg3qsfs.png
