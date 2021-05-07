@@ -11,17 +11,12 @@ created: 2020-12-02
 ---
 <br/>
 <br/>
-*This article was originally written in October 2018 and updated in December 2020.*
-<br/>
-<br/>
 Today, the global Internet and IT infrastructure requires enormous amounts of energy, responsible for about 10% of annual global energy consumption. This makes the IT industry amongst the most pollutive industries in the world (along with the often-discussed airline industry, for comparison).
 <br/>
 <br/>
-We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours. With climate change and sustainability as some of the most pressing issues of our times, new green solutions need to be our priority. It has been key to ThreeFold since the very beginning of its story to enable a technological infrastructure that can reduce the Internet’s carbon footprint drastically. Today we can prove up-to 99% power savings.
+We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours. With climate change and sustainability as some of the most pressing issues of our times, new green solutions need to be our priority. It has been key to ThreeFold since the very beginning of its story to enable a technological infrastructure that can reduce the Internet’s carbon footprint drastically. 
 <br/>
 <br/>
-Power consumption is directly related to the quality/performance of the compute and storage equipment and the extent to which the architecture is distributed – the more it is distributed, the greener it gets. This is why we say "up-to." It really all depends on how well farmers perform on these factors. Also, our solutions achieve roughly 3 times the performance per rack (so can we use fewer racks), and the racks require less energy than typical racks in the industry. Therefore, not only do we remove the need for data centers, but we offer a better solution.
-
 ### Simplicity is the key to unlock a better future
 
 Over time, integration suites, middleware solutions, and enterprise service busses have been invented and implemented to cover integration challenges within the current internet. This has further complicated IT architectures, resulting in a loss of actual end user workload performance.
@@ -53,13 +48,14 @@ Virtualization adds a layer of software between the actual end-user workload and
 ### Minimizing network connections usage
 
 Supercomputing delivered many new technologies. But, not all of them are usable solutions for everyday workloads. One technology invented to make supercomputers performant is the use of Remote Direct Memory Access (RDMA). RDMA allowed physical CPU boards (containing both CPUs and memory) to access other CPU boards in memory stored data over a dedicated channel. This eliminated the need to transport data between CPU nodes over network connections (or other mainstream means to exchange data). The result was a considerable reduction in overhead created when allowing distributed end user workloads to operate over multiple physical cores. The leading server and storage solutions brands have never considered nor implemented such mechanisms. This resulted in an increased need for faster networks - increasing complexity, costs, efforts and resources needed to operate solutions.
+
+RDMA is only used in certified farms and requires involvement of TFTech.
 <br/>
 <br/>
-By using a more efficient means to exchange data between physical CPU units, Zero-OS does not require forests of switching gear.
 
 ### Minimizing disk usage 
 
 The storage solution uses slow and big (the bigger the better) HDD disks which drive in rack density. As they spin slower they consume less power and need less cooling. But then, how can you deal with read/write intensive workloads? The storage algorithm uses a SSD cache to acknowledge Inputs/Outputs coming from the applications, fills the erasure coded data blocks in large (up to 64MB) storage containers and writes the big chunks of data on the big and slow HHDs. If you are familiar with HDD disks, you know they like to be streamed on instead of having a lot of small bits written in a scratchy way.
 <br/>
 <br/>
-**Continuous innovation in all of these areas are leading to a very efficient technology stack.**
+**Continuous innovation in all of these areas are leading to an efficient technology stack.**
