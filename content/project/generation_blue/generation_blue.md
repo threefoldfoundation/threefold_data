@@ -1,25 +1,24 @@
 ---
 id: generation_blue
-title: Tokenized Regeneration
+title: Generation Blue
 countries: [Portugal]
 cities: []
-rank: 2
+rank: 4
 excerpt: Empower every global citizen to protect and regenerate nature.
 image: ./genblue.png
 image_caption: generation_blue
 logo: ./logo.png
+category: [twin, aci]
 members: [alan_laubsch]
 websites: https://generation.blue/
-tags: [twin, aci]
+tags: [experience, impact]
 private: 0
 linkedin: https://www.linkedin.com/company/genblue/
 ---
 
-# Generation Blue
-
 <br/>
 
-![generation_blue](generationblue2.png)
+![generation_blue](./generationblue2.png)
 
 <br/>
 
@@ -33,24 +32,17 @@ Earth positive means taking responsibility for our footprint and leaving the pla
 
 <BR>
 
-
 ## Mission
 
-Empower every global citizen to protect and regenerate nature
-
-<br/>
+Empower every global citizen to protect and regenerate nature.
 
 ## Impact
 
 We protect biodiversity – focusing on the most threatened ecosystems such as tropical forests and mangroves – by empowering communities with verified positive impact assets. Anyone can get earth positive via our marketplace of token-backed products and services.
 
-<br/>
-
 ## Powered by ThreeFold
 
-We are proud to partner with ThreeFold to securely host our decentralized mobile apps.
-
-<br/>
+We are proud to partner with ThreeFold to securely host our decentralized mobile apps on the most sustainable architecture we've found on the planet.
 
 ## Join saving our planet!
 

@@ -1,7 +1,7 @@
 ---
 id: community_call_nov_2020_announcement
 title: Announcing the November 2020 community call
-tags: [tech, internet, future]
+tags: [community,update,event]
 category: [farming,cloud,foundation,twin]
 image: ./nov2020communitycall.png
 image_caption: Announcing the November 2020 community call

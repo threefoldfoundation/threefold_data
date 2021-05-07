@@ -1,31 +1,30 @@
 ---
 id: beliive
-title: World's Largest Time Bank
+title: Beliive
 countries: [Brazil, US]
 cities: [San Francisco]
 rank: 3
-excerpt: Empowering people to recognize abundance by living new experiences one hour at a time.
+excerpt: World's largest time bank, empowering people to recognize abundance by living new experiences one hour at a time.
 image: ./beliive.png
 image_caption: beliive
 logo: ./logo.png
+category: [twin, aci, foundation]
 members: [lorrana_scarpioni]
 websites: https://beliive.com
-tags: [twin, aci]
+tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/beliive/
 ---
 
-# Beliive
-
 <br/>
 
-![beliive](beliive2.png)
+![beliive](./beliive2.png)
 
 <br/>
 
 ## About
 
-*Beliive* is a community where people can exchange experiences and services using time as the only currency. With 200.000 members to date Beliive is the world's largest time bank. Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time and the way we collaborate with each other. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complimentary economy based on an abundant resource available to everyone equally.
+[Beliive](https://beliive.com) is a community where people can exchange experiences and services using time as the only currency. With 200,000 members to date Beliive is the world's largest time bank. Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time and the way we collaborate with each other. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complementary economy based on an abundant resource available to everyone equally.
 
 <BR>
 
@@ -33,12 +32,9 @@ linkedin: https://www.linkedin.com/company/beliive/
 
 <BR>
 
-
 ## Mission
 
 Our mission is to empower and inspire people to recognize abundance by living new experiences one hour at a time.
-
-<br/>
 
 ## Impact
 
@@ -46,7 +42,7 @@ We have created a platform where low-income and unemployed people can exchange t
 
 <br/>
 
-![beliive](beliive_app.jpg)
+![beliive](./beliive_app.jpg)
 
 <br/>
 
@@ -54,12 +50,9 @@ We have created a platform where low-income and unemployed people can exchange t
 
 Beliive and ThreeFold recognize the power of equality to include and connect people to their unlimited abundance. We are peer-to-peer systems that are here to support the awakening of humanity to its own potential. Beliive will connect users' wallets and identity with ThreeFold, using its technology to support time exchange transactions. Beliive will also connect time credits to TF Foundation partners and communities, providing a peer-to-peer platform for TF Foundation to spread the use of time credits for economic empowerment.
 
-<br/>
-
 ## Join saving our planet!
 
 The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion. With Beliive you can offer for example one hour of Spanish Lessons receiving a time credit of one hour in return, then you can exchange this credit for any activity available in the community, like financial advice, dance lessons or someone to fix something for you.
-
 
 <!-- ## Support this project
 

@@ -1,7 +1,7 @@
 ---
 id: grid_24_mainnet_soon
 title: Grid 2.4 is coming to mainnet soon!
-tags: [grid,update]
+tags: [threefold_grid,update,technology]
 category: [farming,cloud,foundation]
 image: ./grid_24_mainnet_soon.png
 image_caption: Grid 2.4 is coming to mainnet soon

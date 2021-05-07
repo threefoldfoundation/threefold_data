@@ -1,7 +1,7 @@
 ---
 id: new_neutral_internet
 title: The need for ThreeFold's neutral internet
-tags: [tech, farming, token]
+tags: [technology,farming,threefold_token,why]
 category: [farming,cloud,foundation]
 image: ./new_neutral_internet.png
 image_caption: planet internet
@@ -13,7 +13,7 @@ created: 2017-06-01
 <br/>
 **The Internet is growing like crazy and is now a trillion dollar problem. Together we can build a new neutral Internet.**
 
-### An introduction to the problems
+## An introduction to the problems
 
 - The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies. This results in a loss of neutrality and openness and breeds inequalities.
 - To support the continuous growth of the Internet and connect billions to new Internet Of Things devices, 400 million new servers are needed by 2020. The world therefore needs another 4,000 large-scale data centers that each consume 200 MWe of electricity: [see source](http://bit.ly/1UPUZYG).
@@ -21,7 +21,7 @@ created: 2017-06-01
 - Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.
 - Current blockchain technology is not scalable and not sustainable. Example: the Bitcoin blockchain alone uses more energy today than Croatia.
 
-### Current Internet and Cloud capacity
+## Current Internet and Cloud capacity
 
 Today, the cloud computing industry represents a 100 billion dollar industry - mostly owned by about 20 global cooperations. Experts such as Bell Labs and Cisco believe the capacity requirements in the next decade will dramatically exceed existing infrastructure - requiring many more data centers and billions, if not trillions in investments.
 <br/>
@@ -37,7 +37,7 @@ The challenges facing the Internet includes the following:
 - **Non-local data and capacity**. Governments around the world are becoming more and more concerned about data leaving their borders. To tackle this centralization issue, they would need local IT infrastructure. Also, IoT workloads need local capacity to deliver constant real-time computing and storage requirements - for certain applications and workloads (e.g. driverless cars), latency is not an option. Hyperscale data centers can simply not match these requirements.
 - **Not secure / at risk of choke point failures**. There are plenty of recent well-publicized problems around security, outages and loss of data. The reason for this is that centralized hyperscale architectures are inherently insecure - and failures at a single hyperscale location can cause widespread contagion and outages.
 
-### The ThreeFold Solution
+## The ThreeFold Solution
 
 Our solution to these trillion dollar problems is to migrate Internet capacity to the Edge (closer to user location) - i.e. a “hyper-distributed” network architecture, located close to users (in cities, schools, offices, homes and even vehicles).
 <br/>
@@ -47,7 +47,7 @@ Edge networks will not necessarily replace the existing hyperscale capacity powe
 <br/>
 By 2025, 60% of new Internet infrastructure will be decentralized and located at the edge of operator networks by using alternative locations which have stable (renewable) power and reliable connectivity.
 
-### ThreeFold's technology main benefits:
+## ThreeFold's technology main benefits:
 
 - **Security**: The ThreeFold Grid is distributed and benefits from our ItsYou.Online identity management platform - making it much more secure.
 - **Decentralized**: The solution enables to bring capacity closer to where users are located, enabling a Cloud at the Edge.
@@ -55,7 +55,7 @@ By 2025, 60% of new Internet infrastructure will be decentralized and located at
 - **Making IT a true utility**:  We always approached IT as Energy. Today we provide 3x more uptime and between 3-10x more cost effectiveness.
 - **Neutrality**: The solution enables 100% neutral & private Internet IT capacity. Our blockchain technology provides security, neutrality & scale.
 
-### The ThreeFold Zero-Node
+## The ThreeFold Zero-Node
 
 The Zero-Node provides compute, network and storage capacity to the internet and ThreeFold's blockchain. This capacity can be used for any possible workload. Here are some characteristics of ThreeFold's Zero node:
 <br/>

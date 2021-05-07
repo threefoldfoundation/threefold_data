@@ -2,7 +2,8 @@
 id: sascha_jochum
 name: Sascha Jochum
 rank: 4
-memberships: [cloud]
+memberships: [partners]
+category: [foundation, cloud]
 bio: Co-founder DASH Next
 excerpt: Entrepreneur, Investor, Blockchain Expert
 linkedin: https://www.linkedin.com/in/sascha-jochum/

@@ -1,15 +1,20 @@
 ---
 id: josef_ehrenhoefer
 name: Josef Ehrenhoefer
-rank: 1
-memberships: [] # ambassadors
-bio: Josef Ehrenhoefer - also called Pepo - is the founder and owner of consult2win and is a Certified Management Consultant focused on M&A implementations and Digital Transformation Projects. Previously Pepo was Vice President of Enterprise Services at HP, Hewlett Packard Enterprise and DXC Technology in Austria and Central & Eastern Europe. He has gained tremendous experience in successfully implementing complex, multi-country transformation projects. Ambassador fell in love with Threefold I'm very passionate and excited about the opportunities of Digital Transformation for our economies, societies and lifes. However it is obvious that the current System is heavily centralized and extremely tuned to the success of a few. ThreeFold Tech and Threefold Foundation are perfectly positioned to fundamentally transform the Status Quo and to better serve future internet demand and to benefit many - not just a few. 
-excerpt: Ambassador fell in love with Threefold I'm very passionate and excited about the opportunities of Digital Transformation for our economies, societies and lifes. 
-linkedin: https://www.linkedin.com/in/josef-ehrenhoefer/
-websites: 
-projects: []
-image: ./josef_ehrenhoefer.jpg
+rank: 4
+memberships: [ambassadors]
+category: [foundation]
+bio: For more than 40 years I have been working in the international IT industry - starting as an engineer at Philips Data Systems, leading service and support organizations in different European countries at Digital Equipment and Compaq Computers and for many years I have been vice president of HPE and DXC Technology Services in Central and Eastern Europe where I had the opportunity to implement large scale Digital Transformation projects in many industries and to lead remote and virtual project teams in a global setting. Since  2018 I'm an independent business consultant with focus on Digital Transformation running my own consulting firm consult2win e.U. - as part of this new independence I'm also spending much time to support innovative digital start-up companies like Threefold, ELOOP, nWoW and Cloudomation to name a few. Innovation, customer benefits, integrity, team-work and a fair and equal treatment of all are core values which inspire and motivate me to achieve great things. Creating a truly decentralized internet, giving back data ownership to individuals and enabling access to data and education for all will for sure help to make our world a bit better. I will be very happy if my little contributions will help to leave a better world to my grand children.
+excerpt: After more than 40 years in corporate IT business I'm enjoying now the freedom to run my own consulting business and to help start-ups in different areas of digital innovation.
+linkedin: https://at.linkedin.com/in/josef-ehrenhoefer/de
+websites: www.consult2win.eu
+projects: [eLoop, cloudomation, consult2win]
+image: ./josef_ehrenhoefer.png
 countries: [Austria]
-cities: []
-private: 1
+cities: [Vienna, Biedermannsdorf]
+private: 0
 ---
+
+## Why ThreeFold?
+
+Threefold brings together great digital innovation to create a truley decentralized internet with a strong passion to bring equal opportunities to all while taking care of our environment. 

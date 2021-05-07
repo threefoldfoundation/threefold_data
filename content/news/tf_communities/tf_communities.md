@@ -1,7 +1,7 @@
 ---
 id: threefold_communities
 title: ThreeFold x Conscious Communities
-tags: [collaboration]
+tags: [partner,update]
 category: [farming,cloud,foundation,twin,aci]
 image: ./tf_communities.png
 image_caption: TF x Conscious Communities

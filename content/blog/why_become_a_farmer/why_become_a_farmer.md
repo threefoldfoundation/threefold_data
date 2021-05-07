@@ -1,7 +1,7 @@
 ---
 id: why_become_a_farmer
 title: Why Anyone Should Consider Becoming A (ThreeFold) Farmer
-tags: [farming, grid]
+tags: [farming,threefold_grid]
 category: [farming, grid]
 image: ./become_a_farmer.png
 image_caption: farming

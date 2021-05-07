@@ -1,7 +1,7 @@
 ---
 id: global_reset
 title: ThreeFold participating @ Global Reset!
-tags: [event]
+tags: [event,community,update]
 category: [foundation,twin,aci]
 image: ./tfglobalreset.png
 image_caption: ThreeFold participating @ Global Reset!

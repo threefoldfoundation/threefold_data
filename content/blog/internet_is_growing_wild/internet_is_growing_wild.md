@@ -1,7 +1,7 @@
 ---
 id: internet_is_growing_wild
 title: Internet is growing wild
-tags: [tech, sustainability]
+tags: [technology,why,threefold_grid]
 category: [farming,cloud,foundation,aci]
 image: ./internet_is_growing_wild.png
 image_caption: planet

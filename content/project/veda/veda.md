@@ -3,38 +3,31 @@ id: veda
 title: Veda
 countries: [Egypt]
 cities: [Nile]
-rank: 2
+rank: 5
 excerpt: Discover ancient Egypt and feel its special energies.
 image: ./veda.png
 image_caption: veda
 logo: ./logo.png
+category: [aci]
 members: [isabelle_peeters]
 websites: https://www.veda-egypt.com
-tags: [aci]
+tags: [community, experience]
 private: 0
 linkedin: ''
 ---
 
-# Veda Retreats
-
 <br/>
 
-![veda](veda2.jpg)
+![veda](./veda2.jpg)
 
 <br/>
 
 ## About
 
-VEDA offers unique, authentic, and private cruises with organic food, green energy, and a warm-hearted crew.
+VEDA offers unique, authentic, and private cruises with organic food, green energy, and a warm-hearted crew. There is no other experience like us on the Nile.
 <br/>
-There is no other experience like us on the Nile.
-
-<BR>
-
-<iframe src="https://player.vimeo.com/371621672" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<BR>
-
+<br/>
+From time to time, ThreeFold gathers on the Nile on VEDA boats with partners and investors to share, connect, and build.
 
 <!-- ## Impact
 

@@ -3,30 +3,30 @@ id: unit
 title: UNIT
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: 4
 excerpt: Supporting people by helping them to develop a business around their passion.
 image: ./unit.png
 image_caption: unit
 logo: ./logo.png
+category: [twin, cloud, farming, aci, foundation]
 members: [michael_healy]
 websites: https://unit.ventures/
-tags: [twin, cloud, farming, aci]
+tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/unitventures/
 ---
 
-# Unit
-
 <br/>
 
-![unit](unit2.png)
+![unit](./unit2.png)
 
 <br/>
 
 ## About
 
-We want to support people who are passionate about something by helping them develop a business around it, by connecting them with clients, so they can support themselves, their family and friends.  So if someone wants to teach yoga, make art, sell cars, or design clothing - we support them by helping them develop a business around it. 
-
+At [Unit](https://unit.ventures/), wie want to support people who are passionate about something by helping them develop a business around it, by connecting them with clients, so they can support themselves, their family and friends.  So if someone wants to teach yoga, make art, sell cars, or design clothing - we support them by helping them develop a business around it. 
+<br/>
+<br/>
 We have an underlying UNIT technology which powers two-sided marketplaces (like uber, or airbnb) which powers a platform for a specific vertical or industry. We invest in these projects and companies, with the vision to create millions of jobs, and support projects by allocating funds and resources to them.
 
 <BR>
@@ -35,29 +35,21 @@ We have an underlying UNIT technology which powers two-sided marketplaces (like 
 
 <BR>
 
-
 ## Mission
 
 To build the next economy.
-
-<br/>
 
 ## Impact
 
 We believe well-being of all is important, and are committed to creating opportunities and solving inequality in the world by moving towards being structured as a cooperative, this means that the value created is distributed with the customers and providers, not just the founders and the investors. This will ultimately solve the huge income inequity. We believe  this will give an opportunity for people to do good, and focus on what they enjoy, rather than simply making money to support themselves.
 
-<br/>
-
 ## Powered by ThreeFold
 
 We are planning to use ThreeFold's peer-to-peer infrastructure for the Unit.
-
-<br/>
  
 ## Join saving our planet
  
 Reach out to one of our community members, to join the platforms or events, as well as if you’re interested in being a provider or customer to support the circular economy.
-
 
 <!-- ## Support this project
 

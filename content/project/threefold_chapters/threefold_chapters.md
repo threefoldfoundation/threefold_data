@@ -3,11 +3,12 @@ id: threefold_chapters
 title: ThreeFold Chapters
 countries: []
 cities: []
-rank: 2
+rank: 0
 excerpt: Chapters are independent groups of people and organizations who are representing and promoting the ThreeFold Movement.
 image: ./placeholder.jpg
 image_caption: threefold_chapters
 logo: ./logo_placeholder.png
+category: []
 members: []
 websites: 
 tags: []
@@ -18,12 +19,14 @@ linkedin: ''
 # ThreeFold Chapters
 
 Chapters are independent groups of people and organizations who are representing and promoting the ThreeFold Foundation, Ecosystem & Technology to the general public and assist newcomers to onboard within the TF ecosystem. Chapters themselves may also be engaged in farming, product development and investment within the ThreeFold Ecosystem. In order to start a TF Chapter one needs to become a TF Ambassador. 
-
+<br/>
+<br/>
 If you feel inspired to create your own chapter, please connect with the TF Ambassador Admin Team to get started! ([Owen Kemp](http://t.me/OwenKemp), [Gregor Sideris](http://t.me/Gregsideris), [Simin Gerards](http://t.me/simings), Nisha Grimes or [Olivia Jurado](http://t.me/juradoo))
 
 #### Cherry Chapter, Vienna 
 Vienna based farm. A company established similar to agricultural cooperative consisting of so far 17 members paying membership fee which is used to purchase farming equipment. Can scale infinitely. Onboarding of  small investors via a registered cooperative
-
+<br/>
+<br/>
 Coordinator: Wolfgang Wittmer
 
 [ Cherry Chapter on FreeFlow Pages](https://freeflowpages.com/s/vienna-cherry-chapter/space/space/home )

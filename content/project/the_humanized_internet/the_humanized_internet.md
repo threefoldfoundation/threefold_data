@@ -3,29 +3,28 @@ id: the_humanized_internet
 title: The Humanized Internet
 countries: [Switzerland, Germany]
 cities: [Zürich, Berlin]
-rank: 4
+rank: 3
 excerpt: Providing digital identity for those individuals most underserved.
 image: ./the_humanized_internet.png
 image_caption: the_humanized_internet
 logo: ./logo.png
+category: [twin, aci]
 members: [monique_morrow, akram_alfawakheeri]
 websites: https://www.moniquemorrow.com/humanized-internet
-tags: [twin, aci]
+tags: [community]
 private: 0
 linkedin: ''
 ---
 
-# The Humanized Internet
-
 <br/>
 
-![the_humanized_internet](the_humanized_internet2.png)
+![the_humanized_internet](./the_humanized_internet2.png)
 
 <br/>
 
 ## About
 
-*The Humanized Internet* is working to use new technologies to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity. The Humanized Internet is building a broad coalition of NGOs, international organizations and other actors to build a global consensus regarding each human being’s sovereign digital rights.
+[The Humanized Internet](https://www.moniquemorrow.com/humanized-internet) is working to use new technologies to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity. The Humanized Internet is building a broad coalition of NGOs, international organizations and other actors to build a global consensus regarding each human being’s sovereign digital rights.
 
 <BR>
 
@@ -37,19 +36,13 @@ linkedin: ''
 
 A non-profit organization focused on providing digital identity for those individuals most underserved.
 
-<br/>
-
 ## Impact
 
 Over one billion people worldwide have no official identity, making them vulnerable to abuses like incarceration and human trafficking. That includes 230 million children under five, and ten million stateless people. Not only can a secure identity help defend their rights, but it can provide access to essential services like education, health and banking. It can enable them to be sovereign individuals.
 
-<br/>
-
 ## Powered by ThreeFold
 
 ThreeFold has technology in place to run decentralized programs created by The Humanized Internet. In partnership with ThreeFold The Humanized Internet can scale it's mission of providing digital identity for large populations empowering people in places that are most vulnerable to identity abuse.
-
-<br/>
 
 ## Join saving our planet!
  

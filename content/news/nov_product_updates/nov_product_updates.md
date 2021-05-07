@@ -1,7 +1,7 @@
 ---
 id: 10_product_highlights
 title: November 10 product management highlights
-tags: [3bot, tfgrid, marketplace]
+tags: [threefold_grid,threefold_cloud,technology,update]
 category: [farming,cloud,foundation,twin]
 image: ./novprodmgmt.png
 image_caption: November 10 product management highlights

@@ -1,8 +1,9 @@
 ---
 id: tobias_chielens
 name: Tobias Chielens
-rank: 2
+rank: 3
 memberships: [tech]
+category: [foundation]
 bio: Tobias is a passionate developer that wants to use technology to make the world a better place.
 excerpt: Creating an internet that is accessible for everyone.
 linkedin: https://www.linkedin.com/in/tobiaschielens/

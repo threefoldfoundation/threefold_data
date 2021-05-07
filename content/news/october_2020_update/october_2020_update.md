@@ -1,7 +1,7 @@
 ---
 id: oktober_2020_community_call
 title: ThreeFold's October 2020 community update is here
-tags: [community, update]
+tags: [community,update]
 category: [farming,cloud,foundation,twin]
 image: ./oct2020communityupdate.png
 image_caption: ThreeFold's October 2020 community update is here

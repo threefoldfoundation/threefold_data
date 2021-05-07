@@ -24,68 +24,46 @@ This projects represents a one source of truth for threefold data
 To pull respective content (blog/news/people/projects) to your project open: 
 `content/../../.md file`
 
-look for variables:
+look for variable:
 
-- blog: `category: [ ]`
+- `category: [ ]`
 
-- news: `category: [ ]`
-
-- people: `memberships: [ ]`
-
-- project:`tags: [ ]`
-
-and provide project's name (e.g. digitaltwin, cloud, tech, foundation etc), or membership for people.
-
-Current active projects: 
+and provide (currently active) website's name:
 - `twin`
 - `cloud`
 - `farming`
 - `tech`
 - `foundation`
-- `fairswap`
+- `marketplace`
 - `aci`
 - `mazraa`
 
-Current active memberships (for people):
+We use tags to filter projects/blog/news and memberships to filter people:
+
+memberships for people:
 - `cofounders`
 - `tech`
 - `foundation`
 - `ambassadors`
 - `matchmakers`
 - `farmers`
-- `aci`
-- `fairswap`
-- `twin`
-- `cloud`
-- `farmers`
-- `mazraa`
-- `jimber`
+- `aci_members`
+- `partners`
+- `wisdom_council`
+- `technology_council`
+- `grid_guardians`
 
-## Example:
+tags for projects:
+- `blockchain`
+- `experience`
+- `technology`
+- `farming`
+- `community`
+- `infrastructure`
+- `impact`
 
-- "An escape from the Great Hack" blog post
-
-`category: [farming, cloud]`
-
-will show on farming.threefold.io and cloud.threefold.io websites Blog
-
-- "Take a look at the Artheon VR Museum!" news post
-
-`category: [twin, cloud]`
-
-will show on cloud.threefold.io and twin.threefold.io websites NewsRoom
-
-- Kristof de Spiegeleer
-
-`memberships: [ambassadors, farmers, foundation, tech, cofounders, fairswap]`
-
-will show on farming.threefold.io, cloud.threefold.io, fair-swap.org, twin.threefold.io, threefold.io websites Team/People
-
-- AIQOM project
-
-`tags: [twin, grid, cloud]`
-
-will show on cloud.threefold.io and twin.threefold.io websites Partners/Projects
-
+tags for blog and news:
+- can vary quite a lot depending on respective article or post
+- please get in touch with sam or sacha if you are adding a blog or news post yourself
 
 

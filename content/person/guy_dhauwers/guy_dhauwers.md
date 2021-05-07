@@ -1,8 +1,9 @@
 ---
 id: guy_dhauwers
 name: Guy D'Hauwers
-rank: 1
+rank: 4
 memberships: [ambassadors]
+category: [foundation]
 bio: High tech investor, mentor, international go-to-market accelerator.
 excerpt: Well networked international go-to-market accelerator in the high tech cloud and commuo market.
 linkedin: https://www.linkedin.com/in/garryveale/

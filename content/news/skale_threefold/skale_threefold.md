@@ -1,7 +1,7 @@
 ---
-id: skale_threefold
+id: threefold_skale
 title: ThreeFold partners with SKALE to empower its developer community
-tags: [partner, blockchain]
+tags: [partner,update,technology,blockchain]
 category: [farming,cloud,foundation]
 image: ./skale_threefold.png
 image_caption: partners blockchain
@@ -9,7 +9,6 @@ excerpt: SKALE and ThreeFold are excited to announce their collaborative partner
 authors: [benjelloun_oussama]
 created: 2020-08-13
 ---
-
 
 [SKALE](https://skale.network/) and [ThreeFold](https://threefold.io) are perfectly aligned in their visions to build a truly decentralized internet and a scalable web3 infrastructure. Both focus on creating community-owned and scalable technologies that can positively impact the lives of millions of individuals and enterprises around the globe. 
 <br/>

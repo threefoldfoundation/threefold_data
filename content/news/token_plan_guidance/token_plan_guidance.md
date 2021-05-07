@@ -1,7 +1,7 @@
 ---
 id: token_plan_guidance
 title: Seeking participation with the TFT plan
-tags: [token,farming,community]
+tags: [threefold_token,farming,community]
 category: [farming,foundation]
 image: ./token_plan_guidance.png
 image_caption: Token Plan Guidance Committee
@@ -26,6 +26,7 @@ Please take note of a few things:
 - The plan WILL be with the best interest for the long-term growth of the token
 - The plan WILL be in the best interest of farmers and token holders
 - The plan WILL be in line with our values
+
 <br/>
 <br/>
 As a reminder, please know that neither Sam nor any member of the ThreeFold team will ever reach out to you requesting TFT or any other form of currency. 🙏

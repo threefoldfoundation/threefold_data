@@ -1,7 +1,7 @@
 ---
-id: tomochain_threefold
+id: threefold_tomochain
 title: TomoChain & ThreeFold are joining forces to decentralize Cloud Computing
-tags: [partners, blockchain]
+tags: [partner,update,technology,blockchain]
 category: [farming,cloud,foundation]
 image: ./tomochain_threefold.png
 image_caption: blockchain partners

@@ -3,29 +3,28 @@ id: green_edge
 title: Green Edge
 countries: [South Africa, East Africa]
 cities: [Johannesburg, Cape Town, Nairobi]
-rank: 3
+rank: 2
 excerpt: Creating a decentralised internet that is inherently equal, sustainable, private and secure.
 image: ./greenedge.png
 image_caption: green_edge
 logo: ./logo.png
-members: [joe_foxton, mariza_wellesley_wesley, michael_wellesley_wesley]
+category: [foundation, cloud, farming, aci]
+members: [mariza_wellesley_wesley, michael_wellesley_wesley]
 websites: https://green-edge.net/
-tags: [tech, cloud, farming, aci]
+tags: [technology, farming]
 private: 0
 linkedin: https://www.linkedin.com/company/green-edge-cloud/
 ---
 
-# Green Edge Sustainable Development
-
 <br/>
 
-![green_edge](greenedge2.png)
+![green_edge](./greenedge2.png)
 
 <br/>
 
 ## About
 
-*Green Edge Sustainable Development* is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
+Green Edge Sustainable Development is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
 
 <BR>
 
@@ -37,19 +36,13 @@ linkedin: https://www.linkedin.com/company/green-edge-cloud/
 
 Green Edge supports ThreeFold in creating a decentralised internet that is inherently equal, sustainable, fast, private and secure to empower our planet, humanity and technologies.
 
-<br/>
-
 ## Impact
 
 The  United Nations Agenda 2030 declared: “to leave no one behind”. Green Edge Sustainable Development in collaboration with our telecom, educational and funding partners will work to connect the 3.6 billion people still off-line at an affordable monthly cost of $1 per person.
 
-<br/>
-
 ## Powered by ThreeFold
 
 Green Edge Sustainable Development is the Environmental and Sustainability Impact arm of Green Edge, the largest global, independent ‘farmer’ on the ThreeFold Grid. Green Edge values and objectives are aligned with those of the ThreeFold Foundation and the Alliance for a Conscious Internet. The energy efficient, self-driving, automated technology developed by ThreeFold running on Green Edge computers is the technology combination that makes our ambitious programme possible.
-
-<br/>
 
 ## Join saving our planet!
 
