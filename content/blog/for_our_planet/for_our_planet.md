@@ -6,7 +6,7 @@ category: [farming,twin,foundation,cloud,aci]
 image: ./better_solution.png
 image_caption: sustainability
 excerpt: We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours..
-authors: [kristof_de_spiegeleer]
+authors: [weynand_kuijpers]
 created: 2020-12-02
 ---
 <br/>
