@@ -3,7 +3,7 @@ id: threefold_data_sovereignty
 title: How ThreeFold offers Data Sovereignty
 tags: [data,why,threefold_grid,farming]
 category: [farming,cloud,foundation,aci,twin]
-image: ./threefold_data_sovereingty.png
+image: ./threefold_data_sovereignty.png
 image_caption: how threefold regenerates
 excerpt: ThreeFold is building the engine for an Internet where people can finally be data sovereign.
 authors: [sam_taggart]

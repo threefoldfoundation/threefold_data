@@ -3,7 +3,7 @@ id: threefold_regenerates
 title: ThreeFold’s planet positive plan
 tags: [threefold_grid,digital_twin,why,technology,farming]
 category: [farming,cloud,foundation,aci,twin]
-image: ./threefold_regnerates.png
+image: ./threefold_regenerates.png
 image_caption: planet positive plan
 excerpt: ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet positive Internet.
 authors: [sam_taggart]
