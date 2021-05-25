@@ -1,6 +1,6 @@
 ---
 id: zero_os_blog
-title: Zero OS: A scalable and secure operating system
+title: A scalable and secure operating system
 tags: [threefold_grid,technology,]
 category: [farming,cloud,foundation,twin]
 image: ./zero_os_blog.png
