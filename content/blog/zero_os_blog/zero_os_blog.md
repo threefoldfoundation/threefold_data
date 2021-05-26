@@ -14,7 +14,7 @@ created: 2021-05-18
 
 <br/>
 <br/>
-Just like a brain is an interconnected network of neurons, the Internet (or internet) is a global interconnected network of computers and devices that communicate with each other via the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) (TCP/IP). The communications infrastructure of the Internet consists of hardware components and a system of software layers that control various aspects of the architecture.
+Just like a brain is an interconnected network of neurons, the Internet (or internet) is a global interconnected network of computers and devices that communicate with each other via the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) "TCP/IP". The communications infrastructure of the Internet consists of hardware components and a system of software layers that control various aspects of the architecture.
 <br/>
 <br/>
 To create a new Internet from scratch, ThreeFold had to start at the operating system (OS) level. An operating system is a software that manages computer hardware, software resources, and provides common services for computer programs. And this is how Zero OS was born 
