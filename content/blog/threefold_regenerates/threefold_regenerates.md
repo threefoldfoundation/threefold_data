@@ -19,7 +19,7 @@ Recently, we released information on how our infrastructure saves up-to-90% on e
 From [a storage standpoint](https://wiki.threefold.io/#/threefold__energy_savings_storage), we reduce energy by avoiding copies, implementing a multi-layer system, not using fast disks, through read/write caching, and more. With [Digital Twin](https://wiki.threefold.io/#/threefold__energy_savings_digital_twin), we have taken a very different approach to how we exist in today’s digital world. Rather than existing 100 times in a huge system of client-server architecture, now we exist only once. We believe that we can run 25 Digital Twins with [the same energy](https://wiki.threefold.io/#/threefold__bulb_comparison_twin) as used by one light bulb.
 <br/>
 <br/>
-Saving energy is one thing, but there will still be remaining energy. This needs to be offset by carbon credits. Now, in order to regenerate our planet, we [work together with Take Action Global](https://wiki.threefold.io/#/threefold__carbon_negative) to let students farm carbon credits. This has the potential to offset energy usage 100% by the end of 2021, and we have as an aim to take 2x more carbon out of the air than we put in.
+Saving energy is one thing, but there will still be remaining energy. This needs to be offset by carbon credits. Now, in order to regenerate our planet, we [work together with Take Action Global](https://wiki.threefold.io/#/threefold__carbon_negative) to let students farm carbon credits. This has the potential to offset energy usage 100% by the end of 2021, and we have, as an aim to take 2x more carbon out of the air than we put in.
 <br/>
 <br/>
 Our planet needs better solutions across industries. No more talking. Now is the time to act.
