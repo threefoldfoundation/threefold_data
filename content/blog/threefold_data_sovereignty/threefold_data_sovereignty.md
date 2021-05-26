@@ -11,9 +11,6 @@ created: 2021-05-23
 
 
 ---
-
-<br/>
-<br/>
 If you’ve seen [The Social Dilemma](https://www.youtube.com/watch?v=uaaC57tcci0), you know all too well that today, people are being turned into products. Everything we do online – all of the data we upload and all of our digital activities – is tracked and oftentimes used against us. Targeted advertising is just the beginning.
 <br/>
 <br/>

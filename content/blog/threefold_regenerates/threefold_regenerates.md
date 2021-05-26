@@ -1,8 +1,8 @@
 ---
 id: threefold_regenerates
 title: ThreeFold’s planet positive plan
-tags: [threefold_grid,digital_twin,why,technology,farming]
-category: [farming,cloud,foundation,aci,twin]
+tags: [threefold_grid, digital_twin, why, technology, farming]
+category: [farming, cloud, foundation, aci, twin]
 image: ./threefold_regenerates.png
 image_caption: planet positive plan
 excerpt: ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet positive Internet.
@@ -10,9 +10,6 @@ authors: [sam_taggart]
 created: 2021-05-15
 
 ---
-
-<br/>
-<br/>
 There’s no question that climate change is one of the biggest, if not the biggest threats facing humanity today. If we care at all about future generations and the health of our planet, we have no choice but to address these threats, and fast. That’s why one of our biggest aims is to lower the energy usage of our digital lives. But ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet positive Internet.
 <br/>
 <br/>
