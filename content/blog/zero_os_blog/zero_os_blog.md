@@ -26,7 +26,7 @@ The only way to access data on Zero OS is via the private key (or fingerprint) o
 
 ## How does Zero OS apply to developers?
 
-Thanks to its lightweight architecture, Zero OS is a perfect fit to run microservices architectures and emerging IT workloads such as IoT, Blockchains, Big Data, and more. A key benefit of microservices architecture is the freedom it offers you to choose the best runtime for the task at hand. 
+Thanks to its lightweight architecture, Zero OS is a perfect fit to run microservice architectures and emerging IT workloads such as IoT, Blockchains, Big Data, and more. A key benefit of microservice architecture is the freedom it offers you to choose the best runtime for the task at hand. 
 <br/>
 <br/>
 Let’s take the example of decentralizing service-oriented developing teams. A common challenge there is that most of the time they don’t really understand the applications they are exposing. But no one knows the data infrastructure of the applications better than those who craft them. 

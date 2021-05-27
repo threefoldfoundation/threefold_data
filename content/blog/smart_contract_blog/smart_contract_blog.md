@@ -12,12 +12,10 @@ created: 2021-05-25
 
 
 ---
-## Story behind the Smart Contract
-
-ThreeFold was inspired by the blockchain burst when it was created in 2016. After doing a comprehensive scan of the technological space we realised that Blockchain holds the best technology to store (1) Smart Contracts and (2) Transactions in an immutable way. We created our own blockchain database: Rivine to host the Smart Contract layer before switching to the Parity Substrate of Polkadot and our Transactional blockchain to the Stellar Network.
+ThreeFold was inspired by the blockchain burst when it was created in 2016. After doing a comprehensive scan of the technological space we realized that Blockchain holds the best technology to store (1) Smart Contracts and (2) Transactions in an immutable way. We created our own blockchain database: Rivine to host the Smart Contract layer before switching to the Parity Substrate of Polkadot and our Transactional blockchain to the Stellar Network.
 <br/>
 <br/>
-While we use blockchain technology, ThreeFold is much more than just a blockchain as we apply many more revolutionary technologies. And we decided to use the Parity substrate as we don’t see the need to create something if there’s already great technologies out there that we can already use. Today we’re proud of our Smart Contract for IT layer and approach the ThreeFold Grid v3 release this year which will expose its full potential to interact with the primitives of the grid.
+While we use blockchain technology, ThreeFold is much more than just "a blockchain project" as we apply many more revolutionary technologies. We decided to use Parity Substrate as we don’t see the need to create something if there’s already great technologies out there that we can already use. Today we’re proud of our Smart Contract for IT layer and approach the ThreeFold Grid v3.0 release this year which will expose its full potential to interact with the primitives of the grid.
 
 ## So what is this Smart Contract for IT about?
 
@@ -33,7 +31,7 @@ Whenever you want to reserve more resources to store your latest album or run yo
 Following that, your 3Bot or Digital Twin will create and register the smart contract in the blockchain database in a few seconds, providing you with all your specific needs. It will also store and secure some instructions to the BCDB for the nodes to meet smart contract completion. 
 <br/>
 <br/>
-ThreeFold  had to make sure that user data would remain ultra-secure. Inspired by storage and communication algorithms used in space, we integrated it between the Smart Contract layer and Zero OS. The algorithm splits data into unrecognizable ‘slices’ that are distributed via network connections to different nodes locally or across the world, and that can be reconstructed only with your fingerprint. 
+ThreeFold had to make sure that user data would remain ultra-secure. Inspired by storage and communication algorithms used in space, we integrated it between the Smart Contract layer and Zero OS. The algorithm splits data into unrecognizable ‘slices’ that are distributed via network connections to different nodes locally or across the world, and that can be reconstructed only with your fingerprint. 
 
 ## More than the average Smart Contract
 
