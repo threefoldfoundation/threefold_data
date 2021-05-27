@@ -7,7 +7,7 @@ image: ./products_services_may_21_news.png
 image_caption: Products & Services Update
 excerpt: Get the lowdown on our v2.7.1 products & service updates.
 authors: [sam_taggart]
-created: 2020-11-17
+created: 2021-05-21
 ---
 
 

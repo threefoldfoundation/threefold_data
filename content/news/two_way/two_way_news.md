@@ -1,7 +1,7 @@
 ---
 id: two_way_news
 title: Join the ThreeFold Two-Way Chat
-tags: [update,community]
+tags: [update, community]
 image: ./threefoldtwowaynews.png
 category: [foundation,cloud,farming,marketplace,aci]
 image_caption: ThreeFold Two-Way

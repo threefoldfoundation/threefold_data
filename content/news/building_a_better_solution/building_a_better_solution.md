@@ -5,7 +5,7 @@ tags: [technology,why,threefold_grid]
 category: [farming,cloud,foundation,aci]
 image: ./better_solution_news.png
 image_caption: Building a Better Solution for Our Planet
-excerpt: Why our planet needs a better solution than just the band aid approach.
+excerpt: Our planet needs real solutions, not just a band aid approach.
 authors: [sam_taggart]
 created: 2021-04-23
 ---

@@ -3,9 +3,9 @@ id: threefold_goes_multichain
 title: ThreeFold Announces Plans to go Multichain
 tags: [threefold_token,blockchain,community]
 category: [farming,cloud,foundation]
-image: ./tft_multichain_news.jpeg
+image: ./tft_multichain_news.jpg
 image_caption: ThreeFold Announces Plans to go Multichain
-excerpt: ThreeFold is set to integrate BSC in the next couple of weeks
+excerpt: ThreeFold is set to integrate BSC in the next couple of weeks.
 authors: [sam_taggart]
 created: 2021-04-29
 ---
