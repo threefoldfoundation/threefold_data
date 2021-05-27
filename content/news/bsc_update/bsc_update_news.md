@@ -1,6 +1,6 @@
 ---
 id: bsc_update_news
-title: id: Update on the Binance Smart Chain Integration
+title: Update on the Binance Smart Chain Integration
 tags: [threefold_token,blockchain,community]
 category: [farming,cloud,foundation]
 image: ./bsc_update_news.png
