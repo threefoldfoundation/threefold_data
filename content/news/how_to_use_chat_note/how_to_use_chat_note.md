@@ -2,7 +2,7 @@
 id: how_to_use_chat_note
 title: ThreeFold Two-Way Chat Update
 tags: [community,update]
-category: []
+category: [foundation]
 image: ./how_to_use_chat_note_news.png
 image_caption: ThreeFold Two-Way Chat Update
 excerpt: We have updated our guidelines to using our two-way Telegram chat.

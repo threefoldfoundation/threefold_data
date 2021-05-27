@@ -2,7 +2,7 @@
 id: dispersed_storage_hello
 title: Say Hello to the Dispersed Storage
 tags: [technology,threefold_grid,threefold_cloud]
-category: []
+category: [farming,cloud,foundation,aci]
 image: ./dispersed_hello_news.png
 image_caption: Say Hello to the Dispersed Storage
 excerpt: Less redundancy and less wasted resources through dispersed storage on the ThreeFold Grid.

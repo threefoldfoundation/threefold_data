@@ -2,7 +2,7 @@
 id: products_services_may_21
 title: Products & Services Update 
 tags: [technology,threefold_grid,update]
-category: []
+category: [farming,cloud,foundation]
 image: ./products_services_may_21_news.png
 image_caption: Products & Services Update
 excerpt: Get the lowdown on our v2.7.1 products & service updates.

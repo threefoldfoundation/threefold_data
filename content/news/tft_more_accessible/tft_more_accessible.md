@@ -2,7 +2,7 @@
 id: tft_more_accessible_news
 title: TFT Becomes More Accessible Via BSC and BTC
 tags: [threefold_token,blockchain,community]
-category: []
+category: [farming,cloud,foundation]
 image: ./tft_more_accessible_news.png
 image_caption: TFT Becomes More Accessible Via BSC and BTC
 excerpt: TFT now accessible on Pancake Swap, and Bitcoin integration in ThreeFold Connect app.

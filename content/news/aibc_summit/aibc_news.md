@@ -2,7 +2,7 @@
 id: aibc_summit
 title: ThreeFold is Attending the AIBC Summit in Dubai
 tags: [community,event]
-category: []
+category: [farming,cloud,foundation]
 image: ./aibc_summit.jpeg
 image_caption: ThreeFold is Attending the AIBC Summit in Dubai
 excerpt: Kristof will speak at AIBC about ThreeFold, and you can pick his and our teammembers' brains at the booth.
