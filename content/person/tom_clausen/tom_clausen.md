@@ -1,9 +1,8 @@
 ---
 id: tom_clausen
 name: Tom Clausen
-rank: 4
-memberships: [partners]
-category: [foundation]
+rank: 1
+memberships: [project]
 bio: FIDES BUSINESS PARTNER, based in Zurich, is a private equity manager focused on special situations leveraging our extensive operational, entrepreneurial, restructuring and investment expertise.
 excerpt: Head of Business Development & Director at Flowgen technology
 linkedin: https://www.linkedin.com/in/tom-clausen-72b984/

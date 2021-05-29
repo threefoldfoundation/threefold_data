@@ -1,8 +1,8 @@
 ---
 id: global_reset
 title: ThreeFold participating @ Global Reset!
-tags: [event,community,update]
-category: [foundation,twin,aci]
+tags: [event]
+category: [farming]
 image: ./tfglobalreset.png
 image_caption: ThreeFold participating @ Global Reset!
 excerpt: ThreeFold is proud to be supporting and attending the Global Reset Summit taking place this weekend, December 5 & 6.

@@ -1,8 +1,8 @@
 ---
 id: escape_great_hack
 title: An escape from the Great Hack
-tags: [technology,why]
-category: [farming,cloud,twin,foundation,aci]
+tags: [tech]
+category: [farming, cloud]
 image: ./escape_great_hack.png
 image_caption: technology hackers
 excerpt: I can’t help but think how unfair it is that in today’s digital society, people are being treated like products, because there is no such thing as a ‘free’ platform without YOU being the product.
@@ -23,7 +23,7 @@ The Internet is growing at an exponential rate. To service this demand, a few la
 <br/>
 In addition to that, the Internet is extremely centralized, with most of these data centers being located in the US. Think of it like electricity. If consumers in, for example, Turkey had to use electricity generated in the US, it would be too expensive and inefficient, because it is too far away. The transmission lines would be too strained and losses and repairs would make it unsustainable. Capacity is like electricity. When centralized, it becomes too expensive and wasteful for remote users.
 
-## So what is the solution to these problems? 
+### So what is the solution to these problems? 
 
 The Internet needs to be more distributed, cost-effective, neutral, and sustainable. ThreeFold has developed such a new technology, the ThreeFold Grid (Grid) and a token which enables all this to happen.
 <br/>

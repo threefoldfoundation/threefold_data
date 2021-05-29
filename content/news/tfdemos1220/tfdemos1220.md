@@ -1,8 +1,8 @@
 ---
 id: tf_demos_much_watch
 title: ThreeFold Product Demos Are a Must Watch!
-tags: [threefold_grid,threefold_cloud,technology,update]
-category: [farming,cloud,foundation,twin]
+tags: [grid, demo, evdc]
+category: [farming]
 image: ./tfproductdemos.png
 image_caption: ThreeFold Product Demos Are a Must Watch!
 excerpt: Demos of the latest & greatest ThreeFold products & solutions – some of which are available today & some coming soon on testnet.

@@ -1,26 +1,25 @@
 ---
 id: generation_blue
-title: Generation Blue
+title: Tokenized Regeneration
+status: planned
+startdate: 2021-03-20
 countries: [Portugal]
 cities: []
-rank: 4
+rank: 2
 excerpt: Empower every global citizen to protect and regenerate nature.
-image: ./genblue.png
+created: 2020-04-20
+image: ./generation_blue.png
 image_caption: generation_blue
 logo: ./logo.png
-category: [twin, aci]
 members: [alan_laubsch]
 websites: https://generation.blue/
-tags: [experience, impact]
+tags: [digitaltwin]
 private: 0
+potential:
 linkedin: https://www.linkedin.com/company/genblue/
 ---
 
-<br/>
-
-![generation_blue](./generationblue2.png)
-
-<br/>
+# Generation Blue
 
 ## About
 
@@ -32,9 +31,10 @@ Earth positive means taking responsibility for our footprint and leaving the pla
 
 <BR>
 
+
 ## Mission
 
-Empower every global citizen to protect and regenerate nature.
+Empower every global citizen to protect and regenerate nature
 
 ## Impact
 
@@ -42,13 +42,13 @@ We protect biodiversity – focusing on the most threatened ecosystems such as t
 
 ## Powered by ThreeFold
 
-We are proud to partner with ThreeFold to securely host our decentralized mobile apps on the most sustainable architecture we've found on the planet.
+We are proud to partner with ThreeFold to securely host our decentralized mobile apps.
 
 ## Join saving our planet!
 
 Shifting just 1% of the world’s wealth to positive impact assets can reverse ecological damage and make humanity a force of regeneration and conservation of nature.
 
-<!-- ## Support this project
+## Support this project
 
 Generation Blue is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
@@ -57,5 +57,5 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
 ### Roadmap
 
 - Q1 2021
-    - Integrate on ThreeFold Grid, ThreeFold Connect -->
+    - Integrate on ThreeFold Grid, ThreeFold Connect
     
