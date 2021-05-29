@@ -1,29 +1,30 @@
 ---
 id: green_edge
 title: Green Edge
-status: public
-startdate: 2020-04-20
 countries: [South Africa, East Africa]
 cities: [Johannesburg, Cape Town, Nairobi]
-rank: 3
+rank: 2
 excerpt: Creating a decentralised internet that is inherently equal, sustainable, private and secure.
-created:
-image: ./green_edge.png
+image: ./greenedge.png
 image_caption: green_edge
 logo: ./logo.png
-members: [joe_foxton, mariza_wellesley_wesley, michael_wellesley_wesley]
+category: [foundation, cloud, farming, aci]
+members: [mariza_wellesley_wesley, michael_wellesley_wesley]
 websites: https://green-edge.net/
-tags: [grid, cloud, farming]
+tags: [technology, farming]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/green-edge-cloud/
 ---
 
-# Green Edge Sustainable Development
+<br/>
+
+![green_edge](./greenedge2.png)
+
+<br/>
 
 ## About
 
-*Green Edge Sustainable Development* is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
+Green Edge Sustainable Development is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
 
 <BR>
 
@@ -47,6 +48,7 @@ Green Edge Sustainable Development is the Environmental and Sustainability Impac
 
 Green Edge Sustainable Development’s overriding priority is to put the Planet First in everything we do. We want to bring the benefits of technology to the people in every area and every walk of life. But we must achieve this in the most energy efficient and secure manner possible and in a way that protects each person’s sovereign identity and their data from abuse and theft.
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
+ -->

@@ -19,63 +19,51 @@ This projects represents a one source of truth for threefold data
 `gridsome explore --host 0.0.0.0 --port 8080`
 
 
-## Data direction into your project
+## Pull data into your project
 
-To direct respective content (blog/news/people/projects) to your project please open: 
+To pull respective content (blog/news/people/projects) to your project open: 
 `content/../../.md file`
 
-then look for:
+look for variable:
 
-- blog
+- `category: [ ]`
 
-category: [ ]
+and provide (currently active) website's name:
+- `twin`
+- `cloud`
+- `farming`
+- `tech`
+- `foundation`
+- `marketplace`
+- `aci`
+- `mazraa`
 
-- news
+We use tags to filter projects/blog/news and memberships to filter people:
 
-category: [ ]
+memberships for people:
+- `cofounders`
+- `tech`
+- `foundation`
+- `ambassadors`
+- `matchmakers`
+- `farmers`
+- `aci_members`
+- `partners`
+- `wisdom_council`
+- `technology_council`
+- `grid_guardians`
 
-- people:
+tags for projects:
+- `blockchain`
+- `experience`
+- `technology`
+- `farming`
+- `community`
+- `infrastructure`
+- `impact`
 
-memberships: [ ]
-
-- project:
-
-tags: [ ]
-
-and provide your project's name (e.g. digitaltwin, cloud, tech, foundation etc.) in respective veriable.
-Projects: 
-- digitaltwin
-- cloud
-- farming
-- tech
-- foundation
-- fairswap
-
-Exapmle:
-
-- "An escape from the Great Hack" blog post
-
-category: [farming, cloud]
-
-will show on farming.threefold.io and cloud.threefold.io websites
-
-- "Take a look at the Artheon VR Museum!" news post
-
-category: [digitaltwin, cloud]
-
-will show on cloud.threefold.io and twin.threefold.io websites
-
-- Kristof de Spiegeleer
-
-memberships: [ambassador, farmer, foundation, tech, cofounders, fairswap]
-
-will show on farming.threefold.io, cloud.threefold.io, fair-swap.org, twin.threefold.io, threefold.io websites
-
-- AIQOM project
-
-tags: [digitaltwin, grid, cloud]
-
-will show on cloud.threefold.io and twin.threefold.io websites
-
+tags for blog and news:
+- can vary quite a lot depending on respective article or post
+- please get in touch with sam or sacha if you are adding a blog or news post yourself
 
 

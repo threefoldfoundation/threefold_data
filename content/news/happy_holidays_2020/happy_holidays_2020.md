@@ -1,8 +1,8 @@
 ---
 id: happy_holidays_2020
 title: Happy Holidays!
-tags: []
-category: [community]
+tags: [community]
+category: [farming,cloud,twin,aci,foundation]
 image: ./happyholidays2020.png
 image_caption: Happy Holidays!
 excerpt: Let’s take a moment to acknowledge what a year it’s been for all of us around the world.

@@ -1,30 +1,30 @@
 ---
 id: shareitt
-title: Community Platform
-status: planned
-startdate: 2021-03-20
+title: Shareitt
 countries: [Global]
-cities: []
+cities: [Global]
 rank: 3
 excerpt: Empowering communities socially, financially, and environmentally.
-created: 2020-04-20
 image: ./shareitt.png
 image_caption: shareitt
 logo: ./logo.png
-members: [arie_ben_david]
+category: [twin, aci, foundation]
+members: [arie_ben_david, roel_wofert, mickey_malul]
 websites: https://www.shareitt.com
-tags: [digitaltwin]
+tags: [community, experience]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/shareitt/
 ---
 
+<br/>
 
-# Shareitt
+![shareitt](./shareitt2.jpg)
+
+<br/>
 
 ## About
 
-Shareitt aims to do good while doing well. We believe that changing the economic system and moving towards a sustainable business, cities, and communities is essential to create a healthy environment. Shareitt is an impact technology startup to empower communities socially, financially, and environmentally. Our unique technology redefines collaborative economies and mutual support and provides the tools to “Community Assets Based UBI” by nurturing long term capacities. All of Shareitt employees, management, and shareholders support the social impact, purpose, and objectives of the company.
+[Shareitt](https://www.shareitt.com) aims to do good while doing well. We believe that changing the economic system and moving towards a sustainable business, cities, and communities is essential to create a healthy environment. Shareitt is an impact technology startup to empower communities socially, financially, and environmentally. Our unique technology redefines collaborative economies and mutual support and provides the tools to “Community Assets Based UBI” by nurturing long term capacities. All of Shareitt employees, management, and shareholders support the social impact, purpose, and objectives of the company.
 
 ## Mission
 
@@ -42,17 +42,19 @@ Threefold provides a unique decentralized, uncontrolled Internet solution that w
 
 A community of several hundred active women using our platform for 12 months resulted in: over 40,000 items reused within the community with zero footprint, a value of $360,000 exchanged and saved by the participants, hundreds of new friendships formed.
 
-## Support this project
+
+<!-- ## Support this project
 
 Shareitt is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
-Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Shareitt, and the growth of a new Conscious Internet.
+Each project on the TDE benefits from TFT fund allocations. You can buy TFT's and support Shareitt, and the growth of a new Conscious Internet. -->
 
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
 ### Roadmap
 
 - Q1 2021
   - Integrate on ThreeFold Grid, 3Bot and TF Wallet
 
+ -->
