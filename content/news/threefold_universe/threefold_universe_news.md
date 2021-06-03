@@ -3,7 +3,7 @@ id: threefold_universe_news
 title: Dive Into the ThreeFold Universe
 tags: [update,community]
 image: ./threefolduniversenews.png
-category: [farming,foundation,aci,cloud,marketplace]
+category: [farming,foundation,aci,cloud,marketplace,twin]
 image_caption: ThreeFold Universe
 excerpt: Dive into threefold.io and explore the expanding ThreeFold universe!
 authors: [sam_taggart]
