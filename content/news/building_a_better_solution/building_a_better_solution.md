@@ -2,7 +2,7 @@
 id: building_a_better_solution
 title: Building a Better Solution for Our Planet
 tags: [technology,why,threefold_grid]
-category: [farming,cloud,foundation,aci]
+category: [farming,cloud,foundation,aci,twin]
 image: ./better_solution_news.png
 image_caption: Building a Better Solution for Our Planet
 excerpt: Our planet needs real solutions, not just a band aid approach.
