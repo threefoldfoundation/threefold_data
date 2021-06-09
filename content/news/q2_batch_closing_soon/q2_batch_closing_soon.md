@@ -3,7 +3,7 @@ id: q2_batch_closing_soon
 title: 3Node Pre-Register Q2 Batch Closing Soon
 tags: [farming, grid]
 image: ./q2_batch_closing_soon.png
-category: [foundation,farming]
+category: [foundation,farming,cloud]
 image_caption: 3Node Pre-Register Q2 Batch Closing Soon
 excerpt: Pre-register before the 30th of June if you want to be included in the batch.
 authors: [roel_van_sabben]
