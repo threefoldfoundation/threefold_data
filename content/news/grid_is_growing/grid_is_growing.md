@@ -1,6 +1,6 @@
 ---
 id: grid_is_growing
-title: New Nodes In New Part Of The World
+title: New Nodes In New Parts Of The World
 tags: [grid]
 category: [foundation,farming,cloud]
 image: ./grid_is_growing.jpg
