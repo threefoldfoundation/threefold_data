@@ -5,7 +5,7 @@ tags: [threefold_grid, farming]
 category: [farming, cloud, foundation, aci, twin]
 image: ./join_the_peoples_internet.png
 image_caption: join the people's internet
-excerpt: ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet positive Internet.
+excerpt: An entirely new Internet economy that is owned by all of us. Add capacity, earn income!
 authors: [weynand_kuijpers]
 created: 2021-06-09
 ---
@@ -46,7 +46,7 @@ To "become the Internet" is fairly simple (but does take some technical knowledg
 <br/>
 <br/>
 
-If you are still here and reading, we're good to go! I go through the whole process in a 3-minute video which will give you a quick overview of how to set up your farm.
+If you are still here and reading, we're good to go! I go through the whole process in a 3-minute video which will give you a quick overview of how to set up your farm. (Click through to the video on YouTube and find helpful links in the description.)
 <br/>
 <br/>
 
@@ -54,12 +54,12 @@ If you are still here and reading, we're good to go! I go through the whole proc
 <br/>
 <br/>
 
-Prefer a different format? We also have forum topics live about [the pre-requirements](forum.threefold.io/t/requirements-to-set-up-your-own-3node/831) and [how to set up your 3Node](forum.threefold.io/t/how-to-set-up-your-own-3node/833) (the steps I share in the video).
+Prefer a different format? We also have forum topics live about [the pre-requirements](https://forum.threefold.io/t/requirements-to-set-up-your-own-3node/831) and [how to set up your 3Node](https://forum.threefold.io/t/how-to-set-up-your-own-3node/833) (the steps I share in the video).
 <br/>
 <br/>
 
-Thank you, thank you, thank you for reading this post and we hope to have you as part of our growing, global farming community. If you have any questions, please head to [our forum](forum.threefold.io/c/farming/diy-farming/) or feel free to join us on [our ThreeFold Farmer chat](t.me/threefoldfarmers) on Telegram.
+Thank you, thank you, thank you for reading this post and we hope to have you as part of our growing, global farming community. If you have any questions, please head to [our forum](https://forum.threefold.io/c/farming/diy-farming/) or feel free to join us on [our ThreeFold Farmer chat](https://t.me/threefoldfarmers) on Telegram.
 <br/>
 <br/>
 
-Photo by [Nicholas Green](unsplash.com/@nickxshotz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
+Photo by [Nicholas Green](https://unsplash/@nickxshotz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
