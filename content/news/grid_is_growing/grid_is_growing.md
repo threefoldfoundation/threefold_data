@@ -3,8 +3,8 @@ id: grid_is_growing
 title: New Nodes In New Parts Of The World
 tags: [grid]
 category: [foundation,farming,cloud]
-image: ./grid_is_growing.jpg
-image_caption: 3bot connect renamed
+image: ./grid_is_growing.png
+image_caption: The grid is growing
 excerpt: The ThreeFold Grid is growing steadily.
 authors: [sam_taggart]
 created: 2020-05-28
