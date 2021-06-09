@@ -1,6 +1,6 @@
 ---
 id: q2_batch_sold_out
-title: The Q2 3Node Batch is Sold Out!
+title: Q2 3Node Batch is Sold Out! Q3 Pre-registration is Live!
 tags: [grid,farming]
 category: [foundation,farming,cloud]
 image: ./q2_batch_sold_out.png
