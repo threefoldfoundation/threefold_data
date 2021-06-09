@@ -7,7 +7,7 @@ image: ./q2_batch_sold_out.png
 image_caption: Q2 Batch Sold Out
 excerpt: After Tactical Investing covered our project, the Q2 Titan V2 3Node batch is offically sold out!
 authors: [roel_van_sabben]
-created: 2020-06-04
+created: 2021-06-04
 ---
 
 😮 Wow!😮
