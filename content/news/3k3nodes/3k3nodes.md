@@ -7,7 +7,7 @@ image: ./3k3nodes.png
 image_caption: 3,000 3Node Pre-Registrations
 excerpt: We have received a huge influx in pre-registrations for the Titan V2 3Node. Thank you!
 authors: [sam_taggart]
-created: 2020-06-08
+created: 2021-06-08
 ---
 
 Over the past days we have received **more than 3,000 pre-registrations** for the Titan V2 3Node!
