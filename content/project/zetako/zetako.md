@@ -3,7 +3,7 @@ id: zetako
 title: Zetako
 countries: [Luxembourg, France, Portugal]
 cities: [Luxembourg, St. Florent, Lisbon]
-rank: 4
+rank: 2
 excerpt: Lossless data compression – reducing energy usage & CO2 emission of the transmission and storage of data.
 image: ./zetako.png
 image_caption: zetako
