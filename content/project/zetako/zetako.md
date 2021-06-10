@@ -8,7 +8,7 @@ excerpt: Lossless data compression – reducing energy usage & CO2 emission of t
 image: ./zetako.png
 image_caption: zetako
 logo: ./logo.png
-category: [cloud, aci]
+category: [cloud, aci, foundation]
 members: [claus_rosenberg_gotthard]
 websites: https://zetako.ai
 tags: [technology]
@@ -51,7 +51,7 @@ By reducing the size of data files - whether when transported or stored - we red
 
 ## Powered by ThreeFold  
 
-We would like to be embedded into the backbone of ThreeFold - to be the de facto lossless data compression algorithm being used - benefitting all stakeholders. In combination with ThreeFold's already-efficient infrastructure, we will provide State-of-the-Art lossless compression made for the 21st century, culminating it less use of resources for the benefit of all.
+We will be embedded into the backbone of ThreeFold - the de facto lossless data compression algorithm being used - benefitting all stakeholders. In combination with ThreeFold's already-efficient infrastructure, we will provide State-of-the-Art lossless compression made for the 21st century, culminating it less use of resources for the benefit of all.
 
 ## Join saving our planet!
 
