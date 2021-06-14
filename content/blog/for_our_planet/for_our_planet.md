@@ -15,9 +15,8 @@ Today, the global Internet and IT infrastructure requires enormous amounts of en
 <br/>
 <br/>
 We believe IT can be sustainable. Actually, it should be! That's why energy efficiency has always been a key focus of ours. With climate change and sustainability as some of the most pressing issues of our times, new green solutions need to be our priority. It has been key to ThreeFold since the very beginning of its story to enable a technological infrastructure that can reduce the Internet’s carbon footprint drastically. 
-<br/>
-<br/>
-### Simplicity is the key to unlock a better future
+
+## Simplicity is the key to unlock a better future
 
 Over time, integration suites, middleware solutions, and enterprise service busses have been invented and implemented to cover integration challenges within the current internet. This has further complicated IT architectures, resulting in a loss of actual end user workload performance.
 <br/>
@@ -31,7 +30,7 @@ Keeping systems up and running is a major requirement in modern day IT. Leading 
 <br/>
 Creating a self-healing environment requires only minimal manual intervention to replace broken hardware components. Broken hardware components are inevitable, and the Zero-OS distributed node architecture deals with such failures by turning off broken components and provisioning unused capacity. By removing the need to ship broken parts back and forth, and linking to the corresponding installation knowledge (engineers), a lower carbon footprint can be achieved.
 
-### “No painkiller” approach. We tackle the root issue
+## “No painkiller” approach. We tackle the root issue
 
 If a specific piece of software or hardware is not delivering the required performance or reliability, we should analyze the core design/algorithm and its usage of soft/hard components to determine the root causes of persistent issues to be solved.
 <br/>
@@ -48,10 +47,9 @@ Virtualization adds a layer of software between the actual end-user workload and
 ## Minimizing network connections usage
 
 Supercomputing delivered many new technologies. But, not all of them are usable solutions for everyday workloads. One technology invented to make supercomputers performant is the use of Remote Direct Memory Access (RDMA). RDMA allowed physical CPU boards (containing both CPUs and memory) to access other CPU boards in memory stored data over a dedicated channel. This eliminated the need to transport data between CPU nodes over network connections (or other mainstream means to exchange data). The result was a considerable reduction in overhead created when allowing distributed end user workloads to operate over multiple physical cores. The leading server and storage solutions brands have never considered nor implemented such mechanisms. This resulted in an increased need for faster networks - increasing complexity, costs, efforts and resources needed to operate solutions.
-
+<br/>
+<br/>
 RDMA is only used in certified farms and requires involvement of TFTech.
-<br/>
-<br/>
 
 ## Minimizing disk usage 
 

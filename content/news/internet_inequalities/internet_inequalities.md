@@ -2,7 +2,7 @@
 id: internet_inequalities
 title: We're Tackling Internet Inequalities
 tags: [partner,why,update]
-category: [farming,foundation]
+category: [farming,foundation,twin]
 image: ./internet_inequalities.png
 image_caption: internet inequalities
 excerpt: Let's break down Internet inequalities, together. Find out how ThreeFold is already collaborating to make this a reality!
