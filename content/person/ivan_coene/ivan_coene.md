@@ -4,8 +4,8 @@ name: Ivan Coene
 rank: 3
 memberships: [tech]
 category: [foundation, twin]
-bio: Front-end developer at Jimber
-excerpt: Front-end developer fell in love with Threefold  
+bio: Front-end developer at Jimber.
+excerpt: Front-end developer at Jimber.
 linkedin: https://www.linkedin.com/in/ivancoene/
 websites: https://www.jimber.org/, https://threefold.tech/
 projects: [jimber, threefold_tech]

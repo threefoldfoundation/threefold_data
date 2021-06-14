@@ -4,8 +4,8 @@ name: Samir Hosny
 rank: 3
 memberships: [tech]
 category: [foundation]
-bio: Samir is a person who has a passion for learning new technologies all the time, I got my Bachelor degree in Computer Science and then started working in the field of cloud computing since 5 years. I think that Threefold step in a place where no one go there before, touching the limits of technology and how it can help with the daily life actions of people.
-excerpt: Samir is a person who has a passion for learning new technologies all the time.
+bio: My biggest passion is learning about new technologies. I got my Bachelor's degree in Computer Science and then started working in a field of cloud computing for last 5 years. I think that ThreeFold is stepping in a place where no one has gone before, stretching the limitations of technology and how it can help people in their daily life actions.
+excerpt: My biggest passion is learning about new technologies.
 linkedin: https://www.linkedin.com/in/samir-hosny-58b81394/
 websites: https://threefold.tech
 image: ./samir_hosny.jpg

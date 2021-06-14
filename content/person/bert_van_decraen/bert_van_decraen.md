@@ -1,7 +1,7 @@
 ---
 id: bert_van_decraen
 name: Bert Van Decraen
-rank: 4
+rank: 2
 memberships: [aci_members, partners]
 category: [aci]
 bio: I strongly believe that if we dare to look fundamentally different at most things, we can find a better and more sustainable alternative to most of the challenges in our path. Alternatives that contribute to our society and ourselves. By the time my daughter and the younger generation can choose where and how they will live, what they want to do in life that they have a different system than they do today and can live in and with a healthy environment. Crystal home is just a first step towards humanising our industries and by doing so have a positive impact on the place we all love; Our Planet.

@@ -4,8 +4,8 @@ name: Waleed Hammam
 rank: 3
 memberships: [tech]
 category: [foundation]
-bio: Threefold is the gate for our digital freedom that was never existed before, It gave me the chance to learn special technologies and has great people working there.
-excerpt: Waleed is a Software Engineer with great passion in Computer Science and new technologies.
+bio: Threefold is the gate for our digital freedom that has never existed before. Work at ThreeFold has given me a chance to learn specific exciting new technologies and has given me opportunity to work with great people.
+excerpt: Waleed is a Software Engineer with great passion for Computer Science and new technologies.
 linkedin: https://www.linkedin.com/in/waleedhammam/
 websites: https://threefold.tech
 image: ./waleed_hammam.jpg

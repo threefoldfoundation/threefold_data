@@ -1,11 +1,11 @@
 ---
 id: hamdy_farag
 name: Hamdy Farag
-rank: 2
+rank: 3
 memberships: [tech]
 category: [foundation]
-bio: Somone who is searching for some truths inside and outside. Engineer fell in love with Threefold Threefold is building a new market around capacity which addresses some of the global issues like user security and prices, and allows for other submarkets to emerge as well.On a personal level Threefold is the best places I've ever worked for and that helped me to grow personally and meet amazing people, so it's a kind of place that changes your personality so you can do more changes to the world! 
-excerpt: Somone who is searching for some truths inside and outside.
+bio: I am somone who is searching for truths inside and out. Engineer that fell in love with Threefold. Threefold is building a new market around capacity which addresses some of the most pressing global issues like user security and costs allowing also for other submarkets to emerge. On a personal level Threefold is the best place I've ever worked for. It helped me to grow personally and meet amazing people. It is an organization that changes you on personal level so that you can do more on a global level.
+excerpt: Somone who is searching for truths inside and out.
 linkedin: https://www.linkedin.com/in/hamdy/
 websites: https://threefold.tech
 projects: [threefold_tech]

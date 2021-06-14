@@ -1,7 +1,7 @@
 ---
 id: nayer_sobhy
 name: Nayer Sobhy
-rank: 2
+rank: 3
 memberships: [tech]
 category: [foundation]
 bio: Nayer is a passionate about people’s development, and that we can be the change we want to see. After his B.Sc. in Business Management from Cairo University in Egypt, he got a postgraduate degree in Human resources management from The American University in Cairo, Egypt. Currently he is part of ThreeFold's family, managing cairo's office since June 2014. Project Coordinator fell in love with Threefold ThreeFold is about believing in people, empowering people and most importantly helping the planet by going green.

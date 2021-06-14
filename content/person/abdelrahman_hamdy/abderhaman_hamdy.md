@@ -1,7 +1,7 @@
 ---
 id: abderhaman_hamdy
 name: Abdelrahman Hamdy
-rank: 3
+rank: 5
 memberships: [tech]
 category: [foundation]
 bio: A software engineer, mainly working on Jumpscale platform and Kosmos.
