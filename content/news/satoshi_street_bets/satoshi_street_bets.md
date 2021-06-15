@@ -1,9 +1,9 @@
 ---
 id: satoshi_street_bets
 title: Satoshi Street Bets x ThreeFold AMA
-tags: [community,interview,technology]
-category: [farming,cloud,foundation]
-image: ./satoshi_street_bets.jpg
+tags: [community, interview, technology]
+category: [farming, cloud, foundation]
+image: ./satoshi_street_bets.jpeg
 image_caption: Satoshi Street Bets x ThreeFold AMA
 excerpt: Some of the team joined Satoshi Street Bets for an Ask Me Anything with their community. Listen to the recording!
 authors: [sam_taggart]

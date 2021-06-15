@@ -34,15 +34,21 @@ In the short term, Zetako and ThreeFold will work on a project basis to fulfill 
 ## About Zetako
 
 Zetako is dedicated to reducing energy usage & CO2 emission for the transmission & storage of data by applying a new more efficient lossless data compression technology.
-
+<br/>
+<br/>
 We have developed a new mathematical theory based on Statistical Predictive modeling and applied this to a new lossless data compression technology. The result is a technology that provides higher Compression at higher Speed and uses >70% less energy in the process. In addition to this, the technology is capable of doing bit-by-bit compression allowing for real time bandwidth reduction. The technology does not need a prior knowledge of the dataset to start compression. This means that our technology does not require the data stream to be chopped up into chunks – we apply compression the moment the first bit (1 or 0) comes in.
+<br/>
+<br/>
 
 You can learn more about Zetako at [zetako.ai](https://www.zetako.ai/).
 
 ## About ThreeFold
 
 Powered by open source technology, ThreeFold is the engine for a data-sovereign and planet-positive peer-to-peer infrastructure – owned by humanity. ThreeFold is the People's Internet.
-
+<br/>
+<br/>
 ThreeFold is formed by individuals and organizations from all around the world that connect 3Nodes (computers) and provide Internet capacity to the ThreeFold Grid. Together, we expand a data-sovereign and planet-positive Internet infrastructure, owned by the people.
+<br/>
+<br/>
 
 Anyone can get involved in the People's Internet by buying the ThreeFold Token, getting a 3Node, testing the technology, or becoming a contributor or a partner. Visit [threefold.io](https://threefold.io) or follow along on [Telegram](https://t.me/threefoldnews) or [Twitter](https://twitter.com/threefold_io).

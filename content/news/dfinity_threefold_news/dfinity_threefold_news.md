@@ -5,7 +5,7 @@ tags: [news,update,technology]
 category: [farming,cloud,foundation,aci]
 image: ./dfinity_threefold_news.png
 image_caption: See How ThreeFold Compares to Dfinity
-excerpt: TGDaily: Dfinity, ThreeFold are Leading an Internet Decentralization Revolution
+excerpt: TGDaily - Dfinity, ThreeFold are Leading an Internet Decentralization Revolution
 authors: [sam_taggart]
 created: 2021-06-11
 ---
@@ -17,4 +17,4 @@ The Internet revolution is upon us. Kudos to Dfinity for their Internet Computer
 <br/>
 <br/>
 
-**Full article [here]**(https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/)
+**Full article [here](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/)**
