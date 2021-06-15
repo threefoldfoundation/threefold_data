@@ -4,7 +4,7 @@ title: Pre-Order Your Titan v2.1 Now!
 tags: [farming,threefold_grid]
 category: [farming,cloud,foundation,aci]
 image: ./titan_v21_preorder_now.png
-image_caption: ThreeFold is Attending the AIBC Summit in Dubai
+image_caption: Pre-Order Your Titan v2.1 Now
 excerpt: Pre-orders for the Titan v2.1 are now open for the general public!
 authors: [sam_taggart]
 created: 2021-06-11
