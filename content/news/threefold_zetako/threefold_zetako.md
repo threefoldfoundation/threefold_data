@@ -2,7 +2,7 @@
 id: threefold_zetako
 title: Zetako and ThreeFold Join Forces
 tags: [partner,technology,update]
-image: ./
+image: ./threefold_zetako.png
 category: [farming,cloud,foundation,aci]
 image_caption: ThreeFold and Zetako
 excerpt: Zetako and ThreeFold join forces to enable hyper-efficient data transport and storage for people and for our planet
