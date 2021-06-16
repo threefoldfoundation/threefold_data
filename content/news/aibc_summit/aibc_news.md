@@ -1,7 +1,7 @@
 ---
 id: aibc_summit
 title: ThreeFold is Attending the AIBC Summit in Dubai
-tags: [community,event]
+tags: [community,event,blockchain]
 category: [farming,cloud,foundation]
 image: ./aibc_news.jpeg
 image_caption: ThreeFold is Attending the AIBC Summit in Dubai
