@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/company/nebulai-digital-solutions/
 
 <br/>
 
-![nebulai_solutions](./nebulai_header.png)
+![nebulai_header](./nebulai_header.png)
 
 <br/>
 
