@@ -28,6 +28,7 @@ linkedin: https://www.linkedin.com/company/ootopia/
 
 Ootopia offers people the most exciting and easy way to engage on the planet regeneration and feel part of the solution.
 <br/>
+<br/>
 
 Ootopia app combines super inspiring social media and microlearning in an exciting game where users are rewarded for their engagement with the impact token OOz.
 
@@ -42,18 +43,24 @@ Ootopia app combines super inspiring social media and microlearning in an exciti
 
 Who wants to be part of the problem, when they can be part of the solution. Our mission is to allow everyone to participate in building a better world.
 
+<br/>
+
 ![mission](./mission.png)
 
+<br/>
 
 ## Impact
 
 We are heading towards a total global collapse whose consequences will undoubtedly crash the environment, the economy, and the social structures threatening our own speaces.
 <br/>
+<br/>
 
 Effective actions is not being taken bu global leaders, politicians or corporations.
 <br/>
+<br/>
 
 For this reason, more and more people are afraid and eagerly looking for possible and accessible solutions at individual level.
+<br/>
 <br/>
 
 Ootopia is one of these solutions.

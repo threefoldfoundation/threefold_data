@@ -2,13 +2,13 @@
 id: nebulai
 title: Nebulai
 countries: [Global]
-cities: [Global]
+cities: []
 rank: 4
 excerpt: A Digital Transformation Federator and Global Solutions Marketplace.
 image: ./nebulai.png
 image_caption: nebulai
-logo: ./logo.png
-category: [foundation, cloud]
+logo: ./logo.jpeg
+category: [foundation]
 members: []
 websites: https://nebulai.com
 tags: [experience]
@@ -27,8 +27,10 @@ linkedin: https://www.linkedin.com/company/nebulai-digital-solutions/
 
 Nebulai is the digital transformation solutions federator and global marketplace that addresses client’s business challenges with innovative digitally transforming solutions. In simple terms, we are the general contractors of digital transformation.
 <br/>
+<br/>
 
 Nebulai brings best-of-breed solution partners across emerging technologies in order to provide technology-agnostic solutions. Our primary focus is to help our customers digitize their organizations and bridge the digital divide.
+<br/>
 <br/>
 
 Nebulai is built on the idea of promoting integral relationships among its members and customers through trust or technology. We recognize our members for their work and contributions and help them monetize their contributions. We believe in the [Kaizen](https://www.investopedia.com/terms/k/kaizen.asp) continuous improvement methodology: by successive iterations, we approach perfection. We promote Ikigai or “the reason for being” which is how we foster work that our members are good at and which they love, and this makes connecting members to paying customers our [Ikigai](https://positivepsychology.com/ikigai/).
@@ -48,7 +50,3 @@ We are a technology for good company. Our objective at Nebulai is to create fair
 <br/>
 
 ## Powered by ThreeFold
-
-
-
-
