@@ -5,7 +5,7 @@ countries: [The Netherlands]
 cities: [Amsterdam]
 rank: 2
 excerpt: Quality coffee made easy.
-image: ./
+image: ./spinn.png
 image_caption: spinn
 logo: ./logo.png
 category: [foundation]
@@ -18,27 +18,53 @@ linkedin: https://www.linkedin.com/company/spinncoffee/
 
 <br/>
 
-![](./)
+![spinn](./spinn_coffee_platform.png)
 
 <br/>
 
 ## About
 
-[Shareitt](https://www.shareitt.com) aims to do good while doing well. We believe that changing the economic system and moving towards a sustainable business, cities, and communities is essential to create a healthy environment. Shareitt is an impact technology startup to empower communities socially, financially, and environmentally. Our unique technology redefines collaborative economies and mutual support and provides the tools to “Community Assets Based UBI” by nurturing long term capacities. All of Shareitt employees, management, and shareholders support the social impact, purpose, and objectives of the company.
+Spinn is the World’s 1st Zero-Waste Coffee-as-a-Service Platform.
+We created Spinn Coffee with the belief that high quality coffee need not sacrifice convenience; and that convenience need not be bad for you, your taste buds, or the planet. We were driven by a passion to create high-quality, bean-brewed coffee, crafted smartly with customizable convenience. All at the touch of a button – whether the consumer uses the sleek interface of the Spinn brewing system, or from wherever they are through the Spinn app.
+
 
 ## Mission
 
-Enhance world prosperity to create a better world, where doing good becomes easy and rewarding.
+Our mission is to reimagine coffee for the connected age, and the discerning coffee lover.
+
+<BR>
+
+<iframe width="800" height="450" src="https://www.youtube.com/watch?v=brmS9_dCBz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<BR>
+
 
 ## Impact
 
-Facilitate and Empower communities socially, financially, and environmentally using a unique technology solution. With our tools, people, and organizations all over the world can create collaborative economies and develop thriving vibrant communities. Among the company goals for 2025 is Recycling more than 250 million items and creating an additional average save of 200 euros per month per user - in over 2500 communities using Shareitt.
+Coffee farmers and roasters around the world - those that follow centuries of coffee tradition and have dedicated their lives to coffee - are getting increasingly frustrated with the industry that is not rewarding their craftsmanshift to deliver and create the coffee experience for the consumer. The coffee industry has developed monopolies in which the largest portion of rewards are reserved for coffee wholesalers and retailers, not the craftsman that grow and roast the coffee beans.
+<br/>
 
+The coffeetrade is a massive **$362bn** worldwide market and there is a growing consciousness of taking action against unfair and old fashioned business models.
+
+<br/>
+
+![spinn](./coffe_lifecycle.png)
+
+<br/>
+
+ 
 ## Powered by ThreeFold
 
-Threefold provides a unique decentralized, uncontrolled Internet solution that will enable collaborative communities to exchange resources directly with one another without any controlling 3rd party. Communities all over the world with or without a stable internet connection will be able to operate a sustainable community that will serve their values and purposes.
+Spinn and ThreeFold are combining patents and technologies to turn the coffee industry up-side-down by introducing a new ecosystem of technology and (token) economics for the ground to cup journey of the coffee bean and creating a fair and level playing field for all parties involved.
+<br/>
+
+To advance to a full sustainable cycle - growing to roasting, brewing to tasting, Spinn is partnering with ThreeFold where 
+- Spinn will improve the patented coffee maker and connect it to the ThreeFold grid where is will collect, create, store and exchange information and tokens to normalise the economics from ground to cup. 
+- ThreeFold will design and create the coffeetoken and it's digital marketplace plus make the coffee brewer an integral part of peoples contribution to a fair coffee industry and a more conscious and sustainable digital life.
 
 ## Join saving our planet!
 
-A community of several hundred active women using our platform for 12 months resulted in: over 40,000 items reused within the community with zero footprint, a value of $360,000 exchanged and saved by the participants, hundreds of new friendships formed.
+Join us in creation of fair and equal Full Coffee life-cycle enjoying top-tier premium coffee while at it.
+
+
 

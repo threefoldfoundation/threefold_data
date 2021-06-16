@@ -16,13 +16,12 @@ private: 0
 linkedin: https://www.linkedin.com/company/utribeone/
 ---
 
-<br/>
+<BR>
 
-!!!youtube id:watch?v=1s0-ab7Daq8&t=5s
+<iframe width="800" height="450" src="https://www.youtube.com/watch?v=1s0-ab7Daq8&t=2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![ubuntu_platform](./ubuntu_tribe.png)
+<BR>
 
-<br/>
 
 ## About
 
@@ -52,6 +51,12 @@ Ubuntu mission is very much in line with ThreeFold's - moving from an Ego-system
 ## Impact
 
 Ubuntu Tribe's ultimate aim is wealth distribution and financial empowerment across the globe.
+
+<br/>
+
+![ubuntu_platform](./ubuntu_platform.png)
+
+<br/>
 
 ## Powered by ThreeFold
 
