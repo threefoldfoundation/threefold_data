@@ -8,7 +8,7 @@ bio: Olivia is a Co-Founder of the THREEFOLD LOVE initiative, with a mission of 
 excerpt: Olivia is a Co-Founder of the THREEFOLD LOVE initiative.
 linkedin: https://www.linkedin.com/in/oliviajurado/
 websites:
-projects: [threefold_love]
+projects: []
 image: ./olivia_jurado.jpg
 countries: [UAE]
 cities: [Dubai]

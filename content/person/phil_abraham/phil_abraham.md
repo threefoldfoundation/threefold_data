@@ -8,7 +8,7 @@ bio: Phil is a true visionary working to create great products for big problems!
 excerpt: Phil is a true visionary working to create great products for big problems!
 linkedin: https://www.linkedin.com/in/philip-abraham-b2aa86/
 websites: https://dragonchain.com/
-image: ./phil_abraham.jpeg
+image: ./phil_abraham.png
 projects: [dragonchain]
 countries: [USA]
 cities: [Northville]

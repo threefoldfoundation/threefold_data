@@ -8,7 +8,7 @@ bio: Ali is the CEO of Safe City Group in Abu Dhabi, United Arab Emirates. 20 ye
 excerpt: Chief Executive Officer - Safe City Group
 linkedin: https://www.linkedin.com/in/eng-ali-omari-4703186b/
 websites: 
-image: ./ali_omari.jpg
+image: ./ali_omari.png
 projects: []
 countries: [UAE]
 cities: [Abu Dhabi]
