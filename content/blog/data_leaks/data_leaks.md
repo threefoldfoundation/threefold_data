@@ -3,9 +3,9 @@ id: data_leaks
 title: It's Time We Stand Up For Our Data
 tags: [data, why, peer_to_peer]
 category: [farming, cloud, foundation, aci, twin]
-image: ./threefold_regenerates.png
-image_caption: planet positive plan
-excerpt: ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet positive Internet.
+image: ./data_leaks.png
+image_caption: stand up for our data
+excerpt: As consumers, we should be able to trust that our data is truly safe and secure. And today, we cannot. It's time we stand up for what is ours.
 authors: [sam_taggart]
 created: 2021-06-17
 ---
@@ -18,7 +18,9 @@ Do a quick search for "data leak" on your search engine of choice, and you'll li
 - Billions of emails and passwords appear in largest data leak ever
 - Here's How the IRS Could Have Prevented the Tax Data Leak
 - Time to Change Your Password: Tips on Protecting Yourself from Online Scams
-- Week after week, month after month, year after year, companies are being hacked, private consumer data is being compromised and released, and we somehow begin to think that this is the reality of our world, something we just have to deal with.
+<br/>
+<br/>
+Week after week, month after month, year after year, companies are being hacked, private consumer data is being compromised and released, and we somehow begin to think that this is the reality of our world, something we just have to deal with.
 <br/>
 <br/>
 Internet security, cyber attacks, and data leaks are a global threat – and increasingly so as the world moves more digital, and smart people with malicious intent try to take advantage. But this is not normal, nor should it be. As consumers, we should be able to trust that our data is truly safe and secure. And today, we cannot. It's time we stand up for what is ours.
