@@ -20,6 +20,7 @@ Do a quick search for "data leak" on your search engine of choice, and you'll li
 - Time to Change Your Password: Tips on Protecting Yourself from Online Scams
 <br/>
 <br/>
+
 Week after week, month after month, year after year, companies are being hacked, private consumer data is being compromised and released, and we somehow begin to think that this is the reality of our world, something we just have to deal with.
 <br/>
 <br/>
