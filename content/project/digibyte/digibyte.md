@@ -5,7 +5,7 @@ countries: [Global]
 cities: [Global]
 rank: 1
 excerpt: An innovative blockchain for digital assets, smart contracts, dApps and secure authentication.
-image: ./digibyte_tf.jpg
+image: ./digibyte.jpg
 image_caption: digibyte
 logo: ./logo.png
 category: [cloud, farming, aci, foundation]

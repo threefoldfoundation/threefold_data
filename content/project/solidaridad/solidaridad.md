@@ -15,7 +15,7 @@ countries:
 cities: []
 rank: 1
 excerpt: Provide an alternative income stream and create digital services for farmers across the globe.
-image: ./solidaridad.png
+image: ./solidaridad.jpg
 image_caption: solidaridad
 logo: ./logo.png
 category: [twin, cloud, farming, aci, foundation]

@@ -5,7 +5,7 @@ countries: [Belgium, US]
 cities: [Hasselt, Florida]
 rank: 1
 excerpt: We create opportunities for students to take action on social good causes.
-image: ./tag.png
+image: ./tag.jpg
 image_caption: take_action_global
 logo: ./logo.png
 category: [twin, aci, farming, foundation]

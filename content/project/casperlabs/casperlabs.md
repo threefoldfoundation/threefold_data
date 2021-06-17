@@ -5,7 +5,7 @@ countries: [Switzerland]
 cities: [Zug]
 rank: 1
 excerpt: The First Blockchain Built for Enterprise Adoption
-image: ./casperlabs.png
+image: ./casper.png
 image_caption: casperlabs
 logo: ./logo.png
 category: [cloud, farming, foundation]
