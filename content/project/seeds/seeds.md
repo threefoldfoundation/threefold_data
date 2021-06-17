@@ -11,7 +11,7 @@ logo: ./logo.png
 category: [foundation, aci, twin]
 members: [rieki_cordon, nikolaus_heger, franz_josef_allmayer]
 websites: https://www.joinseeds.com/
-tags: [community]
+tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 ---

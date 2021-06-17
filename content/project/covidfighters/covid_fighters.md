@@ -8,7 +8,7 @@ excerpt: Re-gaining social life and staying healthy with COVID testing solution 
 image: ./covidfighters.png
 image_caption: covid_fighters
 logo: ./logo.png
-category: [twin, aci]
+category: [twin, aci, foundation]
 members: [boris_fahrnberger]
 websites: https://www.artichoke-computing.com/
 tags: [experience, impact]

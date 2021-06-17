@@ -11,7 +11,7 @@ logo: ./logo.png
 category: [aci]
 members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
-tags: [experience]
+tags: [technology]
 private: 0
 linkedin: https://www.linkedin.com/company/crystal-language/about/
 ---

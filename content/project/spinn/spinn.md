@@ -8,7 +8,7 @@ excerpt: Quality coffee made easy.
 image: ./spinn.png
 image_caption: spinn
 logo: ./logo.png
-category: [foundation]
+category: [foundation, aci]
 members: [serge_de_warrimont]
 websites: https://www.spinn.com
 tags: [experience]

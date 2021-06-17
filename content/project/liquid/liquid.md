@@ -11,7 +11,7 @@ logo: ./logo.png
 category: []
 members: []
 websites: https://www.liquid.com
-tags: [blockchain]
+tags: []
 private: 0
 linkedin: https://www.linkedin.com/company/liquidglobal/
 ---

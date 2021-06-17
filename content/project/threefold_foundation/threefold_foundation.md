@@ -11,7 +11,7 @@ logo: ./logo.png
 category: [aci]
 members: [kristof_de_spiegeleer, roel_van_sabben, kristine_vilnite, sam_taggart, sacha_obegadoo, adnan_fatayerji, karoline_zizka, maximilian_rang]
 websites: https://www.threefold.io
-tags: [impact, community]
+tags: [impact, community, farming]
 private: 0
 linkedin: https://www.linkedin.com/company/threefold-foundation/
 ---

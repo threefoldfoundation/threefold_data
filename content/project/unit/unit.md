@@ -3,7 +3,7 @@ id: unit
 title: UNIT
 countries: [Global]
 cities: [Global]
-rank: 4
+rank: 3
 excerpt: Supporting people by helping them to develop a business around their passion.
 image: ./unit.png
 image_caption: unit

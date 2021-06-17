@@ -8,7 +8,7 @@ excerpt: Creating change through Education, Inclusion & Preservation initiatives
 image: ./le_ciel_foundation.png
 image_caption: le_ciel_foundation
 logo: ./logo.jpeg
-category: [foundation]
+category: [foundation, aci]
 members: [sophie_monpeyssen]
 websites: https://lecielfoundation.com/
 tags: [community]
