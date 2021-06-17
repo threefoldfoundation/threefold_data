@@ -8,7 +8,7 @@ bio: Joe Roets is the Architect, Founder, and Chief Executive Officer of Dragonc
 excerpt: Joe Roets is the Architect, Founder, and Chief Executive Officer of Dragonchain.
 linkedin: https://www.linkedin.com/in/j0j0r0/
 websites: https://dragonchain.com/
-image: ./joe_roets.jpeg
+image: ./joe_roets.png
 projects: [dragonchain]
 countries: [USA]
 cities: [Seattle]

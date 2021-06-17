@@ -8,7 +8,7 @@ bio: VP of Global solutions engineering, my goal is to increase blockchain usabi
 excerpt: VP of Global solutions engineering, my goal is to increase blockchain usability.
 linkedin: https://www.linkedin.com/in/kynchaturvedi/
 websites: https://tomochain.com/
-image: ./kyn_chaturvedi.jpg
+image: ./kyn_chaturvedi.png
 projects: [tomochain]
 countries: [Vietnam]
 cities: [Hoi Chi Minh]
