@@ -5,7 +5,7 @@ countries: [Global]
 cities: [Global]
 rank: 1
 excerpt: An innovative blockchain for digital assets, smart contracts, dApps and secure authentication.
-image: ./digibyte.png
+image: ./digibyte.jpg
 image_caption: digibyte
 logo: ./logo.png
 category: [cloud, farming, aci, foundation]
@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/company/digibyte-payment-network/
 
 <br/>
 
-![digibyte](./digibyte2.jpg)
+![digibyte](./digibyte.jpg)
 
 <br/>
 
@@ -47,4 +47,3 @@ The DigiByte network runs on a mix of servers managed by DigiByte volunteers and
 ## Join saving our planet!
 
 ThreeFold's technology helps the DigiByte software to use less underlying capacity for processing and that networking enhances time to reach consensus.  DigiBytes blockchain technology and multiple consensus mechanism together are a fantastic and sustainable platform to build (bespoke) Enterprise storage and blockchain technologies on.
-
