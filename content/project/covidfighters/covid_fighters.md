@@ -3,7 +3,7 @@ id: covidfighters
 title: COVID Fighters
 countries: [Austria]
 cities: [Vienna]
-rank: 0
+rank: 4
 excerpt: Re-gaining social life and staying healthy with COVID testing solution on Crystal Twin.
 image: ./covidfighters.png
 image_caption: covid_fighters
