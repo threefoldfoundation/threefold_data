@@ -2,8 +2,8 @@
 id: serge_de_warrimont
 name: Serge de Warrimont
 rank: 3
-memberships: [partners]
-category: [foundation]
+memberships: [partners, aci_members]
+category: [foundation, aci]
 bio: I believe that hard work, communication of ideas, and inspiration is the key to success in the world of industrial design and I get a great sense of fulfilment when something I’ve put my heart and soul into influences someone in some way. I am creatively driven and passionate about current design. To me, the best products are those that grow and change with use; products that wear in, not wear out. I am inspired by products that approach sustainability by being long lasting and important in life.
 excerpt: Founder & Chief Product Officer at Spinn Inc.
 linkedin: https://www.linkedin.com/in/serge-de-warrimont-4a304612/

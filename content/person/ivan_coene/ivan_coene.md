@@ -3,7 +3,7 @@ id: ivan_coene
 name: Ivan Coene
 rank: 3
 memberships: [tech]
-category: [foundation, twin]
+category: [foundation]
 bio: Front-end developer at Jimber.
 excerpt: Front-end developer at Jimber.
 linkedin: https://www.linkedin.com/in/ivancoene/
