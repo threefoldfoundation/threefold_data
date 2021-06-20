@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/company/utribeone/
 
 <BR>
 
-<iframe width="800" height="450" src="https://www.youtube.com/watch?v=1s0-ab7Daq8&t=2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/1s0-ab7Daq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <BR>
 
