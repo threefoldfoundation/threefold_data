@@ -36,6 +36,12 @@ Building on more than 60 years of classroom experience empowering students to be
 
 To inspire change by providing opportunities for students around the world to take action on social good causes through education.
 
+<BR>
+
+![planting](./tag_planting.jpg)
+
+<BR>
+
 ## Impact
 
 Through endeavors like the [Climate Action Project](https://www.climate-action.info/), our [Innovation Lab Schools](https://innovationlabschools.com/), and [Project Kakuma](https://www.projectkakuma.com/), we find ways to connect thousands of teachers with students around the world to provide free, quality, meaningful education.
