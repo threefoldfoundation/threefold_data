@@ -16,11 +16,7 @@ The United Nations publicly ruled Internet access to be a human right in 2016. P
 Nonetheless, as of 2019, about 43% of humanity remains unconnected to the Internet, creating huge inequalities in access to information and knowledge. It is essential to take the necessary steps to strengthen the relationship between governments and people while still upholding all human rights.
 <br/>
 <br/>
-ThreeFold created an infrastructure that is easily affordable and jointly operated by network peers to make the modern Internet open and fair to everyone. The Foundation will incentivize and sponsor the extension and scope to areas that require Internet capacity the most to ensure a fair and equitable delivery of the Internet to all.
+ThreeFold created an infrastructure that is easily affordable and jointly operated by network peers to make the modern Internet open and fair to everyone. Anybody with a network connection and electricity can add capacity to the ThreeFold Grid. We're looking for farmers around the globe and we're also partnering with farming cooperatives to develop localized strategies and meet the specific needs of their region. Plus, the Foundation will incentivize and sponsor the extension and scope to areas that require Internet capacity the most, to ensure a fair and equitable delivery of the Internet to all.
 <br/>
 <br/>
-Want to join the biggest internet revolution?  Be part of it, today.
-<br/>
-<br/>
-
-Get more information [here](http://threefold.io/).
+Want to join the biggest internet revolution?  [Be part](https://farming.threefold.io) of it, today.
