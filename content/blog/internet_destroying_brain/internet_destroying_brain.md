@@ -34,7 +34,6 @@ Moskowitz is correct in their thinking when they say the following, "A solution
 <br/>
 Simply spending less time on the current Internet or using certain apps instead of others is not going to make much of a difference in the end. The underlying system is still massively flawed and can be manipulated. Bold, widespread, systemic change is indeed what we need. A revolution, perhaps.
 <br/>
-<br/>
 
 As pointed out recently [in TGDaily](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/), ThreeFold is that revolution.
 <br/>
@@ -54,7 +53,6 @@ In their article, Moskowitz concluded that "perhaps it is only a matter of time 
 <br/>
 If you believe in what we are building, we invite you to join the movement:
 <br/>
-<br/>
 
 - [Become a farmer](https://threefold.io/farming)
 - [Stay updated on ThreeFold News](https://t.me/threefoldnews)
@@ -63,5 +61,5 @@ If you believe in what we are building, we invite you to join the movement:
 - [Follow us on Twitter](https://twitter.com/threefold_io)
 - [Buy the ThreeFold Token](https://wiki.threefold.io/#/threefold__how_to_buy_and_sell)
 <br/>
-<br/>
+
 We are a growing group of people from around the world who not only believe what many of you believe, but we are doing something about it. Let's grow the People's Internet, together.
