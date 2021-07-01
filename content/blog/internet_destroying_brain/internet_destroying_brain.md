@@ -32,20 +32,21 @@ The truth is that the Internet *has* become more than an addiction, it's become 
 Moskowitz is correct in their thinking when they say the following, "A solution to our current internet-use crisis cannot come at an individual level anymore than one person quitting their job would solve capitalism's poor working conditions. If we want any hope of making the internet less stressful, less back-breaking, and more fulfilling, content creators, gig economy workers, and even casual internet users need to push for a systemic solution."
 <br/>
 <br/>
-Simply spending less time on the current Internet or using certain apps instead of others is not going to make much of a difference in the end. There are billions of people on the Internet today. And the underlying system is still massively flawed and can be manipulated. Bold, widespread, systemic change is indeed what we need. A revolution, perhaps.
+Simply spending less time on the Internet or using certain apps instead of others is not going to make much of a difference in the end. There are billions of people on the Internet today to make up for the loss. And the underlying system is still massively flawed and can be manipulated. Bold, widespread, systemic change is indeed what we need. A revolution, perhaps.
 <br/>
 <br/>
 
 As pointed out recently [in TGDaily](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/), ThreeFold is that revolution.
 <br/>
 <br/>
-ThreeFold is the engine for a new Internet, driven by a movement of people who care about a better future. With more than two decades of direct knowledge of the Internet and Cloud industries, we flipped today's Internet on its head. We rebuilt the architecture from the ground up, with people and our planet at the center of our focus. Instead of relying on centralized hyper-scale data centers owned by a few private corporations, we provide the opportunity for people across the world with access to a network connection and electricity to plug in hardware and provide local capacity.
+ThreeFold is the engine for a new Internet, driven by a movement of people who care about a better future. With more than two decades of direct knowledge of the Internet and Cloud industries, we flipped today's Internet on its head. We rebuilt the architecture from the ground up, with people and our planet at the center of our focus. Instead of relying on centralized hyper-scale data centers owned by a few private corporations, we provide the opportunity for people across the world with access to a network connection and electricity to plug in hardware and provide local capacity, and earn income while they are at it.
 <br/>
 <br/>
-In our model, we prioritize simplicity, security, efficiency, and privacy. The technology runs autonomously, removing human error and malicious intent from the equation. Connections are peer-to-peer, meaning no middlemen get in the way of our content, our transactions, or other data. And people own their data. What we produce is ours. We decide where it gets stored and we decide who can access it. In fact, it's nearly impossible for anybody to access someone's data without their consent.
+In our model, we prioritize simplicity, security, efficiency, and privacy. The technology runs autonomously, removing human error and malicious intent from the equation. Connections are peer-to-peer, meaning no middlemen get in the way of our content, our transactions, or other data. And importantly, people own their data. What we produce is ours. We decide where it gets stored and we decide who can access it. In fact, it's basically impossible for anybody to access someone's data without their consent – including us.
 <br/>
 <br/>
 On top of the technology, we provide experiences. People will have one single log-in and verifiable identity, and gain access to the tools (experiences) they need for communication and for work. As we are a decentralized movement, soon, anybody will be able to build anything they like on top of ThreeFold – but it is our vision and belief that the Internet should not be addictive. Rather a tool for all of humanity to connect, learn, and prosper – with people at the center, not treated as products.
+
 
 ## Join the Movement
 
@@ -64,4 +65,5 @@ If you believe in what we are building, we invite you to join the movement:
 - [Buy the ThreeFold Token](https://wiki.threefold.io/#/threefold__how_to_buy_and_sell)
 <br/>
 <br/>
+
 We are a growing group of people from around the world who not only believe what many of you believe, but we are doing something about it. Let's grow the People's Internet, together.
