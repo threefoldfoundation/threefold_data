@@ -20,4 +20,4 @@ It goes without saying that these visionaries desire a true democracy of the int
 <br/>
 <br/>
 
-Full article [here](https://smartereum.com/189750/threefold-is-audaciously-building-a-new-decentralized-internet/)
+**Full article [here](https://smartereum.com/189750/threefold-is-audaciously-building-a-new-decentralized-internet/)**
