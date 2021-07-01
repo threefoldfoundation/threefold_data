@@ -5,7 +5,7 @@ tags: [threefold_grid,digital_twin,why,technology,farming]
 category: [farming,cloud,foundation,aci,twin]
 image: ./peoples_internet.png
 image_caption: 
-excerpt: 
+excerpt: Today, the Internet’s infrastructure is generally controlled by large corporations. We're changing that.
 authors: [sam_taggart]
 created: 2021-05-27
 ---
