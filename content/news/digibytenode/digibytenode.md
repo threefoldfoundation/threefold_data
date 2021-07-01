@@ -17,7 +17,7 @@ DigiByte Foundation's Rudy Bouwman joins ThreeFold's Weynand Kuijpers to discuss
 <br/>
 <br/>
 
-👀 Watch the full video [here](https://youtu.be/fBEwlfcyxgA).
+👀 **Watch the full video [here](https://youtu.be/fBEwlfcyxgA).**
 <br/>
 <br/>
 
