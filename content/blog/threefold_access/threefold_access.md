@@ -1,6 +1,6 @@
 ---
 id: threefold_access
-title: How ThreeFold will give Internet to 43% of the world’s population
+title: How ThreeFold Will Give Internet to 43% of the World’s Population
 tags: [farming, threefold_grid, why]
 category: [farming, cloud, foundation, aci, twin]
 image: ./threefold_access.png
@@ -19,4 +19,4 @@ Nonetheless, as of 2019, about 43% of humanity remains unconnected to the Intern
 ThreeFold created an infrastructure that is easily affordable and jointly operated by network peers to make the modern Internet open and fair to everyone. Anybody with a network connection and electricity can add capacity to the ThreeFold Grid. We're looking for farmers around the globe and we're also partnering with farming cooperatives to develop localized strategies and meet the specific needs of their region. Plus, the Foundation will incentivize and sponsor the extension and scope to areas that require Internet capacity the most, to ensure a fair and equitable delivery of the Internet to all.
 <br/>
 <br/>
-Want to join the biggest internet revolution?  [Be part](https://farming.threefold.io) of it, today.
+Want to join the biggest internet revolution? [Be part](https://farming.threefold.io) of it, today.
