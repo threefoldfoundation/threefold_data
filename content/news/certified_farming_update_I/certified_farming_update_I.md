@@ -3,7 +3,7 @@ id: certified_farming_update_I
 title: Introducing Certified Farming for a More Secure ThreeFold Grid 
 tags: [farming,threefold_grid]
 category: [foundation,farming]
-image: ./certified_farming_update_I.png
+image: ./certified_farming_update.png
 image_caption: Introducing Certified Farming for a More Secure ThreeFold Grid
 excerpt: More tamper-proof hardware = more security for all!
 authors: [roel_van_sabben]
