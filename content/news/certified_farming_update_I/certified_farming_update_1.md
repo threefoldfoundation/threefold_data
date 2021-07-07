@@ -7,7 +7,7 @@ image: ./certified_farming_update_1.png
 image_caption: Introducing Certified Farming for a More Secure ThreeFold Grid
 excerpt: More tamper-proof hardware = more security for all!
 authors: [roel_van_sabben]
-created: 2021-07-06
+created: 2021-07-07
 ---
 
 Last month, we went live with Titan V2.1, and we're thrilled to count +1,000 orders already from all over the world.
