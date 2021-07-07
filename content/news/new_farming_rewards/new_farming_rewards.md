@@ -29,7 +29,7 @@ Also, as of this summer, Farmers will be able to earn more TFT for the Network t
 
 ## How do I get Certified?
 
-All 3Nodes bought from ThreeFold after June 1 2021 are eligible for certified farming. We will send instructions to everyone that purchased a Titan v2.1 on how to upgrade to a certified 3Node next week. 
+All 3Nodes bought from ThreeFold after June 5 2021 are eligible for certified farming. We will send instructions to everyone that purchased a Titan v2.1 on how to upgrade to a certified 3Node next week. 
 <br/>
 <br/>
 For people that already bought an earlier batch of nodes, we are thinking of a solution for becoming certified, as our hardware partners need the physical 3Node to certify the hardware.
