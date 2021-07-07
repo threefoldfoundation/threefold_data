@@ -14,7 +14,7 @@ With the forthcoming launch of ThreeFold Grid 3.0 later this year, the world is 
 
 ## New Farming Logic - Introducing Network Rewards
 
-The new Farming Rewards logic can be found [here](https://threefold.io/info/threefold#/threefold__farming_reward).
+The new Farming Rewards logic can be found [**HERE**](https://threefold.io/info/threefold#/threefold__farming_reward).
 <br/>
 <br/>
 You will see that the farming rewards were simplified, and are now calculated according to the compute and storage units (CU & SU) provided to the ThreeFold Grid. 
@@ -37,8 +37,8 @@ For people that already bought an earlier batch of nodes, we are thinking of a s
 ## Important notes
 
 - All certified hardware is 100% dedicated to the ThreeFold Grid. While DIY nodes can be booted with a different Operating System, this is not possible with a Certified 3Node.
-- All certified hardware is automatically subject to the 3.0 Farming Logic. Read more [**HERE**](https://wiki.threefold.io/#/threefold__farming_logic3)
+- All certified hardware is automatically subject to the 3.0 Farming Logic. Read more [**HERE**](https://wiki.threefold.io/#/threefold__farming_logic3).
 <br/>
 <br/>
 
-*P.S. If you're already a farmer and would like to be featured on our web presence please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's introduce the world the farming community behind this awesome project!*
+_P.s. If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's introduce the world to the farming community behind this awesome project!_

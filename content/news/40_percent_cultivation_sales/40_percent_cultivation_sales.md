@@ -26,7 +26,10 @@ For instance, a "third-party" company could reach out to multiple farmers to do 
 <br/>
 <br/>
 
-This provides farmers with a very good model to do their own active sales, improving their cultivation returns by 5X (from 10% to 50%). To see what this would mean please set Cell C-20 at 10% and 50% on the [ThreeFold Farming Reward Calculator](https://wiki.threefold.io/#/threefold__farming_calculator).
+This provides farmers with a very good model to do their own active sales, improving their cultivation returns by 5X (from 10% to 50%). To see what this would mean please set Cell C-20 at 10% and 50% on 
+<br/>
+
+[the ThreeFold Farming Reward Calculator](https://wiki.threefold.io/#/threefold__farming_calculator).
 
 ## Exclusive News
 
@@ -35,4 +38,4 @@ The new 3Node option will come with much more performance and cost about €2000
 <br/>
 <br/>
 
-*P.S. If you're already a farmer and would like to be featured on our web presence please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's showcase to the world the farming community behind this awesome project!
+_P.s. If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's introduce the world to the farming community behind this awesome project!_

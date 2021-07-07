@@ -33,6 +33,4 @@ We're building a more secure future for our digital lives. This will happen!
 <br/>
 <br/>
 
-**P.s.** If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6)
-<br/>
-Let's introduce the world to the farming community behind this awesome project!
+_P.s. If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's introduce the world to the farming community behind this awesome project!_
