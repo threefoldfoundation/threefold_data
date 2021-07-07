@@ -23,12 +23,18 @@ While anyone can connect hardware to the ThreeFold Grid, some workloads require 
 There are many benefits for Farmers to certify their capacity: 
 <br/>
 <br/>
+
 - Get a certified capacity label: Some developers and enterprises will seek for the highest levels of security. With the certified label, you will be able to provide capacity for their workloads at a higher price. 
 - Improved hardware security: While DIY farming already provides incredible security, certified farming is 100% tamper-proof. With more security, you bring more security to the ThreeFold Grid and people using it. 
 <br/>
 <br/>
+
 We're building a more secure future for our digital lives. This will happen! 
 <br/>
 <br/>
 
-P.S. If you're already a farmer and would like to be featured on our web presence please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) Let's show the world the farming community behind this awesome project.
+P.S. If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6) 
+<br/>
+<br/>
+
+Let's show the world the farming community behind this awesome project.
