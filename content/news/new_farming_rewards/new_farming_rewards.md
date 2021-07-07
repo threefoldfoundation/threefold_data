@@ -37,7 +37,7 @@ For people that already bought an earlier batch of nodes, we are thinking of a s
 ## Important notes
 
 - All certified hardware is 100% dedicated to the ThreeFold Grid. While DIY nodes can be booted with a different Operating System, this is not possible with a Certified 3Node.
-- All certified hardware is automatically subject to the 3.0 Farming Logic. Read more [**HERE**](https://wiki.threefold.io/#/threefold__farming_logic3).
+- All certified hardware is automatically subject to the 3.0 Farming Logic. Read more [**HERE**](https://threefold.io/info/threefold#/threefold__farming_reward).
 <br/>
 <br/>
 
