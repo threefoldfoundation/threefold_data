@@ -5,7 +5,7 @@ tags: [farming,threefold_grid]
 category: [foundation,farming]
 image: ./decentralized_and_inclusive_businessmodel.png
 image_caption: A Decentralized and Inclusive Business model
-excerpt: With the new model, ThreeFold helps anyone (including Farmers) generate (more) income by selling capacity. 
+excerpt: A new model that helps anyone (including Farmers) generate income by selling capacity. 
 authors: [roel_van_sabben]
 created: 2021-07-07
 ---
