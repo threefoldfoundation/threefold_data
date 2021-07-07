@@ -4,7 +4,7 @@ title: Introducing Certified Farming for a More Secure ThreeFold Grid
 tags: [farming,threefold_grid]
 category: [foundation,farming]
 image: ./introducing_certified_capacity.png
-image_caption: Introducing Certified Farming for a More Secure ThreeFold Grid
+image_caption: certified_capacity
 excerpt: More tamper-proof hardware = more security for all!
 authors: [roel_van_sabben]
 created: 2021-07-07
@@ -28,8 +28,11 @@ There are key benefits for Farmers to certify their capacity:
 - Improved hardware security: While DIY farming already provides incredible security, certified farming is 100% tamper-proof. Now you can bring more security to the ThreeFold Grid and to the people using it. 
 <br/>
 <br/>
+
 We're building a more secure future for our digital lives. This will happen! 
 <br/>
 <br/>
 
-P.S. If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6). Let's introduce the world to the farming community behind this awesome project!
+**P.s.** If you're already a farmer and would like to be featured on our websites please [fill out this form.](https://forms.gle/cW6uFUhkohSw81KT6)
+<br/>
+Let's introduce the world to the farming community behind this awesome project!
