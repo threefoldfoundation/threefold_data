@@ -53,10 +53,10 @@ In its essence, edge computing brings compute and storage closer to people (and 
 
 ## But what about the planet?
 
-If you've been following us, you must already know that the Internet is responsible for 10% or more of the world's energy consumption. And with decades of experience in the Internet and Cloud industry, ThreeFold co-founders knew how to turn this around. We developed a lightweight operating system and infrastructure, removing unnecessary layers of complexity from the traditional and Web3 models (actually, blockchains are making it even more complex). The ThreeFold technology is geared towards maximum efficiency while maintaing performance.
+If you've been following us, you must already know that the Internet is responsible for 10% or more of the world's energy consumption. And with decades of experience in the Internet and Cloud industry, ThreeFold co-founders knew how to turn this around. We developed a lightweight operating system and infrastructure, removing unnecessary layers of complexity from the traditional and Web3 models (actually, blockchains are making it even more complex). The ThreeFold technology is always geared towards maximum efficiency while maintaing performance. And with these advancements, we can already save up-to 90% energy on storage workloads.
 <br/>
 <br/>
-With these advancements, we can already save up-to 90% energy on storage workloads. Additionally, the distributed nature of the Grid uses less bandwidth. It's been reported that Netflix alone takes up 15% of the Internet's bandwidth. If stored closer to watchers, we could reduce network usage considerably.
+Additionally, the distributed nature of the Grid uses less bandwidth (see above re: edge computing). It's been reported that Netflix alone takes up 15% of the Internet's bandwidth. What if Netflix were to leverage the ThreeFold Grid? If stored closer to watchers, we could reduce network usage considerably.
 <br/>
 <br/>
 Our commitment to the planet goes beyond the technology. Through a partnership with Take Action Global (TAG), we aim to take three times more CO2 out of the air compared to what we put in. Imagine regenerating the earth while using the Internet?
