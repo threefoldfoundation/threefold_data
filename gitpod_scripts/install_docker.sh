@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -ex
 sudo chown gitpod:gitpod -R /tmp
 
