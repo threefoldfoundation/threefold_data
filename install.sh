@@ -10,4 +10,7 @@ popd
 sudo apt update
 sudo apt install rsync -y
 rsync -rav /workspace/data_threefold/gitpod_template/* .
+#to copy hidden files as well
+rsync -rav /workspace/data_threefold/gitpod_template/.[^.]* .
+
 
