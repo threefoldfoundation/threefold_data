@@ -1,4 +1,4 @@
-mkdir /workspace
+mkdir -p /workspace
 pushd /workspace
 if ! [ -d "/workspace/data_threefold" ]
 then
