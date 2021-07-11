@@ -4,7 +4,8 @@ set -e
 
 export base=/nodejs
 
-# sudo chown gitpod:gitpod -R $base
+echo "CHOWN to GITPOD takes a while"
+sudo chown gitpod:gitpod -R $base
 
 export PATH=$base/bin:$PATH
 
@@ -15,9 +16,11 @@ pushd $base
 rm -f yarn.lock
 rm -rf .cache		
 
+echo "INSTALL NODEJS"
 nvm install --lts
 nvm use --lts
 
+echo "INSTALL GRIDSOME"
 npm install --global @gridsome/cli
 
 popd
