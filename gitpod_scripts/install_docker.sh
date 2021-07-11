@@ -19,7 +19,8 @@ source $base/nvm.sh
 nvm install --lts
 nvm use --lts
 
-cp /tmp/package.json .
+rm -f package.json
+curl -s -o package.json https://raw.githubusercontent.com/threefoldfoundation/data_threefold/development/gitpod_scripts/package.json
 
 npm install --global @gridsome/cli
 npm install

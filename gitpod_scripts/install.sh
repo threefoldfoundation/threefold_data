@@ -1,7 +1,5 @@
 set -e
 
-
-
 export base=/nodejs
 
 sudo chown gitpod:gitpod -R $base
@@ -10,7 +8,7 @@ export PATH=$base/bin:$PATH
 
 source $base/nvm.sh
 
-cd $base
+pushd $base
 
 rm -f yarn.lock
 rm -rf .cache		
@@ -20,8 +18,7 @@ nvm use --lts
 
 npm install --global @gridsome/cli
 
-#go to the website
-cd /workspace/www_threefold_io
+popd
 
 rm -f yarn.lock
 rm -rf .cache
@@ -33,12 +30,6 @@ echo "done"
 
 #make sure all modules are there
 npm install
-
-cd /workspace
-if ! [ -d "/workspace/data_threefold" ]
-then
-    git clone https://github.com/threefoldfoundation/data_threefold
-fi
 
 
 rm -f ../content/blog
