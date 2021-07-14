@@ -18,11 +18,11 @@ bash nvm.sh
 export NVM_DIR=$base
 source $base/nvm.sh
 
-nvm install --lts
-nvm use --lts
+nvm install --$lts
+nvm use --$lts
 
 rm -f package.json
-curl -s -o package.json https://raw.githubusercontent.com/threefoldfoundation/data_threefold/development/gitpod_scripts/package.json
+curl -s -o package.json https://raw.githubusercontent.com/threefoldfoundation/data_threefold/development/gitpod_template/package.json
 
 npm install --global @gridsome/cli
 npm install
