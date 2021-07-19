@@ -3,7 +3,7 @@ id: an_intro_to_the_threefold_grid
 title: An Intro to the ThreeFold Grid
 tags: [threefold_grid]
 category: [threefold_grid]
-image: ./an_intro_to_the_threefold_grid.png
+image: ./an_intro_to_the_threefold_grid.jpg
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
 excerpt: 
 authors: [scott_yeager]
