@@ -10,7 +10,7 @@ authors: [scott_yeager]
 created: 2021-07-19
 ---
 
-# An Intro to the ThreeFold Grid
+## An Intro to the ThreeFold Grid
 
 <br>
 
