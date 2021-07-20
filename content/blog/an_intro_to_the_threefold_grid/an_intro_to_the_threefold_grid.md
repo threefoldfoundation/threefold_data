@@ -1,11 +1,11 @@
 ---
 id: an_intro_to_the_threefold_grid
 title: An Intro to the ThreeFold Grid
-tags: [threefold_grid]
-category: [threefold_grid]
+tags: [threefold_grid,technology,peer_to_peer]
+category: [foundation,farming,cloud]
 image: ./an_intro_to_the_threefold_grid.jpg
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
-excerpt: 
+excerpt: The first in a series where I'll be working to understand the ThreeFold Grid, its technical components, and its distinct benefits compared to what exists today.
 authors: [scott_yeager]
 created: 2021-07-19
 ---
@@ -19,7 +19,8 @@ If you are a farmer or member of the ThreeFold community, you may be wondering a
 <br>
 
 This piece will be the first in a series where I'll be working to understand what the technical components are and how ThreeFold provides an alternative with distinct benefits for individuals, businesses, and for the planet as a whole. But don't worry, we'll start from the ground level and build up understanding in a way that's accessible to everyone.
-Infrastructure for a New Internet
+
+## Infrastructure for a New Internet
 
 <br>
 
@@ -55,7 +56,7 @@ In the world of cloud computing, we speak of three basic resources provided by s
 
 Workloads are pieces of software that provide services. If you upload a file to some cloud storage service, there could be a number of individual workloads orchestrated together in order to ensure the data you want to save is successfully transmitted to and stored in the back end system. We can understand the need for each kind of capacity by looking at the journey that your file might take in such a scenario. Starting on your device, a network connection, some processing, and finally storage capacity are all involved in providing the conditions that allow you to retrieve that file later.
 
-##Network
+## Network
 
 Networking takes place over cellular connections, wifi, and wired internet lines to move data from one place to another. For our purposes here, those details aren't so important—we'll focus on what happens once communication is completed by whatever means. 
 
