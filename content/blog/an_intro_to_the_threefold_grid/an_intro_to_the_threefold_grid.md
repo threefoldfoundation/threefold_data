@@ -1,11 +1,11 @@
 ---
 id: an_intro_to_the_threefold_grid
-title: An Intro to the ThreeFold Grid
+title: Building a New Internet From the Ground Up - Part 1
 tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
 image: ./an_intro_to_the_threefold_grid.jpg
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
-excerpt: The first in a series where I'll be working to understand the ThreeFold Grid, its technical components, and its distinct benefits compared to what exists today.
+excerpt: The first episode in an approachable series on the inner workings of the ThreeFold Grid
 authors: [scott_yeager]
 created: 2021-07-19
 ---
