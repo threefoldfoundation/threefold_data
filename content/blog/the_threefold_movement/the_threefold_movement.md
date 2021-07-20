@@ -65,3 +65,6 @@ And while the ThreeFold Foundation is currently the driving force behind the Thr
 <br/>
 <br/>
 As I said at the start, you've dreamt of a different world. And so have I. John Lennon once said, "A dream you dream alone is only a dream. A dream you dream together is reality." Thank you for dreaming with us. Together, this will happen!
+<br/>
+<br/>
+Photo by Ahmad Odeh on Unsplash.
