@@ -5,7 +5,7 @@ tags: [why, community, peer_to_peer]
 category: [farming, cloud, foundation, aci, twin]
 image: ./the_threefold_movement.png
 image_caption: The ThreeFold Movement
-excerpt: 
+excerpt: It's not by mistake that you're here, reading this post. You can feel that a global shift is happening. And you want to do something about it.
 authors: [sam_taggart]
 created: 2021-07-20
 ---
