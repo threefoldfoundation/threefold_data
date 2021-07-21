@@ -12,8 +12,6 @@ created: 2021-07-19
 
 ## An Intro to the ThreeFold Grid
 
-<br>
-
 If you are a farmer or member of the ThreeFold community, you may be wondering about the capacity provided by the ThreeFold Grid and how it's relevant to individuals and businesses who currently rely on centralized corporate clouds. This can be hard to imagine, because the back end infrastructure that makes all of our apps and services tick is generally invisible to us. 
 
 <br>
@@ -22,15 +20,11 @@ This piece will be the first in a series where I'll be working to understand wha
 
 ## Infrastructure for a New Internet
 
-<br>
-
 So, what is the internet? In short, it is a network of interconnected devices that facilitates communication and commerce. These devices include our mobile phones and personal computers, but also the servers that store and process data to provide the end experiences we enjoy. Currently the vast majority of these servers live in massive data centers controlled by a handful of corporations. ThreeFold is changing this, by allowing anyone to connect computational and storage capacity to an open network that is available for all to use, known as the ThreeFold Grid. Our farmers do include some data centers operating on a smaller scale than major cloud providers, and also many individuals connecting nodes at their home or office all over the world.
 
 <br>
 
 On the ThreeFold Grid, servers are known as 3Nodes. A 3Node can be pretty much any modern computer system, offering capacity by running the Zero OS operating system. This is a major distinguishing factor, both from the traditional cloud computing world and also from other projects working to create decentralized networks in this space. 
-
-<br>
 
 ## The OS for a Next Generation Cloud
 
