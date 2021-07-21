@@ -76,8 +76,6 @@ We also have more advanced storage solutions that offer unparalleled security an
 
 ## Looking Forward
 
-<br>
-
 Taken together, network, storage, and compute are the raw elements that give life to the internet we know and love. On the ThreeFold Grid, these elements are expressed in a way that's both familiar for developers but also pushes the limits of what is possible in terms of technical evolution. 
 
 <br>
