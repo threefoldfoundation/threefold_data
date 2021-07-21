@@ -78,7 +78,8 @@ Storage, of course, is the disk space where data resides. It can be a little str
 <br>
 
 We also have more advanced storage solutions that offer unparalleled security and low overhead redundancy, giving users the best possible guarantee that only they have access to their data and that it will actually be there when they go to retrieve it.
-Looking Forward
+
+## Looking Forward
 
 <br>
 
