@@ -5,7 +5,7 @@ tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
 image: ./an_intro_to_the_threefold_grid.jpg
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
-excerpt: The first episode in an approachable series on the inner workings of the ThreeFold Grid
+excerpt: The first episode in an approachable series on the inner workings of the ThreeFold Grid.
 authors: [scott_yeager]
 created: 2021-07-19
 ---
