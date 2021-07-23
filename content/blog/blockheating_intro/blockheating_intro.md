@@ -5,7 +5,7 @@ tags: [why, peer_to_peer, digital_twin, technology]
 category: [farming, cloud, foundation, aci, twin]
 image: ./blockheating_intro.png
 image_caption: Meet Blockheating
-excerpt: A response to a poignant article written by P.E. Moskowitz on the dangers of today's Internet.
+excerpt: Somewhere in the Netherlands, a ThreeFold Farm is supporting the growth of vegetable crops such as tomatoes, peppers and cucumbers.
 authors: [roel_van_sabben]
 created: 2021-07-23
 ---
