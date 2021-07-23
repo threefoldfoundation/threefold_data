@@ -41,6 +41,7 @@ Right now, Blockheating has a portion of their data center dedicated to ThreeFol
 - The alignment of values is huge
 - ThreeFold Farming is easy to manage
 - ThreeFold Farming counters wasteful behavior of internet resources, so it's a triple win
+
 <br/>
 <br/>
 Blockheating envisions to scale up-to three data centers of this kind, in an interconnected way, with a fiber ring between them. By doing so, they will be able to increase their offering and have a larger impact on countering the wasteful patterns of the cloud industry. 
@@ -50,4 +51,5 @@ ThreeFold is proud to have Blockheating as a ‘State-of-the-Art’ Farmer and P
 <br/>
 <br/>
 Find out more about Blockheating here: https://blockheating.com/
+<br/>
 Find out more about our partners here: https://threefold.io/partners
