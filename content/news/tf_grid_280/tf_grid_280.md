@@ -5,7 +5,7 @@ tags: [technology,update,peer_to_peer,threefold_grid]
 category: [farming,cloud,foundation,twin]
 image: ./tf_grid_280.png
 image_caption: Introducing TF Grid 2.8.0
-excerpt: Check out a little piece of what we're building at ThreeFold!
+excerpt: Generic VMs support, TF Explorer v0.5.1, and Farming & Minting operational improvements!
 authors: [sam_taggart]
 created: 2021-07-20
 ---
