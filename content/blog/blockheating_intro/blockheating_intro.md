@@ -49,6 +49,6 @@ Blockheating envisions to scale up-to three data centers of this kind, in an int
 ThreeFold is proud to have Blockheating as a ‘State-of-the-Art’ Farmer and Partner, and hopes to see many more people and companies inspired by Blockheating around the world, to expand the ‘People’s Internet’ in a regenerative way. 
 <br/>
 <br/>
-Find out more about Blockheating here: https://blockheating.com/
+Find out more about Blockheating here: [https://blockheating.com/](https://blockheating.com/)
 <br/>
-Find out more about our partners here: https://threefold.io/partners
+Find out more about our partners here: [https://threefold.io/partners](https://threefold.io/partners)
