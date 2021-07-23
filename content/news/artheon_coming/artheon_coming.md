@@ -1,8 +1,8 @@
 ---
 id: artheon_coming
 title: Artheon VR Museum is Coming to the Grid
-tags: [community,event,blockchain]
-category: [farming,cloud,foundation]
+tags: [partner,update]
+category: [farming,cloud,foundation,twin,aci]
 image: ./artheon_coming.png
 image_caption: Artheon and ThreeFold
 excerpt: Together, we're creating the world's largest VR database of art and cultural heritage
