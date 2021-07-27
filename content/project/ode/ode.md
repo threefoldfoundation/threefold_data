@@ -1,7 +1,7 @@
 ---
 id: ode
 title: ODE Infinity
-countries: [United States]
+countries: [USA]
 cities: [Tempe]
 rank: 1
 excerpt: The future of consumer data
