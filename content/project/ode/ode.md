@@ -9,7 +9,7 @@ image: ./ode.png
 image_caption: ODE
 logo: ./logo.png
 category: [cloud, farming, foundation]
-members: [sashi_edupuganti, gina_lepore]
+members: [sashi_edupuganti]
 websites: https://www.odeinfinity.com/
 tags: [technology]
 private: 0
