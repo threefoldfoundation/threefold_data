@@ -3,7 +3,7 @@ id: building_a_new_internet_from_the_ground_up_pt2
 title: Building a New Internet From the Ground Up - Part 2: Storage
 tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
-image: ./building_a_new_internet_from_the_ground_up_pt2.jpg
+image: ./tf-building-blocks.png
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
 excerpt: Part two of an approachable series on the inner workings of the ThreeFold Grid. This time: storage
 authors: [scott_yeager]
