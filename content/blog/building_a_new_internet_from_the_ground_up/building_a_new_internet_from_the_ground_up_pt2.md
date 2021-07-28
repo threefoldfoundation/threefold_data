@@ -5,7 +5,7 @@ tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
 image: ./tf-building-blocks.png
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
-excerpt: Part two of an approachable series on the inner workings of the ThreeFold Grid. This time: storage
+excerpt: Part two of an approachable series on the inner workings of the ThreeFold Grid. This time, storage
 authors: [scott_yeager]
 created: 2021-07-28
 ---
