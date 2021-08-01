@@ -11,7 +11,7 @@ logo: ./logo.png
 category: [foundation]
 members: [adnan_fatayerji, gloria_anne]
 websites: https://www.mazraa.io
-tags: [blockchain]
+tags: [farming]
 private: 0
 linkedin: https://www.linkedin.com/company/mazraa/about/
 ---
