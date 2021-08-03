@@ -1,6 +1,6 @@
 ---
 id: tf_grid_peoples_internet
-title: "Building a New Internet From the Ground Up - Part 2: Storage"
+title: The ThreeFold Grid is by the People, For the People
 tags: [data, why, peer_to_peer, threefold_grid]
 category: [farming, cloud, foundation, aci, twin]
 image: ./tf_grid_peoples_internet.png
