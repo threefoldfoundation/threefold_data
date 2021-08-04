@@ -1,6 +1,6 @@
 ---
 id: why
-title: Why we do what we do
+title: Why We Do What We Do
 tags: [why,threefold_farming]
 category: [farming,twin,aci,foundation]
 image: ./why_we_do.png
