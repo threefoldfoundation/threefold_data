@@ -1,6 +1,6 @@
 ---
 id: intro_tf_token
-title: An intro to the ThreeFold Token
+title: An Intro to the ThreeFold Token
 tags: [threefold_token,blockchain]
 category: [farming,foundation]
 image: ./intro_tf_token.png
