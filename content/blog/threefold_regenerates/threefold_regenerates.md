@@ -1,6 +1,6 @@
 ---
 id: threefold_regenerates
-title: ThreeFold’s planet positive plan
+title: ThreeFold’s Planet Positive Plan
 tags: [threefold_grid, digital_twin, why, technology, farming]
 category: [farming, cloud, foundation, aci, twin]
 image: ./threefold_regenerates.png
