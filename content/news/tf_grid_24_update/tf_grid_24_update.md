@@ -7,7 +7,7 @@ image: ./tf_grid_24_update.png
 image_caption: Grid 2.4 Testing Update
 excerpt: We still need more people willing to test – join in!
 authors: [sam_taggart]
-created: 2020-02-10
+created: 2021-02-10
 ---
 
 Our **TF Grid 2.4** has now been on testnet for over a month and we are getting good test results – but we need more!
