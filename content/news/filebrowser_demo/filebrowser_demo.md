@@ -17,7 +17,7 @@ This is part of a series of demos showcasing a little piece of what we're buildi
 <br/>
 <br/>
 
-*Last week, we shared a demo of the self-hosted video solution, which you can find if you scroll through our previous announcements.*
+*Last week, we shared a demo of the self-hosted video solution, which you can find [here](https://threefold.io/news/post/video_chat_demo/).*
 <br/>
 <br/>
 See you next time! 👋
