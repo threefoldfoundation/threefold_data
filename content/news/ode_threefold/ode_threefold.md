@@ -1,11 +1,11 @@
 ---
 id: ode_threefold
-title: ODE and ThreeFold Join Forces to Democratize Consumer Data
+title: ODE and ThreeFold Partnership Announcement
 tags: [partner,technology,update]
 category: [farming,cloud,foundation,aci]
 image: ./ode_threefold.png
 image_caption: ODE and ThreeFold
-excerpt: The synergy between ODE and ThreeFold will accelerate the journey toward a more decentralized and democratic way to manage and use consumer data.
+excerpt: ODE and ThreeFold Join Forces to Democratize Consumer Data
 authors: [sam_taggart]
 created: 2021-08-05
 ---
