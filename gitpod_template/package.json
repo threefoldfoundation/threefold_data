@@ -32,7 +32,8 @@
     "tailwindcss-gradients": "^3.0.0",
     "tailwindcss-tables": "^0.4.0",
     "v-tooltip": "^2.0.3",
-    "vue-markdown": "^2.1.2"
+    "vue-markdown": "^2.1.2",
+    "vue-share-it": "^1.1.4"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.0"
