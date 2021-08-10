@@ -33,7 +33,7 @@ Earlier this summer, the servers Artheon was running on suffered from an intense
 <br/>
 Beyond this key benefit for Artheon in particular, a decentralized grid of storage and compute offers many additional advantages. With servers (nodes) closer to end users, data has to travel less distance, resulting in greater energy-efficiency and low latency. Further, ThreeFold's Grid provides an extremely high level of security and privacy and data sovereignty to its users.
 
-## What is the status of Artheon and its partnership with ThreeFold?
+## What is the status of Artheon (and its partnership with ThreeFold)?
 
 Over the past year, Artheon has been making incredible improvements to the graphics and experience, and adding as many new pieces of art as possible into the universe. As you can imagine, the possibilities really are endless, but here are some of the milestones planned for the rest of this year:
 <br/>
