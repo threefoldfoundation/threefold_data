@@ -28,10 +28,16 @@ Looking ahead, the vision is that people will be able to create their own virtua
 From the start, there was a clear connection between Artheon and ThreeFold from a vision, values, and ethos perspective. But there are also some more specific reasons why Artheon chose ThreeFold, which mainly revolve around the decentralized nature of the ThreeFold Grid.
 <br/>
 <br/>
-Earlier this summer, the servers Artheon was running on suffered from an intense heat wave and essentially burned up. There was no backup. In a centralized model, a single point of failure can have big reprocussions, as described in this scenario with Artheon. Thankfully at this point Artheon is not in production with active users but this could have been a complicated and damaging  event otherwise. With decentralized infrastructure like ThreeFold, this type of a situation would not occur, as data is stored in a distributed manner across many different nodes. This is called resilience.
+Virtual and augmented reality (VR and AR) provide significant benefits to our new digital reality. These technologies open new ways of sharing information in areas such as the arts in the case of Artheon, allowing for upgraded and immersive experiences for users.
 <br/>
 <br/>
-Beyond this key benefit for Artheon in particular, a decentralized grid of storage and compute offers many additional advantages. With servers (nodes) closer to end users, data has to travel less distance, resulting in greater energy-efficiency and low latency. Further, ThreeFold's Grid provides an extremely high level of security and privacy and data sovereignty to its users.
+Decentralized clouds have been associated with the promise of new digital applications and services that come with a hyper-connected life. Because the graphics of VR/AR experiences require heavy rendering, on-device processes are augmented by splitting workloads between the VR/AR device and a decentralized cloud. So, graphics rendering on a decentralized cloud like what the ThreeFold Grid provides would be significantly improved by achieving a much lower latency. Another advantage of the ThreeFold Grid is that it provides an extremely high level of security and privacy, empowering Artheon and its users with real data sovereignty.
+<br/>
+<br/>
+And finally, Artheon experienced an unfortunate event earlier this summer where their servers suffered from an intense heat wave and essentially burned up. There was no backup, and this would have been catastrophic in the scenario of them having millions of users. Good thing they aren't live yet, but this is a great example of how centralized models fail. With a decentralized infrastructure like ThreeFold, this type of situation would not have occured, as data would be hosted on many locations.
+<br/>
+<br/>
+So, by distributing the computing power closer to their users, a VR experience such as Artheon would not only improve their latency speed, security, and privacy, but also the resilience of their business model. 
 
 ## What is the status of Artheon (and its partnership with ThreeFold)?
 
