@@ -1,6 +1,6 @@
 ---
 id: artheon_blog_one
-title: Artheon and ThreeFold Are Making Art & Culture Available to All
+title: "Art & Culture in VR: Coming to the ThreeFold Grid"
 tags: [partner, peer_to_peer, update]
 category: [farming, cloud, foundation, aci, twin]
 image: ./artheon_blog_one.png
@@ -23,9 +23,9 @@ that people are able to access information about the artists and the art itself,
 <br/>
 Looking ahead, the vision is that people will be able to create their own virtual spaces and expose them on Artheon. They can create something from scratch or even re-imagine a historical site as it was long ago and share it with the community.
 
-## Why does Artheon need ThreeFold?
+## How does ThreeFold benefit Artheon?
 
-From the start, there was a clear connection between Artheon and ThreeFold from a vision, values, and ethos perspective. But there are also some more specific reasons why Artheon chose and needs ThreeFold, which mainly revolve around the decentralized nature of the ThreeFold Grid.
+From the start, there was a clear connection between Artheon and ThreeFold from a vision, values, and ethos perspective. But there are also some more specific reasons why Artheon chose and benefits from ThreeFold, which mainly revolve around the decentralized nature of the ThreeFold Grid.
 <br/>
 <br/>
 Virtual and augmented reality (VR and AR) provide significant benefits to our new digital reality. These technologies open new ways of sharing information in areas such as the arts in the case of Artheon, allowing for upgraded and immersive experiences for users.
