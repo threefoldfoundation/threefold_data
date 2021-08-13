@@ -1,5 +1,5 @@
 ---
-id: own_kemp
+id: owen_kemp
 name: Owen Kemp
 rank: 2
 memberships: [tech, cofounders, wisdom_council]
