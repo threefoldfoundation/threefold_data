@@ -1,6 +1,6 @@
 ---
 id: join_our_team
-title: Join Our Team!
+title: Join Our Team
 tags: [community,update]
 category: [farming,cloud,foundation,twin,aci]
 image: ./join_our_team.png
