@@ -7,11 +7,8 @@ This projects represents a one source of truth for threefold data
 
 ## install in your www_... site
 
-- open shell
-- go to root of www_ site
-- do ```curl https://raw.githubusercontent.com/threefoldfoundation/data_threefold/development/install.sh | bash```
+see https://github.com/freeflowuniverse/crystaltools
 
-this will prepare the site for gitpod
 
 ## details
 
