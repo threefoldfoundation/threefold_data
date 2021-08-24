@@ -1,37 +1,36 @@
 ---
 id: crystal_language
 title: Crystal Programming Language
-status: internal
-startdate: 2021-03-20
 countries: [Argentina]
 cities: [Buenos Aires]
-rank: 2
+rank: 4
 excerpt: A programming language for programmer and the computer - the best of both worlds.
-created: 2020-04-20
-image: ./crystal_language.png
+image: ./crystallang.png
 image_caption: crystal_language
 logo: ./logo.png
+category: [aci]
 members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
-tags: [digitaltwin]
+tags: [experience]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/crystal-language/about/
 ---
 
+<br/>
 
-# Crystal Programming Language
+![crystal_language](./crystallanguage2.png)
+
+<br/>
 
 ## About
 
-It started out, like many things at [Manas.Tech](https://manas.tech/), as an experiment. Easy to write languages used to mean that you had to sacrifice speed. And getting fast meant enduring difficult syntax. So it began with asking ourselves: “What if we didn’t have to choose one or the other”, “what if we could compile Ruby?”. It turned out that it worked, so we decided to turn that experiment into an actual project and give it our best shot. It is our pride and joy: time and time again, we find that it is delightful to write code in Crystal, and that it outperforms everything else out there.
+It started out, like many things at [Manas.Tech](https://manas.tech/), as an experiment. Easy-to-write languages used to mean that you had to sacrifice speed. And getting fast meant enduring difficult syntax. So it began with asking ourselves: “What if we didn’t have to choose one or the other”, “what if we could compile Ruby?”. It turned out that it worked, so we decided to turn that experiment into an actual project and give it our best shot. It is our pride and joy: time and time again, we find that it is delightful to write code in Crystal, and that it outperforms everything else out there.
 
 <BR>
 
 <iframe src="https://player.vimeo.com/video/444820297" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
-
 
 ## Mission
 
@@ -49,7 +48,7 @@ Crystal is a project of Manas.Tech, built along the years with the support of th
 
 You can join our mission to build better technology for the future, by becoming a direct sponsor of Crystal.
 
-## Support this project
+<!-- ## Support this project
 
 Crystal Programming Language is included in ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid.
@@ -63,4 +62,4 @@ Each project on the TDE benefits from TFT fund allocations. You can buy TFT's an
 - Q1 2021
   - Serverless Functions/Actors based on Crystal Lang on top of TFGrid
 - Q2 2021
-  - Crystal Twin Core v2.0
+  - Crystal Twin Core v2.0 -->

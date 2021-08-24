@@ -1,15 +1,16 @@
 ---
 id: ivan_coene
 name: Ivan Coene
-rank: 2
-memberships: [project]
+rank: 3
+memberships: [tech]
+category: [foundation, twin]
 bio: Front-end developer at Jimber
 excerpt: Front-end developer fell in love with Threefold  
 linkedin: https://www.linkedin.com/in/ivancoene/
-websites: https://www.jimber.org/
-projects: [jimber]
+websites: https://www.jimber.org/, https://threefold.tech/
+projects: [jimber, threefold_tech]
 image: ./ivan_coene.jpeg
-countries: [Belgian]
+countries: [Belgium]
 cities: []
 private: 0
 ---

@@ -1,16 +1,16 @@
 ---
 id: decentralzing_the_internet
 title: Decentralizing the Internet
-tags: [farming, grid, tech]
+tags: [farming,threefold_grid,technology,peer_to_peer]
+category: [farming, grid, tech, aci, cloud, foundation]
 image: ./decentralizing_the_internet.png
-category: [farming, cloud]
 image_caption: technology internet
 excerpt: In this article, we discuss the general concept of a ‘decentralized grid’ and how anyone can plug-in capacity to the ThreeFold Grid.
 authors: [roel_van_sabben]
 created: 2019-08-21
 ---
 
-# Decentralization
+## Decentralization
 
 In 1989, the Internet changed the world as we know it with the introduction of the World Wide Web. With time the Internet empowered people to share information in a decentralized way. Shortly after, big companies like Facebook, Google, and Apple emerged, providing many solutions that revolutionized the way we live. The “sharing economy” has grown exponentially over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
 <br/>
@@ -22,7 +22,7 @@ In 1989, the Internet changed the world as we know it with the introduction of t
   <br/>
   We are entering a flat-structure economy. An economy where fewer managerial levels are needed for the system to function. New technologies such as blockchain and the Internet of Things facilitate this ongoing trend. Participants can now interact on a peer-to-peer basis, forming marketplaces and organizations according to pre-agreed, programmed contracts.
 
-# The current Internet is centralized
+## The current Internet is centralized
 
 Despite the growth in popularity for decentralized systems, organizations, and currencies, the Internet remains centralized. The centralization within the Internet industry brought many barriers to entry. Indeed, to compete in the highly competitive market of Internet capacity dominated by big IT companies, massive investment, and IT development are needed.
 <br/>
@@ -32,7 +32,7 @@ But what is really scary is that the current industry exploits the market tremen
 <br/>
 ThreeFold has been developing technology that allows the decentralization of the Internet infrastructure - removing the need for data centers, and allowing anyone to take part in the Internet capacity market. Adding capacity to the ThreeFold Grid (TF Grid) makes you a ThreeFold Farmer (TF Farmer). The more decentralized the Internet gets, the more secure and effective it will become. The already is the largest grid of compute and storage in the world.
 
-# How To Participate
+## How To Participate
 
 The process of becoming a ThreeFold Farmer is very straightforward. Anyone can join the ThreeFold Grid by downloading the ThreeFold Zero-OS onto their nodes and connecting them to the ThreeFold Grid.
 <br/>

@@ -1,30 +1,30 @@
 ---
 id: seeds
-title: Regenerative Economy
-status: planned
-startdate: 2021-03-20
+title: SEEDS
 countries: [Global]
 cities: []
 rank: 3
 excerpt: Creating a regenerative financial system for a thriving global society.
-created: 2020-04-20
 image: ./seeds.png
 image_caption: seeds
 logo: ./logo.png
+category: [twin, cloud, aci]
 members: [rieki_cordon, nikolaus_heger, franz_josef_allmayer]
 websites: https://www.joinseeds.com/
-tags: [digitaltwin, grid, farming]
+tags: [community]
 private: 0
-potential:
 linkedin: https://www.linkedin.com/company/seeds-the-conscious-currency/about/
 ---
 
+<br/>
 
-# SEEDS
+![seeds](./seeds2.png)
+
+<br/>
 
 ## About
 
-*SEEDS* is a regenerative financial system for a thriving global society. A global movement that aligns radical empowerment of purpose with finance with the mission to bring about a modern day Renaissance. Since its alpha release on November 5th 2019 and its public launch in March 2020, SEEDS has gathered 150+ alliance members from across multiple bioregions. We're leaving the age of siloed competition where people and planet were exploited by systems and entering an age of cooperation where the people are in direct control and ownership of the abundant systems they inhabit. We are in the stage of cultivating a grassroots movement uniting the people and organizations dedicated to a breakthrough towards genuine sustainability, freedom, and peace. 
+[SEEDS](https://www.joinseeds.com/) is a regenerative financial system for a thriving global society. A global movement that aligns radical empowerment of purpose with finance with the mission to bring about a modern day Renaissance. Since its alpha release on November 5th 2019 and its public launch in March 2020, SEEDS has gathered 150+ alliance members from across multiple bioregions. We're leaving the age of siloed competition where people and planet were exploited by systems and entering an age of cooperation where the people are in direct control and ownership of the abundant systems they inhabit. We are in the stage of cultivating a grassroots movement uniting the people and organizations dedicated to a breakthrough towards genuine sustainability, freedom, and peace. 
 
 <BR>
 
@@ -49,6 +49,6 @@ SEEDS and ThreeFold are a natural pair of decentralized cooperative internet to 
 The evidence is clear, the current system is reaching a historical moment that demands a paradigmatic shift. Join us!
 
 
-## TFGrid Solution
+<!-- ## TFGrid Solution
 
-### Roadmap
+### Roadmap -->

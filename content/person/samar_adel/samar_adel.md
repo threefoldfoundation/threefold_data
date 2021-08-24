@@ -1,15 +1,16 @@
 ---
 id: samar_adel
 name: Samar Adel
-rank: 1
-memberships: [foundation, tech]
+rank: 3
+memberships: [tech]
+category: [foundation]
 bio: Samar has over 3 years of practical experience in designing, implementing software, including web and mobile UI development, API design and she is passionate about everything Javascript, Designing pages as well. she loves exploring new libraries.
 excerpt: I believe in a world where everyone can be happy.
 linkedin: https://www.linkedin.com/in/samaradel/
-websites: https://threefold.io/
+websites: https://threefold.tech
 image: ./samar_adel.jpg
-projects: [threefold_foundation, threefold_tech]
+projects: [threefold_tech]
 countries: [Egypt]
-cities: []
+cities: [Cairo]
 private: 0
 ---
