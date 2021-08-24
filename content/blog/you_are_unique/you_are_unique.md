@@ -1,8 +1,8 @@
 ---
 id: unique
 title: You Are Unique
-tags: [why,farming]
-category: [twin,foundation]
+tags: [autonomy, equality, human, farming]
+category: [farming, digitaltwin]
 image: ./unique.png
 image_caption: humanity
 excerpt: During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing.
@@ -10,7 +10,7 @@ authors: [sabrina_sadik]
 created: 2019-12-05
 ---
 
-## You are unique
+# You are unique
 
 During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing at ThreeFold.
 <br/>

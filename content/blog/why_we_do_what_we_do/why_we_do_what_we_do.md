@@ -1,8 +1,8 @@
 ---
 id: why
 title: Why we do what we do
-tags: [why,threefold_farming]
-category: [farming,twin,aci,foundation]
+tags: [equality, autonomy, sustainability, human, farming]
+category: [farming, digitaltwin]
 image: ./why_we_do.png
 image_caption: planet
 excerpt: If not now, when? If not us, who?

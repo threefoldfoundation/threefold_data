@@ -1,22 +1,21 @@
 ---
 id: jonas_delrue
 name: Jonas Delrue
-rank: 2
-memberships: [tech]
-category: [foundation, twin]
+rank: 4
+memberships: [project]
 bio: As a student, Jonas was already programming for Cisco, Excentis and other IT firms. During his professional career, Jonas had various positions from developer over team leader to CTO of Artilium, leading a team of 40 developers and testers. Right now Jonas is technical lead and founder within Jimber.
 excerpt: Jonas is technical lead and founder within Jimber.
 linkedin: https://www.linkedin.com/in/jonas-delrue/
-websites: https://www.jimber.org/, https://threefold.tech/
+websites: https://www.jimber.org/
 image: ./jonas_delrue.jpeg
-projects: [jimber, threefold_tech]
+projects: [jimber]
 countries: [Belgium]
 cities: [Bruges]
 private: 0
 ---
 
 <BR>
-<div class="aspect-w-16 aspect-h-9">
+
 <iframe src="https://player.vimeo.com/video/413268925" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+
 <BR>
