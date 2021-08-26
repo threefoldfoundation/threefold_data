@@ -25,4 +25,7 @@ Please take note:
 - ✅ Other services on Liquid, including trading and Liquid Earn, remain available.
 <br/>
 <br/>
+You can find the full incident report [here](https://blog.liquid.com/warm-wallet-incident).
+<br/>
+<br/>
 Liquid is investigating and will provide updates as they have them. We’ve also reached out to them directly and will share more as we know. 🙏
