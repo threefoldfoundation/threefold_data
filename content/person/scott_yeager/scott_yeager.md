@@ -5,7 +5,6 @@ rank: 2
 memberships: [foundation]
 category: [foundation]
 bio: Alchemist with symbols and sound for regenerative transformation. Entrepreneur serving businesses and individuals through writing, editing, and publishing. Poet, musician, and performer. Healing arts practitioner. Technology nerd and cross discipline creator. Decentralized network enthusiast. Believer in freedom and the power of love.
-
 I am a human on a mission to grow planetary consciousness with art and technology. My background includes formal education in English and mathematics, along with a lifetime of exploring my natural curiosity for how things work, especially electronics and computers. In 2013, I quit a soul crushing job at an ecommerce startup, which launched an entrepreneurial journey that eventually led me to ThreeFold. Along with language, music is a medium of expression that I feel blessed to include in my role on the team. For me, the healing power of sound is real, just like the infinite potential of love. The world needs an open and neutral way to communicate, so that we can collaborate and thrive—that's why I'm excited to contribute to ThreeFold technology and the FreeFlow movement.
 excerpt: Technology nerd and cross discipline creator.
 linkedin: https://www.linkedin.com/in/scottmyeager/
