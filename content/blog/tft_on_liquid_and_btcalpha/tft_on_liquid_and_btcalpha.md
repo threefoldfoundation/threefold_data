@@ -41,4 +41,4 @@ On behalf of our planet, humanity and the ThreeFold Community, we thank you for 
 <br/>
 <br/>
 
-*If you need more guidance on buying TFT, please head [here](https://wiki.threefold.io/#/how_to_buy_and_sell).*
+*If you need more guidance on buying TFT, please head [here](https://wiki.threefold.io/#/how_to_buy).*
