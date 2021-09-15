@@ -1,5 +1,7 @@
 # Threefold Data Server
 
+### For progress please follow web presence board on Circles tool: https://circles.threefold.me/project/despiegk-product_web_threefold/wiki/home
+
 A gridsome project that exposes data through graphql server which can be used as a data source
 for different projects
 

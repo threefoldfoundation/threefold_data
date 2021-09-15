@@ -8,7 +8,7 @@ bio: VP of Global solutions engineering, my goal is to increase blockchain usabi
 excerpt: VP of Global solutions engineering.
 linkedin: https://www.linkedin.com/in/christinerpm/
 websites: https://skale.network/
-image: ./christine_renee-perry.jpg
+image: ./christine_renee_perry.jpg
 projects: [skale_labs]
 countries: [USA]
 cities: [San francisco]

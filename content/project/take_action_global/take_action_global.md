@@ -56,7 +56,7 @@ We want to raise the bar of education by having experts to teach the students an
 
 ## Powered by ThreeFold
 
-Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize elements of Digital Twin technology. The Video Chat (Meet) solution will be used to allow teachers to teach refugees. We have already been doing this for five years with Project Kakuma, and thanks to the ThreeFold we will be able to allow people globally to connect and learn from peers, including refugees and others living in harsh conditions.
+Our peer-to-peer platform will run on the ThreeFold Grid and will utilize elements of Digital Twin technology. The Video Chat (Meet) solution will be used to allow teachers to teach refugees. We have already been doing this for five years with Project Kakuma, and thanks to the ThreeFold we will be able to allow people globally to connect and learn from peers, including refugees and others living in harsh conditions.
 
 ## Join saving our planet!
 

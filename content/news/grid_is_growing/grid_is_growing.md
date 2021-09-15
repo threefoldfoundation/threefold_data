@@ -1,7 +1,7 @@
 ---
 id: grid_is_growing
 title: New Nodes In New Parts Of The World
-tags: [grid]
+tags: [threefold_grid]
 category: [foundation,farming,cloud]
 image: ./grid_is_growing.png
 image_caption: The grid is growing
