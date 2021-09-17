@@ -17,7 +17,7 @@ The [DigiByte Foundation](https://digibytefoundation.io/) and the [ThreeFold Fou
 Today, DigiByte and ThreeFold are pleased to officially announce their collaborative partnership.
 <br/>
 <br/>
-DigiByte and ThreeFold will work together on developer and user projects on the ThreeFold Grid. The DigiByte developer community, and anyone interested in contributing to the DigiByte Blockchain, is being invited to use a more decentralized and affordable cloud computing capacity. Developers can now deploy their DigiByte nodes and IT workloads on the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://sdk.threefold.io/#/smart_contract).  
+DigiByte and ThreeFold will work together on developer and user projects on the ThreeFold Grid. The DigiByte developer community, and anyone interested in contributing to the DigiByte Blockchain, is being invited to use a more decentralized and affordable cloud computing capacity. Developers can now deploy their DigiByte nodes and IT workloads on the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://library.threefold.me/info/sdk/#/smart_contract).  
 <br/>
 <br/>
 Further, community members are also being invited to explore possibilities in using the ThreeFold Grid’s capacity for their own personal computing needs and projects.  Anyone interested in being a node operator in the DigiByte Blockchain using the ThreeFold Grid would be highly encouraged to get started in a few steps following [the documentation](https://forum.threefold.io/t/how-to-deploy-a-digibyte-node-with-your-3bot-in-5-steps/379).  

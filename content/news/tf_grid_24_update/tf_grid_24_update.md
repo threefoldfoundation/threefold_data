@@ -22,4 +22,4 @@ _Anyone who is interested to contribute in writing tests or executing on tests i
 <br/>
 <br/>
 
-For **an update** on progress on / features of Grid 2.4, 2.5, & 3.0, please **click [here](https://wiki.threefold.io/#/grid242530update)**.
+For **an update** on progress on / features of Grid 2.4, 2.5, & 3.0, please **click [here](https://library.threefold.me/info/tfgrid/#/grid242530update)**.

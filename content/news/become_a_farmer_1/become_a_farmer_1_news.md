@@ -19,4 +19,4 @@ Now, you can **BE THE INTERNET** by becoming a ThreeFold Farmer.
 <br/>
 
 - ✅ [Pre-Register today for your 3Node](https://farming.threefold.io/3node)
-- 📚 [Learn more about ThreeFold Farming](https://wiki.threefold.io/#/threefold__farming_intro)
+- 📚 [Learn more about ThreeFold Farming](https://library.threefold.me/info/tfgrid/#/threefold__farming_intro)

@@ -64,7 +64,7 @@ If you believe in what we are building, we invite you to join the movement:
 - [Join the conversation](https://t.me/threefold)
 - [Test the technology](https://t.me/threefoldtesting)
 - [Follow us on Twitter](https://twitter.com/threefold_io)
-- [Buy the ThreeFold Token](https://wiki.threefold.io/#/threefold__how_to_buy_and_sell)
+- [Buy the ThreeFold Token](https://library.threefold.me/info/tfgrid/#/threefold__how_to_buy_and_sell)
 <br/>
 <br/>
 

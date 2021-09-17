@@ -17,7 +17,7 @@ Grid 2.4 is now live on testnet (and you can start testing tomorrow). This upd
 <br/>
 <br/>
 
-Learn more about the 2.4 update AND catch our 2020 highlights [here](https://wiki.threefold.io/#/grid24_and_2020).
+Learn more about the 2.4 update AND catch our 2020 highlights [here](https://library.threefold.me/info/tfgrid/#/grid24_and_2020).
 <br/>
 <br/>
 

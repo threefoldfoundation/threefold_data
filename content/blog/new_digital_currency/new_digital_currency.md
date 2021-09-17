@@ -29,4 +29,4 @@ These are some of the problems we see with cryptocurrencies. The world needs a n
 <br/>
 <br/>
 
-*To learn more about the token, please dive into [our wiki](https://wiki.threefold.io/#/token).*
+*To learn more about the token, please dive into [our wiki](https://library.threefold.me/info/tfgrid/#/token).*

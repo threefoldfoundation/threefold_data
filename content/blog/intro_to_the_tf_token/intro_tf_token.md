@@ -31,7 +31,7 @@ No ThreeFold Tokens have ever been minted. ThreeFold Tokens are generated throug
 <br/>
 <br/>
 
-*To learn more about the token, please dive into [our wiki](https://wiki.threefold.io/#/token).*
+*To learn more about the token, please dive into [our wiki](https://library.threefold.me/info/tfgrid/#/token).*
 <br/>
 <br/>
 

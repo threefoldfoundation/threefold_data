@@ -13,10 +13,10 @@ created: 2020-05-29
 [Harmony](https://www.harmony.one) and the [ThreeFold Foundation](https://threefold.io) are aligned in their focus on empowering an equal and fair world. Doing good for the planet and humanity is at the core of both organizations' DNA. Today, Harmony and ThreeFold are pleased to officially announce their collaborative partnership.
 <br/>
 <br/>
-Harmony and ThreeFold will work together on developer and user projects on the [ThreeFold Grid](https://wiki.threefold.io/#/grid_why) and [Pangaea](https://docs.harmony.one/pangaea/). Harmony’s developer community, and anyone interested in contributing to their Blockchain and being a validator within the Harmony staking ecosystem, is being invited to use a more decentralized, performant and affordable [Peer-to-Peer Cloud](https://cloud.threefold.io/) solution brought by ThreeFold.
+Harmony and ThreeFold will work together on developer and user projects on the [ThreeFold Grid](https://library.threefold.me/info/tfgrid/#/grid_why) and [Pangaea](https://docs.harmony.one/pangaea/). Harmony’s developer community, and anyone interested in contributing to their Blockchain and being a validator within the Harmony staking ecosystem, is being invited to use a more decentralized, performant and affordable [Peer-to-Peer Cloud](https://cloud.threefold.io/) solution brought by ThreeFold.
 <br/>
 <br/>
-Developers can now deploy their nodes and any IT workloads on Pangaea and the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://sdk.threefold.io/#/smart_contract).  Anyone interested in being a node operator, as a validator, in the Harmony Blockchain using the ThreeFold Grid, is invited to get started in a few steps following this [documentation](https://forum.threefold.io/t/setting-up-a-harmony-node-on-the-threefold-grid/476).
+Developers can now deploy their nodes and any IT workloads on Pangaea and the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://library.threefold.me/info/sdk/#/smart_contract).  Anyone interested in being a node operator, as a validator, in the Harmony Blockchain using the ThreeFold Grid, is invited to get started in a few steps following this [documentation](https://forum.threefold.io/t/setting-up-a-harmony-node-on-the-threefold-grid/476).
 <br/>
 <br/>
 From ThreeFold Co-Founder Adnan Fatayerji,

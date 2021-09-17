@@ -21,4 +21,4 @@ Full article [here](https://www.banklesstimes.com/2021/06/14/threefolds-green-te
 <br/>
 <br/>
 
-If you want to read more about ThreeFold energy savings, dive into [our wiki](https://wiki.threefold.io/#/threefold__energy_savings)!
+If you want to read more about ThreeFold energy savings, dive into [our wiki](https://library.threefold.me/info/tfgrid/#/threefold__energy_savings)!

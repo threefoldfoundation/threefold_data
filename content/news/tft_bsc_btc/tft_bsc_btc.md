@@ -54,7 +54,7 @@ PancakeSwap has become the top Automated Market Maker (AMM) and Decentralized Ex
 <br/>
 <br/>
 
-*Find out how to get TFT on PancakeSwap [here](https://wiki.threefold.io/#/threefold__tft_binance_defi?id=how-to-get-tft-on-pancakeswap)*
+*Find out how to get TFT on PancakeSwap [here](https://library.threefold.me/info/tfgrid/#/threefold__tft_binance_defi?id=how-to-get-tft-on-pancakeswap)*
 <br/>
 <br/>
 
@@ -62,7 +62,7 @@ PancakeSwap has become the top Automated Market Maker (AMM) and Decentralized Ex
 <br/>
 <br/>
 
-*Find out how to become a TFT Liquidity Provider on PancakeSwap [here](https://wiki.threefold.io/#/threefold__liquidity_provider)*
+*Find out how to become a TFT Liquidity Provider on PancakeSwap [here](https://library.threefold.me/info/tfgrid/#/threefold__liquidity_provider)*
 <br/>
 <br/>
 We believe in these key advantages of DeFi, where market making and providing liquidity are now decentralized to the people, and not owned or controlled by the few.
@@ -82,7 +82,7 @@ For those who have experience with Binance Smart Chain, TFT can be exchanged on 
 
 ### A BTC-TFT integration on the ThreeFold Connect app
 
-ThreeFold Connect (available on the [App Store](https://apps.apple.com/us/app/threefold-connect/id1459845885) and [Google Play](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en&gl=US) has long been a way for people to store their TFT. Now, anyone can buy TFT with BTC directly from the app itself. Learn how to buy TFT with BTC [here](https://wiki.threefold.io/#/threefold__threefold_connect_btc).
+ThreeFold Connect (available on the [App Store](https://apps.apple.com/us/app/threefold-connect/id1459845885) and [Google Play](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en&gl=US) has long been a way for people to store their TFT. Now, anyone can buy TFT with BTC directly from the app itself. Learn how to buy TFT with BTC [here](https://library.threefold.me/info/tfgrid/#/threefold__threefold_connect_btc).
 <br/>
 <br/>
 The PancakeSwap listing and the BTC integration into the ThreeFold Connect Wallet both aim to make it easier to get TFT for people around the world. We will continue these types of efforts as we go, in the spirit of inclusion and participation in the peer-to-peer Internet.

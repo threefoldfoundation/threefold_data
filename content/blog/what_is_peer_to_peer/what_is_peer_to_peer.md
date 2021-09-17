@@ -22,7 +22,7 @@ P2P systems are network, not linear or 'pyramidal' hierarchies (though they ma
 
 ## How does ThreeFold relate to peer-to-peer?
 
-ThreeFold's Peer-to-Peer (P2P) computing network is a distributed architecture that splits tasks and workloads between its peers, [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_farming). Farmers are equal participants in the network and together they form a peer-to-peer network of nodes, the ThreeFold Grid.
+ThreeFold's Peer-to-Peer (P2P) computing network is a distributed architecture that splits tasks and workloads between its peers, [ThreeFold Farmers](https://library.threefold.me/info/tfgrid/#/what_is_farming). Farmers are equal participants in the network and together they form a peer-to-peer network of nodes, the ThreeFold Grid.
 <br/>
 <br/>
 Farmers make their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Farmers are both suppliers and consumers of resources, in contrast to the traditional [client-server](https://en.wikipedia.org/wiki/Client-server) model in which the consumption and supply of resources is divided.

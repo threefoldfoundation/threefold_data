@@ -22,7 +22,7 @@ What it boils down to is that currently the internet is only available to about 
 Everything on the internet – websites, apps, photos, videos, etc – uses up capacity and is stored in huge data centers owned by big companies, mainly in North America, Europe, and some in Asia. In our solution, centralized data centers are replaced with a grid of “nodes” distributed around the world.
 <br/>
 <br/>
-These nodes are owned by [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_farming) – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, “farmers” plug in hardware and start to create capacity that can be used by people.
+These nodes are owned by [ThreeFold Farmers](https://library.threefold.me/info/tfgrid/#/what_is_farming) – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, “farmers” plug in hardware and start to create capacity that can be used by people.
 <br/>
 <br/>
 Farmers come in all shapes and sizes. Some farmers run small data centers while others simply run a node out of their living room.
@@ -80,7 +80,7 @@ Essentially, the ThreeFold Token is the medium of exchange on the new internet. 
 
 ## Need more answers?
 
-We hope that helps explains things. Obviously there is [a whole wiki](https://wiki.threefold.io) to dive in to. If you don’t find what you’re looking for, please ask us on our [forum](https://forum.threefold.io)!
+We hope that helps explains things. Obviously there is [a whole wiki](https://library.threefold.me/info/tfgrid) to dive in to. If you don’t find what you’re looking for, please ask us on our [forum](https://forum.threefold.io)!
 <br/>
 <br/>
 *Photo by Nong Vang on [Unsplash](https://unsplash.com/photos/9pw4TKvT3po).*

@@ -13,7 +13,7 @@ created: 2020-05-26
 Today, ThreeFold and WaykiChain are pleased to officially announce their collaborative partnership. Both ThreeFold and WaykiChain found clear alignment on decentralizing the internet for people and businesses and share the same core values that encompass their respective visions. 
 <br/>
 <br/>
-Through this collaboration, the WaykiChain developer community will be enabled to deploy and maintain their nodes and any of their IT Workloads using the [Threefold P2P Cloud](http://cloud.threefold.io). This will empower them to decentralize their cloud-computing infrastructures, with far more affordability, and distribution compared to centralized cloud-providers,  and with native cloud automation via ThreeFold’s [Smart contract for IT](https://sdk.threefold.io/#/smart_contract).  
+Through this collaboration, the WaykiChain developer community will be enabled to deploy and maintain their nodes and any of their IT Workloads using the [Threefold P2P Cloud](http://cloud.threefold.io). This will empower them to decentralize their cloud-computing infrastructures, with far more affordability, and distribution compared to centralized cloud-providers,  and with native cloud automation via ThreeFold’s [Smart contract for IT](https://library.threefold.me/info/sdk/#/smart_contract).  
 <br/>
 <br/>
 The ThreeFold team invites blockchain enthusiasts, developers, and anyone interested in being part of WaykiChain community to [deploy a mainnet node](https://www.wiccdev.org/book/en/NodeDeployment/require.html), or to explore [building a Dapp](https://www.wiccdev.org/book/en/) on top of WayKiChain 

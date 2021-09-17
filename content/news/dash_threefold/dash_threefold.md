@@ -14,7 +14,7 @@ created: 2020-07-03
 <br/>
 <br/>
 
-Dash / Dash NEXT and ThreeFold will work together on developer projects on the ThreeFold Grid. The Dash developer community, and anyone interested in contributing to the Dash Blockchain, is being invited to use a truly decentralized and  affordable cloud alternative - [ThreeFold P2P Cloud](http://cloud.threefold.io). Developers can now deploy their Dash nodes and IT workloads on the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://sdk.threefold.io/#/smart_contract). 
+Dash / Dash NEXT and ThreeFold will work together on developer projects on the ThreeFold Grid. The Dash developer community, and anyone interested in contributing to the Dash Blockchain, is being invited to use a truly decentralized and  affordable cloud alternative - [ThreeFold P2P Cloud](http://cloud.threefold.io). Developers can now deploy their Dash nodes and IT workloads on the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://library.threefold.me/info/sdk/#/smart_contract). 
 <br/>
 <br/>
 
@@ -25,7 +25,7 @@ Adnan Fatayerji, co-founder at ThreeFold, enthusiastically expressed his excitem
 <br/>
 <br/>
 
-The Dash community and any individual or organization interested in contributing to Dash are now empowered to deploy their Dash MasterNodes and any containerized IT workload using the [ThreeFold P2P Cloud](http://cloud.threefold.io), and benefit from  an autonomous execution via [Smart Contracts for IT](https://sdk.threefold.io/#/smart_contract). Dash’s community is incentivized to get started with free compute and storage capacities offered by ThreeFold.  
+The Dash community and any individual or organization interested in contributing to Dash are now empowered to deploy their Dash MasterNodes and any containerized IT workload using the [ThreeFold P2P Cloud](http://cloud.threefold.io), and benefit from  an autonomous execution via [Smart Contracts for IT](https://library.threefold.me/info/sdk/#/smart_contract). Dash’s community is incentivized to get started with free compute and storage capacities offered by ThreeFold.  
 <br/>
 <br/>
 Felix Mago, Co-Founder at Dash NEXT shared his enthusiasm around that opportunity: “We are excited to have ThreeFold as a partner as they are enabling us to host Dash Masternodes in a decentralized manner.”

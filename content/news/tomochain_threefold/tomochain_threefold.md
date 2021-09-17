@@ -13,16 +13,16 @@ created: 2020-05-20
 _This week marks a big step in the history of TomoChain and ThreeFold as both organizations join forces to work towards a common vision of a more sustainable and decentralized world._
 <br/>
 <br/>
-The [ThreeFold Grid](https://wiki.threefold.io/#/grid_why)’s peer-to-peer nature comes with many advantages for blockchains as it truly decentralizes their IT infrastructures and, enabling better performance, security, affordability, and sustainability, as compared to current centralized cloud alternatives.
+The [ThreeFold Grid](https://library.threefold.me/info/tfgrid/#/grid_why)’s peer-to-peer nature comes with many advantages for blockchains as it truly decentralizes their IT infrastructures and, enabling better performance, security, affordability, and sustainability, as compared to current centralized cloud alternatives.
 <br/>
 <br/>
-[TomoChain](https://tomochain.com) will invite their developer community and anyone interested in contributing to the TomoChain Blockchain, to connect and use the Threefold Grid. By deploying their Masternodes and workloads on the ThreeFold Grid, their developers will benefit from a more decentralized and affordable cloud offering and benefit from the autonomous execution of their workloads via ThreeFold’s [Smart Contract for IT](https://sdk.threefold.io/#/smart_contract).
+[TomoChain](https://tomochain.com) will invite their developer community and anyone interested in contributing to the TomoChain Blockchain, to connect and use the Threefold Grid. By deploying their Masternodes and workloads on the ThreeFold Grid, their developers will benefit from a more decentralized and affordable cloud offering and benefit from the autonomous execution of their workloads via ThreeFold’s [Smart Contract for IT](https://library.threefold.me/info/sdk/#/smart_contract).
 <br/>
 <br/>
 Anyone interested in being part of the TomoChain node ecosystem using the ThreeFold Grid would be highly encouraged to get started in a few steps [following the documentation](https://forum.threefold.io/t/setting-up-a-tomochain-node-in-5-steps/389).
 <br/>
 <br/>
-Furthermore, with the recent announcement of TomoChain’s DEX Protocol, TomoX, released, both organizations will also test the [ThreeFold P2P Cloud](https://sdk.threefold.io/#/intro) solution to enable developers to build DEXs on top of TomoChain using ThreeFold’s truly decentralized IT infrastructure.
+Furthermore, with the recent announcement of TomoChain’s DEX Protocol, TomoX, released, both organizations will also test the [ThreeFold P2P Cloud](https://library.threefold.me/info/sdk/#/intro) solution to enable developers to build DEXs on top of TomoChain using ThreeFold’s truly decentralized IT infrastructure.
 <br/>
 <br/>
 ---

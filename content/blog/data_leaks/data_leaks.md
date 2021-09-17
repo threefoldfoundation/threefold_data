@@ -46,4 +46,4 @@ As Einstein said, "We can't solve our problems with the same level of thinking t
 <br/>
 <br/>
 
-We have a lot more information in [our wikis](https://wiki.threefold.io) about the technology, but what we want to emphasize here with you is that we don't have to accept data leaks and hacking. There is an answer to the cybersecurity issues the world is facing. And that answer is ThreeFold.
+We have a lot more information in [our wikis](https://library.threefold.me/info/tfgrid) about the technology, but what we want to emphasize here with you is that we don't have to accept data leaks and hacking. There is an answer to the cybersecurity issues the world is facing. And that answer is ThreeFold.

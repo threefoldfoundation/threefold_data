@@ -41,5 +41,5 @@ Via your Smart Contract for IT, you can also define a consensus mechanism and cr
 The beauty of the Smart Contract for IT is that it can work with thousands of connected nodes for the proper execution of any digital requirements on the infrastructure, verify if consensus was reached or not, download the right files to execute the smart contract and verify them, make sure that no hacker or outsider can ever gain access or influence its execution and more. 
 <br/>
 <br/>
-If you want to learn more about ThreeFold’s Smart Contract for IT, read more [here](https://info.threefold.io/#/internet4__smartcontract_it).
+If you want to learn more about ThreeFold’s Smart Contract for IT, read more [here](https://library.threefold.me/info/threefold/#/internet4__smartcontract_it).
 

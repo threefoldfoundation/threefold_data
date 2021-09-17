@@ -25,7 +25,7 @@ It supports the ThreeFold Foundation - an open ecosystem that is shaping a bette
 
 ## Ready to support a new Internet?
 
-By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see [Token Distribution Event](https://wiki.threefold.io/#/tdeoverview) for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
+By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see [Token Distribution Event](https://library.threefold.me/info/tfgrid/#/tdeoverview) for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
 <br/>
 <br/>
 The time has come for us to step up and shape the world we believe is possible. Join us and lets co-create our futures together.
@@ -41,4 +41,4 @@ On behalf of our planet, humanity and the ThreeFold Community, we thank you for 
 <br/>
 <br/>
 
-*If you need more guidance on buying TFT, please head [here](https://wiki.threefold.io/#/how_to_buy).*
+*If you need more guidance on buying TFT, please head [here](https://library.threefold.me/info/tfgrid/#/how_to_buy).*
