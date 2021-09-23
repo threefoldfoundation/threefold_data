@@ -22,6 +22,7 @@ In this video, Sam, based in Turkey, and Scott, based in the Pacific Northwest (
 Eager to contribute? Find us on our forums, forums, or on GitHub!
 <br/>
 <br/>
+
 - [ThreeFold Forum](https://forum.threefold.io)
 - [ThreeFold Main Chat](https://t.me/threefold)
 - [ThreeFold Farmers Chat](https://t.me/threefoldfarmers)
