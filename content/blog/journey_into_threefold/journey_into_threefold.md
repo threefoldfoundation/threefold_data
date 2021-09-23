@@ -19,7 +19,7 @@ In this video, Sam, based in Turkey, and Scott, based in the Pacific Northwest (
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXpXtHRSji0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
-Eager to contribute? Find us on our forums, forums, or on GitHub!
+Eager to contribute? Find us on our forums, chats, or on GitHub!
 <br/>
 <br/>
 
