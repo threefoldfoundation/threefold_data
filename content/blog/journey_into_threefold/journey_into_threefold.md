@@ -16,6 +16,9 @@ If you’re part of the ThreeFold Movement, we’re sure you’ve seen Scott in 
 In this video, Sam, based in Turkey, and Scott, based in the Pacific Northwest (USA), have a conversation about Scott’s journey into ThreeFold. They speak about how he found out about the project and started contributing (and how you can do the same), the technology, the mission, vision, and values, the people, and what Scott is most looking forward to in the short, medium, and long-term.
 <br/>
 <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXpXtHRSji0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
 Eager to contribute? Find us on our forums, forums, or on GitHub!
 <br/>
 <br/>
