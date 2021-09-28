@@ -1,6 +1,6 @@
 ---
 id: ode_threefold
-title: ODE and ThreeFold Partnership Announcement
+title: ODE and ThreeFold Announce Partnership
 tags: [partner,technology,update]
 category: [farming,cloud,foundation,aci]
 image: ./ode_threefold.png
