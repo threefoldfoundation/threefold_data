@@ -14,7 +14,7 @@ Based on their shared commitment to data sovereignty and open alternatives, ownC
 
 ## Now available: ownCloud on the ThreeFold Grid
 
-The first step in the partnership is **the launch of the [ownCloud](https://www.owncloud.com) instance on the ThreeFold Grid – demoed live at ownCloud Conference 2021 (video link coming soon)** – and **the development of  a pilot program (register your interest by emailing testowncloud@threefold.io)**. The long-term vision is **a full range of file sync, file sharing and content collaboration solutions** that combine the strengths of both technologies. ThreeFold and ownCloud are excited to develop complementary offerings that reflect their shared beliefs in open standards and digital sovereignty. 
+The first step in the partnership is **the launch of the [ownCloud](https://www.owncloud.com) instance on the ThreeFold Grid – [demoed live](https://www.youtube.com/watch?v=2ZkpsG6dQvw) at ownCloud Conference 2021** – and **the development of  a pilot program (register your interest by emailing testowncloud@threefold.io)**. The long-term vision is **a full range of file sync, file sharing and content collaboration solutions** that combine the strengths of both technologies. ThreeFold and ownCloud are excited to develop complementary offerings that reflect their shared beliefs in open standards and digital sovereignty. 
 
 <br/>
 
