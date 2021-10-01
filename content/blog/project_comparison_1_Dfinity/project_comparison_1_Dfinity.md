@@ -16,7 +16,7 @@ Whether you’re new to ThreeFold or have been around for a while, the decentral
 
 This post is the first one in a series to explore fellow projects and their solutions with regards to what they share with ThreeFold but also where we differ. Follow me on my journey through the decentralization and blockchain space to get a better understanding of where we are within the space. First up: Dfinity!
 
-## The DFINITY Foundation & how it compares to ThreeFold**
+## The DFINITY Foundation & how it compares to ThreeFold
 
 The [DFINITY Foundation](https://dfinity.org/foundation) is a not-for-profit organization, founded in October 2016 by Dominic Williams and headquartered in Zürich, Switzerland. With a team of more than 200 people, Dfinity is developing the technology for the Internet Computer blockchain. It seeks to free the Internet from big tech and monopolization and return to the Internet’s open roots by offering a public blockchain on which systems and dApps can be rebuilt in a secure and scalable way.
 
