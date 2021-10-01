@@ -50,8 +50,6 @@ Since we're getting a bit into the technical weeds here, we'll just take a brief
 
 ### Zmachine
 
-<br/>
-
 Zmachine is a lightweight virtual machine (VM) implementation that's been developed in a uniquely efficient way by ThreeFold. VMs are essentially computers within computers, allowing multiple operating systems to run on a single physical system. A common example is running the Windows operating system on a Mac that's already running MacOS. 
 
 <br/>
