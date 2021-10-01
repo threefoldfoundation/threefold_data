@@ -5,7 +5,7 @@ countries: [Germany]
 cities: [Nuremberg]
 rank: 1
 excerpt: Open-source software for content collaboration on any device. Delivering digital sovereignty to over 200 million users.
-image: ./owncloud.png
+image: ./owncloud2.png
 image_caption: owncloud
 logo: ./logo.png
 category: [cloud, farming, foundation]
