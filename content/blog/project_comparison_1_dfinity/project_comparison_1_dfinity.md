@@ -1,5 +1,5 @@
 ---
-id: project_comparison_1_Dfinity
+id: project_comparison_1_dfinity
 title: "A Journey through the Decentralization and Blockchain Space – Part One: Dfinity"
 tags: [threefold_grid, blockchain, technology]
 category: [foundation]
