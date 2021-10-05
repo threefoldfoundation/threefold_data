@@ -16,11 +16,11 @@ As announced in the first episode of this series, I’d like to shed some light 
 
 ## Akash & how the project compares to ThreeFold
 
-Founded in 2015, Akash is an open-source and blockchain-based cloud computing platform. They strive for an open, permissionless, and sovereign cloud that allows anyone to reserve computing resources without any intermediaries. Their cloud platform provides a simple way for deploying and scaling cloud applications. 
+Founded in 2015, [Akash](https://akash.network) is an open-source and blockchain-based cloud computing platform. They [strive](https://akash.network/about#vision) for an open, permissionless, and sovereign cloud that allows anyone to reserve computing resources without any intermediaries. Their cloud platform provides a simple way for deploying and scaling cloud applications. 
 
 <br/>
 
-The Akash Network is a decentralized, on-chain marketplace for leasing cloud computing resources, while the Akash Container Platform is an off-chain platform for cloud management services (deployment, hosting, and management of workloads) on Kubernetes, the industry standard for container orchestration. We also integrated Kubernetes into our P2P Cloud solution, but we didn’t stop there. On ThreeFold’s cloud solution, developers additionally have the option to deploy virtual machines or to discover the future of cloud computing with ZFlist – a game-changing Docker-compatible solution that is distributed across many mini VMs, positioning itself as the ideal infrastructure for edge workloads. And all data produced by these workloads can be stored in our Quantum Safe File System solution that is highly compatible with most storage tools (e.g. S3) and protocols (e.g. IPFS).
+The Akash Network is a decentralized, on-chain marketplace for leasing cloud computing resources, while the Akash Container Platform is an off-chain platform for cloud management services (deployment, hosting, and management of workloads) on Kubernetes, the industry standard for container orchestration. We also integrated Kubernetes into our [P2P Cloud](https://threefold.io/info/cloud#/cloud__cloud_intro) solution, but we didn’t stop there. On ThreeFold’s cloud solution, developers additionally have the option to deploy virtual machines or to discover the future of cloud computing with ZFlist – a game-changing Docker-compatible solution that is distributed across many mini VMs, positioning itself as the ideal infrastructure for edge workloads. And all data produced by these workloads can be stored in our [Quantum Safe File System](https://threefold.io/how-it-works/zdbfs) solution that is highly compatible with most storage tools (e.g. S3) and protocols (e.g. IPFS).
 
 <br/>
 
@@ -28,13 +28,13 @@ With Akash, developers would get access to what is probably the best decentraliz
 
 <br/>
 
-Akash sees their USP in hosting containers that allow any type of cloud-native application to be hosted without vendor lock-in or having to learn new protocols, a vision shared and extended by ThreeFold as the project is already compatible with most of the industry standards. With the integration of Terraform into the upcoming third release of the ThreeFold Grid, developers will be capable of hosting any existing or future Linux workload seamlessly.
+Akash sees their [USP](https://docs.akash.network) in hosting containers that allow any type of cloud-native application to be hosted without vendor lock-in or having to learn new protocols, a vision shared and extended by ThreeFold as the project is already compatible with most of the industry standards. With the integration of [Terraform](https://forum.threefold.io/t/threefold-grid-3-0-supports-terraform/1184) into the upcoming third release of the [ThreeFold Grid](https://www.forbes.com/sites/johnkoetsier/2020/06/20/largest-distributed-peer-to-peer-grid-on-the-planet-laying-foundation-for-a-decentralized-internet/), developers will be capable of hosting any existing or future Linux workload seamlessly.
 
 <br/>
 
 ## Network and development possibilities
 
-Akash is one of the most robust decentralized compute solutions out there and is one of the key players in driving the DeCloud movement. On its platform, computing resources can be leased on the Akash Marketplace, driven by its blockchain based on the Cosmos SDK. It’s already being used by a range of blockchains and applications. On their marketplace, users can determine the terms and price for their deployments and have cloud providers bid for the opportunity in a reversed auction. Nevertheless, the project still relies on centralized data centers as they seek to prevent unutilized capacity from centralized cloud computing services to go to waste, leveraging about 85% of this underutilized cloud capacity from data centers. So, while Akash is preventing capacity from being wasted, they also highly depend on centralized capacity – and so do the workloads using their platform.
+Akash is one of the most robust decentralized compute solutions out there and is one of the key players in driving the DeCloud movement. On its platform, computing resources can be leased on the Akash Marketplace, driven by its blockchain based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk). It’s already being used by a range of blockchains and applications. On their marketplace, users can determine the terms and price for their deployments and have cloud providers bid for the opportunity in a reversed auction. Nevertheless, the project still relies on centralized data centers as they seek to prevent unutilized capacity [from centralized cloud computing services](https://blog.orchid.com/akash-networks-greg-osuri-on-decentralizing-cloud-computing/) to go to waste, leveraging about 85% of this underutilized cloud capacity from data centers. So, while Akash is preventing capacity from being wasted, they also highly depend on centralized capacity – and so do the workloads using their platform.
 
 <br/>
 
