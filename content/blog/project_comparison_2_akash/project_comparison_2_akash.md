@@ -38,7 +38,7 @@ With ThreeFold, developers are enabled to tailor the terms for storing their wor
 
 <br/>
 
-Both projects also reward their communities for providing capacity. Akash launched a limited edition for a node device, called Supermini, which has easy plug-and-play functionalities – enabling even people without technical skills to participate, just like our [3Nodes](https://library.threefold.me/info/threefold#/technology/technology?id=_3nodes) do. We collaborate with certified hardware partners and plan to extend our reach in the near future to allow even more people to join the ThreeFold Grid. 
+Both projects also reward their communities for providing capacity. Akash planned to launch a limited edition for an own node device, called Supermini, with plug-and-play functionalities similar to our [3Node](https://library.threefold.me/info/threefold#/technology/technology?id=_3nodes). *However, Akash [just announced](https://akash.network/blog/supermini-update) that they’ll be postponing the launch of their Supermini indefinitely, meaning they won't be offering anything comparable to our 3Node anytime soon.* Our 3Node is a general purpose computer that acts as  a low-level provider for IT capacity. It is booted with our unique operating system Zero-OS and enables even people without technical skills to participate. We’re collaborating with certified hardware partners and plan to extend our reach in the near future to allow even more people to join the ThreeFold Grid. 
 
 ## Tokenomics and incentive models
 
