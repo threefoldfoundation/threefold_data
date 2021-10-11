@@ -87,4 +87,4 @@ On a humanitarian level the opportunities for creativity, learning and developme
 It is evident that the current solutions are super unsustainable and make no sense. Luckily, ThreeFold and many other start-ups are deploying new solutions.
 <br/>
 <br/>
-*Photo by Thula Na on [Unsplash](https://unsplash.com/photos/RM_kkw2LsMU).*
+*Photo by Jeremy Thomas on [Unsplash](https://unsplash.com/photos/jh2KTqHLMjE).*
