@@ -73,4 +73,3 @@ The Zero-Node provides compute, network and storage capacity to the internet and
 - **Empowers equality**: Our technology should be usable by the “other billions” that remain unconnected. Due to the low cost-points, low energy requirements and reduced need of backbone network capacity.
 <br/>
 <br/>
-*Photo by Tingey Injury Law Firm on [Unsplash](https://unsplash.com/photos/L4YGuSg0fxs).
