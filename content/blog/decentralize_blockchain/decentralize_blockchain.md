@@ -1,9 +1,9 @@
 ---
-id: decentralzing_blockchain
+id: decentralize_blockchain
 title: How ThreeFold Can Truly Decentralize Blockchain
 tags: [farming,threefold_grid,technology,peer_to_peer,threefold_cloud]
 category: [farming,grid,aci,cloud,foundation]
-image: ./decentralizing_blockchain.png
+image: ./decentralize_blockchain.png
 image_caption: Decentralizing Blockchain
 excerpt: Is a blockchain truly decentralized if it is being hosted on a centralized solution? We say, no.
 authors: [sam_taggart]
