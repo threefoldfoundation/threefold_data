@@ -7,7 +7,7 @@ image: ./decentralize_blockchain.png
 image_caption: Decentralizing Blockchain
 excerpt: Is a blockchain truly decentralized if it is being hosted on a centralized solution? We say, no.
 authors: [sam_taggart]
-created: 2019-10-11
+created: 2021-10-11
 ---
 
 The topic of decentralization is commonly tied to blockchain and cryptocurrencies. Blockchain doesn't store any of its information in a central location, rather it is copied and spread across a network of computers. And the most popular name in the blockchain space, Bitcoin, was intended as an alternative payment system free of central control.
