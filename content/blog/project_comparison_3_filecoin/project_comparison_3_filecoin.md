@@ -26,7 +26,7 @@ Filecoin provides a persistent data storage system and has built an incentive st
 
 <br/>
 
-We also offer a peer-to-peer network and cloud solution. Our ThreeFold Grid is the [most advanced](https://www.forbes.com/sites/johnkoetsier/2020/06/20/largest-distributed-peer-to-peer-grid-on-the-planet-laying-foundation-for-a-decentralized-internet/) distributed peer-to-peer network there is, currently present in [more than 50 countries](https://explorer.grid.tf). While Filecoin also has its own underlying blockchain, we’re the first full-stack blockchain-enabled cloud to be made open source. Moreover, we offer an energy-efficient [full stack cloud infrastructure](https://cloud.threefold.io) that unites compute, storage, and network, and integrates all leading industry-standard tools – allowing for a seamless migration of any digital workload, even from traditional cloud providers like Microsoft Azure or AWS.
+We also offer a peer-to-peer network and cloud solution. Our ThreeFold Grid is the [most advanced](https://www.forbes.com/sites/johnkoetsier/2020/06/20/largest-distributed-peer-to-peer-grid-on-the-planet-laying-foundation-for-a-decentralized-internet/) distributed peer-to-peer network there is, currently present in [more than 50 countries](https://explorer.grid.tf). While Filecoin also has its own underlying blockchain, we’re the first full-stack blockchain-enabled cloud to be made open source. Moreover, we offer an energy-efficient [full stack cloud infrastructure](https://cloud.threefold.io) that unites compute, storage, and network, and integrates all leading industry-standard tools – allowing for a seamless migration of any digital workload, even from [traditional cloud providers](https://threefold.io/blog/post/threefold_cloud_vs_centralized_providers_like_aws_azure/) like Microsoft Azure or AWS.
 
 <br/>
 
@@ -58,4 +58,4 @@ This is why ThreeFold is the [ideal substrate](https://forum.threefold.io/t/thre
 
 <br/>
 
-On their website, Filecoin [states](https://filecoin.io/build/#community) that they’re all about “coming together to collaborate and build something greater,” so they seem open to collaboration – which is very appealing to us, as we truly believe in collaboration to effect change at a large scale to fully decentralize the Internet and Cloud. Thanks for continuing this journey with me and don’t forget to stay tuned for the next stop: Storj!
+On their website, Filecoin [states](https://filecoin.io/build/#community) that they’re all about “coming together to collaborate and build something greater,” so they seem open to collaboration – which is very appealing to us, as we truly believe in collaboration to effect change at a large scale to fully decentralize the [Internet and Cloud](https://africa.businessinsider.com/local/markets/ambitious-startup-to-disrupt-the-internet-and-cloud/b38rwj4). Thanks for continuing this journey with me and don’t forget to stay tuned for the next stop: Storj!
