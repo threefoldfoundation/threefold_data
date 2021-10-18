@@ -3,7 +3,7 @@ id: an_intro_to_the_threefold_grid
 title: "Building a New Internet From the Ground Up – Part 1: Introduction"
 tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
-image: ./an_intro_to_the_threefold_grid.jpg
+image: ./an_intro_to_the_threefold_grid.png
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
 excerpt: The first episode in an approachable series on the inner workings of the ThreeFold Grid.
 authors: [scott_yeager]

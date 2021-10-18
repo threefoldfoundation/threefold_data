@@ -3,7 +3,7 @@ id: building_a_new_internet_from_the_ground_up_3
 title: "Building a New Internet From the Ground Up – Part 3: Compute"
 tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
-image: ./pt_3_compute.png
+image: ./building_a_new_internet_3.png
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
 excerpt: Part three of an approachable series on the inner workings of the ThreeFold Grid. This time, we're exploring compute.
 authors: [scott_yeager]
