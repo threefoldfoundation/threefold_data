@@ -26,7 +26,7 @@ Another similarity is that security and privacy are crucial aspects of our proje
 
 <br/>
 
-While Storj does not have its own operating system, we’ve built our [Zero-OS](https://www2.threefold.io/tech/tech/zero-os) from scratch. It allows servers to run autonomously and workloads to be hosted securely, preventing them from administrative exploits and errors. The self-driving and self-healing [features](https://threefold.io/blog/post/zero_os_blog/) of Zero-OS eliminate backdoors, reduce the hacking surface and remove the need for human involvement.
+While Storj does not have its own operating system, we’ve built our [Zero-OS](https://www.threefold.io/tech/zero-os) from scratch. It allows servers to run autonomously and workloads to be hosted securely, preventing them from administrative exploits and errors. The self-driving and self-healing [features](https://threefold.io/blog/post/zero_os_blog/) of Zero-OS eliminate backdoors, reduce the hacking surface and remove the need for human involvement.
 
 <br/>
 
