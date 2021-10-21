@@ -1,5 +1,5 @@
 ---
-id: project_comparison_4_Storj
+id: project_comparison_4_storj
 title: "A Journey through the Decentralization and Blockchain Space – Part Four: Storj"
 tags: [threefold_grid, threefold_cloud, technology, blockchain, peer_to_peer]
 category: [foundation, cloud, technology]
