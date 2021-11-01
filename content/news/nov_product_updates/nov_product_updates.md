@@ -20,7 +20,7 @@ We need your help, dear community, to try our solutions on testnet and give us f
 <br/>
 🔥 Try to deploy 3Bot on testnet [here](http://deploy3bot.testnet.grid.tf/)
 🔥 Try to deploy a TF Now solution [here](http://marketplace.threefold.io/)
-🔥 Manual for deployment [here](http://manual.threefold.io/)
+🔥 Manual for deployment [here](https://library.threefold.me/info/sdk/#/sdk__peer2peer_cloud_intro)
 <br/>
 <br/>
 ✨ **Have you seen our new TF Capacity Explorer?**

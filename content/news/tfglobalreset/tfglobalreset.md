@@ -13,9 +13,6 @@ created: 2020-12-04
 As part of the Summit and beyond, we will be exploring what a digital reset would look like – where you are the center of your digital life.
 <br/>
 <br/>
-[Join in!](https://globalreset.online/)
-<br/>
-<br/>
 *More about Global Reset:*
 <br/>
 <br/>

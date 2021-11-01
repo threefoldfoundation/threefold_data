@@ -40,4 +40,4 @@ Organizations should always respect human rights, human effort and human experie
 - **Transparency**: Organisational records and strategies should be accessible to everyone.
 <br/>
 <br/>
-*Photo by Renee Fisher on [Unsplash](https://unsplash.com/photos/N7oCVnnhgCA).*
+*Photo by Renee Fisher on Unsplash.*

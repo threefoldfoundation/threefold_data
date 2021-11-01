@@ -24,7 +24,7 @@ Today we present you a round of recent updates to ThreeFold Cloud & Grid Service
 <br />
 What Now?
 - [Read the full release notes](https://threefold.io/info/cloud#/cloud__release_notes_2_7_1)
-- [Join the Grid testing community](https://bit.ly/threefoldtesting)
+- [Join the Grid testing community](https://t.me/threefoldtesting)
 - [Info: Get TFT with BTC directly on ThreeFold Connect](https://library.threefold.me/info/tfgrid/#/threefold__threefold_connect_btc)
 - [Info: Get TFT via Binance Smart Chain](https://library.threefold.me/info/tfgrid/#/threefold__tft_binance_defi?id=how-to-get-tft-on-pancakeswap)
 <br />
