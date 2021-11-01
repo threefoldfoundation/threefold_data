@@ -46,4 +46,4 @@ Capacity for the ThreeFold Grid can be added in all shapes and sizes. It could b
 <br/>
 <br/>
 
-To find out more about how you can become a farmer, please visit ThreeFold’s website [www.threefold.io](https://www.threefold.io). Our [wiki](https://library.threefold.me/info/tfgrid) or register to for first access to our next batch of 3Node here: [https://pre-register.threefold.io/](https://pre-register.threefold.io/). We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. 
+To find out more about how you can become a farmer, please visit ThreeFold’s website [www.threefold.io](https://www.threefold.io). Our [wiki](https://library.threefold.me/info/threefold#/) or register to for first access to our next batch of 3Node here: [https://pre-register.threefold.io/](https://pre-register.threefold.io/). We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. 
