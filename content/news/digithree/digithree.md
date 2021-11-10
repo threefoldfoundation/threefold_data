@@ -1,7 +1,7 @@
 ---
 id: digithree
 title: Announcing DigiThree Labs
-tags: [partner,technology,news]
+tags: [partner,technology,news,peer_to_peer]
 image: ./digithree.png
 category: [farming,cloud,foundation,aci]
 image_caption: DigiThree

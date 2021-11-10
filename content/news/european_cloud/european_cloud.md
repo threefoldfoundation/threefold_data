@@ -1,7 +1,7 @@
 ---
 id: european_cloud
 title: Europe's Next-Gen Edge Computing Platform
-tags: [interview,event,community]
+tags: [update,technology,threefold_cloud,peer_to_peer]
 image: ./european_cloud.png
 category: [farming,cloud,foundation,aci]
 image_caption: European Cloud
