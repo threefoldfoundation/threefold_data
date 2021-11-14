@@ -1,8 +1,8 @@
 ---
 id: sabrina_sadik
 name: Sabrina Sadik
-rank: 3
-memberships: [tech, grid_guardians]
+rank: 1
+memberships: [foundation, tech, grid_guardians]
 category: [foundation, farming]
 bio: Sabrina is a jack of all trades when it comes to ThreeFold. She handles most of the customer communication, is in charge of the logistic aspects and helps out wherever needed. Sabrina is an outgoing person who loves to laugh and be with friends and family, but she's secretly also a bit of a nerd who loves the calmness of being alone and reading a book while her daughter is asleep.
 excerpt: Sabrina is a jack of all trades when it comes to ThreeFold.
