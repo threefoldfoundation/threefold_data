@@ -3,7 +3,7 @@ id: selfkey
 title: SelfKey
 countries: []
 cities: []
-rank: 0
+rank: 4
 excerpt: SelfKey is a fast-growing blockchain startup developing digital identity solutions.
 image: ./selfkey.png
 image_caption: selfkey

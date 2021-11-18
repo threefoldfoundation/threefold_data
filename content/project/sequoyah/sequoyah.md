@@ -3,7 +3,7 @@ id: sequoyah
 title: Sequoyah
 countries: [Denmark]
 cities: [Copenhagen]
-rank: 5
+rank: 4
 excerpt: Build a decentralized banking system where by each user will have access to multiple digital and market assets at the palm of their hand.
 image: ./sequoyah.png
 image_caption: sequoyah
@@ -29,7 +29,6 @@ Sequoyah is the leading provider of diamonds, alloys and prefabricated alloys to
 ## Mission
 
 Ecologically sound, conflict-free sources for diamonds and alloys, and provide a safe haven for their customers' data - the gold of the internet.
-
 
 ## Impact
 

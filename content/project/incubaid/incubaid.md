@@ -3,7 +3,7 @@ id: incubaid
 title: Incubaid
 countries: [Belgium]
 cities: [Ghent]
-rank: 0
+rank: 5
 excerpt: 
 image: ./placeholder.jpg
 image_caption: Incubaid

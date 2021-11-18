@@ -3,7 +3,7 @@ id: dragonchain
 title: Dragonchain
 countries: [USA]
 cities: [Bellevue]
-rank: 3
+rank: 4
 excerpt: Enterprise ready, startup friendly. The most secure and flexible blockchain platform on earth.
 image: ./dragonchain.png
 image_caption: dragonchain

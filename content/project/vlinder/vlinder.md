@@ -3,7 +3,7 @@ id: vlinder
 title: Vlinder
 countries: [Russia, Austria]
 cities: [Perm, Salzburg]
-rank: 3
+rank: 2
 excerpt: A personal finance app providing a new perspective on people's lifestyle, empowering them to act on Earth’s global problems.
 image: ./vlinder.png
 image_caption: vlinder

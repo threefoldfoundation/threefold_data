@@ -3,7 +3,7 @@ id: threefold_foundation
 title: ThreeFold Foundation
 countries: [UAE, Switzerland, Belgium]
 cities: [Dubai, Lugano, Ghent]
-rank: 2
+rank: 1
 excerpt: The ThreeFold Foundation along with its partners is growing the ThreeFold Grid and a new peer-to-peer internet.
 image: ./threefold_foundation.png
 image_caption: threefold_foundation

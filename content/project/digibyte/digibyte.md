@@ -3,7 +3,7 @@ id: digibyte
 title: DigiByte
 countries: [Global]
 cities: [Global]
-rank: 1
+rank: 2
 excerpt: An innovative blockchain for digital assets, smart contracts, dApps and secure authentication.
 image: ./digibyte.jpg
 image_caption: digibyte

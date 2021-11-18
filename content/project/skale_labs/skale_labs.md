@@ -3,7 +3,7 @@ id: skale_labs
 title: SKALE
 countries: [USA]
 cities: [San Francisco]
-rank: 2
+rank: 3
 excerpt: Run your dApps in a decentralized modular cloud built for real-world needs and configured for your requirements.
 image: ./skale_labs.png
 image_caption: skale_labs

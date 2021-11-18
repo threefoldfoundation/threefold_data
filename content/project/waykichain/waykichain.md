@@ -3,7 +3,7 @@ id: waykichain
 title: Waykichain
 countries: [Hong Kong]
 cities: []
-rank: 3 
+rank: 3
 excerpt: Community driven Blockchain for DeFi and financial dApps.
 image: ./waykichain.png
 image_caption: waykichain

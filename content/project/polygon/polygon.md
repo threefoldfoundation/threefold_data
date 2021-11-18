@@ -3,7 +3,7 @@ id: polygon
 title: Polygon
 countries: [Global]
 cities: [Global]
-rank: 2
+rank: 3
 excerpt: Protocol and framework for building Ethereum-compatible blockchain networks.
 image: ./polygon.png
 image_caption: Polygon

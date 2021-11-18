@@ -3,7 +3,7 @@ id: btc_alpha
 title: BTC-Alpha
 countries: []
 cities: []
-rank: 0
+rank: 5
 excerpt: BTC-Alpha is a digital asset trading platform providing advanced financial services to traders worldwide since 2016.
 created: 2020-04-20
 image: ./btc_alpha.png

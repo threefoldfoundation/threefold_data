@@ -3,7 +3,7 @@ id: veda
 title: Veda
 countries: [Egypt]
 cities: [Nile]
-rank: 5
+rank: 1
 excerpt: Discover ancient Egypt and feel its special energies.
 image: ./veda.png
 image_caption: veda

@@ -3,7 +3,7 @@ id: flowgen
 title: FlowGen
 countries: [Switzerland]
 cities: [Zug]
-rank: 3
+rank: 4
 excerpt: Ground-breaking Technology in the Wind Energy Sector
 image: ./flowgen.png
 logo: ./logo.png

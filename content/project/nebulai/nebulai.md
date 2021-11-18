@@ -3,7 +3,7 @@ id: nebulai
 title: Nebulai
 countries: [Global]
 cities: []
-rank: 4
+rank: 2
 excerpt: A Digital Transformation Federator and Global Solutions Marketplace.
 image: ./nebulai.png
 image_caption: nebulai

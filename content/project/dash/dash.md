@@ -3,7 +3,7 @@ id: dash
 title: Dash
 countries: [Global]
 cities: [Global]
-rank: 2
+rank: 3
 excerpt: Instant transactions and micro-fees. Any amount, anytime, anywhere. 
 image: ./dash.png
 image_caption: dash

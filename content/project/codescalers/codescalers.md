@@ -3,7 +3,7 @@ id: codescalers
 title: CodeScalers
 countries: [Egypt]
 cities: [Cairo]
-rank: 0
+rank: 4
 excerpt: CodeScalers mission is to develop promising technology for start-up companies in cloud computing and datacenters.
 image: ./codescalers.png
 image_caption: codescalers

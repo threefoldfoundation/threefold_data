@@ -3,7 +3,7 @@ id: ubuntu
 title: Ubuntu Tribe
 countries: [Global]
 cities: [Global]
-rank: 2
+rank: 4
 excerpt: Ubuntu Tribe is an ecosystem of digital investment and business management tools aiming at boosting financial inclusion.
 image: ./ubuntu.png
 image_caption: ubuntu

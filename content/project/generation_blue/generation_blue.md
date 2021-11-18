@@ -3,7 +3,7 @@ id: generation_blue
 title: Generation Blue
 countries: [Portugal]
 cities: []
-rank: 4
+rank: 5
 excerpt: Empower every global citizen to protect and regenerate nature.
 image: ./genblue.png
 image_caption: generation_blue

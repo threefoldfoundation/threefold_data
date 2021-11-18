@@ -10,7 +10,7 @@ image_caption: digicorp labs
 logo: ./logo.png
 category: [cloud, farming, aci, foundation]
 members: [jozua_van_der_deijl, rudy_bouwman]
-websites: https://digicorplabs.com, https://digithreelabs.com
+websites: https://digicorplabs.com
 tags: [blockchain,technology]
 private: 0
 linkedin: https://www.linkedin.com/company/digicorp-labs
@@ -28,7 +28,7 @@ DigiCorp sees how digital lives are becoming more significant, and we’re actin
 
 ## DigiCorp Labs and ThreeFold
 
-DigiCorp and ThreeFold have partnered to form DigiThree Labs. DigiThree is part of the DigiCorp family – an ecosystem of secure, decentralized, metaverse-based services designed to build an inherently secure, people-centric, value creation-focused web of tomorrow.
+DigiCorp and ThreeFold have partnered to form [DigiThree Labs](https://digithreelabs.com). DigiThree is part of the DigiCorp family – an ecosystem of secure, decentralized, metaverse-based services designed to build an inherently secure, people-centric, value creation-focused web of tomorrow.
 
 <br/>
 

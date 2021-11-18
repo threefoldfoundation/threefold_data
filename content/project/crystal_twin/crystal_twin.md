@@ -3,7 +3,7 @@ id: crystal_twin
 title: Crystal Twin
 countries: [Global]
 cities: [Global]
-rank: 0
+rank: 5
 excerpt: Your digital twin serving as a gateway to the new digital world of peer-to-peer experiences.
 image: ./crystaltwin.png
 image_caption: crystal_twin

@@ -3,7 +3,7 @@ id: shareitt
 title: Shareitt
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: 2
 excerpt: Empowering communities socially, financially, and environmentally.
 image: ./shareitt.png
 image_caption: shareitt

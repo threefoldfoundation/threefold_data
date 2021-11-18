@@ -3,7 +3,7 @@ id: threefold_love
 title: ThreeFold Love
 countries: []
 cities: []
-rank: 0
+rank: 5
 excerpt: A tokenized initiative promoting the TF Token Economy while supporting the growth of worthy causes and projects.
 created: 2020-04-20
 image: ./placeholder.jpg

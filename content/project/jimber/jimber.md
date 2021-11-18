@@ -3,7 +3,7 @@ id: jimber
 title: Jimber
 countries: []
 cities: []
-rank: 0
+rank: 4
 excerpt: Jimber is an Enterprise Security Solution provider. Using the ThreeFold Grid for enterprise security gateway solutions.
 image: ./jimber.png
 image_caption: Jimber

@@ -3,7 +3,7 @@ id: spinn
 title: Spinn
 countries: [The Netherlands]
 cities: [Amsterdam]
-rank: 2
+rank: 4
 excerpt: Quality coffee made easy.
 image: ./spinn.png
 image_caption: spinn
