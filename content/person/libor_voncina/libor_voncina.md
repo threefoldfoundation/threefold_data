@@ -8,7 +8,7 @@ bio: Libor is a successful CEO with a track record of building and leading chall
 excerpt: Libor is a successful CEO with a track record of building and leading challenger brands and technology businesses to deliver success for all stakeholders.
 linkedin: https://www.linkedin.com/in/libor-voncina-755798143/
 websites: https://threefold.io/
-image: ./libor_voncina.jpg
+image: ./libor_voncina.jpeg
 projects: [threefold_foundation]
 countries: [Switzerland]
 cities: [Zurich]
