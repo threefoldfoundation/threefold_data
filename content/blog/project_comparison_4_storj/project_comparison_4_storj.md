@@ -42,7 +42,7 @@ On Storj’s decentralized network, uploaded data is automatically spread across
 
 <br/>
 
-While Storj only offers storage capacity, ThreeFold provides storage, compute, and network capacity. Moreover, our system is endlessly scaleable, whereas Storj’s scalability is limited as it does not empower people without technical skills to contribute and has more complex structures, such as its Satellite component which will be explained further down. We’re continuously extending our reach and our system is capable of seamlessly growing on demand, as it enables anyone to [become a 3Node](https://farming.threefold.io/farm) on our ThreeFold Grid. Moreover, our self-driving and self-healing [technology](https://threefold.io/tech) is unique in the space and removes the need for monitoring and maintaining the nodes.
+While Storj only offers storage capacity, ThreeFold provides storage, compute, and network capacity. Moreover, our system is endlessly scaleable, whereas Storj’s scalability is limited as it does not empower people without technical skills to contribute and has more complex structures, such as its Satellite component which will be explained further down. We’re continuously extending our reach and our system is capable of seamlessly growing on demand, as it enables anyone to [become a 3Node](https://threefold.io/farm) on our ThreeFold Grid. Moreover, our self-driving and self-healing [technology](https://threefold.io/tech) is unique in the space and removes the need for monitoring and maintaining the nodes.
 
 <br/>
 

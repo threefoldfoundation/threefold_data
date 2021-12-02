@@ -58,4 +58,4 @@ Any blockchain protocol or dApp, whether operating DeFi, NFTs, DEXs, etc, will a
 
 <br/>
 
-**Participate now in our quest to fully decentralize the Internet by [becoming a node](https://farming.threefold.io/farm) on our grid or [buying TFT](https://threefold.io/tft).**
+**Participate now in our quest to fully decentralize the Internet by [becoming a node](https://threefold.io/farm) on our grid or [buying TFT](https://threefold.io/tft).**

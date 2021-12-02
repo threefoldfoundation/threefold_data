@@ -30,7 +30,7 @@ It is our [mission](https://threefold.io/mission) to transform the Internet and 
 
 <br/>
 
-At ThreeFold, we believe in giving power to the people by developing technologies that empower individuals, enable social participation, and foster collaboration. We’re enabling even people without technical skills to [join the network](https://farming.threefold.io/farm) with plug-and-play [3Nodes](https://shop.threefold.tech/index.php?route=common/home) offered through our certified hardware partners. The ThreeFold Grid is therefore [more inclusive](https://www.threefold.io/blog/post/tf_grid_peoples_internet/) and allows any individual to participate. Our peer-to-peer nature removes the need of centralized servers and any type of intermediary, allowing applications and data to live closer to where they’re being utilized. 
+At ThreeFold, we believe in giving power to the people by developing technologies that empower individuals, enable social participation, and foster collaboration. We’re enabling even people without technical skills to [join the network](https://threefold.io/farm) with plug-and-play [3Nodes](https://shop.threefold.tech/index.php?route=common/home) offered through our certified hardware partners. The ThreeFold Grid is therefore [more inclusive](https://www.threefold.io/blog/post/tf_grid_peoples_internet/) and allows any individual to participate. Our peer-to-peer nature removes the need of centralized servers and any type of intermediary, allowing applications and data to live closer to where they’re being utilized. 
 
 <br/>
 
@@ -42,4 +42,4 @@ All in all, we provide the low-level primitives for a [decentralized world](http
 
 <br/>
 
-So, we’d like to invite you to join forces with us to further push the [decentralization](https://www.econotimes.com/ThreeFold-DFINITY-and-the-race-to-Decentralize-the-Internet-1618367) of the Internet together – whether by becoming a [3Node](https://farming.threefold.io/farm) or building on our ThreeFold Grid, by buying our ThreeFold Token ([TFT](https://threefold.io/tft)), our currency for a decentralized world, or by [testing](https://threefold.io/info/cloud#/cloud__evdc_getting_started) our P2P Cloud. Let’s [revolutionize](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/) the Internet together!
+So, we’d like to invite you to join forces with us to further push the [decentralization](https://www.econotimes.com/ThreeFold-DFINITY-and-the-race-to-Decentralize-the-Internet-1618367) of the Internet together – whether by becoming a [3Node](https://threefold.io/farm) or building on our ThreeFold Grid, by buying our ThreeFold Token ([TFT](https://threefold.io/tft)), our currency for a decentralized world, or by [testing](https://threefold.io/info/cloud#/cloud__evdc_getting_started) our P2P Cloud. Let’s [revolutionize](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/) the Internet together!
