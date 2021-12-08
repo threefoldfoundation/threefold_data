@@ -34,7 +34,7 @@ The statistics section gives you **an overview of [key information](https://expl
 
 <br/>
 
-![tf_explorer_statistics](tf_explorer_statistics.png)
+![tf_explorer_statistics](./tf_explorer_statistics.png)
 
 <br/>
 
@@ -54,11 +54,11 @@ Not sure what the new Admin Portal is about? We’ve covered all the details in 
 
 <br/>
 
-![tf_explorer_farms](tf_explorer_farms.png)
+![tf_explorer_farms](./tf_explorer_farms.png)
 
 <br/>
 
-![tf_explorer_nodes](tf_explorer_nodes.png)
+![tf_explorer_nodes](./tf_explorer_nodes.png)
 
 <br/>
 
@@ -66,7 +66,7 @@ We also made the world map bigger to improve the display of the available decent
 
 <br/>
 
-![tf_explorer_worldmap](tf_explorer_worldmap.png)
+![tf_explorer_worldmap](./tf_explorer_worldmap.png)
 
 <br/>
 
@@ -74,7 +74,7 @@ Dark mode is finally available for the ThreeFod Grid 3.x, bringing **a more comf
 
 <br/>
 
-![tf_explorer_darkmode](tf_explorer_darkmode.png)
+![tf_explorer_darkmode](./tf_explorer_darkmode.png)
 
 <br/>
 
