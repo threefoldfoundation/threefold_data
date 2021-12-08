@@ -5,12 +5,12 @@ tags: [threefold_grid, threefold_cloud, technology, blockchain, update]
 category: [foundation, cloud, technology]
 image: ./tech_update_admin_portal.png
 image_caption: The new TF (Chain) Admin Portal
-excerpt: Last week, we shared an update on What's new in TF Grid 3.0.1 – and the path to mainnet! There's been a lot of exciting progress by the team, and we wanted to share more details with you, starting with the admin portal!
+excerpt: Last week, we shared an update on what's new in TF Grid 3.0.1 – and the path to mainnet! There's been a lot of exciting progress by the team, and we wanted to share more details with you, starting with the admin portal!
 authors: [sam_taggart]
 created: 2021-11-26
 ---
 
-Last week, we shared an update on [What's new in TF Grid 3.0.1 – and the path to mainnet!](https://forum.threefold.io/t/whats-new-in-tf-grid-3-0-1-and-the-path-to-mainnet/1488) There's been a lot of exciting progress by the team, and we wanted to share with you some more specifics where we can – starting with the admin portal!
+Last week, we shared an update on [what's new in TF Grid 3.0.1 – and the path to mainnet!](https://forum.threefold.io/t/whats-new-in-tf-grid-3-0-1-and-the-path-to-mainnet/1488) There's been a lot of exciting progress by the team, and we wanted to share with you some more specifics where we can – starting with the admin portal!
 
 ## What is the admin portal?
 
