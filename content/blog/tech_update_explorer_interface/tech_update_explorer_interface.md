@@ -10,11 +10,11 @@ authors: [hannah_cordes]
 created: 2021-11-30
 ---
 
-We are very excited to present to you **the new Explorer UI for ThreeFold Grid 3.x!** 🎉
+We are very excited to present to you the new Explorer UI for ThreeFold Grid 3.x! 🎉
 
 <br/>
 
-The Explorer was designed to provide **a simple way for anyone to find decentralized Internet capacity on the ThreeFold Grid**, and we’re thrilled to announce **a new user interface for Grid 3.x on both [testnet](https://explorer.test.grid.tf/) and [devnet](https://explorer.dev.grid.tf/)**. 
+The Explorer was designed to provide **a simple way for anyone to find decentralized Internet capacity on the ThreeFold Grid**, and we’re thrilled to announce a new user interface for Grid 3.x on both [testnet](https://explorer.test.grid.tf/) and [devnet](https://explorer.dev.grid.tf/). 
 
 <br/>
 
@@ -30,7 +30,7 @@ The **new [Explorer UI](https://library.threefold.me/info/manual/#/manual__explo
 
 <br/>
 
-The **statistics section** gives you **an overview of [key information](https://explorer.test.grid.tf/)** about our testnet (as of November 30th, 2021) as displayed below. Our farmer community has already connected **more than 100 nodes (across 16 countries)**, and we have seen **more than 1,400 contracts deployed** on the ThreeFold Grid 3.0 testnet since its launch.
+The statistics section gives you **an overview of [key information](https://explorer.test.grid.tf/)** about our testnet (as of November 30th, 2021) as displayed below. Our farmer community has already connected **more than 100 nodes (across 16 countries)**, and we have seen **more than 1,400 contracts deployed** on the ThreeFold Grid 3.0 testnet since its launch.
 
 <br/>
 
