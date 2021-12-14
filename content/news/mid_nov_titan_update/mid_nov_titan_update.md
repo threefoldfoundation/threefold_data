@@ -1,6 +1,6 @@
 ---
 id: mid_nov_titan_update
-title: Your Mid November Titan v2.1 Update
+title: Your Mid November Titan Update
 tags: [update,farming,community]
 category: [farming,cloud,foundation]
 image: ./mid_nov_titan_update.png
