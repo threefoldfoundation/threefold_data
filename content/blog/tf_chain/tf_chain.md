@@ -46,7 +46,7 @@ For ThreeFold to be a [truly decentralized](https://threefold.io/blog/post/quest
 
 <br/>
 
-It orchestrates the provisioning of compute, storage and network on the ThreeFold Grid via [Zero-OS](https://threefold.io/tech/zero-os), removing all forms of intermediaries present in today’s centralized IT infrastructures. Put simply, TF Chain allows people to provision cloud services in a 100% decentralized way. 
+It orchestrates the provisioning of compute, storage and network on the ThreeFold Grid via [Zero-OS](https://threefold.io/tech/zero-os), removing all forms of intermediaries present in today’s centralized IT infrastructures. Put simply, TF Chain allows people to provide and use cloud resources in a 100% decentralized way. 
 
 ## What does TF Chain do?
 
