@@ -74,7 +74,7 @@ Building our own application-specific blockchain represents a major step towards
 
 <br/>
 
-A massive thank you to our developer team for this great achievement! 🙏
+A **massive thank you** to our developer team for this great achievement! 🙏
 
 <br/>
 
