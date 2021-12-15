@@ -30,7 +30,7 @@ Substrate brings clear benefits to [TF Chain](https://threefold.io/tech/tf-chain
 
 <br/>
 
-By providing a solid, mature and secure layer for custom blockchains, Substrate is built for adoption. The blockchain framework was built with the programming language Rust and is modular by design. Choosing Substrate allowed our development team to leverage great blockchain constructs and efficiently build TF Chain instead of re-inventing the wheel. 
+By providing a solid, mature and secure layer for custom blockchains, Substrate is built for adoption. The blockchain framework was built with the programming language Rust and is modular by design. Choosing Substrate allowed our developer team to leverage great blockchain constructs and efficiently build TF Chain instead of re-inventing the wheel. 
 
 <br/>
 
