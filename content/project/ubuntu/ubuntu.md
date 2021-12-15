@@ -8,7 +8,7 @@ excerpt: Ubuntu Tribe is an ecosystem of digital investment and business managem
 image: ./ubuntu.png
 image_caption: ubuntu
 logo: ./logo.png
-category: [foundation, aci]
+category: [aci,foundation]
 members: [mamadou_kwidjim_toure]
 websites: https://www.utribe.one
 tags: [community, experience]

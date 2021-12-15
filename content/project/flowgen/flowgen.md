@@ -3,13 +3,13 @@ id: flowgen
 title: FlowGen
 countries: [Switzerland]
 cities: [Zug]
-rank: 4
+rank: 3
 excerpt: Ground-breaking Technology in the Wind Energy Sector
 image: ./flowgen.png
 logo: ./logo.png
 image_caption: flowgen
-category: [foundation, farming, cloud]
-members: [tom_clausen, dirk_kuester]
+category: [foundation]
+members: [tom_clausen]
 websites: https://www.flowgen.com/
 tags: [technology]
 private: 0

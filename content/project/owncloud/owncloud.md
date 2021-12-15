@@ -8,7 +8,7 @@ excerpt: Open-source software for content collaboration on any device. Deliverin
 image: ./owncloud2.png
 image_caption: owncloud
 logo: ./logo.png
-category: [cloud, farming, foundation]
+category: [foundation]
 members: [ingo_schildt]
 websites: https://owncloud.com
 tags: [blockchain]

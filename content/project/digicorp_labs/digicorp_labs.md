@@ -8,7 +8,7 @@ excerpt: Bringing enterprises next-level security for a better tomorrow.
 image: ./digicorp_labs2.png
 image_caption: digicorp labs
 logo: ./logo.png
-category: [cloud, farming, aci, foundation]
+category: [foundation]
 members: [jozua_van_der_deijl, rudy_bouwman]
 websites: https://digicorplabs.com
 tags: [blockchain,technology]

@@ -3,12 +3,12 @@ id: seeds
 title: SEEDS
 countries: [Global]
 cities: []
-rank: 3
+rank: 4
 excerpt: Creating a regenerative financial system for a thriving global society.
 image: ./seeds.png
 image_caption: seeds
 logo: ./logo.png
-category: [foundation, aci, twin]
+category: [aci,foundation]
 members: [rieki_cordon, nikolaus_heger, franz_josef_allmayer]
 websites: https://www.joinseeds.com/
 tags: [community, experience]

@@ -3,13 +3,13 @@ id: harmony
 title: Harmony
 countries: [USA]
 cities: [San Francisco]
-rank: 1
+rank: 2
 excerpt: Open consensus for 10 Billion people to scale trust and create a radically fair economy.
 image: ./harmony.png
 image_caption: harmony
 logo: ./harmony_logo.png
-category: [cloud, farming, foundation]
-members: [li_jiang, nikalos_kost]
+category: [foundation]
+members: [li_jiang]
 websites: https://www.harmony.one/
 tags: [blockchain]
 private: 0

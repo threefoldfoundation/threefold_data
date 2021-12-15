@@ -8,7 +8,7 @@ excerpt: Safe City is a technology partner, with a core focus on deploying digit
 image: ./safe_city.png
 image_caption: safe_city
 logo: ./logo.png
-category: [cloud, foundation]
+category: []
 members: [ali_omari]
 websites: https://www.safecity.com
 tags: [technology]

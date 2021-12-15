@@ -8,7 +8,7 @@ excerpt: Protocol and framework for building Ethereum-compatible blockchain netw
 image: ./polygon.png
 image_caption: Polygon
 logo: ./logo.png
-category: [cloud, farming, foundation]
+category: []
 members: [anurag_arjun, arjun_kalsy]
 websites: https://polygon.technology/
 tags: [blockchain]

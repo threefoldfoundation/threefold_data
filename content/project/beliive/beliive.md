@@ -3,12 +3,12 @@ id: beliive
 title: Beliive
 countries: [Brazil, US]
 cities: [San Francisco]
-rank: 3
+rank: 4
 excerpt: World's largest time bank, empowering people to recognize abundance by living new experiences one hour at a time.
 image: ./beliive.png
 image_caption: beliive
 logo: ./logo.png
-category: [twin, aci, foundation]
+category: [aci,foundation]
 members: [lorrana_scarpioni]
 websites: https://beliive.com
 tags: [community, experience]

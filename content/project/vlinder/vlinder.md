@@ -3,12 +3,12 @@ id: vlinder
 title: Vlinder
 countries: [Russia, Austria]
 cities: [Perm, Salzburg]
-rank: 2
+rank: 4
 excerpt: A personal finance app providing a new perspective on people's lifestyle, empowering them to act on Earth’s global problems.
 image: ./vlinder.png
 image_caption: vlinder
 logo: ./logo.png
-category: [twin, aci, foundation]
+category: [aci,foundation]
 members: [sergey_ivliev]
 websites: https://vlinder.app
 tags: [experience, impact]

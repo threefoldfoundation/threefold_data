@@ -8,7 +8,7 @@ excerpt: A programming language for programmer and the computer - the best of bo
 image: ./crystallang.png
 image_caption: crystal_language
 logo: ./logo.png
-category: [aci]
+category: []
 members: [juan_wajnerman, brian_j_cardiff]
 websites: https://crystal-lang.org/
 tags: [technology]

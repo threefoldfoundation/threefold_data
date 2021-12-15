@@ -3,12 +3,12 @@ id: dash
 title: Dash
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: 2
 excerpt: Instant transactions and micro-fees. Any amount, anytime, anywhere. 
 image: ./dash.png
 image_caption: dash
 logo: ./logo.png
-category: [cloud, farming, foundation]
+category: [foundation]
 members: [felix_mago, sascha_jochum]
 websites: https://www.dash.org/
 tags: [blockchain]

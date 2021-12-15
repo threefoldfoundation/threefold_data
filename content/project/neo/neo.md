@@ -8,7 +8,7 @@ excerpt: Scalable, fast, and ultra-secure blockchain driven by a global communit
 image: ./neo.png
 image_caption: neo
 logo: ./logo.png
-category: [farming, cloud, foundation]
+category: []
 members: [denis_suslov]
 websites: https://neo.org/
 tags: [blockchain]

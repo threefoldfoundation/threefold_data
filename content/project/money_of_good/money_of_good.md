@@ -8,7 +8,7 @@ excerpt: A socioeconomic meditation platform, driving transition to a new fair a
 image: ./money_of_good.png
 image_caption: money_of_good
 logo: ./logo.png
-category: [twin, aci, foundation]
+category: [aci,foundation]
 members: [marcelo_bohrer]
 websites: https://www.thefutureofgood.info
 tags: [experience, community]

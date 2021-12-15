@@ -8,7 +8,7 @@ excerpt: Cloud 28+ is the world's largest independent community promoting cloud 
 image: ./cloud28plus.png
 image_caption: cloud_28
 logo: ./logo.png
-category: [cloud]
+category: []
 members: []
 websites: https://cloud28plus.com
 tags: [technology]

@@ -8,7 +8,7 @@ excerpt: Circular & self-sufficient homes reducing the CO2 footprint and the was
 image: ./crystalhome.png
 image_caption: crystal_home
 logo: ./logo.png
-category: [twin, aci, farming, foundation]
+category: [aci,foundation]
 members: [bert_van_decraen]
 websites: https://www.crystalhome.org/
 tags: [experience]

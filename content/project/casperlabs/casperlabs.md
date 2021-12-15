@@ -8,7 +8,7 @@ excerpt: The First Blockchain Built for Enterprise Adoption
 image: ./casperlabs.png
 image_caption: casperlabs
 logo: ./logo.png
-category: [cloud, farming, foundation]
+category: [foundation]
 members: [medha_parlikar, neil_kapoor]
 websites: https://casperlabs.io/
 tags: [blockchain]

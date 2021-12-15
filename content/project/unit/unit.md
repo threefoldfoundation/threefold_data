@@ -8,7 +8,7 @@ excerpt: Supporting people by helping them to develop a business around their pa
 image: ./unit.png
 image_caption: unit
 logo: ./logo.png
-category: [twin, cloud, farming, aci, foundation]
+category: [aci,foundation]
 members: [michael_healy]
 websites: https://unit.ventures/
 tags: [community, experience]

@@ -8,7 +8,7 @@ excerpt: Empower every global citizen to protect and regenerate nature.
 image: ./genblue.png
 image_caption: generation_blue
 logo: ./logo.png
-category: [twin, aci, foundation]
+category: [aci,foundation]
 members: [alan_laubsch]
 websites: https://generation.blue/
 tags: [impact]

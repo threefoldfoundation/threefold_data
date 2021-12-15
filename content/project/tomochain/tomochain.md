@@ -8,7 +8,7 @@ excerpt: The efficient blockchain powered by proof of stake voting consensus.
 image: ./tomochain.png
 image_caption: tomochain
 logo: ./logo.png
-category: [cloud, farming, foundation]
+category: [foundation]
 members: [kyn_chaturvedi]
 websites: https://tomochain.com/
 tags: [blockchain]

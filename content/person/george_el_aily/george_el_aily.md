@@ -1,7 +1,7 @@
 ---
 id: george_el_aily
 name: George El Aily
-rank: 5
+rank: 4
 memberships: [partners]
 category: [foundation]
 bio: Helping in positioning countries as a frontiers in the telecom sector.

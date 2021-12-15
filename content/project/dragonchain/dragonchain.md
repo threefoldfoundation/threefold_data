@@ -3,12 +3,12 @@ id: dragonchain
 title: Dragonchain
 countries: [USA]
 cities: [Bellevue]
-rank: 4
+rank: 3
 excerpt: Enterprise ready, startup friendly. The most secure and flexible blockchain platform on earth.
 image: ./dragonchain.png
 image_caption: dragonchain
 logo: ./logo.png
-category: [cloud, foundation]
+category: [foundation]
 members: [trey_rutledge, joe_roets, dr_albert_carlson, phil_abraham]
 websites: https://dragonchain.com/
 tags: [blockchain]

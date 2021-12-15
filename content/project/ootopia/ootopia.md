@@ -8,7 +8,7 @@ excerpt: The app that unites us all to regenerate the Earth.
 image: ./ootopia.png
 image_caption: ootopia
 logo: ./logo.jpeg
-category: [foundation, aci]
+category: [aci,foundation]
 members: [florian_fournier]
 websites: https://www.ootopia.org/
 tags: [community, experience]

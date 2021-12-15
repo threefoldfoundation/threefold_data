@@ -8,7 +8,7 @@ excerpt: IBA was established with the purpose of mutual assistance in the field 
 image: ./iba.png
 image_caption: india blockchain alliance
 logo: ./logo.png
-category: [foundation, cloud]
+category: [foundation]
 members: [raj_a_kapoor]
 websites: https://indiablockchainalliance.org/
 tags: [blockchain, technology]

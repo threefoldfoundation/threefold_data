@@ -3,12 +3,12 @@ id: shareitt
 title: Shareitt
 countries: [Global]
 cities: [Global]
-rank: 2
+rank: 4
 excerpt: Empowering communities socially, financially, and environmentally.
 image: ./shareitt.png
 image_caption: shareitt
 logo: ./logo.png
-category: [twin, aci, foundation]
+category: [aci,foundation]
 members: [arie_ben_david, roel_wofert, mickey_malul]
 websites: https://www.shareitt.com
 tags: [community, experience]

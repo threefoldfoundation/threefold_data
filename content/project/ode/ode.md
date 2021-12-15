@@ -3,12 +3,12 @@ id: ode
 title: ODE Infinity
 countries: [USA]
 cities: [Tempe]
-rank: 1
+rank: 2
 excerpt: The future of consumer data
 image: ./ode.png
 image_caption: ODE
 logo: ./logo.png
-category: [cloud, farming, foundation]
+category: [foundation]
 members: [sashi_edupuganti]
 websites: https://www.odeinfinity.com/
 tags: [technology]

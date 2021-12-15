@@ -8,7 +8,7 @@ excerpt: An innovative blockchain for digital assets, smart contracts, dApps and
 image: ./digibyte.jpg
 image_caption: digibyte
 logo: ./logo.png
-category: [cloud, farming, aci, foundation]
+category: [aci,foundation]
 members: [hans_koning, rudy_bouwman, rutger_krijnen]
 websites: https://digibyte.io/
 tags: [blockchain]

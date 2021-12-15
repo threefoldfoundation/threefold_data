@@ -8,7 +8,7 @@ excerpt: A Digital Transformation Federator and Global Solutions Marketplace.
 image: ./nebulai.png
 image_caption: nebulai
 logo: ./logo.jpeg
-category: [foundation, cloud]
+category: [foundation]
 members: []
 websites: https://nebulai.com
 tags: [experience]

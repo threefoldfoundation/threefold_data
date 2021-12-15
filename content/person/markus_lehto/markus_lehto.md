@@ -1,8 +1,8 @@
 ---
 id: markus_lehto
 name: Markus Lehto
-rank: 4
-memberships: [aci_members, partners]
+rank: 5
+memberships: [aci_members]
 category: [foundation, aci]
 bio: Explorer of life. Playful disruptor. Lover of nature, music, and beauty in all its forms. Real estate developer & consultant. Entrepreneur for good.
 excerpt: Utopian | Co-Founder @ Joint Idea, Life Works Labs, Love Mafia, Urbanista Labs

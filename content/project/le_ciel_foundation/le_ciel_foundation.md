@@ -3,12 +3,12 @@ id: le_ciel_foundation
 title: Le Ciel Foundation
 countries: [Global]
 cities: []
-rank: 3
+rank: 4
 excerpt: Creating change through Education, Inclusion & Preservation initiatives. Producers of ‘The Twelve’.
 image: ./le_ciel_foundation.png
 image_caption: le_ciel_foundation
 logo: ./logo.jpeg
-category: [foundation, aci]
+category: [aci,foundation]
 members: [sophie_monpeyssen]
 websites: https://lecielfoundation.com/
 tags: [community]

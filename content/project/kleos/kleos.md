@@ -8,7 +8,7 @@ excerpt: 5G Telecommunication technology helping ThreeFold platform scale to ser
 image: ./kleos.png
 image_caption: kleos
 logo: ./logo.png
-category: [farming, foundation]
+category: [foundation]
 members: [george_el_aily]
 websites: https://www.kleos.net
 tags: [technology]

@@ -13,12 +13,12 @@ countries:
     West Africa,
   ]
 cities: []
-rank: 1
+rank: 2
 excerpt: Provide an alternative income stream and create digital services for farmers across the globe.
 image: ./solidaridad.jpg
 image_caption: solidaridad
 logo: ./logo.png
-category: [twin, cloud, farming, aci, foundation]
+category: [aci,foundation]
 members: [jeroen_douglas]
 websites: https://www.solidaridadnetwork.org/
 tags: [impact, infrastrucutre, community]

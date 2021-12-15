@@ -3,12 +3,12 @@ id: aiqom
 title: AIQOM
 countries: [Global]
 cities: [Global]
-rank: 3
+rank: 4
 excerpt: Leading AI R&D lab and is backed by impactful angel investors, visionary machine learning scientists.
 image: ./aiqom.png
 image_caption: aiqom
 logo: ./logo.png
-category: [twin, cloud, aci, foundation]
+category: [aci,foundation]
 members: [samer_obeidat]
 websites: https://aiqom.ai/
 tags: [technology, experience]

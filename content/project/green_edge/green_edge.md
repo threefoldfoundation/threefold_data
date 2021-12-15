@@ -8,7 +8,7 @@ excerpt: Creating a decentralised internet that is inherently equal, sustainable
 image: ./greenedge.png
 image_caption: green_edge
 logo: ./logo.png
-category: [foundation, cloud, farming, aci]
+category: [foundation,aci]
 members: [mariza_wellesley_wesley, michael_wellesley_wesley]
 websites: https://green-edge.net/
 tags: [technology, farming]
