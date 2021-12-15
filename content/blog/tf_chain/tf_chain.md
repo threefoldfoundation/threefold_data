@@ -54,7 +54,7 @@ It orchestrates the provisioning of compute, storage and network on the ThreeFol
 
 <br/>
 
-An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network [Link to TFT on 3 chains post], allowing it to bridge back and forth from the Stellar network and potentially from other chains in the future.
+An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network, allowing it to bridge back and forth from the Stellar network and potentially from other chains in the future.
 
 <br/>
 
