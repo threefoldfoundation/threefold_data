@@ -26,11 +26,11 @@ But what is Substrate to begin with? And what exactly does our TF Chain do?
 
 ## Why did we choose Substrate for our TF Chain?
 
-Substrate brings clear benefits to [TF Chain](https://threefold.io/tech/tf-chain) in relation to its frameworks for developers, interoperability with other blockchain ecosystems, and it’s large community. More than 150 projects from NFTs to DeFi are already building on it.  
+Substrate brings clear benefits to [TF Chain](https://threefold.io/tech/tf-chain) in relation to its frameworks for developers, its interoperability with other blockchain ecosystems and its huge community. More than 150 projects from NFTs to DeFi are already building on it.  
 
 <br/>
 
-By providing a solid, mature, and secure layer for custom blockchains, Substrate is built for adoption. The blockchain framework was built with the programming language Rust and is modular by design. Choosing Substrate allowed our development team to leverage great blockchain constructs and efficiently build TF Chain instead of re-inventing the wheel. 
+By providing a solid, mature and secure layer for custom blockchains, Substrate is built for adoption. The blockchain framework was built with the programming language Rust and is modular by design. Choosing Substrate allowed our development team to leverage great blockchain constructs and efficiently build TF Chain instead of re-inventing the wheel. 
 
 <br/>
 
