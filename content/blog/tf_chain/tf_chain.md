@@ -79,9 +79,6 @@ A massive thank you to our developer team for this great achievement! 🙏
 <br/>
 
 Want to dive deeper? We invite you to:
-
-<br/>
-
 * Learn more about how smart contracts work on TF Chain 3.0 [here](https://library.threefold.me/info/threefold#/technology/threefold__smartcontract_tfgrid3).
 * Join the ThreeFold Grid 3.0 testnet conversations [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w).
 * Check our roadmap [here](https://library.threefold.me/info/threefold#/cloud/threefold__roadmap_grid).
