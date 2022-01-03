@@ -5,7 +5,7 @@ tags: [community,event]
 category: [foundation]
 image: ./happy_new_year_2022.png
 image_caption: Happy New Year from ThreeFold
-excerpt: Wishing you aand yours all the best this new year!
+excerpt: Wishing you and yours all the best this new year!
 authors: [sam_taggart]
 created: 2021-12-31
 ---
