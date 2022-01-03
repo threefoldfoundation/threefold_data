@@ -46,7 +46,7 @@ Web3/Blockchain developers can use ThreeFold’s P2P Cloud - offering both compu
 
 ## But why choose ThreeFold over other DeCloud projects?
 
-There may be bigger names in the space, but ThreeFold's technology and offerings are [much more comprehensive than the rest](https://forum.threefold.io/c/technical-discussion/project-comparisons/). ThreeFold provides decentralized storage, compute, and network all under one roof (whereas most other projects offer only one of the three) and as mentioned, we have created an environment for developers which is highly-compatible to the developer tools and solutions they use today. Further, ThreeFold is building new infrastructure [from the ground up](https://threefold.io/blog/post/an_intro_to_the_threefold_grid/) (rather than relying on extra space in data centers) and the technology is truly peer-to-peer.
+There may be bigger names in the space, but ThreeFold's technology and offerings are much more comprehensive than the rest. ThreeFold provides decentralized storage, compute, and network all under one roof (whereas most other projects offer only one of the three) and as mentioned, we have created an environment for developers which is highly-compatible to the developer tools and solutions they use today. Further, ThreeFold is building new infrastructure [from the ground up](https://threefold.io/blog/post/an_intro_to_the_threefold_grid/) (rather than relying on extra space in data centers) and the technology is truly peer-to-peer.
 
 <br/>
 

@@ -10,7 +10,7 @@ image_caption: unit
 logo: ./logo.png
 category: [aci,foundation]
 members: [michael_healy]
-websites: https://unit.ventures/
+websites: https://ventures.unit.network/
 tags: [community, experience]
 private: 0
 linkedin: https://www.linkedin.com/company/unitventures/

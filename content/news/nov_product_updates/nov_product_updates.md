@@ -11,7 +11,7 @@ created: 2020-11-10
 ---
 
 ✨ **New ThreeFold Now Marketplace Solution!**
-Video Chat is a Zoom-alternative built on top of the TF Grid. Click [here](https://marketplace.threefold.io/marketplace/#/solutions/meetings) to try it out!
+Video Chat is a Zoom-alternative built on top of the TF Grid. Click [here](https://marketplace.threefold.io/apps/video_chat) to try it out!
 <br/>
 <br/>
 ✨ **Testnet 2.3 - Testers WANTED!**
