@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/unitventures/
 
 ## About
 
-At [Unit](https://unit.ventures/), wie want to support people who are passionate about something by helping them develop a business around it, by connecting them with clients, so they can support themselves, their family and friends.  So if someone wants to teach yoga, make art, sell cars, or design clothing - we support them by helping them develop a business around it. 
+At [Unit](https://ventures.unit.network/), wie want to support people who are passionate about something by helping them develop a business around it, by connecting them with clients, so they can support themselves, their family and friends.  So if someone wants to teach yoga, make art, sell cars, or design clothing - we support them by helping them develop a business around it. 
 <br/>
 <br/>
 We have an underlying UNIT technology which powers two-sided marketplaces (like uber, or airbnb) which powers a platform for a specific vertical or industry. We invest in these projects and companies, with the vision to create millions of jobs, and support projects by allocating funds and resources to them.
