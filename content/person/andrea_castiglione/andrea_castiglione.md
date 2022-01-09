@@ -10,7 +10,7 @@ linkedin: https://www.linkedin.com/in/castiglioneand/
 websites: https://threefold.io/, https://www.fair-swap.org, https://www.efforce.io/team/andrea-castiglione
 image: ./andrea_castiglione.jpg
 projects: [threefold_foundation]
-countries: [Switzerland]
-cities: [Zurich]
+countries: [Italy]
+cities: [Zug,Dubai]
 private: 0
 ---
