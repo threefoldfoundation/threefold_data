@@ -12,13 +12,13 @@ memberships: [
     technology_council,
     ]
 category: [foundation, aci, cloud, farming, twin]
-bio: Humanist & motivated entrepreneur, passionate to help make the world a better place. Kristof strongly believes there is need for a neutral internet owned by millions.
+bio: Humanist & motivated entrepreneur, passionate to help make the world a better place. Kristof strongly believes there is need for a neutral internet owned by millions. We dream about a world where everyone can be happy, with respect for each other and the world’s resources. A world where we dare to love ourselves and we don’t have to be scared about our future. A world where we don’t need to be a product and we have learned to collaborate with openness and trust. <BR>More info on https://library.threefold.me/info/threefold#/kristof 
 excerpt: Nerd engineer, humanist & motivated entrepreneur.
 linkedin: https://www.linkedin.com/in/despiegk/
-websites: https://www.threefold.io, https://www.threefold.me, https://www.incubaid.com/
+websites: https://www.threefold.io, https://www.incubaid.com/
 image: ./kristof_de_spiegeleer.jpeg
 projects: [threefold_foundation, threefold_tech]
-countries: [Belgium, Switzerland, Egypt]
-cities: [Ghent, Lugano, El Gouna]
+countries: [UAE, Egypt]
+cities: [Dubai, El Gouna]
 private: 0
 ---
