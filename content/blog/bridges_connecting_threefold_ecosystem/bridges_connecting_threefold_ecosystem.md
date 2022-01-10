@@ -34,7 +34,7 @@ Similarly, using bridges in blockchain allows users to easily transfer tokens an
 
 <br/>
 
-ThreeFold uses blockchain bridges to connect external blockchain networks to the ThreeFold ecosystem. The bridging mechanisms we’ve implemented allow TFT to be transferred securely between [different blockchains](https://library.threefold.me/info/threefold#/technology/threefold__money_blockchain_partity_link). Currently, we’ve established two 2-way bridges:
+ThreeFold uses blockchain bridges to connect external blockchain networks to the ThreeFold ecosystem. The bridging mechanisms we’ve implemented allow TFT to be transferred securely between [different blockchains](https://library.threefold.me/info/threefold#/technology/threefold__money_blockchain_partity_link). Currently, we’ve established **two 2-way bridges**:
 
 <br/>
 
@@ -47,15 +47,15 @@ But what is the difference between the 3 chains?
 
 <br/>
 
-[Stellar](https://www.stellar.org/?locale=en) is an open-source network for storing and moving digital assets, and still remains the main blockchain for the minting of TFT and distribution of farming rewards. Until the launch of TF Chain with Grid 3.0, only TFT living on Stellar were accepted for the reservation of Internet capacity on the ThreeFold Grid. 
+**[Stellar](https://www.stellar.org/?locale=en)** is an open-source network for storing and moving digital assets, and still remains the main blockchain for the minting of TFT and distribution of farming rewards. Until the launch of TF Chain with Grid 3.0, only TFT living on Stellar were accepted for the reservation of Internet capacity on the ThreeFold Grid. 
 
 <br/>
 
-[Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC) is a standalone, parallel Binance chain that is a leading DeFi ecosystem next to Ethereum. On BSC, TFT is implemented as a cross-chain asset, allowing anyone to [connect](https://bridge.bsc.threefold.io/) to the bridge using [Metamask](https://library.threefold.me/info/threefold#/tokens/threefold__tft_bsc_metamask) or [Trust Wallet](https://library.threefold.me/info/threefold/#/tokens/threefold__threefold_wallets?id=the-threefold-connect-app) – the most popular Web 3 wallets in the world.
+**[Binance Smart Chain](https://www.binance.org/en/smartChain)** (BSC) is a standalone, parallel Binance chain that is a leading DeFi ecosystem next to Ethereum. On BSC, TFT is implemented as a cross-chain asset, allowing anyone to [connect](https://bridge.bsc.threefold.io/) to the bridge using [Metamask](https://library.threefold.me/info/threefold#/tokens/threefold__tft_bsc_metamask) or [Trust Wallet](https://library.threefold.me/info/threefold/#/tokens/threefold__threefold_wallets?id=the-threefold-connect-app) – the most popular Web 3 wallets in the world.
 
 <br/>
 
-[TF Chain](https://threefold.io/tech/tf-chain) was built on the [Substrate framework](https://substrate.io/) with the purpose of decentralizing user-farmer relationships on the ThreeFold Grid. It has its own native form of [TFT](https://threefold.io/tft), which can be bridged back and forth from Stellar-based TFT. This model will be implemented for other chains in the future, for interoperability and cross-chain features between blockchain and DeFi ecosystems and the ThreeFold Grid.
+**[TF Chain](https://threefold.io/tech/tf-chain)** was built on the [Substrate framework](https://substrate.io/) with the purpose of decentralizing user-farmer relationships on the ThreeFold Grid. It has its own native form of [TFT](https://threefold.io/tft), which can be bridged back and forth from Stellar-based TFT. This model will be implemented for other chains in the future, for interoperability and cross-chain features between blockchain and DeFi ecosystems and the ThreeFold Grid.
 
 ## What’s new with TF Chain?
 
@@ -69,25 +69,25 @@ For now, minting will remain on Stellar but reservations of nodes and capacity o
 
 Bridges were established between Stellar and TF Chain to facilitate payments, e.g. if you pay for a workload deployment in Stellar TFT, this payment needs to be bridged to TF  Chain’s native TFT to fund the [smart contract](https://library.threefold.me/info/threefold#/technology/threefold__smartcontract_it).
 
-## The two-way [bridge](https://bridge.bsc.threefold.io/) between Stellar & BSC 
+### The two-way [bridge](https://bridge.bsc.threefold.io/) between Stellar & BSC 
 
 Until recently, the bridge between Stellar and Binance Smart Chain (BSC) was one-way only: from BSC to Stellar. Even though it was possible to transfer TFT from Stellar to BSC via  [command line](https://github.com/threefoldfoundation/tft/blob/main/bsc/bridges/stellar/transfers.md), this was only an option for tech-savvy people. Now, you can also deposit TFT from Stellar to BSC using the bridge with a proper UI, as you can see in the image below.
 
 <br/>
 
-![|624x331](https://lh3.googleusercontent.com/QeR51iT64wNwXa0jpVyp2_xy4mDaA-EKlZ-EJFD_1dW_mBhn_P6_yN0CQhXWIGznkyusMDtev0_66Eg-vQNsWSTcFVjBBC2GEPQ0hgIFP8v1ytZ7F0395RH2ntoCJZMv-nUPO4Oc)
+![tft_bsc_bridge](./tft_bsc_bridge.png)
 
 <br/>
 
-When depositing from TFT Stellar, please be sure that both addresses and memo are as indicated in the instructions or the TFT you transfer will be lost forever. To facilitate the process, a QR code is generated and can be scanned using the [ThreeFold Connect app](https://library.threefold.me/info/threefold/#/tokens/threefold__threefold_connect), automatically filling in the right address and memo on your behalf.
+When depositing from TFT Stellar, **please be sure that both addresses and memo are as indicated** in the instructions or the TFT you transfer will be lost forever. To facilitate the process, a **QR code** is generated and can be scanned using the [ThreeFold Connect app](https://library.threefold.me/info/threefold/#/tokens/threefold__threefold_connect), automatically filling in the right address and memo on your behalf.
 
 <br/>
 
-![|445x301](https://lh5.googleusercontent.com/D_MSSuaWleAmUJL3otTgSyh6EpIWZasqxKRcXRgAeI8f_ZTwOuMrCKsDs8BgpGZvPNvfjp6DjUN0L3jApofV-AgMJNjPrflMM8wd-F7LYEm_SlEJ-apYV-Y7cJBQ5ctv_b0uEX6_)
+![tft_bsc_transfer](./tft_bsc_transfer.png)
 
 <br/>
 
-As Binance Smart Chain is a more expensive chain, a fee of 50 TFTs will be automatically charged for the bridge from Stellar to BSC. Find the full step-by-step guide for the Stellar-BSC bridge [here](https://library.threefold.me/info/threefold#/tokens/threefold__tft_bsc_bridge). 
+As Binance Smart Chain is a more expensive chain, **a fee of 50 TFT** will be automatically charged for the bridge from Stellar to BSC. Find the full **step-by-step guide** for the Stellar-BSC bridge [here](https://library.threefold.me/info/threefold#/tokens/threefold__tft_bsc_bridge). 
 
 ## What’s next? 
 
@@ -95,8 +95,8 @@ As the ThreeFold ecosystem continues to grow, we’re looking into building more
 
 <br/>
 
-Try out the Stellar-BSC bridge [here](https://bridge.bsc.threefold.io/) and visit [our forum](https://forum.threefold.io/) to share your experiences.
+*Try out the Stellar-BSC bridge [here](https://bridge.bsc.threefold.io/) and visit [our forum](https://forum.threefold.io/) to share your experiences.*
 
 <br/>
 
-Check out our blog post on TF Chain [here](https://threefold.io/blog/post/tf_chain/).
+*Check out our blog post on TF Chain [here](https://threefold.io/blog/post/tf_chain/).*
