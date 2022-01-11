@@ -99,4 +99,4 @@ As the ThreeFold ecosystem continues to grow, we’re looking into building more
 
 <br/>
 
-*Check out our blog post on TF Chain [here](https://threefold.io/blog/post/tf_chain/).*
+*Also, check out our blog post on TF Chain [here](https://threefold.io/blog/post/tf_chain/).*
