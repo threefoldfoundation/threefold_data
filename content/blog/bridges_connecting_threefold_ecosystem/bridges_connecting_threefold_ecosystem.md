@@ -14,7 +14,7 @@ Wondering how to switch between blockchains? Cross-chain bridges allow you to ea
 
 <br/>
 
-Since the launch of [ThreeFold Grid](https://library.threefold.me/info/threefold#/technology/threefold__threefold_grid) 3.0, [TFT](https://threefold.io/tft) is now available on three blockchains – Stellar, Binance Smart Chain and the Substrate-based ThreeFold Blockchain (aka TF Chain).
+Since the launch of [ThreeFold Grid](https://library.threefold.me/info/threefold#/technology/threefold__threefold_grid) 3.0, [TFT](https://threefold.io/tft) has been available on three blockchains – Stellar, Binance Smart Chain and the Substrate-based ThreeFold Blockchain (aka TF Chain).
 
 <br/>
 
