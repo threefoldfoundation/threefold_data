@@ -18,7 +18,7 @@ linkedin:
 
 <br/>
 
-![V](./v_logo.png)
+![V](./v_image.png)
 
 <br/>
 
