@@ -36,7 +36,7 @@ Despite being simple, V gives a lot of power to the developer and can be used in
 
 <br/>
 
-V aims to become an alternative to JavaScript as the de facto coding language on the market in the upcoming years. With V, the developer doesn't need to change anything in their code. "It just works", like in Python, Go, or Java, except there's no heavy GC tracing everything or expensive RC for each object. V can translate your entire C project (wip) and offer you the safety, simplicity, and 10-25x faster compilation speeds. 
+V aims to become an alternative to JavaScript as the de facto coding language on the market in the upcoming years. With V, the developer doesn't need to change anything in their code. "It just works", like in Python, Go, or Java, except there's no heavy GC tracing everything or expensive RC for each object. V can translate your entire C project and offer you the safety, simplicity, and 10-25x faster compilation speeds. 
 
 <br/>
 
