@@ -1,19 +1,19 @@
 ---
 id: v
 title: V
-countries: [Netherlands]
+countries: []
 cities: []
 rank: 2
-excerpt: V is a statically typed programming language similar to Go, and inspired by Rust, Swift, and Oberon.
+excerpt: A statically typed programming language similar to Go that offers fast compilation, simplicity and maintainability while providing great performance.
 image: ./v_logo.png
 image_caption: V
 logo: ./v_logo.png
 category: [foundation]
-members: [alexander_medvednikov]
+members: []
 websites: https://vlang.io
 tags: [technology]
 private: 0
-linkedin:
+linkedin: 
 ---
 
 <br/>
