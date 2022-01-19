@@ -28,7 +28,7 @@ linkedin:
 
 ## V and ThreeFold
 
-V will become the official smart contract language on the [ThreeFold Grid](https://library.threefold.me/info/threefold_internal/#/threefold__threefold_grid) throughout the first quarter of 2022. It’s simplicity and readability allows anyone to go through and understand any code base, even non-developers, making it the ideal smart contract language for the Threefold ecosystem. 
+V will become the official smart contract language on the [ThreeFold Grid](https://library.threefold.me/info/threefold#/tfgrid/threefold__tfgrid_home) throughout the first quarter of 2022. It’s simplicity and readability allows anyone to go through and understand any code base, even non-developers, making it the ideal smart contract language for the Threefold ecosystem. 
 
 <br/>
 
