@@ -40,4 +40,4 @@ V aims to become an alternative to JavaScript as the de facto coding language on
 
 <br/>
 
-With +27K Stars on [GitHub](https://github.com/vlang/v), V-Lang brings a strong open-source developer community to the ThreeFold ecosystem to develop the infrastructures and applications of tomorrow.
+With +27K Stars on [GitHub](https://github.com/vlang/v), V brings a strong open-source developer community to the ThreeFold ecosystem to develop the infrastructures and applications of tomorrow.
