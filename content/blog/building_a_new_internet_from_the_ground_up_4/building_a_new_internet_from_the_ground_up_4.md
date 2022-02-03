@@ -3,7 +3,7 @@ id: building_a_new_internet_from_the_ground_up_4
 title: "Building a New Internet From the Ground Up – Part 4: Network"
 tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation,farming,cloud]
-image: ./building_a_new_internet_4.png
+image: ./building_a_new_internet_pt_4.png
 image_caption: The ThreeFold Grid Peer-to-Peer Technology
 excerpt: We're (finally) back with part 4, looking at the networking aspects of the ThreeFold Grid.
 authors: [scott_yeager]
