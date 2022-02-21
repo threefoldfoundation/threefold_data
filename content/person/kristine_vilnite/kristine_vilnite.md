@@ -7,6 +7,7 @@ category: [foundation, aci]
 bio: A loving, kind, explorer fully dedicating her professional path to build a sustainable foundation for the future. Kristine is a compassionate innovator, sustainable development advocate, adding value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact for the planet is a norm.
 excerpt: A loving, kind, explorer building a sustainable foundation for the future.
 linkedin: https://www.linkedin.com/in/kristinevilnite/
+github: https://github.com/Vilnite
 websites: https://threefold.io/
 image: ./kristine_vilnite.jpg
 projects: [threefold_foundation]
