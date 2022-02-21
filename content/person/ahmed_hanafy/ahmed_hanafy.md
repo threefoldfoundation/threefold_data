@@ -9,6 +9,8 @@ excerpt: Ahmed is an Automation Software Testing Engineer, started his career at
 linkedin: ''
 websites: https://threefold.tech
 projects: [threefold_tech]
+linkedin: https://www.linkedin.com/in/ahmed-hanafy-7250/
+github: https://github.com/AhmedHanafy725
 image: ./ahmed_hanafy.png
 countries: [Egypt]
 cities: [Cairo]
