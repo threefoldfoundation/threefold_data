@@ -8,6 +8,7 @@ bio: Rafy is an Electrical Engineer with great passion in Computer Science, Curr
 excerpt: Rafy is an Electrical Engineer with great passion in Computer Science.
 linkedin: 
 websites: https://threefold.tech
+github: https://github.com/RafyAmgadBenjamin
 projects: [threefold_tech]
 image: ./rafy_benjamin.jpg
 countries: [Egypt]
