@@ -1,11 +1,11 @@
 ---
 id: what_is_farming
-title: What is ThreeFold Farming
+title: What is ThreeFold Farming?
 tags: [peer_to_peer,why,farming,threefold_grid]
 category: [foundation]
 image: ./what_is_farming.png
 image_caption: What is farming
-excerpt: P2P systems are network, not linear or pyramidal hierarchies (though they may share some elements)..
+excerpt: A decentralized and energy-efficient way for people to expand a new Internet infrastructure.
 authors: [sacha_obeegadoo]
 created: 2022-03-01
 ---
