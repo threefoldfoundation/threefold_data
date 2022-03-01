@@ -81,8 +81,6 @@ While blockchain remains an incredible store of value, it is neither an efficien
 
 ## Considerations before getting started
 
-<br/>
-
 The following are important factors to consider for ThreeFold farming profitability: 
 
 ### Computer Hardware
