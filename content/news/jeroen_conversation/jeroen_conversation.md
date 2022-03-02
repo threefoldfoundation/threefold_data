@@ -5,7 +5,7 @@ tags: [community,partner,interview]
 category: [foundation]
 image: ./jeroen_conversation.png
 image_caption: A Conversation with Jeroen Douglas
-excerpt: An enlightening conversation between ThreeFold co-founder Weynand Kuijpers from ThreeFold Tech and Solidaridad Network (ThreeFold partner) Executive Director Jeroen Douglas.
+excerpt: An enlightening conversation between ThreeFold co-founder Weynand Kuijpers and Solidaridad Network (ThreeFold partner) Executive Director Jeroen Douglas.
 authors: [sam_taggart]
 created: 2022-02-22
 ---
@@ -18,7 +18,7 @@ created: 2022-02-22
 
 <br/>
 
-An enlightening conversation between ThreeFold co-founder Weynand Kuijpers from ThreeFold Tech and Solidaridad Network (ThreeFold partner) Executive Director Jeroen Douglas. 👇
+An enlightening conversation between ThreeFold co-founder Weynand Kuijpers and Solidaridad Network (ThreeFold partner) Executive Director Jeroen Douglas. 👇
 
 <br/>
 
