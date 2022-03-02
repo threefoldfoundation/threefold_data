@@ -1,6 +1,6 @@
 ---
 id: validator_faqs
-title: Validator Reservations Progress
+title: Validator Frequently Asked Questions
 tags: [community,update,news,technology,peer_to_peer]
 category: [foundation]
 image: ./validator_faqs.png
