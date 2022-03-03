@@ -3,7 +3,7 @@ id: cyberwar
 title: Can a 'Democratized' Internet exist in times of a Cyber War?
 tags: [peer_to_peer,data,why,'technology']
 category: [foundation]
-image: ./cyberwar_is_here.png
+image: ./cyberwar.png
 image_caption: The Cyber War
 excerpt: With cyber sovereignty turning into a non-territorial challenge to sovereignty itself irrespective of the virtual realm of the internet, is there a way out for humanity?
 authors: [sacha_obeegadoo]
