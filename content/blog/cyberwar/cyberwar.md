@@ -1,7 +1,7 @@
 ---
 id: cyberwar
 title: Can a 'Democratized' Internet exist in times of a Cyber War?
-tags: [peer_to_peer,data,why,'technology']
+tags: [peer_to_peer,data,why,technology]
 category: [foundation]
 image: ./cyberwar.png
 image_caption: The Cyber War
