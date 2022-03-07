@@ -14,7 +14,7 @@ ThreeFold farming refers to the act of connecting a 3Node to the ThreeFold Grid 
 
 <br/>
 
-![3Node](./3node_example.png "Text to show on mouseover")
+![3Node](./3node_example.png)
 
 <br/>
 
@@ -122,3 +122,7 @@ The right mix of the above elements make farming an attractive venture. If the v
 ## Conclusion
 
 Anyone can start farming by hosting a computer at their home or office and take part in the decentralization of our global Internet and Cloud economy. Considering ThreeFold’s market cap alongside the growing demand for a decentralized Internet, there’s no better time than now to get started farming!
+
+<br/>
+
+Learn more about ThreeFold farming and get involved [here](https://threefold.io/farm/)!
