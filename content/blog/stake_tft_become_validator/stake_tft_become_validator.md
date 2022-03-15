@@ -10,11 +10,11 @@ authors: [hannah_cordes]
 created: 2022-03-15
 ---
 
-ThreeFold is an innovative Internet infrastructure. By applying peer-to-peer technology to the Internet, ThreeFold operates without centralized cloud providers or authorities the management of transactions and the offering of Internet capacity is carried out collectively by a people-powered network. 
+ThreeFold is an innovative Internet infrastructure. By applying peer-to-peer technology to the Internet, ThreeFold operates without centralized cloud providers or authorities the management of transactions and the offering of Internet capacity is carried out collectively by a people-powered network.
 
 <br/>
 
-ThreeFold is open-source – its code is public, nobody owns or controls ThreeFold and everyone can take part. Through many of its unique properties, ThreeFold represents the next-evolution of the Internet and is the low-level foundation to support any current or future digital workload including Edge Computing, Web2, Web3, Blockchain, IoT and the Metaverse. 
+ThreeFold is open-source – its code is public, nobody owns or controls ThreeFold and everyone can take part. Through many of its unique properties, ThreeFold represents the next-evolution of the Internet and is the low-level foundation to support any current or future digital workload including Edge Computing, Web2, Web3, Blockchain, IoT and the Metaverse.
 
 <br/>
 
@@ -22,15 +22,15 @@ ThreeFold aims to ensure that no application, big or small, is subject to the li
 
 ## Participate in the ThreeFold L2 Validator Program
 
-The [ThreeFold Blockchain](https://threefold.io/blog/post/tf_chain/) records transactions that happen on the ThreeFold Grid, including Internet capacity (farming), Internet capacity provisioning (smart contract for IT), identity, account metadata and more. 
+The [ThreeFold Blockchain](https://threefold.io/blog/post/tf_chain/) records transactions that happen on the ThreeFold Grid, including Internet capacity (farming), Internet capacity provisioning (smart contract for IT), identity, account metadata and more.
 
 <br/>
 
-[Validator nodes](https://library.threefold.me/info/threefold#/decentralization/validators/threefold__validators) support the network by remaining in sync with the ThreeFold Blockchain and recording the chain’s data while validating and/or injecting transactions. Essentially, a validator stores and validates transactions aka, mining blocks. 
+[Validator nodes](https://library.threefold.me/info/threefold#/decentralization/validators/threefold__validators) support the network by remaining in sync with the ThreeFold Blockchain and recording the chain’s data while validating and/or injecting transactions. Essentially, a validator stores and validates transactions aka, mining blocks.
 
 <br/>
 
-With about a hundred L2 validator nodes to join the network, clients will be able to rely on a distributed, peer-to-peer network instead of relying on centralized services. 
+With about a hundred L2 validator nodes to join the network, clients will be able to rely on a distributed, peer-to-peer network instead of relying on centralized services.
 
 <br/>
 
@@ -38,7 +38,7 @@ Many people and organizations rallied to run validator nodes using computing and
 
 ## Why run a ThreeFold L2 Validator?
 
-L2 Validators store the records of the ThreeFold Blockchain, the ThreeFold DAO and the development of side chains on the ThreeFold Grid. There are only 50 in the first batch and 37 have already been verified – meaning there are only 13 spots left! Running an L2 validator requires 2,000,000 TFT staked to begin validating. This 2,000,000 TFT is the minimum bond needed to begin validating blocks. A validator also earns voting rights in the ThreeFold DAO (Decentralized Autonomous Organization), which is responsible for the operations of the ThreeFold Blockchain and ThreeFold Grid. 
+L2 Validators store the records of the ThreeFold Blockchain, the ThreeFold DAO and the development of side chains on the ThreeFold Grid. There are only 50 in the first batch and 37 have already been verified – meaning there are only 13 spots left! Running an L2 validator requires 2,000,000 TFT staked to begin validating. This 2,000,000 TFT is the minimum bond needed to begin validating blocks. A validator also earns voting rights in the ThreeFold DAO (Decentralized Autonomous Organization), which is responsible for the operations of the ThreeFold Blockchain and ThreeFold Grid.
 
 <br/>
 
@@ -56,7 +56,7 @@ ThreeFold is realizing the initial promise of an open-source, peer-to-peer Inter
 * Step 2: Buy the required amount of TFT to reserve your validator. Find all TFT buying options [here](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy).
 * Step 3: Log into the [ThreeFold Forum](https://forum.threefold.io/) using ThreeFold Connect and go to the [L2 Validator Signup](https://forum.threefold.io/c/dao/validators-signup-l2/83) category.
 * Step 4: Follow the [registration instructions](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) to become a L2 Validator, and review the checklist of your application before submission.
-
+ 
 <br/>
 
 Someone from the ThreeFold community will get in touch with you within the next few days to welcome you to the ThreeFold universe. We’ll have a brief call to verify your identity and wallet treasury to confirm your application. The successful verification process secures your spot as a ThreeFold L2 Validator.
