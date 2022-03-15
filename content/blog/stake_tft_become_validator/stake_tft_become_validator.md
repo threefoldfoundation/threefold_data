@@ -14,7 +14,7 @@ ThreeFold is an innovative Internet infrastructure. By applying peer-to-peer tec
 
 <br/>
 
-ThreeFold is open-source – its code is public, nobody owns or controls ThreeFold and everyone can take part. Through many of its unique properties, ThreeFold represents the next-evolution of the Internet and is the low-level foundation to support any current or future digital workloads such as Edge Computing, Web2, Web3, Blockchain, IoT and the Metaverse. 
+ThreeFold is open-source – its code is public, nobody owns or controls ThreeFold and everyone can take part. Through many of its unique properties, ThreeFold represents the next-evolution of the Internet and is the low-level foundation to support any current or future digital workload including Edge Computing, Web2, Web3, Blockchain, IoT and the Metaverse. 
 
 <br/>
 
