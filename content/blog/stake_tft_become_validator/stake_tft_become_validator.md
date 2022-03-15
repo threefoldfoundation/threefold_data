@@ -18,7 +18,7 @@ ThreeFold is open-source – its code is public, nobody owns or controls ThreeFo
 
 <br/>
 
-ThreeFold aims to ensure that no application, big or small, is subject to the limitations of Web3 or the pitfalls of Web2. Its peer-to-peer Internet Grid is infinitely more resilient, secure and scalable than centralized cloud providers such as AWS or Microsoft Azure. 
+ThreeFold aims to ensure that no application, big or small, is subject to the limitations of Web3 or the pitfalls of Web2. Its peer-to-peer Internet Grid is infinitely more resilient, secure and scalable than centralized cloud providers like AWS or Microsoft Azure. 
 
 ## Participate in the ThreeFold L2 Validator Program
 
