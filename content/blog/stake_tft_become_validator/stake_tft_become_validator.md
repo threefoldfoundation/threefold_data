@@ -52,10 +52,12 @@ For their commitment, and as an incentive for their continued participation, val
 
 ThreeFold is realizing the initial promise of an open-source, peer-to-peer Internet owned by the people. Anyone can become a validator and participate in the decentralization of the Internet economy. If you are interested in running one, just follow these simple steps:
 
-* Step 1: Create an account (wallet) with the [ThreeFold Connect](https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect) app.
-* Step 2: Buy the required amount of TFT to reserve your validator. Find all TFT buying options [here](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy).
-* Step 3: Log into the [ThreeFold Forum](https://forum.threefold.io/) using ThreeFold Connect and go to the [L2 Validator Signup](https://forum.threefold.io/c/dao/validators-signup-l2/83) category.
-* Step 4: Follow the [registration instructions](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) to become a L2 Validator, and review the checklist of your application before submission.
+<br/>
+
+* **Step 1**: Create an account (wallet) with the [ThreeFold Connect](https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect) app.
+* **Step 2**: Buy the required amount of TFT to reserve your validator. Find all TFT buying options [here](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy).
+* **Step 3**: Log into the [ThreeFold Forum](https://forum.threefold.io/) using ThreeFold Connect and go to the [L2 Validator Signup](https://forum.threefold.io/c/dao/validators-signup-l2/83) category.
+* **Step 4**: Follow the [registration instructions](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) to become a L2 Validator, and review the checklist of your application before submission.
  
 <br/>
 
