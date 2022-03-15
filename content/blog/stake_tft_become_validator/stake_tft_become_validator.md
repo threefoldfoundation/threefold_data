@@ -38,7 +38,7 @@ Many people and organizations rallied to run validator nodes using computing and
 
 ## Why run a ThreeFold L2 Validator?
 
-L2 Validators store the records of the ThreeFold Blockchain, the ThreeFold DAO and the development of side chains on the ThreeFold Grid. There are only 50 in the first batch and 37 have already been verified – meaning there are only 13 spots left! Running an L2 validator requires 2,000,000 TFT staked to begin validating. This 2,000,000 TFT is the minimum bond needed to begin validating blocks. A validator also earns voting rights in the ThreeFold DAO (Decentralized Autonomous Organization), which is responsible for the operations of the ThreeFold Blockchain and ThreeFold Grid.
+L2 Validators store the records of the ThreeFold Blockchain, the ThreeFold DAO and the development of side chains on the ThreeFold Grid. There are only 50 in the first batch and 37 have already been verified – meaning there are only 13 spots left! Running an L2 validator requires 2,000,000 TFT staked in order to begin validating. This 2,000,000 TFT is the minimum bond needed to begin validating blocks. A validator also earns voting rights in the ThreeFold DAO (Decentralized Autonomous Organization), which is responsible for the operations of the ThreeFold Blockchain and ThreeFold Grid.
 
 <br/>
 
