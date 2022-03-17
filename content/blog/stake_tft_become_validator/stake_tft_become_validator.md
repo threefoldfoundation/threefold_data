@@ -7,7 +7,7 @@ image: ./stake_tft_become_validator.png
 image_caption: Stake TFT and Become a ThreeFold Validator
 excerpt: ThreeFold is realizing the initial promise of an open-source, peer-to-peer Internet owned by the people. Anyone can become a validator and participate in the decentralization of the Internet economy.
 authors: [hannah_cordes]
-created: 2022-03-15
+created: 2022-03-16
 ---
 
 ThreeFold is an innovative Internet infrastructure. By applying peer-to-peer technology to the Internet, ThreeFold operates without centralized cloud providers or authorities the management of transactions and the offering of Internet capacity is carried out collectively by a people-powered network.
