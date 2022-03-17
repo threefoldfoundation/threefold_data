@@ -1,7 +1,7 @@
 ---
 id: stake_tft_become_validator
 title: "Stake TFT and Become a ThreeFold Validator"
-tags: [threefold_grid, threefold_cloud, technology, blockchain, update]
+tags: [threefold_grid, community, blockchain, update]
 category: [foundation, cloud, technology]
 image: ./stake_tft_become_validator.png
 image_caption: Stake TFT and Become a ThreeFold Validator
