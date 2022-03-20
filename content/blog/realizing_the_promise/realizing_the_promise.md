@@ -7,10 +7,10 @@ image: ./realizing_the_promise.png
 image_caption: Co-Realizing the Promise
 excerpt: Together with our global community, we're realizing the initial promise of an open-source, peer-to-peer Internet owned by the people.
 authors: [sacha_obeegadoo]
-created: 2022-03-17
+created: 2022-03-21
 ---
 
-What was once a massive global movement sparked by the idealism of free culture and the net; is now hosting a wave of unintended consequences that may destroy sovereignty and freedom as we know it. The digital revolution and the “democratization” of the Internet promised to lead us to a prosperous and equitable world, one that brought us closer together, eliminating both physical and virtual boundaries.
+What was once a massive global movement sparked by the idealism of free culture and the net, is now hosting a wave of unintended consequences that may destroy sovereignty and freedom as we know it. The digital revolution and the “democratization” of the Internet promised to lead us to a prosperous and equitable world, one that brought us closer together, eliminating both physical and virtual boundaries.
 
 <br/>
 
@@ -18,7 +18,7 @@ What was once a massive global movement sparked by the idealism of free culture 
 
 <br/>
 
-Unfortunately, this is not the world we live in today. Borders are hardening in our virtual world with the Great Firewall of China and the widespread emergence of Internet “clusters”. Many countries have attempted to turn off Internet services or to prevent free speech. Networks and algorithms turn us into data generators, influencing our daily habits and interests. It’s turning into a big AI driven machine that commoditizes our lives, leaves the underserved behind and fails to provide sovereignty where we gather.
+Unfortunately, this is not the world we live in today. Borders are hardening in our virtual world with the Great Firewall of China and the widespread emergence of Internet “clusters”. Many countries have attempted to turn off Internet services or to prevent free speech. Networks and algorithms turn us into data generators, influencing our daily habits and interests. It’s turning into a big AI-driven machine that commoditizes our lives, leaves the underserved behind and fails to provide sovereignty where we gather.
 
 <br/>
 
