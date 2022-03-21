@@ -54,9 +54,9 @@ The potential of technology to change the world remains endless and limited to o
 
 <br/>
 
-Join the [ThreeFold](http://threefold.io) movement!
+Join the [ThreeFold](https://t.me/threefold) movement, a community of like-minded people that build the world of tomorrow!
 
 <br/>
 
 * Learn how to [host the Internet](http://threefold.io/farm) at your home or office.
-* [Belong to a community of like-minded people](https://forum.threefold.io/) that build the world of tomorrow.
+* Get [TFT](https://gettft.com/gettft/), the currency of the peer-to-peer Internet.
