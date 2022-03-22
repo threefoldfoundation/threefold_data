@@ -5,7 +5,7 @@ countries: [UAE]
 cities: [Dubai]
 rank: 2
 excerpt: ThreeFold and Paradise Hills join forces to bring the world’s largest decentralized Internet Cloud powered by the ThreeFold Blockchain into homes.
-image: ./paradise_hills_logo.png
+image: ./paradise_hills_w.jpg
 image_caption: Paradise Hills
 logo: ./paradise_hills_logo.png
 category: [foundation]
