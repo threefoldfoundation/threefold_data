@@ -42,11 +42,9 @@ Peer-to-peer isn’t an alternative to the Internet, it’s an alternative to ce
 
 <br/>
 
-In times of exponential evolution and innovation, we have our fears around the Internet. We don’t need to disconnect ourselves even further from our reality and it is our responsibility to ensure a safe and fair future for the generations to come. A centralized Internet which is controlled by a handful of companies is a serious existential threat. If emerging technologies such as IoT, Blockchain and the Metaverse are not hosted on a self-sovereign, peer-to-peer infrastructure owned by all of us, we may be running head down into the matrix. 
+In times of exponential evolution and innovation, we have our fears around the Internet.
 
-<br/>
-
-We don’t need to disconnect ourselves even further from our reality and it is our responsibility to ensure a safe and fair future for the generations to come. We fear a world that relies and empowers a small technocratic minority. While it has always been that way, if emerging technologies such as IoT, Blockchain and the Metaverse are not hosted on a peer-to-peer Internet owned by the people, we may be running head down into the matrix.
+We don’t need to disconnect ourselves even further from our reality and it is our responsibility to ensure a safe and fair future for the generations to come. A centralized Internet which is controlled by a handful of companies is a serious existential threat. If emerging technologies such as IoT, Blockchain and the Metaverse are not hosted on a self-sovereign, peer-to-peer infrastructure owned by all of us, we may be running head down into the matrix. 
 
 <br/>
 
