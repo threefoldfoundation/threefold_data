@@ -24,7 +24,7 @@ linkedin:
 
 ## About Paradise Hills
 
-Located in Dubai Golf City near Tilal Al Ghaf, Damac Lagoons and Damac Hills, Paradise Hills is a gated community featuring 170 villas and townhouses set amongst a verdant, tropical landscape that aims to offer residents a relaxing and soothing environment. A series of naturalistic streams and lakes will weave in and around the lush landscape, providing ever-present reflection and the soothing sound of moving water.
+Located in Dubai Golf City near Tilal Al Ghaf, Damac Lagoons and Damac Hills, [Paradise Hills](https://paradisehills.ae) is a gated community featuring 170 villas and townhouses set amongst a verdant, tropical landscape that aims to offer residents a relaxing and soothing environment. A series of naturalistic streams and lakes will weave in and around the lush landscape, providing ever-present reflection and the soothing sound of moving water.
 
 ## Paradise Hills and ThreeFold
 
