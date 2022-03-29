@@ -4,7 +4,7 @@ title: "Connecting the Dots: ThreeFold plans to scale globally"
 tags: [threefold_grid, peer_to_peer, community, why]
 category: [foundation]
 image: ./connecting_the_dots.png
-image_caption: Connecting the Dots: ThreeFold plans to scale globally
+image_caption: "Connecting the Dots: ThreeFold plans to scale globally"
 excerpt: ThreeFold started as an idea about ten years ago and is now manifesting itself into the most comprehensive peer-to-peer Internet and cloud infrastructure in the world. The potential of our technology to revolutionize digitization globally is endless and limited only to our collective imagination.
 authors: [sacha_obeegadoo]
 created: 2022-03-29
