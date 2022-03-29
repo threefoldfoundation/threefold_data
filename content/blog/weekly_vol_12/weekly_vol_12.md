@@ -1,14 +1,16 @@
 ---
 id: weekly_vol_12
-title: "ThreeFold Weekly! March 28th, 2022 (Vol 12)"
+title: "ThreeFold Weekly! March 29th, 2022 (Vol 12)"
 tags: [threefold_grid, community, farming, interview, update]
 category: [foundation]
 image: ./weekly_vol_12.jpg
-image_caption: ThreeFold Weekly! March 28th, 2022 (Vol 12)
+image_caption: ThreeFold Weekly! March 29th, 2022 (Vol 12)
 excerpt: Welcome to the 12th edition of of ThreeFold Weekly. Let’s take a look at what happened in the ThreeFold universe last week.
 authors: [hannah_cordes]
 created: 2022-03-29
 ---
+
+*We have a new format for ThreeFold Weekly, now on our blogs. If you'd like to review any of the first eleven editions, please find them on [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
 
 ## Major ThreeFold News:
 
