@@ -12,7 +12,7 @@ created: 2022-03-29
 
 ## Major ThreeFold News:
 
-* Members of the ThreeFold team attended the **[World Blockchain Summit](https://mobile.twitter.com/threefold_io/status/1507009092165853185)** in Dubai. Over two days we exchanged with countless people and their reactions were unanimous – ThreeFold is undeniably one of the most exciting projects in the blockchain space. We’re grateful for this opportunity and are excited to welcome some amazing people to the ThreeFold movement!
+* Members of the ThreeFold team attended the **[World Blockchain Summit](https://mobile.twitter.com/threefold_io/status/1507009092165853185)** in Dubai. Over two days we exchanged with countless people and their reactions were unanimous – ThreeFold is undeniably one of the most exciting projects in the blockchain space. And we’re thrilled to take part in many more events this year to drive the ThreeFold movement on the grounds!
 
 <br/>
 
