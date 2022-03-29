@@ -38,7 +38,7 @@ The Internet is a human right but it is unequally distributed around the world. 
 
 ## So how can ThreeFold go truly global?
 
-Going global is complicated and even more these days with the  evolving regulatory and socio-economical landscapes. Thus, it’s important for us to be on the ground. So we will work with our community and ecosystem on one hand, and with governments and regulators on the other hand, for all of us to meet in the middle. We will always aim to be the most transparent, trusted, inclusive and decentralized Internet solution wherever we go. 
+Going global is complicated and even more these days with the evolving regulatory and socio-economical landscapes. Thus, it’s important for us to be on the ground. So we will work with our community and ecosystem on one hand, and with governments and regulators on the other hand, for all of us to meet in the middle. We will always aim to be the most transparent, trusted, inclusive and decentralized Internet solution wherever we go. 
 
 <br/>
 
@@ -52,11 +52,15 @@ Together with these communities, we will develop and grow the ThreeFold Grid, es
 
 Throughout the last year we have made incredible connections across industries including Blockchain, Web 3.0, IoT, Real Estate and Supply Chains.
 
+<br/>
+
 Every region is unique and we cannot take the same approach wherever we go. This is where the idea of ‘glo-cality’ comes in – a global concept applied locally with regional context.
 
 ## Global Concept: Launch of educational campaigns around the importance of a peer-to-peer Internet
 
 ThreeFold’s mission is to realize the promise of an open-source, peer-to-peer Internet owned by humanity, and we take this commitment heartedly. The first objective of our global strategy is to allow anyone who wants to expand the peer-to-peer Internet to their neighborhood to be able to find compatible computers and how to get started. 
+
+<br/>
 
 For a multi-region approach to scaling the ThreeFold Grid to arise, a decentralized 3Node marketplace will be launched in April 2022. This will allow communities to access a simple, decentralized and certified platform to buy and sell compatible computer hardware locally. As the ThreeFold Grid expands, we will look to go local, as shared below:  
 
@@ -74,7 +78,7 @@ At ThreeFold, we’re committed to building and expanding the open Internet that
 
 <br/>
 
-Did you read our manifesto yet? Join the peer-to-peer movement today!
+Have you read our [manifesto](https://threefold.io/blog/post/realizing_the_promise/) yet? Join the peer-to-peer [movement](https://t.me/threefold) today!
 
 <br/>
 
