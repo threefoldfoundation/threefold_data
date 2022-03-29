@@ -10,11 +10,7 @@ authors: [sacha_obeegadoo]
 created: 2022-03-29
 ---
 
-ThreeFold started as an idea about ten years ago and is now manifesting itself into the most comprehensive peer-to-peer Internet and cloud infrastructure in the world. The potential of our technology to revolutionize digitization globally is endless and limited only to our collective imagination.
-
-<br/>
-
-In this blog, we share our ‘glocal’ strategy on how we will build our ecosystem, and the exciting opportunities opening up around the world for those interested to join us!
+ThreeFold started as an idea about ten years ago and is now manifesting itself into the most comprehensive peer-to-peer Internet and cloud infrastructure in the world. The potential of our technology to revolutionize digitization globally is endless and limited only to our collective imagination. In this blog, we share our ‘glocal’ strategy on how we will build our ecosystem, and the exciting opportunities opening up around the world for those interested to join us!
 
 <br/>
 
