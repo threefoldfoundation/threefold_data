@@ -72,7 +72,7 @@ ThreeFold was **featured in the news twice** last week:
 
 <br/>
 
-Have a great start into the new week, everyone!  🙌 
+See you next week, everyone!  🙌 
 
 <br/>
 
