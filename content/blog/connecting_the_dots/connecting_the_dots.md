@@ -82,4 +82,4 @@ Have you read our [manifesto](https://threefold.io/blog/post/realizing_the_promi
 
 <br/>
 
-*Apply for an open position [here](https://threefold.io/careers) and bring your proposals to the community-led [forum]().*
+*Apply for an open position [here](https://threefold.io/careers) and bring your proposals to the community-led [forum](https://forum.threefold.io/t/about-the-join-the-fold-category/2570).*
