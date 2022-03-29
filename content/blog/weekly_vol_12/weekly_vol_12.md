@@ -34,7 +34,7 @@ ThreeFold was **featured in the news twice** last week:
 
 * [ThreeFold: Is the Decentralized Web the Future of the Internet?](https://coincheckup.com/blog/threefold-is-the-decentralized-web-the-future-of-the-internet/) (Coverage on CoinCheckup Blog)
 
-## Community updates:
+### Community updates:
 
 * Kyle Ellicott and Kristof de Spiegeleer discussed **how ThreeFold is [decentralizing the Internet](https://www.youtube.com/watch?v=5xzwg-CdJNk)** and how it is more relevant than ever before.
 
@@ -46,7 +46,7 @@ ThreeFold was **featured in the news twice** last week:
 
 * Only **8 [L2](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) and 3 [L0](https://forum.threefold.io/t/procedure-to-register-your-l0-validator-nodes/1866) validator spots remain**. We are grateful to know that the people behind the validators believe in a decentralized future and want to take part in a meaningful way. Learn how to stake TFT and become a validator [here](https://threefold.io/blog/post/stake_tft_become_validator/).
 
-## Technology Developments:
+### Technology Developments:
 
 * The **[ThreeFold Grid version 3.0.0 A5](https://forum.threefold.io/t/announcement-of-tfgrid-3-0-0-a5/2522?u=hannahcordes)** was released on Devnet. Testnet will follow soon.
 
@@ -54,7 +54,7 @@ ThreeFold was **featured in the news twice** last week:
 
 * TF Grid v3.0 A5 will support **[dedicated nodes](https://forum.threefold.io/t/dedicated-node-support/2521)**.
 
-## ThreeFold Grid: 
+### ThreeFold Grid: 
 
 * **Hurry up and migrate your 3Nodes from V2 to V3**. As a **decentralized community, it’s our collective responsibility** to ensure we’re powering the latest version of our technology for feature and security reasons. Follow the migration process via ThreeFold Connect [here](https://forum.threefold.io/t/farming-migration-grid-v2-v3/2143?u=hannahcordes).
 
