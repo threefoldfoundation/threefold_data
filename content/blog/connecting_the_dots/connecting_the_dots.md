@@ -26,7 +26,7 @@ A peer-to-peer Internet has an undeniable potential in driving a distributed glo
 
 <br/>
 
-*  So then is the Internet really “global?”
+*So then is the Internet really “global?”
 
 ## Empowering sovereignty and economic freedom
 
