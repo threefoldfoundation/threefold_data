@@ -10,7 +10,7 @@ authors: [hannah_cordes]
 created: 2022-03-29
 ---
 
-*We have a new format for ThreeFold Weekly, now on our blogs. If you'd like to review any of the first eleven editions, please find them on [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
+*We have a new format for ThreeFold Weekly, now on our blog. If you'd like to review any of the first eleven editions, please find them on [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
 
 ## Major ThreeFold News:
 
