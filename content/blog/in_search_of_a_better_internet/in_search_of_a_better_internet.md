@@ -1,11 +1,11 @@
 ---
 id: in_search_of_a_better_internet
 title: "The Internet that connects us also manipulates us. In search of a better future."
-tags: [threefold_grid, community, farming, interview, update]
+tags: [threefold_grid, data, peer-to-peer, why]
 category: [foundation]
 image: ./in_search_of_a_better_internet.png
 image_caption: The Internet that connects us also manipulates us. In search of a better future.
-excerpt: The Internet as we know it was once free and decentralized by nature. Over time, the Internet lost its neutrality, trapping users in a cyberspace that exploits their personal data and allows censorship, hate speech and disinformation to thrive. ThreeFold represents an opportunity to realize the initial promise of a distributed and neutral Internet owned by the people.
+excerpt: The Internet as we know it was once free and decentralized by nature. Over time, the Internet lost its neutrality. ThreeFold represents an opportunity to realize the initial promise of a distributed and neutral Internet owned by the people.
 authors: [hannah_cordes]
 created: 2022-04-05
 ---
