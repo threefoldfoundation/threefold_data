@@ -46,10 +46,6 @@ created: 2022-04-19
 
 * A community-led ThreeFold [Discord channel](https://discord.gg/PaQtT7A72E) was recently launched – join in!
 
-### Technology Developments:
-
-* 
-
 ### ThreeFold Grid: 
 
 * **A deadline has been set for the 1st of May for V3 migration**, so make sure your 3Nodes are all migrated asap. Simply follow the [migration process](https://forum.threefold.io/t/farming-migration-grid-v2-v3/2143?u=hannahcordes).
