@@ -50,12 +50,22 @@ created: 2022-04-19
 
 * **A deadline has been set for the 1st of May for V3 migration**, so make sure your 3Nodes are all migrated asap. Simply follow the [migration process](https://forum.threefold.io/t/farming-migration-grid-v2-v3/2143?u=hannahcordes).
 
+<br/>
+
 * Titan orders continue to be delivered, although there is a delay in Europe due to provisioning delays. In case of any specific questions, please reach out to the support team.
+
+<br/>
 
 We shared new videos of our **Knowledge Base series** explaining ThreeFold and the technology behind it. [Watch](https://www.youtube.com/watch?v=AuegcGK1CSc&list=PLTGQlepPqwUXsvHsrm4pbQj0-DCa-Ud0c) the latest additions on Zero-OS, TF Chain, the Planetary Network and more!
 
+<br/>
+
 See you next week, ThreeFolders!  🙌 
 
+<br/>
+
 *If you’re a community member interested in [sharing your story](https://forum.threefold.io/t/looking-for-farmer-stories-to-share-with-the-world/2398?u=hannahcordes) or [being featured](https://forum.threefold.io/t/looking-for-people-to-feature-in-threefold-content-its-super-simple/2636/3) in ThreeFold content, please reach out!*
+
+<br/>
 
 *You can find the previous editions on [our blog](https://threefold.io/blog). For older editions of ThreeFold Weekly (Vol 1-11), go to [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
