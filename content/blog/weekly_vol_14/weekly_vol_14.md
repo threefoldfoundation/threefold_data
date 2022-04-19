@@ -1,7 +1,7 @@
 ---
 id: weekly_vol_14
 title: "ThreeFold Weekly! April 19th, 2022 (Vol 14)"
-tags: [threefold_grid, community, farming, interview, update]
+tags: [threefold_grid, community, farming, update]
 category: [foundation]
 image: ./weekly_vol_14.png
 image_caption: ThreeFold Weekly! April 19th, 2022 (Vol 14)
