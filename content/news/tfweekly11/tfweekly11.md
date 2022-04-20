@@ -5,7 +5,7 @@ tags: [community,update,news]
 category: [foundation]
 image: ./tfweekly11.png
 image_caption: TF Weekly Volume Eleven
-excerpt: Highlights from last week in the ThreeFold ecosystem
+excerpt: Highlights from last week in the ThreeFold ecosystem!
 authors: [sam_taggart]
 created: 2022-03-21
 ---

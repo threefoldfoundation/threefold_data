@@ -5,7 +5,7 @@ tags: [community,update,news]
 category: [foundation]
 image: ./tfweekly13.png
 image_caption: TF Weekly Volume Thirteen
-excerpt: Your weekly ThreeFold digest
+excerpt: Your weekly ThreeFold digest!
 authors: [sam_taggart]
 created: 2022-04-05
 ---

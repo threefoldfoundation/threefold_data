@@ -5,7 +5,7 @@ tags: [community,update,news]
 category: [foundation]
 image: ./tfweekly10.png
 image_caption: TF Weekly Volume Ten
-excerpt: Highlights from last week in the ThreeFold ecosystem
+excerpt: Key happenings from last week in ThreeFold.
 authors: [sam_taggart]
 created: 2022-03-14
 ---
