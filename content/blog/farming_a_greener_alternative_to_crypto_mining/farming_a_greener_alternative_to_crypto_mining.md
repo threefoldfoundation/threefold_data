@@ -74,15 +74,13 @@ Farming supports the realization of an open-source, peer-to-peer Internet free f
 
 <br/>
 
-"By using blockchain for what it's good at and other pioneering technologies, such as peer-to-peer networking, to complement it, we built the most efficient Internet infrastructure in the world, and by far." – Kristof de Spiegeleer. 
+*"By using blockchain for what it's good at and other pioneering technologies, such as peer-to-peer networking, to complement it, we built the most efficient Internet infrastructure in the world, and by far." – Kristof de Spiegeleer.*
 
 <br/>
 
-Developing sustainable solutions for our planet is essential to ThreeFold’s ethos which puts our planet and people first. A famous quote, we love and frequently refer to at ThreeFold, is Albert Einstein’s 
+Developing sustainable solutions for our planet is essential to ThreeFold’s ethos which puts our planet and people first. A famous quote, we love and frequently refer to at ThreeFold, is Albert Einstein’s
 
-<br/>
-
-“We cannot solve our problems with the same thinking we used when we create them.”
+*“We cannot solve our problems with the same thinking we used when we create them.”*
 
 <br/>
 
