@@ -10,7 +10,7 @@ authors: [sam_taggart]
 created: 2022-04-05
 ---
 
-📰 **ThreeFold Weekly! April 5th* Edition (Volume Thirteen)**
+📰 **ThreeFold Weekly! April 5th Edition (Volume Thirteen)**
 
 <br/>
 
