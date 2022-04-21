@@ -7,7 +7,7 @@ image: ./farming_a_greener_alternative_to_crypto_mining.png
 image_caption: Farming – A Greener Alternative to Crypto Mining.
 excerpt: ThreeFold Farming is about so much more than crypto mining. It's a decentralized, energy-efficient and meaningful alternative to mining.
 authors: [hannah_cordes]
-created: 2022-04-20
+created: 2022-04-21
 ---
 
 In [October 2008](https://cointelegraph.com/bitcoin-for-beginners/the-history-of-bitcoin-when-did-bitcoin-start), when the financial crisis was in full swing, an anonymous individual or group under the pseudonym ‘Satoshi Nakamoto’ published a [white paper](https://bitcoin.org/bitcoin.pdf) on Bitcoin, a “peer-to-peer electronic cash system” that ended up disrupting the financial system and sparked the creation of an entirely new industry: crypto mining.
@@ -62,15 +62,15 @@ While this might sound great at first, it does not resolve the underlying issue 
 
 ## ThreeFold Farming offers a greener paradigm
 
-[ThreeFold Farming](https://threefold.io/blog/post/what_is_farming/) is a decentralized, energy-efficient and meaningful alternative to mining. [ThreeFold Tokens](https://forum.threefold.io/t/the-potential-of-the-threefold-token-tft/1796) (TFT) are minted whenever new Internet capacity in terms of compute, storage or network is added to the ThreeFold Grid by connecting computers (“known as 3Nodes”). 
+[ThreeFold Farming](https://threefold.io/blog/post/what_is_farming/) is a decentralized, energy-efficient and meaningful alternative to mining. [ThreeFold Tokens](https://forum.threefold.io/t/the-potential-of-the-threefold-token-tft/1796) (TFT) are minted whenever new Internet capacity in terms of compute, storage or network is added to the ThreeFold Grid by connecting computers, known as 3Nodes. 
 
 <br/>
 
-By contributing decentralized Internet capacity to the ThreeFold Grid, independent people and organizations called ‘farmers’ earn TFT in return – based on a [Proof-of-Capacity](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity?id=why-proof-of-capacity)  (PoC) algorithm. PoC is autonomously carried out by ThreeFold’s [extremely efficient](https://threefold.io/blog/post/for_our_planet/) operating system. First, Zero-OS scans the computer’s resources. Then the operating system registers the computing power and Internet storage on the [ThreeFold Blockchain](https://threefold.io/blog/post/tf_chain/), making the resources available to the entire network – thereby creating a [decentralized model](https://coincheckup.com/blog/threefold-is-the-decentralized-web-the-future-of-the-internet/) for Internet capacity provisioning. The [energy consumption](https://threefold.docsend.com/view/wsru3f9tmeaq62wq) of a 3Node can vary, depending on the amount of Compute Units (CUs) and Storage Units (SUs) it holds. “The average consumption for a Titan 3Node is around 26.71 KwH per hour”, says ThreeFold’s Alexandre Hannelas. 
+By contributing decentralized Internet capacity to the ThreeFold Grid, independent people and organizations called ‘farmers’ earn TFT in return – based on a [Proof-of-Capacity](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity?id=why-proof-of-capacity)  (PoC) algorithm. PoC is autonomously carried out by ThreeFold’s [extremely efficient](https://threefold.io/blog/post/for_our_planet/) operating system. First, Zero-OS scans the computer’s resources. Then the operating system registers the computing power and Internet storage on the [ThreeFold Blockchain](https://threefold.io/blog/post/tf_chain/), making the resources available to the entire network – thereby creating a [decentralized model](https://coincheckup.com/blog/threefold-is-the-decentralized-web-the-future-of-the-internet/) for Internet capacity provisioning. The [energy consumption](https://threefold.docsend.com/view/wsru3f9tmeaq62wq) of a 3Node can vary, depending on the amount of Compute Units (CUs) and Storage Units (SUs) it holds. “The average consumption for a Titan 3Node is around 26.71 KwH per hour”, says ThreeFold’s [Alexandre Hannelas](https://threefold.io/people/alexandre_hannelas/). 
 
 <br/>
 
-Farming supports the realization of an open-source, peer-to-peer Internet free from centralized servers and authorities. Similarly to Bitcoin, the management of transactions and the issuing of TFT is carried out collectively by the network to create a decentralized Internet economy. In a way, what [Bitcoin did to money](https://threefold.io/blog/post/bitcoin_threefold/), ThreeFold does to the Internet – while using much [less energy](https://threefold.io/blog/post/for_our_planet/). 
+Farming supports the realization of an open-source peer-to-peer Internet free from centralized servers and authorities. Similarly to Bitcoin, the management of transactions and the issuing of TFT is carried out collectively by the network to create a decentralized Internet economy. In a way, what [Bitcoin did to money](https://threefold.io/blog/post/bitcoin_threefold/), ThreeFold does to the Internet – while using much [less energy](https://threefold.io/blog/post/for_our_planet/). 
 
 <br/>
 
@@ -78,9 +78,7 @@ Farming supports the realization of an open-source, peer-to-peer Internet free f
 
 <br/>
 
-Developing sustainable solutions for our planet is essential to ThreeFold’s ethos which puts our planet and people first. A famous quote, we love and frequently refer to at ThreeFold, is Albert Einstein’s
-
-*“We cannot solve our problems with the same thinking we used when we create them.”*
+Developing sustainable solutions for our planet is essential to ThreeFold’s ethos which puts our planet and people first. A famous quote, we love and frequently refer to at ThreeFold, is Albert Einstein’s “We cannot solve our problems with the same thinking we used when we create them.”
 
 <br/>
 
