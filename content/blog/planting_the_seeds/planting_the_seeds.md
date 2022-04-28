@@ -10,15 +10,15 @@ authors: [hannah_cordes]
 created: 2022-04-28
 ---
 
-*‘Being sustainable’ has become a buzzword – a claim to boost our image rather than an honest endeavor. It is hard to trust people and brands today when we fear to fall into the trap of greenwashing again. However, we have no choice but to change our behavior and consumption if we want to combat climate change and the collapse of biodiversity.*
+*‘Being sustainable’ has become a buzzword – a claim to boost our image rather than an honest endeavour. It is hard to trust people and brands today when we fear to fall into the trap of greenwashing again. However, we have no choice but to change our behaviour and consumption if we want to combat climate change and the collapse of biodiversity.*
 
 <br/>
 
-Last November, COP26 shed light on how indecisive and inactive our global institutions and governments still are in the face of an unprecedented climate crisis. We have to come to terms with the fact that carbon-neutral and sustainable operations won’t be enough anymore. Once emitted, carbon dioxide can persist in the atmosphere for several hundreds, possibly thousands, of years. Now’s the time for regenerative action. We must actively reverse the environmental harms of the past and stop biodiversity loss.
+Last November, [COP26](https://www.nature.com/articles/d41586-021-03431-4) shed light on how indecisive and inactive our global institutions and governments still are in the face of an unprecedented climate crisis. We have to come to terms with the fact that carbon-neutral and sustainable operations won’t be enough anymore. The  rising global carbon emissions have been linked to the increasing amount of heat waves, droughts, floods and hurricanes recorded globally, we must rethink everything if we are to s
 
 <br/>
 
-Now’s the time for regenerative action. We must actively reverse the environmental harms of the past and stop biodiversity loss.
+Once emitted, carbon dioxide can persist in the atmosphere for several hundreds, possibly thousands, of years. Now’s the time for regenerative action. We must actively reverse the environmental harms of the past and stop biodiversity loss.
 
 ## How not to destroy our planet
 
