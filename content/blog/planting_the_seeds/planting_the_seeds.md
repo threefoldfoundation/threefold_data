@@ -94,19 +94,19 @@ Once we laid the foundation for offsetting the ThreeFold Grid three times, we wi
 
 ## A regenerative Internet for the planet and the people
 
-A holistic solution to the inefficiencies and emissions of today’s Internet architecture is needed. We all need to take responsibility and to pull our own weight. But we’re in this together. And together, this will happen.
+A holistic solution to the [inefficiencies](https://threefold.io/blog/post/internet_energy_consumption/) and emissions of today’s Internet architecture is needed. We all need to take responsibility and to pull our own weight. But we’re in this together. And together, this will happen.
 
 <br/>
 
-By pioneering the creation of an energy-efficient and regenerative Internet for all of humanity, the ThreeFold ecosystem consists of like-minded people and partners that share our values and support us in realizing the original promise of the Internet. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a holistic solution for the many issues associated with today’s Internet – from inefficiencies and emissions to centralization and limited accessibility. And we’re being acknowledged for our collective work – we’re nominated for the Sustainable Investment in Action Awards in the category “Basic Needs”.
+By pioneering the creation of an energy-efficient and regenerative Internet for all of humanity, the ThreeFold ecosystem consists of like-minded people and partners that share our values and support us in realizing the original promise of the Internet. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a holistic solution for the many issues associated with today’s Internet – from inefficiencies and emissions to centralization and limited accessibility. And we’re being acknowledged for our collective work – we’re [nominated](https://evenements.optionfinance.fr/les-debats-finance-impact-rse/content/candidats-sia) for the Sustainable Investment in Action [Awards](https://sustainableinvestmentinaction.com/awards-conferences-2022/) in the category “Basic Needs”.
 
 <br/>
 
-Together, we’re making it easy for everyone to join us in regenerating our planet – all you have to do is connect a 3Node to the ThreeFold Grid and you’ll effortlessly regenerate the earth by providing Internet capacity – a process we call ‘farming’ because it’s a greener, purposeful alternative to crypto mining. After kicking off our pilot program a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid in 2022, driving the regeneration of our planet.
+Together, we’re making it easy for everyone to join us in regenerating our planet – all you have to do is connect a [3Node](https://threefold.io/farm) to the ThreeFold Grid and you’ll effortlessly regenerate the earth by providing Internet capacity – a process we call ‘farming’ because it’s a greener, purposeful [alternative](https://threefold.io/blog/post/farming_a_greener_alternative_to_crypto_mining/) to crypto mining. After kicking off our [pilot program](https://forum.threefold.io/t/driving-regeneration-with-tag/2120?u=hannahcordes) a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid in 2022, driving the regeneration of our planet.
 
 <br/>
 
-Join our global community of independent farmers today!
+Join our global [community](https://t.me/threefold) of independent farmers today!
 
 <br/>
 
@@ -118,4 +118,4 @@ And don’t forget:
 
 <br/>
 
-P.S.: We’ll keep you posted on our progress in the Carbon Double Win section of our forum. If you have any ideas for further planet-positive initiatives or potential partnerships, let us know there.
+P.S.: We’ll keep you posted on our progress in the [Carbon Double Win](https://forum.threefold.io/c/ecosystem-developments/sustainability/90) section of our forum. If you have any ideas for further planet-positive initiatives or potential partnerships, let us know there.
