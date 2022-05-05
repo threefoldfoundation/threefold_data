@@ -92,14 +92,26 @@ Once we’ve laid the foundation for the ThreeFold Grid’s carbon double win, w
 
 We all need to take responsibility and to pull our own weight. But we’re in this together. And together, this will happen. After kicking off our [pilot program](https://forum.threefold.io/t/driving-regeneration-with-tag/2120?u=hannahcordes) a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid – driving the regeneration of our planet.
 
+<br/>
+
 We are pioneering the creation of an [energy-efficient](https://threefold.io/blog/post/internet_energy_consumption/) and regenerative Internet built and owned by the people. The ThreeFold ecosystem consists of like-minded individuals and partners that share our values and support us in our mission. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a better Internet. And we’re being acknowledged for our work – we’re [nominated](https://evenements.optionfinance.fr/les-debats-finance-impact-rse/content/candidats-sia) for the Sustainable Investment in Action [Awards](https://sustainableinvestmentinaction.com/awards-conferences-2022/) in the category “Basic Needs”.
+
+<br/>
 
 We’re making it easy for everyone to join us – all you have to do is connect a [3Node](https://threefold.io/farm) to the ThreeFold Grid and you’ll effortlessly regenerate the earth through providing Internet capacity – a process we call ‘farming’ because it’s a greener, purposeful [alternative](https://threefold.io/blog/post/farming_a_greener_alternative_to_crypto_mining/) to crypto mining.
 
+<br/>
+
 Are you ready to [join us](https://t.me/threefold) in our mission?
+
+<br/>
 
 And don’t forget:
 
+<br/>
+
 *"What we do today will determine what the world looks like tomorrow." – Marie von Ebner-Eschenbach*
+
+<br/>
 
 *P.S.: If you have ideas or suggestions for further planet-positive initiatives or potential partnerships, let us know on our [forum](https://forum.threefold.io/c/ecosystem-developments/sustainability/90).*
