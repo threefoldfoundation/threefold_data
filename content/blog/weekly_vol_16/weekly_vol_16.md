@@ -12,7 +12,7 @@ created: 2022-05-05
 
 ### ThreeFold in the News:
 
-* [Why A Decentralized Internet Could Tackle Internet Poverty And Improve Data Protection](https://www.ibtimes.com/why-decentralized-internet-could-tackle-internet-poverty-improve-data-protection-3488398) (via **International Business Times**)
+* [Why A Decentralized Internet Could Tackle Internet Poverty And Improve Data Protection](https://threefold.io/news/post/threefold_ibt/) (via **International Business Times**)
 
 ### Community updates:
 
