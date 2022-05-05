@@ -10,7 +10,7 @@ authors: [hannah_cordes]
 created: 2022-05-05
 ---
 
-*‘Being sustainable’ has become a buzzword – a claim to boost our image rather than an honest endeavour. It is hard to trust people and brands today when we fear to fall into the trap of greenwashing. However, we have no choice but to change our collective behavior, consumption patterns and business practices if we want to combat climate change and the collapse of biodiversity.*
+*‘Being sustainable’ has become a buzzword – a claim to boost our image rather than an honest endeavour. It is hard to trust people and brands today when we fear to fall into the trap of greenwashing. However, we have no choice but to change our collective behaviour, consumption patterns and business practices if we want to combat climate change and the collapse of biodiversity.*
 
 <br/>
 
