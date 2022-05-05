@@ -10,7 +10,7 @@ authors: [hannah_cordes]
 created: 2022-05-05
 ---
 
-## ThreeFold in the News:
+### ThreeFold in the News:
 
 * [Why A Decentralized Internet Could Tackle Internet Poverty And Improve Data Protection](https://www.ibtimes.com/why-decentralized-internet-could-tackle-internet-poverty-improve-data-protection-3488398) (via **International Business Times**)
 
@@ -28,11 +28,11 @@ created: 2022-05-05
 
 <br/>
 
-* A community member will add ThreeFold branding to a coffee shop and is looking for feedback and ideas. Join in [here](https://forum.threefold.io/t/if-bitcoin-is-resumed-in-one-word-as-hope-what-tft-would-be/2725/10).
+* A community member will add ThreeFold branding to a coffee shop and is looking for feedback and ideas. Share your thoughts [here](https://forum.threefold.io/t/if-bitcoin-is-resumed-in-one-word-as-hope-what-tft-would-be/2725/10).
 
 <br/>
 
-* The ThreeFold Promotion Team is looking for community stories. We’d be grateful if you could share[ your story](https://forum.threefold.io/t/looking-for-farmer-stories-to-share-with-the-world/2398?u=hannahcordes) and/or [be featured](https://forum.threefold.io/t/looking-for-people-to-feature-in-threefold-content-its-super-simple/2636/3) in ThreeFold content. Thank you for reaching out!
+* The ThreeFold Promotion Team is looking for community stories. We’d be grateful if you could share [your story](https://forum.threefold.io/t/looking-for-farmer-stories-to-share-with-the-world/2398?u=hannahcordes) and/or [be featured](https://forum.threefold.io/t/looking-for-people-to-feature-in-threefold-content-its-super-simple/2636/3) in ThreeFold content. Thank you for reaching out!
 
 ### Technology Developments: 
 
