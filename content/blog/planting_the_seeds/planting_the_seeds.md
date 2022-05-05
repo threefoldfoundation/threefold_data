@@ -90,7 +90,7 @@ Once we’ve laid the foundation for the ThreeFold Grid’s carbon double win, w
 
 ## A regenerative Internet for the planet and the people
 
-We all need to take responsibility and to pull our own weight. But we’re in this together. And together, this will happen. After kicking off our [pilot program](https://forum.threefold.io/t/driving-regeneration-with-tag/2120?u=hannahcordes) a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid, driving the regeneration of our planet.
+We all need to take responsibility and to pull our own weight. But we’re in this together. And together, this will happen. After kicking off our [pilot program](https://forum.threefold.io/t/driving-regeneration-with-tag/2120?u=hannahcordes) a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid – driving the regeneration of our planet.
 
 We are pioneering the creation of an [energy-efficient](https://threefold.io/blog/post/internet_energy_consumption/) and regenerative Internet built and owned by the people. The ThreeFold ecosystem consists of like-minded individuals and partners that share our values and support us in our mission. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a better Internet. And we’re being acknowledged for our work – we’re [nominated](https://evenements.optionfinance.fr/les-debats-finance-impact-rse/content/candidats-sia) for the Sustainable Investment in Action [Awards](https://sustainableinvestmentinaction.com/awards-conferences-2022/) in the category “Basic Needs”.
 
