@@ -19,17 +19,8 @@ Here are some interesting numbers to emphasize the explosive growth of connected
 <br/>
 
 * Back in 2018, [90% of global data creation](https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21263002/real-words-or-buzzwords-edge-cloud-and-the-evolving-internet) took place within the two previous years.
-
-<br/>
-
 * In 2022, [4.95 billion people](https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21263002/real-words-or-buzzwords-edge-cloud-and-the-evolving-internet) are using the Internet and about [2.5 quintillion bytes](https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21263002/real-words-or-buzzwords-edge-cloud-and-the-evolving-internet) of data are created on a daily basis.
-
-<br/>
-
 * About 2 billion computers, 15 billion mobile devices and more than 22 billion IoT devices are [active worldwide](https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21263002/real-words-or-buzzwords-edge-cloud-and-the-evolving-internet) on a daily basis.
-
-<br/>
-
 * By 2025, more than [1 billion people](https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-report/index.html) and [75 billion IoT devices](https://www.statista.com/statistics/471264/iot-number-of-connected-devices-worldwide/#:~:text=Internet%20of%20Things%20%2D%20number%20of%20connected%20devices%20worldwide%202015%2D2025&text=By%202025%2C%20forecasts%20suggest%20that,IoT%20installed%20base%20in%202019.) are expected to join the Internet.
 
 <br/>
