@@ -5,7 +5,7 @@ tags: [threefold_grid,technology, peer_to_peer, data]
 category: [foundation]
 image: ./internet_at_the_edge.png
 image_caption: The Internet is Moving to the Edge.
-excerpt: Future data will be generated at the edge of the network and Internet which certainly requires an architectural shift away from the current model. Learn why ThreeFold is the foundation for a thriving interconnected future at the edge.
+excerpt: With emerging technologies like IoT, Web 3 and more, computing needs to be pushed from centralized data centers to the edge of the network. Learn why ThreeFold is the ideal foundation for a thriving interconnected future.
 authors: [hannah_cordes]
 created: 2022-05-10
 ---
