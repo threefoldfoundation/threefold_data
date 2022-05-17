@@ -5,7 +5,7 @@ tags: [threefold_grid, threefold, peer-to-peer, why]
 category: [foundation]
 image: ./threefold_at_consensus_2022.png
 image_caption: "ThreeFold at Consensus: A Decentralized World is in Our Hands."
-excerpt: .
+excerpt: It’s that time of the year when believers and builders of a decentralized tomorrow gather to celebrate the festival for the decentralized world. And ThreeFold is the foundation to realize a truly decentralized world.
 authors: [hannah_cordes]
 created: 2022-04-17
 ---
