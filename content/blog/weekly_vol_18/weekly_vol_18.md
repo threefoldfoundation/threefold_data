@@ -66,4 +66,4 @@ See you next week, ThreeFolders!  🙌 
 
 *You can find the previous editions on [our blog](https://threefold.io/blog). For older editions of ThreeFold Weekly (Vol 1-11), go to [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
 
-* *(TFT is not an investment instrument and this is not investment advice, everyone is free to make their own choices.)*
+*(*TFT is not an investment instrument and this is not investment advice, everyone is free to make their own choices.)*
