@@ -52,7 +52,7 @@ created: 2022-05-17
 
 ### ThreeFold Token:
 
-* After measuring the ThreeFold Token’s performance for five days, the **InvestorsObserver** gave the TFT a **[“bullish” rating](https://www.investorsobserver.com/news/crypto-update/threefold-tft-rises-0-28-wednesday-whats-next-for-this-bullish-rated-crypto)** for going up by 0.28% while the broader crypto market went down 9.83%. (ThreeFold believes in building strong technology that respects people and our planet and creates real value, and driving profit only as a result.)
+* After measuring the ThreeFold Token’s performance for five days, the **InvestorsObserver** gave the TFT a **[“bullish” rating](https://www.investorsobserver.com/news/crypto-update/threefold-tft-rises-0-28-wednesday-whats-next-for-this-bullish-rated-crypto)** for going up by 0.28% while the broader crypto market went down 9.83%. (ThreeFold believes in building strong technology that respects people and our planet and creates real value, and driving profit only as a result.)*
 
 <br/>
 
@@ -65,3 +65,5 @@ See you next week, ThreeFolders!  🙌 
 <br/>
 
 *You can find the previous editions on [our blog](https://threefold.io/blog). For older editions of ThreeFold Weekly (Vol 1-11), go to [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
+
+* *(TFT is not an investment instrument and this is not investment advice, everyone is free to make their own choices.)*
