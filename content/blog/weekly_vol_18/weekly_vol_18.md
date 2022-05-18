@@ -68,4 +68,4 @@ See you next week, ThreeFolders!  🙌 
 
 <br/>
 
-*(*TFT is not an investment instrument and this is not investment advice, everyone is free to make their own choices.)*
+ * *(TFT is not an investment instrument and this is not investment advice, everyone is free to make their own choices.)*
