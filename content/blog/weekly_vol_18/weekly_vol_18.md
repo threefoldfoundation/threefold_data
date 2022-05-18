@@ -7,7 +7,7 @@ image: ./weekly_vol_18.png
 image_caption: ThreeFold Weekly! May 17th, 2022 (Vol 18)
 excerpt: Welcome to the 18th edition of ThreeFold Weekly. Let’s get you up to speed on last week’s most important happenings.
 authors: [hannah_cordes]
-created: 2022-05-17
+created: 2022-05-18
 ---
 
 ### Community updates:
