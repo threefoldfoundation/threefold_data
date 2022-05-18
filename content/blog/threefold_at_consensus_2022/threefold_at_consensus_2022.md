@@ -7,7 +7,7 @@ image: ./threefold_at_consensus_2022.png
 image_caption: "ThreeFold at Consensus: A Decentralized World is in Our Hands."
 excerpt: It’s that time of the year when believers and builders of a decentralized tomorrow gather to celebrate the festival for the decentralized world. And ThreeFold is the foundation to realize a truly decentralized world.
 authors: [hannah_cordes]
-created: 2022-04-17
+created: 2022-05-17
 ---
 
 It’s that time of the year when believers and builders of a decentralized tomorrow  gather to celebrate the festival for the decentralized world. About 15,000 people will attend Consensus 2022 by CoinDesk from June 9 through June 12. Throughout the festival, key topics around decentralization, blockchain, crypto, Web 3 and the metaverse will be explored and discussed.
