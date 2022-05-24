@@ -1,6 +1,6 @@
 ---
 id: threefold_cybernews
-title: ThreeFold Coverage in CyberNews
+title: ThreeFold Q&A with Adnan Fatayerji and CyberNews
 tags: [news,threefold_grid,technology,peer_to_peer]
 image: ./threefold_cybernews.png
 category: [foundation]
@@ -11,6 +11,8 @@ created: 2022-05-24
 ---
 
 *This Q&A originally appeared [on CyberNews](https://cybernews.com/security/adnan-fatayerji-threefold-the-best-protection-is-ownership-and-sovereignty-over-your-own-online-data/).*
+
+<br/>
 
 **Every action done online leaves a trace of our personal data that can then be accessed by third parties. Unfortunately, this puts our privacy at risk and can lead to dangerous consequences.**
 
@@ -50,6 +52,8 @@ The ThreeFold journey has been a vast school of knowledge for me while working w
 
 **Can you tell us a little bit about what you do? What are your main fields of focus at the moment?**
 
+<br/>
+
 For the last five years, I've been in charge of the ThreeFold Foundation which is building a global movement around the ThreeFold Grid – a peer-to-peer, open-source, and decentralized Internet. I’m also active in our fundraising, business, and ecosystem development efforts. It's an honor every day to wake up and be a part of a global movement of people who are trying to build a better Internet for humanity that can uplift and empower.
 
 <br/>
@@ -83,6 +87,8 @@ A decentralized Internet can also better serve underserved populations of the wo
 <br/>
 
 **Do you think the recent global events had an effect on the way people approach the blockchain landscape?**
+
+<br/>
 
 Recent global events have definitely had an effect and spotlighted the fact that we need to consider new approaches to our IT systems with the blockchain landscape being one of them. A good example of the power of blockchain technology along with digital currency is Ukraine’s thriving fundraising. As the war began, a [Decentralized Autonomous Organization](https://www.wired.com/story/i-created-a-dao-for-laughs-want-to-join/) (DAO) was set up so that the government could accept cryptocurrency directly from donors.
 
@@ -124,6 +130,8 @@ Users, developers, and enterprises can use TFT to store data, build applications
 <br/>
 
 **As more companies move their workload to the cloud, are there any details that might be overlooked when making the switch?**
+
+<br/>
 
 A vastly overlooked detail about the current cloud landscape is that it is energy-hungry and unsustainable given the rate at which our digital demands are growing today. If your company is working to be more environmentally conscious and meet climate goals, cloud hosting might have been overlooked as a contributing factor.
 
