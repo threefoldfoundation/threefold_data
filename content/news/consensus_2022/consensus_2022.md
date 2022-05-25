@@ -12,6 +12,8 @@ created: 2022-05-10
 
 📣 **ThreeFold @ Consensus 2022**
 
+<br/>
+
 In one month from now, the ThreeFold team will be heading to Austin, TX for Consensus 2022 by CoinDesk, where ThreeFold will be a sponsor!
 
 <br/>
