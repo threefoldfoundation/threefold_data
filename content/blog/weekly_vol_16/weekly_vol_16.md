@@ -10,10 +10,6 @@ authors: [hannah_cordes]
 created: 2022-05-05
 ---
 
-### ThreeFold in the News:
-
-* [Why A Decentralized Internet Could Tackle Internet Poverty And Improve Data Protection](https://threefold.io/news/post/threefold_ibt/) (via **International Business Times**)
-
 ### Community updates:
 
 * **Earn a 500 TFT** ‘cash back’  for testing the latest version of the [TFT Fiat Gateway](https://forum.threefold.io/t/tft-fiat-gateway-beta-testing-program/2746) released as part of [ThreeFold Grid V3 A5](https://forum.threefold.io/t/threefold-product-updates-tfgrid-v3-a-5-april-2022/2713?u=hannahcordes).
