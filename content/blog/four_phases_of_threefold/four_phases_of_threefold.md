@@ -22,15 +22,15 @@ The creation phase was about developing the key tech components and an initial d
 
 <br/>
 
-In addition to fully comprehensive decentralized edge cloud solutions, the ThreeFold ecosystem is also developing a range of applications and experiences across IoT, Metaverse, Blockchain, DeFi, Banking, Education and beyond.
+In addition to fully comprehensive decentralized edge cloud solutions, the ThreeFold ecosystem is also developing a range of applications and experiences across IoT, metaverse, blockchain, DeFi, banking, education and beyond.
 
 <br/>
 
-The phase of creation is almost complete – the ThreeFold team is currently working on the Digital Twin solution that will allow the ecosystem to tap into Web 4 principles – a paradigm that overcomes the limitations of Web 2 and the inefficiencies of Web 3. By advancing our technology further, ThreeFold will be in a unique position to open new frontiers and support emerging global trends.
+The phase of creation is almost complete. The ThreeFold team is currently working on the Digital Twin solution that will allow the ecosystem to tap into Web 4 principles – a paradigm that overcomes the limitations of Web 2 and the inefficiencies of Web 3. By advancing our technology further, ThreeFold will be in a unique position to open new frontiers and support emerging global trends.
 
 ## 2 The Phase of Expansion
 
-The second phase is all about the growth of the ThreeFold Grid and [connecting the dots](https://threefold.io/blog/post/connecting_the_dots/). From individual farmers and farming cooperatives connecting Internet capacity independently to our global network, to building Community Clouds and Regional Internets for countries, various pathways to grid growth have been established by the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) concept.
+The second phase is all about the growth of the ThreeFold Grid and [connecting the dots](https://threefold.io/blog/post/connecting_the_dots/). From individual farmers and farming cooperatives connecting Internet capacity independently to our global network, to building Community Clouds and Regional Internets for countries, various pathways to Grid growth have been established by the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) concept.
 
 <br/>
 
@@ -38,11 +38,11 @@ The Internet of Internets will interconnect us all, while providing us with digi
 
 <br/>
 
-Depending on their geographic proximity, community clouds will be able to form Regional Internets. Each Regional Internet will be equipped with their own blockchain, validators and liquidity providers, and local digital experiences in order to remain independent from the rest of the world. In that sense, whatever would happen to the Internet infrastructure outside of the borders of that region would not affect local connectivity and digital economies. 
+Depending on their geographic proximity, Community Clouds will be able to form Regional Internets. Each Regional Internet will be equipped with their own blockchain, validators and liquidity providers as well as local digital experiences in order to remain independent from the rest of the world. In that sense, whatever would happen to the Internet infrastructure outside of the borders of that region would not affect local connectivity and digital economies. 
 
 <br/>
 
-Ultimately, Regional Internets will be interconnected by the ThreeFold Hub on a global level to create the Internet of Internets. This model is infinitely scalable. Instead of relying on one global network and blockchain, ThreeFold will allow many independent and interoperable Internet infrastructures that support local communities a platform to build their own Blockchain, DeFi, Metaverse, IoT, E-Commerce solutions, and much more. Each layer has its own distinct purpose and enables seamless ecosystem-wide interactions.
+Ultimately, Regional Internets will be interconnected by the ThreeFold Hub on a global level to create the Internet of Internets. This model is infinitely scalable. Instead of relying on one global network and blockchain, ThreeFold will allow for many independent and interoperable Internet infrastructures that support local communities with a platform to build their own blockchain, DeFi, metaverse, IoT, eCommerce solutions, and much more. Each layer has its own distinct purpose and enables seamless ecosystem-wide interactions.
 
 <br/>
 
@@ -50,11 +50,11 @@ With [the Paradise Hills partnership](https://threefold.io/blog/post/paradise_hi
 
 <br/>
 
-The phase of expansion will probably never end. ThreeFold is infinitely scalable, and there are many reasons to continue growing the ThreeFold Grid as it is best positioned to service the emerging demand for edge computing and sovereign infrastructure for decades to come.
+The phase of expansion will probably never end. ThreeFold is infinitely scalable, and there are many reasons to continue growing the ThreeFold Grid as it is best positioned to service the emerging demand for edge computing and sovereign Internet infrastructure for decades to come.
 
 ## 3 The Phase of Web 4
 
-In parallel with the expansion phase, the rollout of the Web 4 phase is expected to kick off later this year to re-imagine business, governance, finance, education and more to provide better alternatives for people, enterprises and governments. Essentially, the Internet of Internets is laying the foundational infrastructure and Web 4 technology will open a world of new possibilities around peer-to-peer and self-sovereign systems.
+In parallel with the expansion phase, the rollout of the Web 4 phase is expected to kick off later this year to re-imagine business, governance, finance, education and more in order to provide better alternatives for people, enterprises and governments. Essentially, the Internet of Internets is laying the foundational infrastructure, and Web 4 technology will open a world of new possibilities around peer-to-peer and self-sovereign systems.
 
 <br/>
 
@@ -62,11 +62,11 @@ The Web 4 phase will empower people to become 100% self-sovereign with a range o
 
 <br/>
 
-A multitude of valuable and meaningful experiences are being built by the ThreeFold Ecosystem and partners to empower people with equal chances to learn, create, and thrive in a decentralized digital economy – what we like to call an abundance-based future for humanity.
+A multitude of valuable and meaningful experiences are being built by the ThreeFold ecosystem and partners to empower people with equal chances to learn, create, and thrive in a decentralized digital economy – what we like to call an abundance-based future for humanity.
 
 <br/>
 
-The key to all of this is ThreeFold open-source Digital Twin technology – providing a unique digital identity that can serve as the key to an open, self-sovereign, and complete digital future. Digital Twin technology allows ThreeFold to flip the current centralized client-server model upside down, empowering people to become the masters of their own destiny. No more data being collected by servers and sold to third-parties – you become the center of your digital life. More on Digital Twin its potential to change everything coming very soon.
+The key to all of this is ThreeFold's open-source Digital Twin technology. It provides a unique digital identity that can serve as the key to an open, self-sovereign and complete digital future. The Digital Twin technology allows ThreeFold to flip the current centralized client-server model upside down, empowering people to become the masters of their own destiny. No more data being collected by servers and sold to third-parties – you become the center of your digital life. There will be more on Digital Twin and its potential to change everything coming very soon.
 
 <br/>
 
@@ -74,15 +74,15 @@ Along with strategic partnerships being formed across the four corners of the gl
 
 ## 4 The Phase of Velocity
 
-The rise of the Internet of Internets and the build up of powerful experiences on Web 4 technology will bring the ecosystem to its fourth phase – Velocity. At that moment in time, it will be all about utilization, economic growth and accelerating together towards our collective vision.
+The rise of the Internet of Internets and the build-up of powerful experiences on Web 4 technology will bring the ecosystem to its fourth phase – Velocity. At that moment in time, it will be all about utilization, economic growth and the acceleration of our collective vision.
 
 <br/>
 
-The ThreeFold tokenomics have been designed to support a decentralized Internet economy that incentives participants to host nodes, validate the blockchain and build applications on the grid. The moment utilization kicks in on a large scale on Web 4, the ThreeFold Ecosystem will be ready to reach millions – and eventually, billions – of users through powerful digital experiences that provide a better alternative than today’s paradigm. As of today, 35% of ThreeFold Token transactions under Proof of Utilization are burnt to create a deflationary economy. This will create further value for the token ecosystem as it will reduce the circulating supply in relation to the increasing demand for the ThreeFold Grid’s infrastructure. 
+The [ThreeFold tokenomics](https://library.threefold.me/info/threefold#/tokens/threefold__tokenomics) have been designed to support a decentralized Internet economy that incentivizes participants to host nodes, validate the blockchain and build applications on the ThreeFold Grid. The moment utilization kicks in at a large scale on Web 4, the ThreeFold Ecosystem will be ready to reach millions – and eventually, billions – of users through powerful digital experiences that provide a better alternative than today’s paradigm. As of today, 35% of ThreeFold Token transactions under Proof of Utilization are burnt to create a deflationary economy. This will create additional [value](https://library.threefold.me/info/threefold#/tokens/threefold__grid_valuation) for the token ecosystem as it will reduce the circulating supply in relation to the increasing demand for ThreeFold’s infrastructure. 
 
 <br/>
 
-Simply put, Phase 4 will drive significant utilization of the ThreeFold Token and support in positioning it as the Bitcoin for Internet capacity. It will open up a decentralized Internet economy full of opportunities, empowerment and meaningful experiences for people all around the world. 
+Simply put, the fourth phase will drive significant utilization of the ThreeFold Token and support in positioning it as the Bitcoin for Internet capacity. It will open up a decentralized Internet economy full of opportunities, empowerment and meaningful experiences for people all around the world. 
 
 ## Bringing Abundance & Opportunity to the World
 
@@ -94,7 +94,7 @@ We’ve reached a pivotal moment in the evolution of ThreeFold to support our wo
 
 <br/>
 
-The Internet of Internets model supports ThreeFold in achieving its vision of providing Internet access to more than a billion people worldwide. And we believe that if we work together, we can connect all of humanity responsibly. Driven by our planet-first, people-first philosophy, the ThreeFold movement is shaping the world we want to live in and laying the foundation for an open, inclusive and abundance-based future.
+The [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) model supports ThreeFold in achieving its vision of providing Internet access to more than a billion people worldwide. And we believe that if we work together, we can connect all of humanity responsibly. Driven by our planet-first, people-first philosophy, the ThreeFold movement is shaping the world we want to live in and laying the foundation for an open, inclusive and abundance-based future.
 
 <br/>
 
