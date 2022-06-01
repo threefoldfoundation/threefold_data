@@ -3,7 +3,7 @@ id: four_phases_of_threefold
 title: Building the Future We Want to Live In – A Four Step Journey
 tags: [threefold_grid,why,technology,farming,threefold_token]
 category: [foundation]
-image: ./four_phases_of_threefold.png
+image: ./the_four_phases_of_threefold.png
 image_caption: Four Phases of ThreeFold
 excerpt: Driven by our planet-first, people-first philosophy, the ThreeFold movement is shaping the world we want to live in and laying the foundation for an open, inclusive and abundance-based future.
 authors: [hannah_cordes]
