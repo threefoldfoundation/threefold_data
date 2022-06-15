@@ -10,7 +10,7 @@ authors: [hannah_cordes]
 created: 2022-06-07
 ---
 
-### Major ThreeFold News:
+## Major ThreeFold News:
 
 - ThreeFold and **the Institute of Emerging Technologies of South Africa [(IETSA)](https://ietsa.org.za/)** are partnering to **expand the ThreeFold’s decentralized Internet infrastructure** across South Africa, and to **provide education** in blockchain protocols and digital technologies. Learn more about this amazing collaboration [here](https://www.itweb.co.za/content/Pero3qZ3lkpvQb6m)!
 
