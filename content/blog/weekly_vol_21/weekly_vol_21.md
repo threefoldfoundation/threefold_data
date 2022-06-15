@@ -12,11 +12,11 @@ created: 2022-06-15
 
 ### Community Updates:
 
-* The team spent a few eventful days in Austin, Texas, to celebrate the festival of the decentralized world: Consensus by CoinDesk. Over four days, we met hundreds of people, re-engaged with partners, took part in several interviews with the press, and co-hosted a gathering to lay the foundation for a sovereign Regional Internet in Austin – by and for the people of the Austin community. Read the full recap [here](https://forum.threefold.io/t/consensus-2022-and-laying-the-foundation-for-austins-sovereign-internet/3018).
+* The team spent a few eventful days in Austin, Texas, to celebrate the festival of the decentralized world: **Consensus by CoinDesk**. Over four days, we met hundreds of people, re-engaged with partners, took part in several interviews with the press, and co-hosted a gathering to lay the foundation for a **sovereign Regional Internet in Austin** – by and for the people of the Austin community. Read the full recap [here](https://forum.threefold.io/t/consensus-2022-and-laying-the-foundation-for-austins-sovereign-internet/3018).
 
 <br/>
 
-* There’s a new episode available on our ThreeFold Podcast. Listen to Kyle and Weynand as they dive into everything from space to self-hosted data centers to the ownCloud partnership – you can listen to the episode [here](https://anchor.fm/threefoldpodcast)!
+* There’s a new episode available on our **ThreeFold Podcast**. Listen to Kyle and Weynand as they dive into everything from space to self-hosted data centers to the ownCloud partnership – you can listen to the episode [here](https://anchor.fm/threefoldpodcast)!
 
 ### Technology Developments:
 
@@ -24,15 +24,15 @@ created: 2022-06-15
 
 <br/>
 
-* Also, check out this [sneak peak](https://forum.threefold.io/t/threefold-product-updates-tfgrid-v3-a-6-plan-may-2022/2808?u=hannahcordes) on ThreeFold Grid V3.0.0 Alpha-7!
+* Also, check out this [sneak peak](https://forum.threefold.io/t/threefold-product-updates-tfgrid-v3-a-6-plan-may-2022/2808?u=hannahcordes) on **ThreeFold Grid V3.0.0 Alpha-7**!
 
 ### ThreeFold Grid: 
 
-* A new [Grid Enhancement Proposal](https://forum.threefold.io/t/gep-for-super-green-farming-with-100-renewable-energy/2992) for Green Farming with 100% Renewable Energy was shared and is now open for voting. Make sure to participate – planet first, people first!
+* A new [Grid Enhancement Proposal](https://forum.threefold.io/t/gep-for-super-green-farming-with-100-renewable-energy/2992) for **Green Farming with 100% Renewable Energy** was shared and is now open for voting. Make sure to participate – planet first, people first!
 
 <br/>
 
-* Global Titan shipping continues, so don’t forget to provide all [information](https://forum.threefold.io/t/creating-your-v3-farm-required-for-open-unshipped-orders/2144) for your Titan order to ensure quick delivery.
+* Global Titan shipping continues, so don’t forget to **provide all [information](https://forum.threefold.io/t/creating-your-v3-farm-required-for-open-unshipped-orders/2144)** for your Titan order to ensure quick delivery.
 
 <br/>
 
