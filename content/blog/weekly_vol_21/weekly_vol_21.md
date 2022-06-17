@@ -20,11 +20,11 @@ created: 2022-06-15
 
 ### Technology Developments:
 
-* Wondering what the team is working on in June? Well, it’s a lot – including many [updates and new functionalities](https://forum.threefold.io/t/threefold-product-updates-tfgrid-v3-a-6-plan-may-2022/2808?u=hannahcordes) for the Planetary Network, TF Wallet, the ownCloud freemium experience, and more.
+* Wondering what the team is working on in June? Well, it’s a lot – including many [updates and new functionalities](https://forum.threefold.io/t/threefold-product-updates-june-2022/2937?u=hannahcordes) for the Planetary Network, TF Wallet, the ownCloud freemium experience, and more.
 
 <br/>
 
-* Also, check out this [sneak peak](https://forum.threefold.io/t/threefold-product-updates-tfgrid-v3-a-6-plan-may-2022/2808?u=hannahcordes) on **ThreeFold Grid V3.0.0 Alpha-7**!
+* Also, check out this [sneak peak](https://forum.threefold.io/t/threefold-product-updates-june-2022/2937?u=hannahcordes) on **ThreeFold Grid V3.0.0 Alpha-7**!
 
 ### ThreeFold Grid: 
 
