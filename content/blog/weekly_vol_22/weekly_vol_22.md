@@ -28,7 +28,7 @@ created: 2022-06-28
 
 ### Technology Developments:
 
-* We’ve officially released **ThreeFold Grid V3.0.0 Alpha-6**! Learn more about what the release includes [here](https://library.threefold.me/info/manual/#/manual__tfgrid_release_3_6_0)!
+* **ThreeFold Grid V3.0.0 Alpha-6** is live on testnet and available for public testing! Get the full update [here](https://forum.threefold.io/t/tfgrid-v3-6-0-is-now-live/3084?u=hannahcordes) and join our [TF Grid Tester Group](https://t.me/threefoldtesting) now!
 
 ### ThreeFold Grid: 
 
