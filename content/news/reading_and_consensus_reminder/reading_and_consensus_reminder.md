@@ -1,7 +1,7 @@
 ---
 id: reading_and_consensus_reminder
 title: ThreeFold Reading and Consensus Reminder
-tags: [community,update,]
+tags: [community,update]
 category: [foundation]
 image: ./reading_and_consensus_reminder.png
 image_caption: ThreeFold Reading and Consensus Reminder
