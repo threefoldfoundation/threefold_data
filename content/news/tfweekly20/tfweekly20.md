@@ -1,6 +1,6 @@
 ---
 id: tfweekly20
-title: ThreeFold Weekly! Volume Nineteen
+title: ThreeFold Weekly! Volume Twenty
 tags: [community,update,news]
 category: [foundation]
 image: ./tfweekly20.png
