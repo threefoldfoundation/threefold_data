@@ -5,7 +5,7 @@ tags: [threefold_grid, threefold, peer-to-peer, community]
 category: [foundation]
 image: ./consensus_2022_recap.png
 image_caption: "Consensus 2022 Recap – ThreeFold Community Celebrates the  Internet of Internets"
-excerpt: It’s that time of the year when believers and builders of a decentralized tomorrow gather to celebrate the festival for the decentralized world. And ThreeFold is the foundation to realize a truly decentralized world.
+excerpt: In June, the ThreeFold Team went to Austin to share our vision for a decentralized Internet as sponsor of Consensus 2022. Throughout an incredible week, we spread the word about ThreeFold, formed meaningful connections and planted the seeds for the first sovereign Regional Internet.
 authors: [hannah_cordes]
 created: 2022-06-28
 ---
