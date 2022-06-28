@@ -38,7 +38,7 @@ In the early days, a simple computer was enough to mine Bitcoin. However, the di
 
 <br/>
 
-It’s only sensible that miners are beefing up their machines to increase their chances. In fact, the sector became so competitive that [Intel created](https://www.linkedin.com/pulse/sustainable-crypto-mining-becoming-reality-nameet-potnis/) dedicated chips and specialized manufacturers for mining servers like [Bitmain](https://www.bitmain.com/) were established. With up to 32,500 Watts indicated by manufacturers, the power consumption of such devices averages 28,470 kWh per year if operated continuously. In comparison, the annual consumption of a freezer is estimated between 200 and 500 kWh per year. 
+It’s only sensible that miners are beefing up their machines to increase their chances. In fact, the sector became so competitive that [Intel created](https://www.linkedin.com/pulse/sustainable-crypto-mining-becoming-reality-nameet-potnis/) dedicated chips and specialized manufacturers for mining servers like [Bitmain](https://www.bitmain.com/) were established. With up to 3,250 Watts indicated by manufacturers, the power consumption of such devices averages 28,470 kWh per year if operated continuously. In comparison, the annual consumption of a freezer is estimated between 200 and 500 kWh per year. 
 
 <br/>
 
