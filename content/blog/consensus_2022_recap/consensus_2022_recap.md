@@ -38,7 +38,7 @@ We believe that, together, we’re strong enough to build new regenerative syste
 
 <br/>
 
-![ThreeFold Booth Consensus](./threefold_booth_consensus.png)
+![ThreeFold and Austin Community](./threefold_austin_community.png)
 
 <br/>
 
