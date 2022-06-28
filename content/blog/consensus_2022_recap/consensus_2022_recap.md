@@ -34,7 +34,7 @@ We found shared values among a group of open, inspiring, passionate and like-min
 
 <br/>
 
-We believe that, together, we’re strong enough to build new regenerative systems powerful enough to enable anyone to have a sovereign, safer and more fulfilling life. And we're honored to be working with the people of Austin in the global rollout of the Internet of Internets. We’re now looking to launch the first 3Nodes there to lay the foundation of Austin’s sovereign Regional Internet.
+We believe that, together, we’re strong enough to build new regenerative systems powerful enough to enable anyone to have a sovereign, safer and more fulfilling life. And we're honoured to be working with the people of Austin in the global rollout of the Internet of Internets. We’re now looking to launch the first 3Nodes there to lay the foundation of Austin’s sovereign Regional Internet.
 
 <br/>
 
