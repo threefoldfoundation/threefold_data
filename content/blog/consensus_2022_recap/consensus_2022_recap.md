@@ -24,6 +24,10 @@ Co-founder [Adnan Fatayerji](https://threefold.io/people/adnan_fatayerji/) condu
 
 ![ThreeFold Booth People](./threefold_booth_people.png)
 
+<br/>
+
+*“As the Layer 0 for Web2/3/4 or 5, we came to Consensus with open arms and in the spirit of collaboration and that’s exactly what happened. We made friends and connected with the projects out there that are truly moving the needle of ‘Trust’/Web3 forward. We look forward to nurturing these incredible partnerships on ThreeFold’s foundational layer and to scale ‘Digital Trust’ in all its forms towards mainstream adoption.” – Adnan Fatayerji*
+
 ## Bringing the Sovereign Internet to Austin
 
 Together with some of [our Austin friends](https://www.yourhomecommunity.com/), we gathered with 45 like-minded people at Casa de Luz, a spiritual and wellness retreat, to launch the first sovereign Regional Internet in Austin, Texas. All of us shared our own stories and reasons for attending. Then we explored the opportunities, benefits and next steps for Austin to establish its own truly self-sovereign regional Internet.
