@@ -7,7 +7,7 @@ image: ./planet_first_people_first.png
 image_caption: Planet first. People first.
 excerpt: Together with our community and partners, we're taking action and making productive choices for our planet and humanity.
 authors: [hannah_cordes]
-created: 2022-06-05
+created: 2022-07-05
 ---
 
 Today, the world is facing an unprecedented number of crises and disruptions stemming from the COVID-19 pandemic to climate change to Russia’s invasion of Ukraine. From supply chain disruptions and rising inflation to shortages in food and energy supply, serious challenges lie ahead.
