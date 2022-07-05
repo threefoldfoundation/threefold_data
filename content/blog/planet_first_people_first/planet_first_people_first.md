@@ -68,7 +68,7 @@ ThreeFold is more than a company or a project. ThreeFold is a global movement co
 
 <br/>
 
-<[ThreeFold impact video](https://drive.google.com/file/d/1nxMeGYHT4d457vDD1G-4jTsE3vPaLbfH/view?usp=sharing)>
+![ThreeFold Impact Video](./threefold_impact_video.mp4)
 
 ## We are part of the solution
 
