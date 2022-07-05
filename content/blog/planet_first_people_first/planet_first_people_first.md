@@ -66,7 +66,7 @@ We’re aware that this mission is a big one. We’re aware how aspirational it 
 
 <br/>
 
-ThreeFold is more than a company or a project. ThreeFold is a global movement consisting of like-minded individuals and partners who share these values and vision. A movement united in our shared beliefs in open source, peer-to-peer, equality and inclusion. By coming together to build a better Internet, we can create the foundation for a better world. We’re incredibly proud of the ThreeFold community and ecosystem. This beautiful community consists of open-minded, passionate, and determined people from all around the world, just like you. We’re dreamers, creators, builders and change makers.
+ThreeFold is more than a company or a project. ThreeFold is a global movement consisting of like-minded individuals and partners who share these values and vision. A movement united in our shared beliefs in open source, peer-to-peer, equality and inclusion. By coming together to build a better Internet, we can create the foundation for a better world. We’re incredibly proud of the ThreeFold community and ecosystem. This beautiful community consists of open-minded, passionate and determined people from all around the world, just like you. We’re dreamers, creators, builders and change makers.
 
 <br/>
 
@@ -82,7 +82,7 @@ Together, we can achieve the extraordinary. The ThreeFold movement is building o
 
 <br/>
 
-With ThreeFold, anyone, anywhere, can make a difference. For a better life, for a better future.
+With ThreeFold, anyone anywhere can make a difference. For a better life, for a better future.
 
 <br/>
 
