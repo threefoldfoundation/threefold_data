@@ -40,6 +40,8 @@ Our approach is also based on community and connection. We’re determined to bu
 
 Here are three examples of the impact we’re creating together:
 
+<br/>
+
 * Together with [Take Action Global](https://threefold.io/blog/post/planting_the_seeds/), we’re offsetting the ThreeFold Grid’s emissions three times through planting and protecting trees
 
 <br/>
