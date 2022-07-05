@@ -78,7 +78,7 @@ There are many great projects and organizations out there that also follow the p
 
 <br/>
 
-Together, we can achieve the extraordinary. The ThreeFold movement is building our own future through the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) – an Internet made up of hundreds, thousands, and ultimately millions, of interconnected local Internets that enables us all to directly connect and exchange without limitations or intermediaries. No matter what you do to support planet-first people-first movements, thank you. In doing so, you’re making a difference. You’re contributing to making the world a better place.
+Together, we can achieve the extraordinary. The ThreeFold movement is building our own future through the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) – an Internet that will be made up of hundreds, thousands, and ultimately millions, of interconnected local Internets that enables us all to directly connect and exchange without limitations or intermediaries. No matter what you do to support planet-first people-first movements, thank you. In doing so, you’re making a difference. You’re contributing to making the world a better place.
 
 <br/>
 
