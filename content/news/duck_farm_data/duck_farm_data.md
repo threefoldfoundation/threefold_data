@@ -5,7 +5,7 @@ tags: [community,update,farming,threefold_grid]
 category: [foundation]
 image: ./duck_farm_data.png
 image_caption: New Partner on G3M
-excerpt: A warm welcome to Fuck Farm Data, the newest 3Node partner for North America!
+excerpt: A warm welcome to Duck Farm Data, the newest 3Node partner for North America!
 authors: [sam_taggart]
 created: 2022-06-22
 ---
