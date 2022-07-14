@@ -7,7 +7,7 @@ rank: 2
 excerpt: ThreeFold Tech and OpenNebula Systems are partnering to accelerate new, open-source and edge computing applications and joint innovation initiatives.
 image: ./opennebula.png
 image_caption: OpenNebula
-logo: ./opennebula_logo.png
+logo: ./opennebula_logo.jpg
 category: [foundation]
 members: []
 websites: https://opennebula.io
