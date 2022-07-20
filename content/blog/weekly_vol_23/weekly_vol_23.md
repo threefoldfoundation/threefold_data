@@ -9,6 +9,7 @@ excerpt: Welcome to the 23rd edition of ThreeFold Weekly. Let’s dive into last
 authors: [hannah_cordes]
 created: 2022-07-05
 ---
+*As of edition 24, we’ll only share the Weekly via email and [TF News](https://t.me/threefoldnews), so make sure to subscribe via the respective buttons on the top-right corner of [our website](https://threefold.io).*
 
 ### Community Updates:
 
