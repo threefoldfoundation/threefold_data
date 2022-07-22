@@ -33,3 +33,7 @@ Together, ThreeFold Tech and OpenNebula Systems are [partnering](https://www.ein
 <br/>
 
 OpenNebula Systems and ThreeFold Tech are developing these initiatives in a European Union context, including participation in Horizon Europe consortiums and in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Areas of common interest will also be explored through support for the Gaia-X project, including Gaia-X Federation Services (GXFS) and Structura-X, and the SovereignEdge.EU initiative for defining an alternative, sovereign edge cloud stack for Europe.
+
+<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fMfUoG8JIjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
