@@ -46,7 +46,7 @@ For ThreeFold to be a [truly decentralized](https://threefold.io/blog/post/quest
 
 <br/>
 
-It orchestrates the provisioning of compute, storage and network on the ThreeFold Grid via [Zero-OS](https://threefold.io/tech/zero-os), removing all forms of intermediaries present in today’s centralized IT infrastructures. Put simply, TF Chain allows people to provide and use cloud resources in a 100% decentralized way. 
+It orchestrates the provisioning of compute, storage and network on the ThreeFold Grid via [Zero-OS](https://library.threefold.me/info/threefold#/technology/threefold__zos), removing all forms of intermediaries present in today’s centralized IT infrastructures. Put simply, TF Chain allows people to provide and use cloud resources in a 100% decentralized way. 
 
 ## What does TF Chain do?
 
@@ -54,7 +54,7 @@ It orchestrates the provisioning of compute, storage and network on the ThreeFol
 
 <br/>
 
-An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network, allowing it to [bridge back and forth](https://www2.threefold.io/blog/post/bridges_connecting_threefold_ecosystem/) from the Stellar network and potentially from other chains in the future.
+An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network, allowing it to [bridge back and forth](https://threefold.io/blog/post/bridges_connecting_threefold_ecosystem/) from the Stellar network and potentially from other chains in the future.
 
 <br/>
 
@@ -66,19 +66,15 @@ While TF Chain builds on the Substrate framework, most of its functionalities ar
 
 ## The Future
 
-While Internet capacity provisioning and workload deployments are already executed via TF Chain, the minting of TFTs according to the [Proof-of-Capacity algorithm](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity) remains on the Stellar blockchain until Grid 3.1, when TF Chain will become the official chain of the [ThreeFold Token](https://library.threefold.me/info/threefold#/technology/threefold__threefold_token).
+While Internet capacity provisioning and workload deployments are already executed via TF Chain, the minting of TFT according to the [Proof-of-Capacity algorithm](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity) remains on the Stellar blockchain for now.
 
 <br/>
 
-Building our own application-specific blockchain represents a major step towards decentralizing the ThreeFold Grid and ecosystem, with the next milestone being the ThreeFold DAO planned for Grid 3.2. 
-
-<br/>
-
-A **massive thank you** to our developer team for this great achievement! 🙏
+Building our own application-specific blockchain represents a major step towards decentralizing the ThreeFold Grid and ecosystem – a **massive thank you** to our developer team for this great achievement! 🙏
 
 <br/>
 
 Want to dive deeper? We invite you to:
-* learn more about how smart contracts work on TF Chain 3.0 [here](https://library.threefold.me/info/threefold#/technology/threefold__smartcontract_tfgrid3).
-* join the ThreeFold Grid 3.0 testnet conversations [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w).
-* check our roadmap [here](https://library.threefold.me/info/threefold#/cloud/threefold__roadmap_grid).
+* Learn more about how smart contracts work on TF Chain 3.0 [here](https://library.threefold.me/info/threefold#/technology/threefold__smartcontract_tfgrid3).
+* Join the ThreeFold Grid 3.0 testnet conversations [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w).
+* Check our roadmap [here](https://forum.threefold.io/t/internal-roadmap-3-5-3-6-3-x/2928?u=hannahcordes).
