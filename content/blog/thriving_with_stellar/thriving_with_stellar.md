@@ -88,7 +88,7 @@ Basically, selling and buying TFT is possible via all the above and below mentio
 
 <br/>
 
-* [StellarTerm](https://stellarterm.com/)
+* [StellarTerm](https://stellarterm.com/) is an open-source client that allows users to easily send, receive and trade assets on the Stellar Network
 
 <br/>
 
