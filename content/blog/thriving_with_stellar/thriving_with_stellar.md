@@ -125,9 +125,6 @@ Until then, check out some of these key resources around the ThreeFold Token:
 <br/>
 
 **ThreeFold Token & Liquidity**
-
-<br/>
-
 * [What is the real value of TFT](https://forum.threefold.io/t/what-is-the-real-value-of-tft/3143)
 * [The Potential of the ThreeFold Token (TFT)](https://forum.threefold.io/t/the-potential-of-the-threefold-token-tft/1796)
 * [TFT Knowledge Base](https://library.threefold.me/info/threefold/#/tokens/tokens_home.md)
@@ -136,18 +133,12 @@ Until then, check out some of these key resources around the ThreeFold Token:
 <br/>
 
 **Upcoming Liquid Delisting**
-
-<br/>
-
 * [TFT will be delisted on Liquid – what now, and what next?](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197)
 * [Withdraw your TFT from Liquid](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy?id=withdraw-your-tft-from-liquid)
 
 <br/>
 
 **How to Buy & Sell TFT**
-
-<br/>
-
 * [How to Buy & Sell TFT – Overview](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy?id=how-to-buy-amp-sell-tft)
 * [Buy TFT on Stellar](https://library.threefold.me/info/threefold#/tokens/threefold__tft_stellar_dex?id=buy-tft-on-stellar)
 
