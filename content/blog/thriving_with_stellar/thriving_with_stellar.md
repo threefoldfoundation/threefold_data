@@ -38,7 +38,7 @@ Stellar has a lot to offer, including:
 
 * Stellar helps exchanges with enabling compliant [on/off ramps](https://resources.stellar.org/stellar-for-exchanges) and thereby opens up exchanges’ access to new markets, users and services
 * Stellar does so through native and interoperable on/off-ramps within the Stellar Network, called anchors
-* All exchanges have to do is integrate assets like [Stellar USDC](https://www.stellar.org/usdc)*
+* All exchanges have to do is integrate assets like [Stellar USDC](https://www.stellar.org/usdc)
 
 #### Order Books
 
@@ -47,7 +47,7 @@ Stellar has a lot to offer, including:
 * The order book model is very established – it's the same model used by traditional exchanges where users trade forex or cryptocurrencies
 * In general, order books on decentralized money chains are pretty straightforward, while basically offering the same functionalities as centralized exchanges
 * The order book on Stellar is relatively small but as people start using it it will get bigger, there is no downside compared to Liquid
-* TFT is also available on order books on [Stellar USDC](https://www.stellar.org/usdc)*
+* TFT is also available on order books on [Stellar USDC](https://www.stellar.org/usdc)
 
 #### Automated Market Makers (AMMs)
 
@@ -72,11 +72,11 @@ Since every asset and currency starts with zero liquidity when issued on Stellar
 
 <br/>
 
-*[*Stellar USDC](https://www.stellar.org/usdc) brings the world’s fastest-growing USD stablecoin to Stellar, an incredibly efficient and fast network. Through Stellar USDC, a fully-backed and trusted digital US Dollar asset, dollars can now move anywhere and to anyone, across borders, and be immediately converted into and out of the world’s currencies. Learn more about how it works [here](https://www.stellar.org/usdc-get-started).*
+*[Stellar USDC](https://www.stellar.org/usdc) brings the world’s fastest-growing USD stablecoin to Stellar, an incredibly efficient and fast network. Through Stellar USDC, a fully-backed and trusted digital US Dollar asset, dollars can now move anywhere and to anyone, across borders, and be immediately converted into and out of the world’s currencies. Learn more about how it works [here](https://www.stellar.org/usdc-get-started).*
 
 ## How to Buy TFT with Stellar
 
-Basically, selling and buying TFT is possible via all the above and below mentioned interfaces and wallets within the Stellar Network through [Stellar USDC](https://www.stellar.org/usdc)*. We currently recommend the following ways to [buy TFT on Stellar](https://library.threefold.me/info/threefold#/tokens/threefold__tft_stellar_dex):
+Basically, selling and buying TFT is possible via all the above and below mentioned interfaces and wallets within the Stellar Network through [Stellar USDC](https://www.stellar.org/usdc). We currently recommend the following ways to [buy TFT on Stellar](https://library.threefold.me/info/threefold#/tokens/threefold__tft_stellar_dex):
 
 <br/>
 
@@ -88,7 +88,7 @@ Basically, selling and buying TFT is possible via all the above and below mentio
 
 <br/>
 
-* [StellarTerm](https://stellarterm.com/) is an open-source client that allows users to easily send, receive and trade assets on the Stellar Network
+* [StellarTerm](https://library.threefold.me/info/threefold#/tokens/threefold__tft_stellarterm) is an open-source client that allows users to easily send, receive and trade assets on the Stellar Network
 
 <br/>
 
