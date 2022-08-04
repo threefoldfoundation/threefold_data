@@ -60,7 +60,7 @@ Stellar has a lot to offer, including:
 
 #### Wallets 
 
-Stellar provides a number of different [wallets](https://www.stellar.org/ecosystem/projects?tab=wallets#Wallets) with various functionalities, both hardware and software wallets, to make it really simple for users to leverage the Stellar Network – from LOBSTR and Solar to StellarX and Trezor.
+Stellar provides a number of different [wallets](https://www.stellar.org/ecosystem/projects?tab=wallets#Wallets) with various functionalities, both hardware and software wallets, to make it really simple for users to enter the Stellar Network – from LOBSTR and Solar to StellarX and Trezor.
 
 <br/>
 
