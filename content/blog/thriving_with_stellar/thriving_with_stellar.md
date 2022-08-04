@@ -96,7 +96,7 @@ Basically, selling and buying TFT is possible via all the above and below mentio
 
 <br/>
 
-* [Interstellar](https://library.threefold.me/info/threefold#/tokens/threefold__tft_interstellar)
+* [Interstellar](https://library.threefold.me/info/threefold#/tokens/threefold__tft_interstellar) provides a complete digital currency experience to easily create, send, receive, swap and trade digital currencies and other tokenonized assets
 
 <br/>
 
