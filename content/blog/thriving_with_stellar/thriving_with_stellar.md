@@ -104,15 +104,7 @@ Visit the linked library pages to find detailed step-by-step guides for all meth
 
 ## What’s next for TFT
 
-One of our key objectives is to make TFT more accessible. Yes, TFT will be delisted from the Liquid Exchange on 21 August 2022 as we shared [here](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197). So, if you hold TFT on Liquid, you will need to withdraw your TFT and move them to another location (ThreeFold Connect or another Stellar Wallet).
-
-<br/>
-
-But there are many other options to [buy and sell TFT](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy) – in our opinion, much better options – considering centralized exchanges come with certain disadvantages – like [gettft.com](https://gettft.com/) or Stellar’s DEX, and even more coming soon.
-
-<br/>
-
-We’re exploring the feasibility and synergies for a meaningful partnership with Algorand – including making TFT available on Algorand order books. 
+One of our key objectives is to make TFT more accessible. Already, there are many options to [buy and sell TFT](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy) – like [gettft.com](https://gettft.com/) or Stellar’s DEX, and more coming soon. We’re also exploring the feasibility and synergies for a meaningful partnership with Algorand – including making TFT available on Algorand order books. 
 
 <br/>
 
@@ -129,12 +121,6 @@ Until then, check out some of these key resources around the ThreeFold Token:
 * [The Potential of the ThreeFold Token (TFT)](https://forum.threefold.io/t/the-potential-of-the-threefold-token-tft/1796)
 * [TFT Knowledge Base](https://library.threefold.me/info/threefold/#/tokens/tokens_home.md)
 * [Liquidity Whitepaper](https://threefold.docsend.com/view/3mu3cddgj7znuixj)
-
-<br/>
-
-**Upcoming Liquid Delisting**
-* [TFT will be delisted on Liquid – what now, and what next?](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197)
-* [Withdraw your TFT from Liquid](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy?id=withdraw-your-tft-from-liquid)
 
 <br/>
 
