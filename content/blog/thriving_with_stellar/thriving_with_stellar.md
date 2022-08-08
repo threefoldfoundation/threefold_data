@@ -80,7 +80,7 @@ Basically, selling and buying TFT is possible via all the above and below mentio
 
 <br/>
 
-* [Freighter](https://www.freighter.app/) is a non-custodial Stellar wallet extension that enables you to sign Stellar transactions via your browser.
+* [Freighter](https://www.freighter.app/) is a non-custodial Stellar wallet extension that enables you to sign Stellar transactions via your browser
 
 <br/>
 
