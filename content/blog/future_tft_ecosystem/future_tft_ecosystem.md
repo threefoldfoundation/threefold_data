@@ -10,15 +10,19 @@ authors: [hannah_cordes]
 created: 2022-08-11
 ---
 
-Today, there are many options to [buy and sell TFT](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy) in a decentralized way, including multiple options within the [Stellar ecosystem](https://threefold.io/blog/post/thriving_with_stellar/). Actually, everything we need for a healthy financial ecosystem is already available on Stellar today. In addition to that, we’re also exploring the opportunities for a meaningful partnership with Algorand. Both the Stellar and Algorand ecosystems offer various functions crucial for the [TFT](https://forum.threefold.io/t/the-potential-of-the-threefold-token-tft/1796) ecosystem – from order books to wallets to AMM liquidity pools and on/off ramp options – and have huge, thriving communities.
+The emergence of blockchain technology presented the world with new exciting opportunities – from independent digital currencies and decentralized financial (DeFi) applications to smart contracts, consensus-driven voting systems, and decentralized autonomous organizations (DAOs). Above all, blockchain technology held, and still holds, the promise of decentralization and transparency.
 
 <br/>
 
-On top of these great decentralized options, we’ve decided to develop our own DeFi solutions: community-based liquidity pools and the P2P DeFi Wallet. These DeFi solutions will be the foundation of the financial system for the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/). They represent another leap forward in our journey of building the sovereign and abundance-based future we want to live in.
+But somewhere along the way, much of the blockchain and crypto space started to return to principles and methods of the old financial system. Many projects out there seem to choose hype and fast profits over long-term growth and providing real value. Now, unsurprisingly, we’re experiencing a serious bear market, [the worst](https://cointelegraph.com/news/2022-bear-market-has-been-the-worst-on-record-glassnode) crypto has ever seen. That doesn’t have to be a bad thing, though. And it won’t be, for projects who provide real value and take a different approach. The monetary system is clearly failing, we shouldn’t need to rely on central banks – or even centralized exchanges for that matter. And we don’t have to!
 
 <br/>
 
-Along with building community-owned Internets, our ecosystem is reimagining education, business, governance and more for a fair, inclusive and regenerative future – opening up a new world of possibilities. And in order to connect such an ecosystem of Internets, a healthy and fair financial system is key.
+We believe in decentralization. And we believe that the future is decentralized. Now’s the time for technology with real value and impactful solutions to stand out. DeFi is great and fortunately many decentralized alternatives already exist, with thriving ecosystems and communities. There are many options to [buy and sell TFT](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy) in a decentralized way, including multiple options within the [Stellar ecosystem](https://threefold.io/blog/post/thriving_with_stellar/). Both Stellar and Algorand already provide everything we need for a healthy financial ecosystem and offer various functions crucial for the [TFT](https://forum.threefold.io/t/the-potential-of-the-threefold-token-tft/1796) ecosystem – from order books to wallets to AMM liquidity pools and on/off ramp options. And both have huge, thriving communities.
+
+<br/>
+
+Beyond these great decentralized options, we’ve decided to develop our own DeFi solutions to support the growth and expansion of the Internet of Internets and an abundance-based future where we are truly sovereign: community-based liquidity pools and the P2P DeFi Wallet. These DeFi solutions will be the foundation of the financial system for the Internet of Internets.
 
 <br/>
 
@@ -35,6 +39,10 @@ As the name P2P DeFi Wallet already gives away, this new wallet is a DeFi platfo
 ## Why Are These New DeFi Solutions Important for the ThreeFold Ecosystem?
 
 Blockchain ecosystems like Stellar and Algorand are amazing and offer everything we need to organically grow the ThreeFold Token. And yet, we need additional mechanisms for liquidity providing which are designed to support the Internet of Internets. Many AMM DeFi pools are great and a step forward but not sufficient for certain use cases, e.g. DEFI pools usually don’t support bigger exchange trades, as the price would be too affected. Classic order book trading on-chain comes with its own set of limitations as well.
+
+<br/>
+
+Along with building community-owned Internets, our ecosystem is reimagining education, business, governance and more for a fair, inclusive and regenerative future – opening up a new world of possibilities. And in order to connect such an ecosystem of Internets, a healthy and fair financial system is key.
 
 <br/>
 
