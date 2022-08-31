@@ -76,7 +76,7 @@ As the glocal concept will be rolled out, the ThreeFold Token will unfold its [p
 
 *Catch a [glimpse of the future](https://threefold.io/blog/post/future_tft_ecosystem/) of the TFT ecosystem to learn more!*
 
-## The Internet of Internets as a catalyst for Token Growth
+## The Internet of Internets as a Catalyst for Token Growth
 
 ThreeFold is not only for believers in open source and decentralization. ThreeFold, and TFT, are needed. TFT is [much more](https://forum.threefold.io/t/what-is-the-real-value-of-tft/3143) than a simple token. It energizes the ThreeFold Grid and the [expansion](https://threefold.io/blog/post/four_phases_of_threefold/) of a truly decentralized Internet. There are many new ecosystem developments, tech advancements and building blocks for the Internet of Internets happening all around.
 
