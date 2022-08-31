@@ -54,7 +54,7 @@ And there are more factors potentially reinforcing scarcity. Staking is the mech
 
 <br/>
 
-The combination of TFT’s scarcity mechanisms with our staking and validator programs, will lead to an increased scarcity of TFT on the market – which, in turn, will allow our future DeFi solutions to sell TFT at a higher value. 
+The combination of the token’s scarcity mechanisms with our staking and validator programs, will lead to an increased scarcity of TFT on the market – which, in turn, will allow our future DeFi solutions to sell TFT at a higher value. 
 
 *Visit our wiki to dive deeper into our [tokenomics](https://library.threefold.me/info/threefold/#/tokens/threefold__tokenomics) and to find more details on the [value of TFT](https://library.threefold.me/info/threefold/#/tokens/threefold__grid_valuation).*
 
