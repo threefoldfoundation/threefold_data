@@ -5,7 +5,7 @@ tags: [threefold_grid, threefold_token, technology, blockchain, update]
 category: [foundation]
 image: ./thriving_with_stellar.png
 image_caption: Thriving with Stellar – The Role of Stellar for the TFT Ecosystem & How to Buy TFT on Stellar
-excerpt: We believe everything we need for a healthy financial ecosystem is already available on Stellar today. Find out more about Stellar and its role in the TFT ecosystem, and learn how to buy TFT with Stellar.
+excerpt: Everything we need for a healthy financial ecosystem is already available on Stellar today. Find out more about Stellar and its role in the TFT ecosystem, and learn how to buy TFT with Stellar.
 authors: [hannah_cordes]
 created: 2022-08-04
 ---
