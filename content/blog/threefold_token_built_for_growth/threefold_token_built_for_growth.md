@@ -38,7 +38,7 @@ First of all, the supply of TFT is [limited](https://library.threefold.me/info/t
 
 <br/>
 
-In line with our [planet-first people-first philosophy](https://threefold.io/blog/post/planet_first_people_first/), we’ve implemented a [Voluntary Carbon Credits](https://forum.threefold.io/t/threefold-on-track-to-be-planet-positive/2097?u=hannahcordes) system in the PoC algorithm, so every 3Node mints additional TFT to offset its own carbon emissions, as outlined [here](https://forum.threefold.io/t/threefold-on-track-to-be-planet-positive/2097).
+In line with our [planet-first people-first philosophy](https://threefold.io/blog/post/planet_first_people_first/), we’ve implemented a Voluntary Carbon Credits system in the PoC algorithm, so every 3Node mints additional TFT to offset its own carbon emissions, as outlined [here](https://forum.threefold.io/t/threefold-on-track-to-be-planet-positive/2097?u=hannahcordes).
 
 <br/>
 
