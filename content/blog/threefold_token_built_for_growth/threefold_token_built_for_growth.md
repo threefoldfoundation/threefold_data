@@ -26,7 +26,7 @@ As the utility token and medium of exchange of the [ThreeFold Grid](https://libr
 
 <br/>
 
-We’ve made a lot of progress to make the ThreeFold Token more accessible and to create a healthy financial ecosystem for it. Moreover, the team is building our own DeFi solutions. You can learn more about our efforts towards providing a native financial system for the Internet of Internets [here](https://threefold.io/blog/post/future_tft_ecosystem/).
+We’ve made a lot of progress in making the ThreeFold Token more accessible and in creating a healthy financial ecosystem for it. Moreover, the team is building our own DeFi solutions. You can learn more about our efforts towards providing a native financial system for the Internet of Internets [here](https://threefold.io/blog/post/future_tft_ecosystem/).
 
 <br/>
 
