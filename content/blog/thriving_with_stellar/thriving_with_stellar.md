@@ -68,7 +68,7 @@ So, as you can see, Stellar offers multiple great solutions and basically everyt
 
 <br/>
 
-Since every asset and currency starts with zero liquidity when issued on Stellar, it is up to the community to put capital onto the Stellar Network and to put that capital to use for trading, e.g. by creating orders on the order books, to build liquidity on Stellar – i.e. to create and sustain a healthy market for TFT. Therefore, we encourage you all to choose Stellar as the primary platform to trade TFT. If all of us together put our liquidity there, we’ll be able to create a very healthy TFT ecosystem, and thereby also attract others to get involved in TFT. Actually, this is a great chance for us to take back control of the token and strengthen – without any interferences or manipulations from centralized exchanges. Together, we build.
+Since every asset and currency starts with zero liquidity when issued on Stellar, it is up to the community to put capital onto the Stellar Network and to put that capital to use for trading, e.g. by creating orders on the order books, to build liquidity on Stellar – i.e. to create and sustain a healthy market for TFT. Therefore, we encourage you all to choose Stellar as the primary platform to trade TFT. If all of us together put our liquidity there, we’ll be able to create a very healthy TFT ecosystem, and thereby also attract others to get involved in TFT. Actually, this is a great chance for us to take back control of and strengthen the token – without any interferences or manipulations from centralized exchanges. Together, we build.
 
 <br/>
 
