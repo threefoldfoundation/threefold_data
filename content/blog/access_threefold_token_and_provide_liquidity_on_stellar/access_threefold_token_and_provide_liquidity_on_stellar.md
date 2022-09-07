@@ -197,7 +197,11 @@ Now you’re ready to provide liquidity! Click on the “Deposit liquidity to th
 
 <br/>
 
-**Congrats, you’ve just added liquidity to the TFT <> USDC pool!** Now you’re a liquidity provider on Stellar! Other ways to contribute to Stellar’s liquidity pools are [xBull Wallet](https://xbull.app/) and [StellarX](https://www.stellarx.com/). No matter which of the interfaces you use, they all enable you to add liquidity to the same underlying pool on the **StellarDEX** for the trading pair you chose.
+**Congrats, you’ve just added liquidity to the TFT <> USDC pool!** 
+
+<br/>
+
+Now you’re a liquidity provider on Stellar! Other ways to contribute to Stellar’s liquidity pools are [xBull Wallet](https://xbull.app/) and [StellarX](https://www.stellarx.com/). No matter which of the interfaces you use, they all enable you to add liquidity to the same underlying pool on the **StellarDEX** for the trading pair you chose.
 
 <br/>
 
