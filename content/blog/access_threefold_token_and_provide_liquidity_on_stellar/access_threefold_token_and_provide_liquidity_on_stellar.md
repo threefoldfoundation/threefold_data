@@ -91,8 +91,6 @@ Now you can check out your new account and play around with the settings, e.g. t
 
 ![Albedo Overview](./albedo_overview.png)
 
-<br/>
-
 ### Step 1.3: Activate account on ledger
 
 In order to make your Albedo account fully functional, you’ll need to initially activate the account on the ledger by sending at least **1.6 XLM** to your account’s address. 
@@ -112,8 +110,6 @@ If you’re holding TFT in a different wallet, simply transfer the tokens and se
 <br/>
 
 ![Copy Wallet Address](./copy_wallet_address.png)
-
-<br/>
 
 ### Step 2.2.B: Swap XLM/USDC for TFT within Albedo
 
@@ -159,8 +155,6 @@ Now you can activate the selected asset by pressing “Add trustline”.
 
 ![Add Trustline](./add_trustline.png)
 
-<br/>
-
 ## Step 3 – Choose another asset
 
 At this point, you already have TFT in your Albedo account, so it’s time to choose a second asset to combine with TFT as a trading pair like XLM or USDC. You can get XLM or USDC on many exchanges and then deposit it to your Albedo wallet.
@@ -184,8 +178,6 @@ Head to the “Liquidity” section in order to select the two assets you’d li
 <br/>
 
 ![Select Assets and Amount](./select_assets_and_amount.png)
-
-<br/>
 
 ### Step 4.2: Deposit liquidity
 
