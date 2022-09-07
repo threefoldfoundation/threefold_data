@@ -155,12 +155,58 @@ Click on “Add trustline”, then press the “Choose an asset” on the next p
 
 Now you can activate the selected asset by pressing “Add trustline”.
 
+<br/>
 
-
+![Add Trustline](./add_trustline.png)
 
 <br/>
 
-![Tree Planting 1](./tree_planting_1.png)
+## Step 3 – Choose another asset
+
+At this point, you already have TFT in your Albedo account, so it’s time to choose a second asset to combine with TFT as a trading pair like XLM or USDC. You can get XLM or USDC on many exchanges and then deposit it to your Albedo wallet.
 
 <br/>
 
+Repeat the same procedure of buying/depositing/swapping and activating for this second asset – the other part of the trading pair you’ve chosen to provide liquidity to in a pool. We chose USDC.
+
+## Step 4 – Add liquidity to a pool
+
+For this guide, we’ll be depositing TFT and USDC in order to provide liquidity to the pool. 
+
+<br/>
+
+So after creating and activating your account and assets on Albedo, you’re now holding TFT and USDC. You’re ready to add liquidity to the TFT <> USDC pool on Albedo.
+
+### Step 4.1: Select assets & amount
+
+Head to the “Liquidity” section in order to select the two assets you’d like to provide liquidity to and to set the amount of TFT and USDC you would like to provide to this pool.
+
+<br/>
+
+![Select Assets and Amount](./select_assets_and_amount.png)
+
+<br/>
+
+### Step 4.2: Deposit liquidity
+
+Now you’re ready to provide liquidity! Click on the “Deposit liquidity to the pool”-button located at the bottom of your screen to add the selected assets to the pool.
+
+<br/>
+
+![Deposit Liquidity to Pool](./deposit_liquidity_to_pool.png)
+
+<br/>
+
+**Congrats, you’ve just added liquidity to the TFT <> USDC pool!** Now you’re a liquidity provider on Stellar! Other ways to contribute to Stellar’s liquidity pools are [xBull Wallet](https://xbull.app/) and [StellarX](https://www.stellarx.com/). No matter which of the interfaces you use, they all enable you to add liquidity to the same underlying pool on the **StellarDEX** for the trading pair you chose.
+
+<br/>
+
+As exciting as this is, please don’t forget: With great decentralization comes great responsibility! So, do your own research on how liquidity pools work and make sure you understand the risks related to impermanent loss. Also, read [this advice](https://library.threefold.me/info/threefold#/tokens/threefold__threefold_wallets?id=important-notes) on keeping your TFT safe.
+
+<br/>
+
+Feel free to ask any questions either in the [chats](https://t.me/threefold) or the forum’s [token section](https://forum.threefold.io/c/threefold-token/22)!
+
+<br/>
+
+*Please note that the ThreeFold Token ([TFT](https://library.threefold.me/info/threefold/#/tokens/threefold__threefold_token)) is not an investment instrument. Also, this is not investment advice, everyone is free to make their own choices. So, do your own research and read our [disclaimer](https://library.threefold.me/info/legal/#/legal__disclaimer).*
