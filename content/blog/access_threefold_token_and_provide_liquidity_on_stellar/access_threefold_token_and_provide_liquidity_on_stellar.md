@@ -14,7 +14,7 @@ As we previously shared, we believe in the organic and sustainable growth of Thr
 
 #### What are liquidity pools?
 
-Liquidity pools are an integral part of DeFi systems. They can be understood as “[collection of tokens or digital assets stored in a smart contract](https://www.blockchain-council.org/defi/crypto-liquidity-pools/)” on a decentralized exchange (DEX). Liquidity pools allow users to buy or sell such assets in a decentralized way and are used to enhance decentralized trading, lending/borrowing and other DeFi services. Users get rewarded with a cut of the fees generated in the process to incentivize them to become liquidity providers.
+Liquidity pools are an integral part of DeFi systems and can be understood as a “[collection of tokens or digital assets stored in a smart contract](https://www.blockchain-council.org/defi/crypto-liquidity-pools/)” on a decentralized exchange (DEX). Liquidity pools allow users to buy or sell such assets in a decentralized way and are used to enhance decentralized trading, lending/borrowing and other DeFi services. Users get rewarded with a cut of the fees generated in the process to incentivize them to become liquidity providers.
 
 #### What does it mean to drive liquidity on Stellar?
 
