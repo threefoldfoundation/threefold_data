@@ -2,7 +2,7 @@
 id: zero_people_IT_is_the_future
 title: Zero People IT is the Future
 tags: [technology, threefold_cloud]
-ategory: [tech, cloud]
+category: [tech, cloud]
 image: ./zero_people.png
 image_caption: future
 excerpt: Classic IT infrastructure setup is complex and is not cost-effective. Applications need a specific environment to operate in, built by integrating different technology components from different vendors. Elements of such a setup are operating systems, storage systems, networks, security systems, authentication systems, and more.
