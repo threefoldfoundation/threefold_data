@@ -5,7 +5,7 @@ tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation]
 image: ./threefolds_game_changing_infrastructure_is_ready_part_one.png
 image_caption: "ThreeFold’s Game-Changing Internet Infrastructure Is Ready for Adoption – Part One: Intro"
-excerpt: In this three-part series, we’ll explore ThreeFold’s game-changing Internet infrastructure as well as the solutions and experiences available today. The first part will give a comprehensive overview of the ThreeFold Grid, its evolution and capabilities.
+excerpt: Dive into the magic of the ThreeFold Grid and what it enables for people around the world – from developers to end users, and everyone in between – with this three-part series! We’ll explore ThreeFold’s infrastructure, solutions and experiences available today. The first part will give a comprehensive overview of the Grid, its evolution and capabilities.
 authors: [hannah_cordes]
 created: 2022-09-15
 ---
@@ -14,15 +14,19 @@ What started out as an idea for a better Internet about a decade ago amongst a f
 
 <br/>
 
-We’ve reached a pivotal moment in the evolution of the Internet. ThreeFold is ready to unlock a new Internet era – one filled with abundance and opportunity for all and which is better for our planet. Our technology, ecosystem and community have the potential to drive this new era.
+We’ve reached a pivotal moment in the evolution of the Internet. And ThreeFold is ready to unlock a new Internet era – one filled with abundance and opportunity for all, one which is better for our planet. Our open-source technology, future-facing ecosystem and collaborative community have the potential to drive this new era forward.
 
 <br/>
 
-The Internet was always meant to be peer-to-peer, where anyone could own hardware, and connect and exchange directly with full security and in full privacy, without any entity in the middle. And since its inception, ThreeFold has been committed not only to providing such an  Internet infrastructure, but also to realizing our ultimate vision of a better future for all. For the past six years, we’ve been building up an incredible full-stack, open-source, decentralized Internet, all from the ground-up. We’ve come a long way and the result is, well, exceptional. There is nothing else out there like ThreeFold.
+For us, the Internet was always meant to be peer-to-peer, where anyone could own hardware, and connect and exchange directly with full security and in full privacy – without any entity in the middle. This is how the Internet began. But as demand grew, big tech began to monopolize its infrastructure and all the major platforms.
 
 <br/>
 
-From creating our own blockchain-driven and highly secure operating system, to building an ultra-scalable Quantum Safe Storage System, a complete far edge cloud computing platform and planetary peer-to-peer network all accessible via a unique Smart Contract for IT on the ThreeFold Blockchain, we’re proud to have the most [complete edge infrastructure](https://www.threefold.io/blog/internet-at-the-edge/) to power the next-generation Internet era.
+Since its inception, ThreeFold has been committed not only to delivering on the original promise of the Internet, but also to realizing our ultimate vision of a better future for all. For the past six years, we’ve been building up an incredible full-stack, open-source, decentralized Internet, all from the ground-up. We’ve come a long way and the result is, well, exceptional. There is *nothing* else out there like ThreeFold.
+
+<br/>
+
+From creating our own blockchain-driven and highly secure operating system (which allows computers to become decentralized servers), to building an ultra-scalable Quantum Safe Storage System, a complete far edge cloud computing platform and a planetary peer-to-peer network all accessible via a unique Smart Contract for IT on the ThreeFold Blockchain, we’re proud to have the most [complete edge infrastructure](https://www.threefold.io/blog/internet-at-the-edge/) to power the next-generation Internet era.
 
 <br/>
 
@@ -34,7 +38,7 @@ Our vision and technology have matured into the [Internet of Internets](https://
 
 <br/>
 
-So, what solutions does the ThreeFold Grid offer today already? And why exactly should you start to build on top of ThreeFold? Let’s explore some of the many possibilities available today!
+So, what solutions does the ThreeFold Grid offer today already? And why exactly should you start to build on top of ThreeFold? Let’s explore some of the many possibilities available today.
 
 ## The ThreeFold Grid – A cutting-edge, highly scalable peer-to-peer infrastructure
 
@@ -46,15 +50,15 @@ The Grid is a peer-to-peer cloud computing network that's highly compatible with
 
 <br/>
 
-Over the past months, the team evolved the Grid through version 3.6.1 and upgraded it to mainnet in July after receiving 100% community approval. This [release](https://forum.threefold.io/t/tfgrid-product-updates-july-2022-tfgrid-v3-6-1-highlights-and-more/3206/2?u=hannahcordes) introduces more stability to the TF Grid and includes various upgrades and new features like the ThreeFold Connect App, the new unified dashboard for a simpler user experience, and more. Huge progress was also made in terms of the DAO functionality that went live on TF Chain, with the first TF Chain (L1) DAO proposal was voted on and approved in August.
+Over the past months, the team evolved the Grid through version 3.6.1 and upgraded it to mainnet in July after receiving 100% community approval. This [release](https://forum.threefold.io/t/tfgrid-product-updates-july-2022-tfgrid-v3-6-1-highlights-and-more/3206/2?u=hannahcordes) introduces more stability to the TF Grid and includes various upgrades and new features like the ThreeFold Connect App, the new unified dashboard for a simpler user experience, and more. Big progress was also made in terms of the DAO functionality that went live on TF Chain, with the first TF Chain (L1) DAO proposal was voted on and approved in August.
 
 <br/>
 
-And with each new Grid release, we’re getting one step closer to solidifying the foundation of the Internet of Internets. Currently, the team is working towards completing [Grid V3.7.0](https://forum.threefold.io/t/threefold-product-updates-august-2022/3272?u=hannahcordes) which includes some significant updates, improvements and new features like FreeFlow Twin, a new Node Pilot, new deployment features and [a lot more](https://forum.threefold.io/t/threefold-product-updates-august-2022/3272?u=hannahcordes). The team continues to do incredible work to further develop and advance the Grid as well as to support utilization and adoption by offering tools and applications that are user-friendly, secure, efficient and scalable. A massive thank you to our incredible tech team and the community of Grid testers!
+And with each new Grid release, we’re getting one step closer to solidifying the foundation of the Internet of Internets. Currently, the team is working towards completing [Grid version 3.7.0](https://forum.threefold.io/t/threefold-product-updates-august-2022/3272?u=hannahcordes) which includes some significant updates, improvements and new features like FreeFlow Twin, a new Node Pilot, new deployment features and [a lot more](https://forum.threefold.io/t/threefold-product-updates-august-2022/3272?u=hannahcordes). The team continues to do incredible work to further develop and advance the Grid as well as to support utilization and adoption by offering tools and applications that are user-friendly, secure, efficient and scalable. A massive thank you to our incredible tech team and the community of Grid testers!
 
 ### Next up: our cloud solution
 
-So, the ThreeFold Grid has been evolved, advanced and expanded quite a bit, hasn’t it? About time to take a closer look at our cloud solution and everything enabled by the technology and tooling built on top. A little warning though: part two of our series on ThreeFold’s game-changing Internet infrastructure is for the more tech-savvy crowd. If you don’t consider yourself “a tech person” you might prefer to jump to part three on weblets and end-user experiences right away.
+So, the ThreeFold Grid has been evolved, advanced and expanded quite a bit, hasn’t it? About time to take a closer look at our cloud solution and everything enabled by the technology and tooling built on top. As a heads up, part two of our series on ThreeFold’s game-changing Internet infrastructure is for the more tech-savvy crowd. If you don’t consider yourself “a tech person” you might prefer to jump to part three on weblets and end-user experiences right away.
 
 <br/>
 
