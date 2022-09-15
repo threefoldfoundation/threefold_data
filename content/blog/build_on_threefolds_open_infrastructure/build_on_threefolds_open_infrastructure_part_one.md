@@ -22,7 +22,7 @@ For us, the Internet was always meant to be [peer-to-peer](https://www.threefold
 
 <br/>
 
-Since its inception, ThreeFold has been committed not only to delivering on the original promise of the Internet, but also to realizing our ultimate vision of a better future for all. For the past six years, we’ve been building up an incredible full-stack, open-source, decentralized Internet, all from the ground-up. We’ve come a long way and the result is, well, exceptional. There is *nothing* else out there like ThreeFold.
+Since its inception, ThreeFold has been committed not only to delivering on the original promise of the Internet, but also to realizing our ultimate vision of a better future for all. For the past six years, we’ve been building up an incredible full-stack, open-source, decentralized Internet, all [from the ground-up](https://forum.threefold.io/t/how-threefold-is-building-a-new-internet-from-the-ground-up/2057?u=hannahcordes). We’ve come a long way and the result is, well, exceptional. There is *nothing* else out there like ThreeFold.
 
 <br/>
 
