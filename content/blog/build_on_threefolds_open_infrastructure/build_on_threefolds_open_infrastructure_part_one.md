@@ -34,7 +34,7 @@ And we’re taking concrete steps to further expand this infrastructure that off
 
 <br/>
 
-Our vision and technology have matured into the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) – a network of thousands of community-built and -owned Internets through which we strive to interconnect all of humanity. A new world is coming, and [our technology](https://library.threefold.me/info/threefold#/technology/threefold__technology) has the potential to revolutionize digitization on a global scale, across sectors. And yet we remain a hidden gem.
+Our vision and technology have matured into the [Internet of Internets](https://www.threefold.io/blog/internet-of-internets/) – a network of thousands of community-built and -owned Internets through which we strive to interconnect all of humanity. A new world is coming, and [our technology](https://library.threefold.me/info/threefold#/technology/threefold__technology) has the potential to revolutionize digitization on a global scale, across sectors. And yet we remain a hidden gem.
 
 <br/>
 
