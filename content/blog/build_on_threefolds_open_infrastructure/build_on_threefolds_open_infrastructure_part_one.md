@@ -3,7 +3,7 @@ id: build_on_threefolds_open_infrastructure_part_one
 title: "Build on ThreeFold’s Open Infrastructure – Part One: Intro"
 tags: [threefold_grid,technology,peer_to_peer]
 category: [foundation]
-image: ./build_on_threefolds_open_infrastructure_part_one.png
+image: ./build_on_threefolds_open_infrastructure.png
 image_caption: "Build on ThreeFold’s Open Infrastructure – Part One: Intro"
 excerpt: Dive into the magic of the ThreeFold Grid and what it enables for people around the world – from developers to end users, and everyone in between – with this three-part series! We’ll explore ThreeFold’s infrastructure, solutions and experiences available today. The first part will give a comprehensive overview of the Grid, its evolution and capabilities.
 authors: [hannah_cordes]
