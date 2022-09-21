@@ -58,7 +58,7 @@ And the best thing about the [playground](https://library.threefold.me/info/manu
 
 ## How to achieve digital sovereignty with a set of end-user experiences
 
-*“Through simple, secure, and scalable technology, ThreeFold empowers millions to invent and explore new experiences." – [Kristof de Spiegeleer](https://threefold.io/news/post/paradise_hills/)*
+*“Through simple, secure, and scalable technology, ThreeFold empowers millions to invent and explore new experiences." – [Kristof de Spiegeleer](https://www.threefold.io/newsroom/paradise-hills/)*
 
 <br/>
 
