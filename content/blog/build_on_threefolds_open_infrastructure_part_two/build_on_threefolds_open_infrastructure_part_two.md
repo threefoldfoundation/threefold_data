@@ -20,7 +20,7 @@ After looking back at the ThreeFold Grid’s evolution and what makes it a game-
 
 If you’re wondering what virtual machines are, haven’t heard about Kubernetes before and don’t know your way around coding languages, this part might be less interesting for you. Feel free to skip and jump right into [part three](https://www.threefold.io/blog/build-on-threefolds-open-infrastructure-part-three/) on weblets and end-user experiences.
 
-### Elements of our comprehensive & decentralized cloud solution
+## Elements of our comprehensive & decentralized cloud solution
 
 The ThreeFold Grid provides [various primitives](https://library.threefold.me/info/threefold#/technology/threefold__tfgrid_primitives) for compute, storage, and network – fulfilling all the needs centralized cloud providers cater to as well, while offering advantages in terms of decentralization, energy efficiency, security and more. [Zero-OS](https://forum.threefold.io/t/all-you-need-to-know-about-zero-os/1734) includes a collection of components, called primitives. These primitives are the low-level constructs which can be deployed on the ThreeFold Grid. As mentioned above, they act as building blocks for skilled developers that enable them to build and create in complete digital freedom.
 
@@ -64,7 +64,7 @@ Despite being simple, V gives a lot of power to the developer and can be used in
 
 With +30,5K Stars on [GitHub](https://github.com/vlang/v), V brings a strong open-source developer community to the ThreeFold ecosystem to develop the infrastructures and applications of tomorrow – making it the ideal smart contract language for the ThreeFold ecosystem.
 
-### An open invitation
+## An open invitation
 
 So, now that you’ve learned more about the building blocks of the ThreeFold Grid and how you can build with them, we’d like to invite you to try and test them yourselves!
 
