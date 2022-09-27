@@ -14,7 +14,7 @@ Today, the world is facing an unprecedented number of crises and disruptions ste
 
 <br/>
 
-We have always believed that technology can help some of humanity’s greatest challenges – for example by providing the foundation for an interconnected world that can enable abundance to spread. ThreeFold has focused on developing a more reliable Internet which can meet the demands and challenges of the future. A [more sustainable](https://threefold.io/blog/post/planting_the_seeds/) Internet that uses [less energy](https://threefold.io/blog/post/for_our_planet/) and is offsetting its carbon emissions by supporting tree planting and other impact initiatives. And an Internet that empowers us with digital [sovereignty](https://threefold.io/blog/post/threefold_data_sovereignty/) while providing high levels of [privacy and security](https://forum.threefold.io/t/critical-security-updates-for-apple-and-google-underline-need-for-secure-it-ecosystem/1271?u=hannahcordes). One that is [inclusive](https://threefold.io/blog/post/more_inclusive_internet/) by being more affordable and accessible.
+We have always believed that technology can help some of humanity’s greatest challenges – for example by providing the foundation for an interconnected world that can enable abundance to spread. ThreeFold has focused on developing a more reliable Internet which can meet the demands and challenges of the future. A [more sustainable](https://threefold.io/blog/planting_the_seeds/) Internet that uses [less energy](https://threefold.io/blog/for_our_planet/) and is offsetting its carbon emissions by supporting tree planting and other impact initiatives. And an Internet that empowers us with digital [sovereignty](https://threefold.io/blog/threefold_data_sovereignty/) while providing high levels of [privacy and security](https://forum.threefold.io/t/critical-security-updates-for-apple-and-google-underline-need-for-secure-it-ecosystem/1271?u=hannahcordes). One that is [inclusive](https://threefold.io/blog/more_inclusive_internet/) by being more affordable and accessible.
 
 <br/>
 
@@ -26,7 +26,7 @@ Without our planet, humanity has no home. Without our planet, we can’t survive
 
 <br/>
 
-ThreeFold aims to deliver on our promise of providing better solutions for our planet and people through our technology. With this approach, we’re taking action and making productive choices for our planet and humanity. Our [journey](https://threefold.io/blog/post/four_phases_of_threefold/) is shaped by the determination to drive the regeneration of our planet and to enable a better life for people.
+ThreeFold aims to deliver on our promise of providing better solutions for our planet and people through our technology. With this approach, we’re taking action and making productive choices for our planet and humanity. Our [journey](https://threefold.io/blog/four_phases_of_threefold/) is shaped by the determination to drive the regeneration of our planet and to enable a better life for people.
 
 <br/>
 
@@ -42,7 +42,7 @@ Here are three examples of the impact we’re creating together:
 
 <br/>
 
-* Together with [Take Action Global](https://threefold.io/blog/post/planting_the_seeds/), we’re offsetting the ThreeFold Grid’s emissions three times through planting and protecting trees
+* Together with [Take Action Global](https://threefold.io/blog/planting_the_seeds/), we’re offsetting the ThreeFold Grid’s emissions three times through planting and protecting trees
 
 <br/>
 
@@ -58,7 +58,7 @@ We strongly believe in the ThreeFold Law which states that any good you do will 
 
 <br/>
 
-We’re aware that this mission is a big one. We’re aware how aspirational it is. We’re aware that we are not perfect. And we realize that changing the world for the better requires patience and community. We’re in it for the [long run](https://threefold.io/blog/post/four_phases_of_threefold/) and we’re in it together.
+We’re aware that this mission is a big one. We’re aware how aspirational it is. We’re aware that we are not perfect. And we realize that changing the world for the better requires patience and community. We’re in it for the [long run](https://threefold.io/blog/four_phases_of_threefold/) and we’re in it together.
 
 <br/>
 
@@ -78,7 +78,7 @@ There are many great projects and organizations out there that also follow the p
 
 <br/>
 
-Together, we can achieve the extraordinary. The ThreeFold movement is building our own future through the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) – an Internet that will be made up of hundreds, thousands, and ultimately millions, of interconnected local Internets that enables us all to directly connect and exchange without limitations or intermediaries. No matter what you do to support planet-first people-first movements, thank you. In doing so, you’re making a difference. You’re contributing to making the world a better place.
+Together, we can achieve the extraordinary. The ThreeFold movement is building our own future through the [Internet of Internets](https://threefold.io/blog/internet_of_internets/) – an Internet that will be made up of hundreds, thousands, and ultimately millions, of interconnected local Internets that enables us all to directly connect and exchange without limitations or intermediaries. No matter what you do to support planet-first people-first movements, thank you. In doing so, you’re making a difference. You’re contributing to making the world a better place.
 
 <br/>
 

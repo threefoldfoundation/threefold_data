@@ -35,7 +35,7 @@ The starting point ThreeFold Grid 3:
 
 ### Notable Tech Developments
 
-Other new developments on the tech side included [QSFS](https://threefold.io/news/post/qsfs_intro/) (Quantum Safe Storage System), [TF Chain](https://threefold.io/blog/post/tf_chain/), Smart Contracts and more (take a look at the new [tech section](https://threefold.io/tech) we launched with the new threefold.io this year and of course [our knowledge base](https://library.threefold.me/info/threefold/#/technology/threefold__technology)).
+Other new developments on the tech side included [QSFS](https://threefold.io/news/post/qsfs_intro/) (Quantum Safe Storage System), [TF Chain](https://threefold.io/blog/tf_chain/), Smart Contracts and more (take a look at the new [tech section](https://threefold.io/tech) we launched with the new threefold.io this year and of course [our knowledge base](https://library.threefold.me/info/threefold/#/technology/threefold__technology)).
 
 ### The ThreeFold Token (TFT)
 

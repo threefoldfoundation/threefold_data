@@ -54,7 +54,7 @@ We believe our planet needs regenerative solutions at a large scale. Our motto i
 
 <br/>
 
-While the [ThreeFold Grid](https://library.threefold.me/info/threefold#/tfgrid/threefold__tfgrid_home) is already much more [energy efficient](https://threefold.io/blog/post/for_our_planet/) than the traditional Internet, there will always be energy consumption and emissions that cannot be avoided – and thus have to be compensated for. We’re not just going for the carbon neutrality of the ThreeFold Grid but for carbon negativity (or as we prefer to call it, planet positivity), i.e. offsetting its emissions three times through planting and protecting trees.
+While the [ThreeFold Grid](https://library.threefold.me/info/threefold#/tfgrid/threefold__tfgrid_home) is already much more [energy efficient](https://threefold.io/blog/for_our_planet/) than the traditional Internet, there will always be energy consumption and emissions that cannot be avoided – and thus have to be compensated for. We’re not just going for the carbon neutrality of the ThreeFold Grid but for carbon negativity (or as we prefer to call it, planet positivity), i.e. offsetting its emissions three times through planting and protecting trees.
 
 <br/>
 
@@ -66,7 +66,7 @@ As we shared in our Planet-Positive Farming Series, we’re setting the plan for
 
 ## Driving regeneration with Take Action Global
 
-We’re aiming to realize the initial promise of the Internet while also regenerating the planet. Our decentralized Internet infrastructure is already highly [energy efficient](https://threefold.io/blog/post/internet_energy_consumption/) – we’re using about 10 times less energy than any comparable alternative. In December 2021, we [announced](https://www.prnewswire.com/news-releases/threefold-and-take-action-global-partner-to-bring-internet-access-to-1-billion-people-across-the-globe-301446693.html) our commitment to achieve a [carbon double win](https://forum.threefold.io/c/ecosystem-developments/sustainability/90) for the ThreeFold Grid.
+We’re aiming to realize the initial promise of the Internet while also regenerating the planet. Our decentralized Internet infrastructure is already highly [energy efficient](https://threefold.io/blog/internet_energy_consumption/) – we’re using about 10 times less energy than any comparable alternative. In December 2021, we [announced](https://www.prnewswire.com/news-releases/threefold-and-take-action-global-partner-to-bring-internet-access-to-1-billion-people-across-the-globe-301446693.html) our commitment to achieve a [carbon double win](https://forum.threefold.io/c/ecosystem-developments/sustainability/90) for the ThreeFold Grid.
 
 <br/>
 
@@ -94,11 +94,11 @@ We all need to take responsibility and to pull our own weight. But we’re in th
 
 <br/>
 
-We are pioneering the creation of an [energy-efficient](https://threefold.io/blog/post/internet_energy_consumption/) and regenerative Internet built and owned by the people. The ThreeFold ecosystem consists of like-minded individuals and partners that share our values and support us in our mission. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a better Internet. And we’re being acknowledged for our work – we’re [nominated](https://evenements.optionfinance.fr/les-debats-finance-impact-rse/content/candidats-sia) for the Sustainable Investment in Action [Awards](https://sustainableinvestmentinaction.com/awards-conferences-2022/) in the category “Basic Needs”.
+We are pioneering the creation of an [energy-efficient](https://threefold.io/blog/internet_energy_consumption/) and regenerative Internet built and owned by the people. The ThreeFold ecosystem consists of like-minded individuals and partners that share our values and support us in our mission. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a better Internet. And we’re being acknowledged for our work – we’re [nominated](https://evenements.optionfinance.fr/les-debats-finance-impact-rse/content/candidats-sia) for the Sustainable Investment in Action [Awards](https://sustainableinvestmentinaction.com/awards-conferences-2022/) in the category “Basic Needs”.
 
 <br/>
 
-We’re making it easy for everyone to join us – all you have to do is connect a [3Node](https://threefold.io/farm) to the ThreeFold Grid and you’ll effortlessly regenerate the earth through providing Internet capacity – a process we call ‘farming’ because it’s a greener, purposeful [alternative](https://threefold.io/blog/post/farming_a_greener_alternative_to_crypto_mining/) to crypto mining.
+We’re making it easy for everyone to join us – all you have to do is connect a [3Node](https://threefold.io/farm) to the ThreeFold Grid and you’ll effortlessly regenerate the earth through providing Internet capacity – a process we call ‘farming’ because it’s a greener, purposeful [alternative](https://threefold.io/blog/farming_a_greener_alternative_to_crypto_mining/) to crypto mining.
 
 <br/>
 

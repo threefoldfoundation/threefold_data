@@ -10,7 +10,7 @@ authors: [scott_yeager]
 created: 2021-07-28
 ---
 
-Welcome back for the second part of this introductory series on ThreeFold Grid technology. [Last time](https://threefold.io/blog/post/an_intro_to_the_threefold_grid/) we took a high level view of all that the Grid offers. This time, we'll be zooming in on storage, covering the low level components and how they can provide a familiar experience like the cloud "drives" and "boxes" we use today.
+Welcome back for the second part of this introductory series on ThreeFold Grid technology. [Last time](https://threefold.io/blog/an_intro_to_the_threefold_grid/) we took a high level view of all that the Grid offers. This time, we'll be zooming in on storage, covering the low level components and how they can provide a familiar experience like the cloud "drives" and "boxes" we use today.
 <br/>
 <br/>
 The ThreeFold Grid offers several different storage primitives that can be combined in various ways to meet the needs of developers and end users of Grid capacity. Ultimately, all storage services are a way of presenting the underlying hardware to software workloads in various ways, according to the desired features. ThreeFold has created a few unique storage offerings, providing distinct benefits over legacy cloud infrastructure. From the start, every component has been designed for optimal efficiency and they work together to offer an unprecedented level of security.

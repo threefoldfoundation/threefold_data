@@ -16,11 +16,11 @@ Launched in 2014, [Stellar](https://www.stellar.org/) is an open network for sto
 
 <br/>
 
-In [2020](https://threefold.io/news/post/stellar/), ThreeFold decided to move the [ThreeFold Token](https://library.threefold.me/info/threefold#/tokens/threefold__token_what) (TFT) to Stellar from Rivine (a transactional blockchain created by ThreeFold), which still is the main blockchain for the minting of TFT and the distribution of farming rewards. Internet capacity provisioning and workload deployments are executed via [TF Chain](https://threefold.io/blog/post/tf_chain/). Therefore, [bridges](https://threefold.io/blog/post/bridges_connecting_threefold_ecosystem/) between Stellar and TF Chain were established to facilitate payments.
+In [2020](https://threefold.io/news/post/stellar/), ThreeFold decided to move the [ThreeFold Token](https://library.threefold.me/info/threefold#/tokens/threefold__token_what) (TFT) to Stellar from Rivine (a transactional blockchain created by ThreeFold), which still is the main blockchain for the minting of TFT and the distribution of farming rewards. Internet capacity provisioning and workload deployments are executed via [TF Chain](https://threefold.io/blog/tf_chain/). Therefore, [bridges](https://threefold.io/blog/bridges_connecting_threefold_ecosystem/) between Stellar and TF Chain were established to facilitate payments.
 
 <br/>
 
-*Learn more about the blockchains TFT is available on [here](https://threefold.io/blog/post/bridges_connecting_threefold_ecosystem/).*
+*Learn more about the blockchains TFT is available on [here](https://threefold.io/blog/bridges_connecting_threefold_ecosystem/).*
 
 ## Why we chose Stellar & What the Network offers
 

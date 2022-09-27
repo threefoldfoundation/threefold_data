@@ -22,7 +22,7 @@ Stellar offers multiple great solutions and basically everything we need, so it�
 
 #### About Stellar 
 
-[Stellar](https://threefold.io/blog/post/thriving_with_stellar/) is an open network for storing, moving and trading any kind of money transparently and efficiently, with a thriving ecosystem on top and a huge community. Find out all about Stellar, its role for the TFT ecosystem, how to buy TFT on Stellar, and more [here](https://threefold.io/blog/post/thriving_with_stellar/).
+[Stellar](https://threefold.io/blog/thriving_with_stellar/) is an open network for storing, moving and trading any kind of money transparently and efficiently, with a thriving ecosystem on top and a huge community. Find out all about Stellar, its role for the TFT ecosystem, how to buy TFT on Stellar, and more [here](https://threefold.io/blog/thriving_with_stellar/).
 
 #### About Albedo 
 

@@ -42,7 +42,7 @@ A major benefit that comes with TF Chain being built on Substrate is the native 
 
 ## What’s the purpose of TF Chain?
 
-For ThreeFold to be a [truly decentralized](https://threefold.io/blog/post/quest_decentralize_internet/) peer-to-peer Internet infrastructure, people should be able to use Internet infrastructures from anywhere without any intermediaries like [AWS](https://threefold.io/blog/post/threefold_cloud_vs_centralized_providers_like_aws_azure/). TF Chain serves exactly that purpose. 
+For ThreeFold to be a [truly decentralized](https://threefold.io/blog/quest_decentralize_internet/) peer-to-peer Internet infrastructure, people should be able to use Internet infrastructures from anywhere without any intermediaries like [AWS](https://threefold.io/blog/threefold_cloud_vs_centralized_providers_like_aws_azure/). TF Chain serves exactly that purpose. 
 
 <br/>
 
@@ -54,7 +54,7 @@ It orchestrates the provisioning of compute, storage and network on the ThreeFol
 
 <br/>
 
-An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network, allowing it to [bridge back and forth](https://threefold.io/blog/post/bridges_connecting_threefold_ecosystem/) from the Stellar network and potentially from other chains in the future.
+An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network, allowing it to [bridge back and forth](https://threefold.io/blog/bridges_connecting_threefold_ecosystem/) from the Stellar network and potentially from other chains in the future.
 
 <br/>
 
@@ -62,7 +62,7 @@ While TF Chain builds on the Substrate framework, most of its functionalities ar
 
 <br/>
 
-*Farms can now be registered on our new [TF Chain Portal](https://threefold.io/blog/post/tech_update_admin_portal/)!*
+*Farms can now be registered on our new [TF Chain Portal](https://threefold.io/blog/tech_update_admin_portal/)!*
 
 ## The Future
 

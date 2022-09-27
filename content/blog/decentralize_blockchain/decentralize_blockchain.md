@@ -38,7 +38,7 @@ Here is how some specific audiences can benefit:
 
 ### For Node Operators
 
-Any full node or validator node can run on ThreeFold’s [Peer-to-Peer (P2P) Cloud](https://cloud.threefold.io/), making that particular Blockchain even more community-owned, and more decentralized from an IT/cloud level. Any node operator can choose to run their nodes from any farmer location on the ThreeFold Grid, totally [peer-to-peer](https://threefold.io/blog/post/what_is_peer_to_peer/) between the chosen farmer and the node operator. The deployed workloads are computed in a P2P manner, no middle party involved.
+Any full node or validator node can run on ThreeFold’s [Peer-to-Peer (P2P) Cloud](https://cloud.threefold.io/), making that particular Blockchain even more community-owned, and more decentralized from an IT/cloud level. Any node operator can choose to run their nodes from any farmer location on the ThreeFold Grid, totally [peer-to-peer](https://threefold.io/blog/what_is_peer_to_peer/) between the chosen farmer and the node operator. The deployed workloads are computed in a P2P manner, no middle party involved.
 
 ### For dApp Developers
 
@@ -46,7 +46,7 @@ Web3/Blockchain developers can use ThreeFold’s P2P Cloud - offering both compu
 
 ## But why choose ThreeFold over other DeCloud projects?
 
-There may be bigger names in the space, but ThreeFold's technology and offerings are much more comprehensive than the rest. ThreeFold provides decentralized storage, compute, and network all under one roof (whereas most other projects offer only one of the three) and as mentioned, we have created an environment for developers which is highly-compatible to the developer tools and solutions they use today. Further, ThreeFold is building new infrastructure [from the ground up](https://threefold.io/blog/post/an_intro_to_the_threefold_grid/) (rather than relying on extra space in data centers) and the technology is truly peer-to-peer.
+There may be bigger names in the space, but ThreeFold's technology and offerings are much more comprehensive than the rest. ThreeFold provides decentralized storage, compute, and network all under one roof (whereas most other projects offer only one of the three) and as mentioned, we have created an environment for developers which is highly-compatible to the developer tools and solutions they use today. Further, ThreeFold is building new infrastructure [from the ground up](https://threefold.io/blog/an_intro_to_the_threefold_grid/) (rather than relying on extra space in data centers) and the technology is truly peer-to-peer.
 
 <br/>
 

@@ -24,7 +24,7 @@ created: 2022-04-05
 
 <br/>
 
-* A big thank you to those who registered to become validators of the ThreeFold Grid for being vital members of our community and securing the Grid! There are only  **8 [L2](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) and 1 [L0](https://forum.threefold.io/t/procedure-to-register-your-l0-validator-nodes/1866) validator spots remaining**. Take a look [here](https://threefold.io/blog/post/stake_tft_become_validator/) if you’d like to learn how to stake TFT and become a validator.
+* A big thank you to those who registered to become validators of the ThreeFold Grid for being vital members of our community and securing the Grid! There are only  **8 [L2](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) and 1 [L0](https://forum.threefold.io/t/procedure-to-register-your-l0-validator-nodes/1866) validator spots remaining**. Take a look [here](https://threefold.io/blog/stake_tft_become_validator/) if you’d like to learn how to stake TFT and become a validator.
 
 ### Technology Developments:
 
@@ -48,4 +48,4 @@ Until next time, ThreeFolders! 🙌 
 
 <br/>
 
-*You can find the latest edition [here](https://threefold.io/blog/post/weekly_vol_12/). For older editions of ThreeFold Weekly, go to [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*
+*You can find the latest edition [here](https://threefold.io/blog/weekly_vol_12/). For older editions of ThreeFold Weekly, go to [our forum](https://forum.threefold.io/c/ecosystem-developments/41).*

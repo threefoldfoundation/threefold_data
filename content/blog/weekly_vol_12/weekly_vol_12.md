@@ -46,7 +46,7 @@ ThreeFold was **featured in the news twice** last week:
 
 <br/>
 
-* Only **8 [L2](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) and 3 [L0](https://forum.threefold.io/t/procedure-to-register-your-l0-validator-nodes/1866) validator spots remain**. We are grateful to know that the people behind the validators believe in a decentralized future and want to take part in a meaningful way. Learn how to stake TFT and become a validator [here](https://threefold.io/blog/post/stake_tft_become_validator/).
+* Only **8 [L2](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) and 3 [L0](https://forum.threefold.io/t/procedure-to-register-your-l0-validator-nodes/1866) validator spots remain**. We are grateful to know that the people behind the validators believe in a decentralized future and want to take part in a meaningful way. Learn how to stake TFT and become a validator [here](https://threefold.io/blog/stake_tft_become_validator/).
 
 ### Technology Developments:
 

@@ -10,11 +10,11 @@ authors: [hannah_cordes]
 created: 2022-06-28
 ---
 
-The ThreeFold Team was in Austin, Texas, in June to share our vision for a decentralized Internet as an exhibitor and sponsor of [Consensus](https://threefold.io/blog/post/threefold_at_consensus_2022/) by Coindesk. The four-day conference attracted over [20,000 people](https://cointelegraph.com/news/consensus-2022-web3-unpacking-regulations-and-optimism-for-crypto-s-future) who explored conversations on topics like decentralization, blockchain, crypto, Web 3 and more. The ThreeFold team shared our “planet first, people first” vision and story with hundreds of attendees who visited our conference booth to learn about ThreeFold – leading to new community members, farmers, token holders, and partners. 
+The ThreeFold Team was in Austin, Texas, in June to share our vision for a decentralized Internet as an exhibitor and sponsor of [Consensus](https://threefold.io/blog/threefold_at_consensus_2022/) by Coindesk. The four-day conference attracted over [20,000 people](https://cointelegraph.com/news/consensus-2022-web3-unpacking-regulations-and-optimism-for-crypto-s-future) who explored conversations on topics like decentralization, blockchain, crypto, Web 3 and more. The ThreeFold team shared our “planet first, people first” vision and story with hundreds of attendees who visited our conference booth to learn about ThreeFold – leading to new community members, farmers, token holders, and partners. 
 
 <br/>
 
-Co-founder [Adnan Fatayerji](https://threefold.io/people/adnan_fatayerji/) conducted several media interviews and found that our story resonated well – after all, [Consensus](https://threefold.io/blog/post/threefold_at_consensus_2022/) is the Festival for the Decentralized World. Nevertheless, many of the other projects at Consensus are still using centralized infrastructure for hosting. We shared the potential for ThreeFold as the foundation to make a truly decentralized world a reality. Already, independent people and organizations from 80 countries and counting are connecting decentralized Internet capacity, bringing to life this new infrastructure.
+Co-founder [Adnan Fatayerji](https://threefold.io/people/adnan_fatayerji/) conducted several media interviews and found that our story resonated well – after all, [Consensus](https://threefold.io/blog/threefold_at_consensus_2022/) is the Festival for the Decentralized World. Nevertheless, many of the other projects at Consensus are still using centralized infrastructure for hosting. We shared the potential for ThreeFold as the foundation to make a truly decentralized world a reality. Already, independent people and organizations from 80 countries and counting are connecting decentralized Internet capacity, bringing to life this new infrastructure.
 
 <br/>
 
@@ -62,11 +62,11 @@ We’ve spent a truly incredible week in Austin, spreading the word about ThreeF
 
 ## Next steps
 
-The founding gathering in Austin was just the beginning. Building meaningful relationships with local communities to start the next few Regional Internets will be a big focus for the ThreeFold ecosystem in 2022. Therefore, we’ll be travelling to various places across the globe to [connect the dots](https://threefold.io/blog/post/connecting_the_dots/) in the upcoming months.
+The founding gathering in Austin was just the beginning. Building meaningful relationships with local communities to start the next few Regional Internets will be a big focus for the ThreeFold ecosystem in 2022. Therefore, we’ll be travelling to various places across the globe to [connect the dots](https://threefold.io/blog/connecting_the_dots/) in the upcoming months.
 
 <br/>
 
-After entering a partnership with [Paradise Hills](https://threefold.io/blog/post/paradise_hills/) to build the first Community Cloud, planting the seeds for the first Regional Internet in Austin represents another crucial step in our journey to create the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) – a glocal model that is infinitely scalable. So, the next few months will be vital for our [expansion phase](https://threefold.io/blog/post/four_phases_of_threefold/) and for building a better future for all of us.
+After entering a partnership with [Paradise Hills](https://threefold.io/blog/paradise_hills/) to build the first Community Cloud, planting the seeds for the first Regional Internet in Austin represents another crucial step in our journey to create the [Internet of Internets](https://threefold.io/blog/internet_of_internets/) – a glocal model that is infinitely scalable. So, the next few months will be vital for our [expansion phase](https://threefold.io/blog/four_phases_of_threefold/) and for building a better future for all of us.
 
 <br/>
 
@@ -78,4 +78,4 @@ So, we’re proud to join together to build the future we want to live in – wh
 
 <br/>
 
-*New to ThreeFold? [Join](https://t.me/threefold) the movement now and learn how to [be](https://threefold.io/blog/post/what_is_farming/) the Internet.*
+*New to ThreeFold? [Join](https://t.me/threefold) the movement now and learn how to [be](https://threefold.io/blog/what_is_farming/) the Internet.*

@@ -10,7 +10,7 @@ authors: [hannah_cordes]
 created: 2022-06-01
 ---
 
-What started out as an idea for a better Internet about a decade ago has evolved into a global movement that’s building a decentralized, open and inclusive future through [the Internet of Internets](https://threefold.io/blog/post/internet_of_internets/). The journey towards our ultimate vision of a better future for all is a big one, but can be divided into four digestible phases: creation, expansion, Web 4 and velocity.
+What started out as an idea for a better Internet about a decade ago has evolved into a global movement that’s building a decentralized, open and inclusive future through [the Internet of Internets](https://threefold.io/blog/internet_of_internets/). The journey towards our ultimate vision of a better future for all is a big one, but can be divided into four digestible phases: creation, expansion, Web 4 and velocity.
 
 ## 1 The Phase of Creation
 
@@ -30,7 +30,7 @@ The phase of creation is almost complete. The ThreeFold team is currently workin
 
 ## 2 The Phase of Expansion
 
-The second phase is all about the growth of the ThreeFold Grid and [connecting the dots](https://threefold.io/blog/post/connecting_the_dots/). From individual farmers and farming cooperatives connecting Internet capacity independently to our global network, to building Community Clouds and Regional Internets for countries, various pathways to Grid growth have been established by the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) concept.
+The second phase is all about the growth of the ThreeFold Grid and [connecting the dots](https://threefold.io/blog/connecting_the_dots/). From individual farmers and farming cooperatives connecting Internet capacity independently to our global network, to building Community Clouds and Regional Internets for countries, various pathways to Grid growth have been established by the [Internet of Internets](https://threefold.io/blog/internet_of_internets/) concept.
 
 <br/>
 
@@ -46,7 +46,7 @@ Ultimately, Regional Internets will be interconnected by the ThreeFold Hub on a 
 
 <br/>
 
-With [the Paradise Hills partnership](https://threefold.io/blog/post/paradise_hills/) as the first proof of concept for Community Clouds and our team working with governments in multiple countries, we’re following the glocal approach of applying the global Internet of Internets concept locally with regional context. With our growing community and ecosystem supporting us, and building new relationships, we’re well set to turn the Internet of Internets into reality in the upcoming years.
+With [the Paradise Hills partnership](https://threefold.io/blog/paradise_hills/) as the first proof of concept for Community Clouds and our team working with governments in multiple countries, we’re following the glocal approach of applying the global Internet of Internets concept locally with regional context. With our growing community and ecosystem supporting us, and building new relationships, we’re well set to turn the Internet of Internets into reality in the upcoming years.
 
 <br/>
 
@@ -94,7 +94,7 @@ We’ve reached a pivotal moment in the evolution of ThreeFold to support our wo
 
 <br/>
 
-The [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) model supports ThreeFold in achieving its vision of providing Internet access to more than a billion people worldwide. And we believe that if we work together, we can connect all of humanity responsibly. Driven by our planet-first, people-first philosophy, the ThreeFold movement is shaping the world we want to live in and laying the foundation for an open, inclusive and abundance-based future.
+The [Internet of Internets](https://threefold.io/blog/internet_of_internets/) model supports ThreeFold in achieving its vision of providing Internet access to more than a billion people worldwide. And we believe that if we work together, we can connect all of humanity responsibly. Driven by our planet-first, people-first philosophy, the ThreeFold movement is shaping the world we want to live in and laying the foundation for an open, inclusive and abundance-based future.
 
 <br/>
 
@@ -103,5 +103,5 @@ The current phase of expansion is vital to turn our vision into reality and to f
 <br/>
 
 - [Join](https://t.me/threefold) the ThreeFold movement now
-- [Be](https://threefold.io/blog/post/what_is_farming/) the Internet
-- Help us [realize our vision](https://threefold.io/blog/post/realizing_the_promise/) for a better future
+- [Be](https://threefold.io/blog/what_is_farming/) the Internet
+- Help us [realize our vision](https://threefold.io/blog/realizing_the_promise/) for a better future

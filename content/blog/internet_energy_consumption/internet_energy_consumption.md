@@ -54,7 +54,7 @@ The first step should be to reduce the Internet’s energy consumption and overa
 
 ## An energy-efficient and regenerative Internet
 
-In December 2021, ThreeFold [announced](https://www.prnewswire.com/news-releases/threefold-and-take-action-global-partner-to-bring-internet-access-to-1-billion-people-across-the-globe-301446693.html) its commitment to achieve a carbon double win for its open-source peer-to-peer Internet infrastructure, the ThreeFold Grid. The ThreeFold Grid is able to scale anywhere electricity and network exist, using about 10 times less energy than any comparable alternative while being more affordable as well. By starting from scratch at the operating system level, ThreeFold was able to build an Internet infrastructure that is highly [energy efficient](https://threefold.io/blog/post/for_our_planet/). This infrastructure is already made up of thousands of 3Nodes that are spread across 75 countries and counting.
+In December 2021, ThreeFold [announced](https://www.prnewswire.com/news-releases/threefold-and-take-action-global-partner-to-bring-internet-access-to-1-billion-people-across-the-globe-301446693.html) its commitment to achieve a carbon double win for its open-source peer-to-peer Internet infrastructure, the ThreeFold Grid. The ThreeFold Grid is able to scale anywhere electricity and network exist, using about 10 times less energy than any comparable alternative while being more affordable as well. By starting from scratch at the operating system level, ThreeFold was able to build an Internet infrastructure that is highly [energy efficient](https://threefold.io/blog/for_our_planet/). This infrastructure is already made up of thousands of 3Nodes that are spread across 75 countries and counting.
 
 <br/>
 

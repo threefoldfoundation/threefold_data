@@ -38,7 +38,7 @@ The Internet has become our digital home. It’s impacting our lives in many way
 
 <br/>
 
-The Internet used to be a free movement of culture and the Web. It started with an open-source and peer-to-peer vision to connect people. And while Web 3.0 projects are looking to liberalize the Internet as we know it, most of them still rely on centralized Web 2.0 infrastructure to some degree. The world needs better, holistic solutions. ThreeFold is [realizing the initial vision and promise](https://threefold.io/blog/post/realizing_the_promise/) of the Internet as an open-source, peer-to-peer planetary mesh network of nodes owned by humanity. It’s a 100% open-source and community-driven project that builds the critical, neutral infrastructure for a decentralized world – one that is built and owned by the people. With ThreeFold, individuals and organizations are empowered to store their data and run their applications on a peer-to-peer network of nodes in a way that ensures their data will not be manipulated, hacked or lost. 
+The Internet used to be a free movement of culture and the Web. It started with an open-source and peer-to-peer vision to connect people. And while Web 3.0 projects are looking to liberalize the Internet as we know it, most of them still rely on centralized Web 2.0 infrastructure to some degree. The world needs better, holistic solutions. ThreeFold is [realizing the initial vision and promise](https://threefold.io/blog/realizing_the_promise/) of the Internet as an open-source, peer-to-peer planetary mesh network of nodes owned by humanity. It’s a 100% open-source and community-driven project that builds the critical, neutral infrastructure for a decentralized world – one that is built and owned by the people. With ThreeFold, individuals and organizations are empowered to store their data and run their applications on a peer-to-peer network of nodes in a way that ensures their data will not be manipulated, hacked or lost. 
 
 <br/>
 
@@ -47,5 +47,5 @@ Powered by a global community, ThreeFold is the world’s largest peer-to-peer I
 <br/>
 
 * Join the ThreeFold [movement](https://t.me/threefold) today and drive a new Internet era.
-* Break free from big tech and [be the Internet](https://threefold.io/blog/post/what_is_farming/) by setting up a 3Node at your home.
-* Help us [connect the dots](https://threefold.io/blog/post/connecting_the_dots/).
+* Break free from big tech and [be the Internet](https://threefold.io/blog/what_is_farming/) by setting up a 3Node at your home.
+* Help us [connect the dots](https://threefold.io/blog/connecting_the_dots/).

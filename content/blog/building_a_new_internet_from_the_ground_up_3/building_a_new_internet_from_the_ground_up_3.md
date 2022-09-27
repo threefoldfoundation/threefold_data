@@ -14,11 +14,11 @@ created: 2021-10-04
 
 ## What is compute?
 
-While [storage](https://threefold.io/blog/post/building_a_new_internet_from_the_ground_up_pt2/) and network are fairly intuitive concepts – where data lives and how it gets around – compute is about the more mysterious realm of data processing and ultimately computer programming. Don't worry though, you don't need any technical abilities to gain a deeper understanding of what's happening behind the scenes when we use apps or interact with web sites.
+While [storage](https://threefold.io/blog/building_a_new_internet_from_the_ground_up_pt2/) and network are fairly intuitive concepts – where data lives and how it gets around – compute is about the more mysterious realm of data processing and ultimately computer programming. Don't worry though, you don't need any technical abilities to gain a deeper understanding of what's happening behind the scenes when we use apps or interact with web sites.
 
 <br/>
 
-As mentioned in the [first part](https://threefold.io/blog/post/an_intro_to_the_threefold_grid/) of this series, compute is basically what happens with data once it reaches its destination. Compute gives data relevance, by processing it according to the instructions provided by developers in their source code. When talking about what the [ThreeFold Grid](https://threefold.io/grid) offers in terms of compute, it's mostly about how the code that developers produce gets executed in order to provide the services we enjoy. 
+As mentioned in the [first part](https://threefold.io/blog/an_intro_to_the_threefold_grid/) of this series, compute is basically what happens with data once it reaches its destination. Compute gives data relevance, by processing it according to the instructions provided by developers in their source code. When talking about what the [ThreeFold Grid](https://threefold.io/grid) offers in terms of compute, it's mostly about how the code that developers produce gets executed in order to provide the services we enjoy. 
 
 <br/>
 

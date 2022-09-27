@@ -10,7 +10,7 @@ authors: [scott_yeager]
 created: 2022-02-03
 ---
 
-After introducing the ThreeFold Grid in [part one](https://threefold.io/blog/post/an_intro_to_the_threefold_grid/) and diving deep into [storage](https://threefold.io/blog/post/building_a_new_internet_from_the_ground_up_pt2/) and [compute](https://threefold.io/blog/post/building_a_new_internet_from_the_ground_up_3/), we’re back with part 4 to look at the networking aspects of the ThreeFold Grid.
+After introducing the ThreeFold Grid in [part one](https://threefold.io/blog/an_intro_to_the_threefold_grid/) and diving deep into [storage](https://threefold.io/blog/building_a_new_internet_from_the_ground_up_pt2/) and [compute](https://threefold.io/blog/building_a_new_internet_from_the_ground_up_3/), we’re back with part 4 to look at the networking aspects of the ThreeFold Grid.
 
 <br/>
 
@@ -50,7 +50,7 @@ This also provides a way for workloads to communicate with one another and be re
 
 ### Reliable Message Bus
 
-Using the Planetary Network, nodes and Grid users can send messages over the [Reliable Message Bus](https://library.threefold.me/info/threefold#/manual__rmd). Notably, it is used for the delivery of workload definitions as mentioned earlier. [Zero-OS](https://forum.threefold.io/t/all-you-need-to-know-about-zero-os/1734) supports some other RMB messages as well, for doing things like checking available capacity on a node in real time. RMB is a general purpose protocol that can be used by developers in their applications. It queries the [ThreeFold Blockchain](https://threefold.io/blog/post/tf_chain/) as a kind of address book for the Planetary Network, enabling nodes and users to find each other in a decentralized way.
+Using the Planetary Network, nodes and Grid users can send messages over the [Reliable Message Bus](https://library.threefold.me/info/threefold#/manual__rmd). Notably, it is used for the delivery of workload definitions as mentioned earlier. [Zero-OS](https://forum.threefold.io/t/all-you-need-to-know-about-zero-os/1734) supports some other RMB messages as well, for doing things like checking available capacity on a node in real time. RMB is a general purpose protocol that can be used by developers in their applications. It queries the [ThreeFold Blockchain](https://threefold.io/blog/tf_chain/) as a kind of address book for the Planetary Network, enabling nodes and users to find each other in a decentralized way.
 
 ## Public IPs and Web Gateways
 

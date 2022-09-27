@@ -14,7 +14,7 @@ Today, the blockchain space is flooded with as many as 22,000 coins and tokens a
 
 ## TFT – An Accessible Utility Token
 
-We’re an Internet infrastructure project building the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) together with a growing community around the world. So, TFT is not just any token. TFT is our native utility token, and as such, is backed by the continuous growth of the ThreeFold Grid.
+We’re an Internet infrastructure project building the [Internet of Internets](https://threefold.io/blog/internet_of_internets/) together with a growing community around the world. So, TFT is not just any token. TFT is our native utility token, and as such, is backed by the continuous growth of the ThreeFold Grid.
 
 <br/>
 
@@ -26,7 +26,7 @@ As the utility token and medium of exchange of the [ThreeFold Grid](https://libr
 
 <br/>
 
-We’ve made a lot of progress in making the ThreeFold Token more accessible and in creating a healthy financial ecosystem for it. Moreover, the team is building our own DeFi solutions. You can learn more about our efforts towards providing a native financial system for the Internet of Internets [here](https://threefold.io/blog/post/future_tft_ecosystem/).
+We’ve made a lot of progress in making the ThreeFold Token more accessible and in creating a healthy financial ecosystem for it. Moreover, the team is building our own DeFi solutions. You can learn more about our efforts towards providing a native financial system for the Internet of Internets [here](https://threefold.io/blog/future_tft_ecosystem/).
 
 <br/>
 
@@ -38,7 +38,7 @@ First of all, the supply of TFT is [limited](https://library.threefold.me/info/t
 
 <br/>
 
-In line with our [planet-first people-first philosophy](https://threefold.io/blog/post/planet_first_people_first/), we’ve implemented a Voluntary Carbon Credits system in the PoC algorithm, so every 3Node mints additional TFT to offset its own carbon emissions, as outlined [here](https://forum.threefold.io/t/threefold-on-track-to-be-planet-positive/2097?u=hannahcordes).
+In line with our [planet-first people-first philosophy](https://threefold.io/blog/planet_first_people_first/), we’ve implemented a Voluntary Carbon Credits system in the PoC algorithm, so every 3Node mints additional TFT to offset its own carbon emissions, as outlined [here](https://forum.threefold.io/t/threefold-on-track-to-be-planet-positive/2097?u=hannahcordes).
 
 <br/>
 
@@ -62,7 +62,7 @@ The combination of the token’s scarcity mechanisms with our staking and valida
 
 ## TFT’s Role for the Internet of Internets
 
-We don’t believe in hype or speculation, and we don’t spend any of our scarce resources on supporting speculation. We believe in the [Internet of Internets](https://threefold.io/blog/post/internet_of_internets/) which will interconnect us all, while providing us with digital sovereignty, privacy and meaningful experiences. We believe in the organic and sustainable growth of ThreeFold Token and the Internet of Internets vision.
+We don’t believe in hype or speculation, and we don’t spend any of our scarce resources on supporting speculation. We believe in the [Internet of Internets](https://threefold.io/blog/internet_of_internets/) which will interconnect us all, while providing us with digital sovereignty, privacy and meaningful experiences. We believe in the organic and sustainable growth of ThreeFold Token and the Internet of Internets vision.
 
 <br/>
 
@@ -74,11 +74,11 @@ As the glocal concept will be rolled out, the ThreeFold Token will unfold its [p
 
 <br/>
 
-*Catch a [glimpse of the future](https://threefold.io/blog/post/future_tft_ecosystem/) of the TFT ecosystem to learn more!*
+*Catch a [glimpse of the future](https://threefold.io/blog/future_tft_ecosystem/) of the TFT ecosystem to learn more!*
 
 ## The Internet of Internets as a Catalyst for Token Growth
 
-ThreeFold is not only for believers in open source and decentralization. ThreeFold, and TFT, are needed. TFT is [much more](https://forum.threefold.io/t/what-is-the-real-value-of-tft/3143) than a simple token. It energizes the ThreeFold Grid and the [expansion](https://threefold.io/blog/post/four_phases_of_threefold/) of a truly decentralized Internet. There are many new ecosystem developments, tech advancements and building blocks for the Internet of Internets happening all around.
+ThreeFold is not only for believers in open source and decentralization. ThreeFold, and TFT, are needed. TFT is [much more](https://forum.threefold.io/t/what-is-the-real-value-of-tft/3143) than a simple token. It energizes the ThreeFold Grid and the [expansion](https://threefold.io/blog/four_phases_of_threefold/) of a truly decentralized Internet. There are many new ecosystem developments, tech advancements and building blocks for the Internet of Internets happening all around.
 
 <br/>
 

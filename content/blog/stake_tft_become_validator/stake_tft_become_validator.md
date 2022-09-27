@@ -22,7 +22,7 @@ ThreeFold aims to ensure that no application, big or small, is subject to the li
 
 ## Participate in the ThreeFold L2 Validator Program
 
-The [ThreeFold Blockchain](https://threefold.io/blog/post/tf_chain/) records transactions that happen on the ThreeFold Grid, including Internet capacity (farming), Internet capacity provisioning (smart contract for IT), identity, account metadata and more.
+The [ThreeFold Blockchain](https://threefold.io/blog/tf_chain/) records transactions that happen on the ThreeFold Grid, including Internet capacity (farming), Internet capacity provisioning (smart contract for IT), identity, account metadata and more.
 
 <br/>
 

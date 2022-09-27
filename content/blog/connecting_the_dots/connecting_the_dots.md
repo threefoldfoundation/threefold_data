@@ -74,7 +74,7 @@ At ThreeFold, we’re committed to building and expanding the open Internet that
 
 <br/>
 
-Have you read our [manifesto](https://threefold.io/blog/post/realizing_the_promise/) yet? Join the peer-to-peer [movement](https://t.me/threefold) today!
+Have you read our [manifesto](https://threefold.io/blog/realizing_the_promise/) yet? Join the peer-to-peer [movement](https://t.me/threefold) today!
 
 <br/>
 
