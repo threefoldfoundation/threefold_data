@@ -67,6 +67,8 @@ The ThreeFold Grid consists of three synergistic layers: The Nodes, The Network,
 
  What this has all truly come together to form is an organization where anyone can contribute to building a more private and secure internet that is designed to allow universal access to information and compute power regardless of the end user's nationality or beliefs. Threefold truly exists to capitalize on the ideal economies from every corner of the world, in order to provide a better digital future for all.
 
+<br>
+
 **What Can You Do?**
 
 Much of what you see today at Threefold.io is the work of 100s of decentralized contributors working together towards a common goal. The grid is designed so that anyone can contribute whether you're a developer, a property owner, an I.S.P, or just someone with a spare computer and a network connection. As it stands the grid is strong and well supported across the world. The biggest impact that can be made today is by developing solutions that leverage the grid and use its resources to bring affordable and accessible hosting to end users.
@@ -78,5 +80,7 @@ There are many discussions happening on the [Threefold Forum](https://forum.thre
 * You can purchase the TFT token following [this guide](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy).
 * You can learn about farming [here](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__farming_intro).
 * You can learn more about the Threefold Cloud and Deploying [here](https://library.threefold.me/info/threefold#/cloud/threefold__cloud_home).
+
+<br>
 
 _*Written by Drew Smith*_
