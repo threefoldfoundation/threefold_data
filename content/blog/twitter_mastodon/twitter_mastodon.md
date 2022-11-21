@@ -5,12 +5,12 @@ tags: [threefold_grid,technology,peer_to_peer,decentralization]
 category: [foundation]
 image: ./twitter_mastodon.png
 image_caption: "Twitter, Mastodon, and Why We’re Evolving the Internet"
-excerpt: Greetings fellow decentralization lovers, I am in search of people looking to contribute to what is now the largest decentralized network in the world, working towards the goal of providing a decentralized internet that breaks down barriers to information and compute resource access. Our network provides digital equality to all users while placing the control of their data back into their hands.
+excerpt: What’s happening with Twitter is just the latest warning of the dangers of the centralized Internet, and the fact that people are leaving is the latest signal that the world is increasingly ready for a decentralized digital world.
 authors: [sam_taggart,victoria_obeegadoo]
-created: 2022-11-18
+created: 2022-11-21
 ---
 
-# Twitter, Mastodon, and Why We’re Evolving the Internet
+## Twitter, Mastodon, and Why We’re Evolving the Internet
 
 With Elon Musk’s acquisition of Twitter becoming official at the end of October, many people have become uncomfortable with the idea of a single controversial billionaire with a lot on his plate having that level of power over a platform used by hundreds of millions of people worldwide – making decisions that look to be putting the company, the platform, and its users in jeopardy, at least in the short term.
 
@@ -40,7 +40,7 @@ What’s happening with Twitter is just the latest warning of the dangers of the
 
 <br/>
 
-# What makes Mastodon a viable alternative to Twitter?
+## What makes Mastodon a viable alternative to Twitter?
 
 Mastodon has a lot of the same functionalities as Twitter, such as replies, retweets, favorites, bookmarks and hashtags. However, it is not owned or operated by any one organization. Instead, it’s made up of lots of different servers (also called “instances”), all talking to one another. The service describes itself as a “federated network which operates in a similar way to email.” And as it is open source, Mastodon allows for anyone to download, modify, & install Mastodon on their own servers. Pretty nifty, right?
 
@@ -69,7 +69,7 @@ Mastodon was created in 2016 by German software developer Eugen Rochko. Unlike m
 
 <br/>
 
-# How do Mastodon & ThreeFold Align? 
+## How do Mastodon & ThreeFold Align? 
 
 What is happening with Twitter is a reflection of the entire Internet model. Now, more and more people are opening their eyes to the shared fundamentals of decentralization and open source, which are paradigms shared by ThreeFold & Mastodon.
 
@@ -91,7 +91,7 @@ Leaving Twitter for Mastodon is a step in the right direction, but if you are re
 
 <br/>
 
-# How can ThreeFold support Mastodon? 
+## How can ThreeFold support Mastodon? 
 
 ThreeFold provides a reliable decentralized infrastructure that Mastodon and the rest of the platforms within the Fediverse need, and we believe that those communities will be very interested in our broader vision as well.
 
@@ -113,7 +113,7 @@ The ThreeFold Movement is collectively building an Internet by the people for th
 
 <br/>
 
-# What is ThreeFold already doing to make this happen? 
+## What is ThreeFold already doing to make this happen? 
 
 * Currently the team is working on an easy-to-deploy weblet so that anybody can easily launch their own instance of Mastodon running on top of the ThreeFold Grid.
 
