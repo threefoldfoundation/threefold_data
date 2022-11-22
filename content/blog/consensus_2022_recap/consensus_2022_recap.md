@@ -74,7 +74,7 @@ Together, we’re building a better Internet by and for the people, the foundati
 
 <br/>
 
-So, we’re proud to join together to build the future we want to live in – whether by [building](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__diy_guide) or [buying](https://marketplace.3node.global/) a 3Node, by buying the ThreeFold Token ([TFT](https://threefold.io/tft)), or by helping us bring the sovereign Internet to your community or region.
+So, we’re proud to join together to build the future we want to live in – whether by [building](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__diy_guide) or [buying](https://marketplace.3node.global/index.php) a 3Node, by buying the ThreeFold Token ([TFT](https://threefold.io/tft)), or by helping us bring the sovereign Internet to your community or region.
 
 <br/>
 

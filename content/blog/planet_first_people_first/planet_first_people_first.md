@@ -95,5 +95,5 @@ If not us, who? If not now, when?
 <br/>
 
 * *[Join](https://t.me/threefold) this growing movement*
-* *[Buy](https://marketplace.3node.global/) or [build](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__diy_guide) a 3Node and be the Internet*
+* *[Buy](https://marketplace.3node.global/index.php) or [build](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__diy_guide) a 3Node and be the Internet*
 * *[Buy](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy) TFT*

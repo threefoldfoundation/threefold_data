@@ -74,4 +74,4 @@ So, make sure to join our [news channel](https://t.me/threefoldnews) and to subs
 
 <br/>
 
-*In the meantime, learn all about ThreeFold in this [ThreeFold Litepaper](http://litepaper.threefold.me/) and become a part of the ThreeFold movement by [building](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__diy_guide) or [buying](https://marketplace.3node.global/) a 3Node or by buying the ThreeFold Token ([TFT](https://threefold.io/tft)).*
+*In the meantime, learn all about ThreeFold in this [ThreeFold Litepaper](http://litepaper.threefold.me/) and become a part of the ThreeFold movement by [building](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__diy_guide) or [buying](https://marketplace.3node.global/index.php) a 3Node or by buying the ThreeFold Token ([TFT](https://threefold.io/tft)).*
