@@ -3,8 +3,8 @@ id: tf_chain_dao_vote.md
 title: 🗳 The First Vote of the TF Chain (L1) DAO!
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./tf_chain_dao_vote.png
+image_caption: First TF Chain DAO Vote
 excerpt: We’re thrilled to announce that the first TF Chain DAO proposal is now live and ready for voting, focused on the creation of the Gold Certified Farming Policy on TF Chain!
 authors: [sam_taggart]
 created: 2022-08-26

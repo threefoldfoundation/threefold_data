@@ -1,10 +1,10 @@
 ---
 id: cc_grid_utilization_rec
 title: 🚨 Grid Utilization Call Recording is Live!
-tags: [update, technology, news]
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./cc_grid_utilization_rec.png
+image_caption: Grid Utilization Call Recording
 excerpt: Thanks to Weynand and Scott for sharing about dedicated nodes, full virtual machines, solution provider fees, and a lot more.
 authors: [sam_taggart]
 created: 2022-11-07

@@ -3,8 +3,8 @@ id: tf_support_mastodon
 title: 🎒 What is Mastodon and How Can ThreeFold Support? 
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./tf_support_mastodon.png
+image_caption: What is Mastodon and How Can ThreeFold Support
 excerpt: Since Elon Musk’s takeover of Twitter became official, hundreds of thousands of people have flocked from Twitter to the leading open-source alternative, Mastodon. This is yet another signal that the world is increasingly ready for decentralization and all that ThreeFold enables.
 authors: [sam_taggart]
 created: 2022-11-10

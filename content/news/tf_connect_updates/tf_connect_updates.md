@@ -1,10 +1,10 @@
 ---
 id: tf_connect_updates
 title: 📱 Updates Coming to ThreeFold Connect
-tags: [update, technology, news]
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./tf_connect_updates.png
+image_caption: ThreeFold Connect Updates
 excerpt: In this edition of the ThreeFold Product Focus series, Sasha dives into upcoming improvements to the ThreeFold Connect app as part of TF Grid 3.8.0.
 authors: [sam_taggart]
 created: 2022-10-11
@@ -24,7 +24,7 @@ Node status information will now be available on the ‘Farm Details’ page, fa
 
 <br/>
 
-You can find more details[ here](https://forum.threefold.io/t/tf-product-focus-tfconnect-app-tfgrid-v3-8-0/3409).
+You can find more details [here](https://forum.threefold.io/t/tf-product-focus-tfconnect-app-tfgrid-v3-8-0/3409).
 
 <br/>
 

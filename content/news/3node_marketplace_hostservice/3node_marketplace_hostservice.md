@@ -3,8 +3,8 @@ id: 3node_marketplace_hostservice
 title: 📣 New Partner on the Global 3Node Marketplace!
 tags: [partner, update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./3node_marketplace_hostservice.png
+image_caption: New 3Node Marketplace Partner
 excerpt: We're pleased to welcome a new 3Node partner for Europe on the Global 3Node Marketplace - HostService!
 authors: [sam_taggart]
 created: 2022-08-03

@@ -1,10 +1,10 @@
 ---
 id: cc_aug_rec
-title: 🚨 This Week's Community Call Recording!
-tags: [update, technology, news]
+title: 🚨 August 2022 Community Call Recording!
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./cc_aug_rec.png
+image_caption: August 2022 Community Call Recording
 excerpt: For those who missed Monday's community call, please find the recording here!
 authors: [sam_taggart]
 created: 2022-08-03
@@ -15,8 +15,8 @@ For those who missed Monday's community call, please find the recording [here](h
 <br/>
 
 📚 Recommended Reads:
-*  [ThreeFold Liquidity](http://liquidity.threefold.me/)
-*  [Roadmap TF Grid 3.7 - 4.0](http://roadmap4.threefold.me/)
+* [ThreeFold Liquidity](http://liquidity.threefold.me/)
+* [Roadmap TF Grid 3.7 - 4.0](http://roadmap4.threefold.me/)
 
 <br/>
 

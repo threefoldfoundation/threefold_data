@@ -3,8 +3,8 @@ id: ict_tnz_2
 title: 🇹🇿 ICT Tanzania Update 2 - OurWorld Mkusanyiko
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./ict_tnz_2.png
+image_caption: ICT Tanzania Update 2
 excerpt: Here’s part two in our series of updates about last week’s ICT Conference in Tanzania.
 authors: [sam_taggart]
 created: 2022-11-02

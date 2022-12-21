@@ -3,8 +3,8 @@ id: mastodon_server_powered_by_tf
 title: 👀 Sneak Peak into Mastodon Servers Powered by ThreeFold 
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./mastodon_server_powered_by_tf.png
+image_caption: Mastodon Servers Powered by ThreeFold
 excerpt: Soon it will be easy to deploy a Mastodon Server (Instance) on top of ThreeFold's decentralized Internet infrastructure.
 authors: [sam_taggart]
 created: 2022-12-07

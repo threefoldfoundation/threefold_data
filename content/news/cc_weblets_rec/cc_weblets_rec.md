@@ -3,8 +3,8 @@ id: cc_weblets_rec
 title: 📺 Watch - Building Weblets on ThreeFold
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./cc_weblets_rec.png
+image_caption: Weblets Community Call Recording
 excerpt: The session included a demo, and would be relevant for anybody looking to build and monetize on top of ThreeFold.
 authors: [sam_taggart]
 created: 2022-12-01

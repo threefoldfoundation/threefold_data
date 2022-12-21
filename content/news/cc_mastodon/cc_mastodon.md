@@ -1,10 +1,10 @@
 ---
 id: cc_mastodon
 title: 👀 Watch - Mastodon / Fediverse Community Call
-tags: [update, technology, news]
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./cc_mastodon.png
+image_caption: Mastodon Community Call Recording
 excerpt: Yesterday, Sam, Drew, and Kristof took us through all that’s been happening related to Mastodon and the Fediverse in recent weeks, how ThreeFold can support / is supporting, and what we as a community can do as well.
 authors: [sam_taggart]
 created: 2022-11-16

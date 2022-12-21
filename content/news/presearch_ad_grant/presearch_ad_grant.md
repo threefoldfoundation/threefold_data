@@ -1,10 +1,10 @@
 ---
 id: presearch_ad_grant
 title: 🚨 Potential $100,000 Presearch Ad Grant 
-tags: [update, technology, news]
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./presearch_ad_grant.png
+image_caption: Presearch Ad Grant
 excerpt: ThreeFold is a nominee for a Presearch Advertising Grant in the infrastructure category – and it’s up to a vote on who will win.
 authors: [sam_taggart]
 created: 2022-10-18

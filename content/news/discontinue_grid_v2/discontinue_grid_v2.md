@@ -1,9 +1,9 @@
 ---
 id: discontinue_grid_v2
 title: 🚨 Discontinuation of Grid v2 / Migrate to v3!
-tags: [update, technology, news]
+tags: [update, technology, news, threefold_grid, farming]
 category: [foundation]
-image: 
+image: ./discontinue_grid_v2.png
 image_caption: 
 excerpt: Starting next month, Grid v2 will be discontinued, along with all platforms in support of this Grid that are no longer needed on v3.
 authors: [sam_taggart]
@@ -22,4 +22,4 @@ Keep in mind, minting will only be supported on v3. So, for all v2 farmers, plea
 
 <br/>
 
-_The[ farming chat](https://t.me/threefoldfarmers) and[ the forum](https://forum.threefold.io/) are great resources if you have any questions. _*_Together_*_ we build!_ 💪
+_The [farming chat](https://t.me/threefoldfarmers) and [the forum](https://forum.threefold.io/) are great resources if you have any questions. _*_Together_*_ we build!_ 💪

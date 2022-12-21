@@ -1,10 +1,10 @@
 ---
 id: cc_general_update_rec
-title: 🚨 Yesterday’s Community Call Recording!
-tags: [update, technology, news]
+title: 🚨 October 2022 Community Call Recording!
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./cc_general_update_rec.png
+image_caption: October 22 Community Call Recording
 excerpt: For anyone who missed the community call yesterday, please find the recording and slides here.
 authors: [sam_taggart]
 created: 2022-10-26

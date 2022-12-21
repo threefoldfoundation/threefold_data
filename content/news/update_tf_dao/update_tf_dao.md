@@ -1,10 +1,10 @@
 ---
 id: update_tf_dao
-title: Update TF DAO
-tags: [update, technology, news]
+title: Update to the Gold Certified Farming Vote
+tags: [update, technology, community]
 category: [foundation]
-image: 
-image_caption: 
+image: ./update_tf_dao.png
+image_caption: Update TF Dao Vote
 excerpt: As a follow-up to the Gold Certified Farming DAO vote from last week, the proposal was approved...
 authors: [sam_taggart]
 created: 2022-08-30

@@ -1,10 +1,10 @@
 ---
 id: experience_tf_playground
 title: 🤸‍♀️ Experience the ThreeFold Playground
-tags: [update, technology, news]
+tags: [update, technology, news, threefold_grid]
 category: [foundation]
-image: 
-image_caption: 
+image: ./experience_tf_playground.png
+image_caption: Experience the ThreeFold Playground
 excerpt: A sandbox of limitless possibilities awaits for the open source builders of a decentralized tomorrow.
 authors: [sam_taggart]
 created: 2022-10-07
