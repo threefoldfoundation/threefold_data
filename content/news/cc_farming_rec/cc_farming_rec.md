@@ -3,8 +3,8 @@ id: cc_farming_rec
 title: 🎥 Watch - Farming Community Call
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./cc_farming_rec.png
+image_caption: Watch Farming Community Call
 excerpt: For those who missed last week’s farming community call with Scott, please take a look at the recording here.
 authors: [sam_taggart]
 created: 2022-12-09

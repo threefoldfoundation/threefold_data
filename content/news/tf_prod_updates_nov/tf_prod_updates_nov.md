@@ -3,8 +3,8 @@ id: tf_prod_updates_nov
 title: 📣 November’s ThreeFold Product Updates
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./tf_prod_updates_nov.png
+image_caption: November's ThreeFold Product Updates
 excerpt: Some super exciting features coming as a part of TF Grid 3.8...
 authors: [sam_taggart]
 created: 2022-11-16

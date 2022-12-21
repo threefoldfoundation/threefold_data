@@ -3,8 +3,8 @@ id: tf_prod_updates_sep
 title: 📣 September’s ThreeFold Product Updates
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./tf_prod_updates_sep.png
+image_caption: September's ThreeFold Product Updates
 excerpt: Take a look at what the team is busy with these days in preparation for the release of TF Grid 3.8.
 authors: [sam_taggart]
 created: 2022-09-28

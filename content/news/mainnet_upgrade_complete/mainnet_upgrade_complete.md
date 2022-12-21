@@ -3,8 +3,8 @@ id: mainnet_upgrade_complete
 title: 🎉 Mainnet Upgrade - Complete! 
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./mainnet_upgrade_complete.png
+image_caption: Mainnet Upgrade Complete
 excerpt: We’re pleased to share that the mainnet upgrade to TF Grid v3.7.1 is complete!
 authors: [sam_taggart]
 created: 2022-10-20

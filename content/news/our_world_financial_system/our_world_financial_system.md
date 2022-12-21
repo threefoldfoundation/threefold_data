@@ -3,8 +3,8 @@ id: our_world_financial_system
 title: 📚 A New Financial System for “Our World”
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./our_world_financial_system.png
+image_caption: A new Financial System
 excerpt: ThreeFold co-founder Kristof wrote a Medium article about the problems of today’s financial systems and his thoughts on building better, more balanced systems...
 authors: [sam_taggart]
 created: 2022-11-29

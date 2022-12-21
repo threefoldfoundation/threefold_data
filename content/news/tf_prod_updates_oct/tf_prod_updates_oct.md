@@ -3,8 +3,8 @@ id: tf_prod_updates_oct
 title: 📣 October’s ThreeFold Product Updates 
 tags: [update, technology, news]
 category: [foundation]
-image: 
-image_caption: 
+image: ./tf_prod_updates_oct.png
+image_caption: October's ThreeFold Product Updates
 excerpt: Take a look at the latest progress on TF Grid 3.8
 authors: [sam_taggart]
 created: 2022-10-20
