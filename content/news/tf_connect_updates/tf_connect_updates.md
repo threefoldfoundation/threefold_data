@@ -14,13 +14,11 @@ In this edition of the ThreeFold Product Focus series, Sasha dives into upcoming
 
 <br/>
 
-### 💰 Wallet v3.3.0
-The ability to initiate, import and convert wallets to public wallets; send and receive tokens by using TF Connect username; and changing your wallet’s visibility.
+💰 **Wallet v3.3.0:** The ability to initiate, import and convert wallets to public wallets; send and receive tokens by using TF Connect username; and changing your wallet’s visibility.
 
 <br/>
 
-### 👩‍🌾 Farm Management
-Node status information will now be available on the ‘Farm Details’ page, farms will now be able to be deleted straight from the app, and more.
+👩‍🌾 **Farm Management:** Node status information will now be available on the ‘Farm Details’ page, farms will now be able to be deleted straight from the app, and more.
 
 <br/>
 

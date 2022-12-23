@@ -18,7 +18,7 @@ Welcome to the 118 new nodes across 20+ countries to come online over the past f
 
 <br/>
 
-### Utilization
+**Utilization**
 
 * Cores: 479
 * RAM: 1191 GB

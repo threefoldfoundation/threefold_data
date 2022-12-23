@@ -15,6 +15,9 @@ For those who missed Monday's community call, please find the recording [here](h
 <br/>
 
 📚 Recommended Reads:
+
+<br/>
+
 * [ThreeFold Liquidity](http://liquidity.threefold.me/)
 * [Roadmap TF Grid 3.7 - 4.0](http://roadmap4.threefold.me/)
 
