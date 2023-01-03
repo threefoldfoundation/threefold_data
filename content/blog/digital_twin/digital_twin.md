@@ -10,7 +10,7 @@ authors: [victoria_obeegadoo]
 created: 2022-10-11
 ---
  
-# What is a Digital Twin?
+## What is a Digital Twin?
  
 In the current Internet system, each of us exists many times, each application provider owns _our_ data while offering functionality _they_ own. We become the user. We become the product. Instead, what if we were at the center of our digital lives?
  

@@ -10,7 +10,7 @@ authors: [victoria_obeegadoo]
 created: 2022-10-28
 ---
 
-# Technology as a tool for humanity
+## Technology as a tool for humanity
 
 Technology… In today’s world, technology holds a central role. Younger generations in developed countries grow up amidst technological wonders of all sorts, truly immersed in an evolving digital landscape. Any information is a click away, offering immense intellectual capital unlike ever before – and on the other hand, great distraction, misinformation, and potential for division.
 
