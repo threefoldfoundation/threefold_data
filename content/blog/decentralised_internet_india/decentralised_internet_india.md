@@ -5,7 +5,7 @@ tags: [threefold_grid,technology,peer_to_peer,threefold_cloud]
 category: [foundation]
 image: ./decentralised_internet_india.png
 image_caption: Decentralised Internet India
-excerpt: The decentralisation of the Internet would open up many new opportunities for both India and its citizens.
+excerpt: While Indian internet usage ranks second in the world today behind China, with 43% of its total population online, this also means that there is still a lot of untapped potential.
 authors: [ashish_bansal]
 created: 2023-01-03
 ---
