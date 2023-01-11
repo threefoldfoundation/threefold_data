@@ -3,7 +3,7 @@ id: tf_prod_updates_dec
 title: 📣 December’s ThreeFold Product Updates
 tags: [update, technology, news, community]
 category: [foundation]
-image: 
+image: ./tf_prod_updates_dec.png
 image_caption: December’s ThreeFold Product Updates
 excerpt: Very exciting progress is being made on TF Grid 3.8.0, expected to be released in a couple of weeks!
 authors: [victoria.obeegadoo]

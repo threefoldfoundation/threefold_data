@@ -3,7 +3,7 @@ id: hot_on_forum
 title: 🔥 Hot on the Forum
 tags: [update, technology, news, community]
 category: [foundation]
-image: 
+image: ./hot_on_forum.png
 image_caption: Hot on the Forum
 excerpt: Take a look at the recording of the first Weekly Technical Help Room hosted by Drew, and tune in next Monday for the next session.
 authors: [sam_taggart]

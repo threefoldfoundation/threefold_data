@@ -3,7 +3,7 @@ id: cc_eoy_rec
 title: 🎆 Watch - End-of-Year Community Call!
 tags: [update, technology, news, community]
 category: [foundation]
-image: 
+image: ./cc_eoy_rec.png
 image_caption: End-Of-Year Community Call
 excerpt: Thanks to those who joined us live for the final team-run community call of the year. For the rest, you can find the recording here.
 authors: [sam_taggart]

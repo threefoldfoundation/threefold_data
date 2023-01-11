@@ -3,7 +3,7 @@ id: tech_help_rec
 title: 🎥 Watch the recording of the Tech Help Call
 tags: [update, technology, news, community]
 category: [foundation]
-image: 
+image: ./tech_help_rec.png
 image_caption: Watch the recording of the Tech Help Call
 excerpt: If you missed it yesterday, you can watch it today!
 authors: [victoria.obeegadoo]

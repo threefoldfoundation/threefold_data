@@ -3,7 +3,7 @@ id: share_your_why
 title: ❤️ Share what you love about ThreeFold
 tags: [update, technology, news, community]
 category: [foundation]
-image: 
+image: ./share_your_why.png
 image_caption: Share what you love about ThreeFold
 excerpt: Here's a call to all ThreeFolders to share why they are involved in the ThreeFold project and what makes them believe in it! 
 authors: [victoria.obeegadoo]
