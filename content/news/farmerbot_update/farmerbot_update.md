@@ -1,6 +1,6 @@
 ---
 id: farmerbot_update
-title: ⚡️ Update: Power Management (Farmerbot) Feature 
+title: ⚡️ Update - Power Management (Farmerbot) Feature 
 category: [foundation]
 image: ./farmerbot_update.png
 image_caption: Update: Power Management (Farmerbot) Feature
