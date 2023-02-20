@@ -1,5 +1,5 @@
 ---
-id: dcc_feb_23_rem
+id: cc_feb_23_rem
 title: ☎️ Reminder - February Community Call
 tags: [update, technology, news, community]
 category: [foundation]

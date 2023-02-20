@@ -5,7 +5,7 @@ tags: [update, technology, news, community]
 category: [foundation]
 image: ./dao_votes.png
 image_caption: Cast your DAO votes ASAP
-excerpt: While all farm owners are called to vote for Grid 3.8 (https://forum.threefold.io/t/threefold-grid-v3-8-release-notes/3757) to go live on mainnet by February 17th, there is another ongoing DAO vote. 
+excerpt: While all farm owners are called to vote for Grid 3.8 to go live on mainnet by February 17th, there is another ongoing DAO vote. 
 authors: [victoria_obeegadoo]
 created: 2023-02-15
 ---
