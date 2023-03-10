@@ -5,7 +5,7 @@ tags: [update, technology, news, community]
 category: [foundation]
 image: ./farmerbot_prep.png
 image_caption: How to Prepare Your Farm for Farmerbot with WOL
-excerpt: With farmerbot coming very soon, Bert took the time to explain “how to set up the technical environment where the farmerbot will operate.”
+excerpt: With farmerbot coming very soon, Bert took the time to explain “how to set up the technical environment where the farmerbot will operate.
 authors: [sam_taggart]
 created: 2023-03-07
 ---
