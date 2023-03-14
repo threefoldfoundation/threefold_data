@@ -4,12 +4,12 @@ name: Omar Abdulaziz
 rank: 3
 memberships: [tech]
 category: [foundation]
-bio: A software engineer, working on weblets/dashboard/gridproxy.
+bio: A software engineer.
 excerpt: Golang, Typescript.
 linkedin: https://www.linkedin.com/in/omarabdul3ziz
 github: https://github.com/omarabdul3ziz
 websites: https://threefold.tech
-image: 
+image: ./omar_abdulaziz.jpg
 projects: [threefold_tech]
 countries: [Egypt]
 cities: [Cairo]
