@@ -9,7 +9,7 @@ excerpt: Software Engineer.
 linkedin: https://www.linkedin.com/in/mario-wassef
 github: https://github.com/mariobassem
 websites: https://threefold.tech
-image: ./mario_bassem.jpeg
+image: ./mario.jpg
 projects: [threefold_tech]
 countries: [Egypt]
 cities: [Mansoura]
