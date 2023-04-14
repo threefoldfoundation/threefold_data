@@ -1,9 +1,9 @@
 ---
-id: grid39_mainnet
+id: cc_apr_23_std
 title: 🗓 Save the date for April's Community Call
 tags: [update, technology, news, community]
 category: [foundation]
-image: ./grid39_mainnet.png
+image: ./cc_apr_23_std.png
 image_caption: Save the date for April's Community Call
 excerpt: Join us next week, on Tuesday 18th at 17:00 CEST / 11:00 EST for April's Community Call! 
 authors: [victoria_obeegadoo]
