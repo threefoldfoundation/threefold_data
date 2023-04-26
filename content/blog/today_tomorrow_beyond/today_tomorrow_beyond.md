@@ -4,7 +4,8 @@ title: "ThreeFold Today, Tomorrow, & Beyond"
 tags: [threefold_grid, technology, why, community, update]
 category: [foundation]
 image: ./today_tomorrow_beyond.png
-image_caption: 
+image_caption: ThreeFold Today Tomorrow Beyond
+excerpt: There is no other project or technology out there like ThreeFold, no one nearly as far along as we are. Let's take a look at today, tomorrow, and beyond.
 authors: [sam_taggart]
 created: 2023-01-11
 ---
