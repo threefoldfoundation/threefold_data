@@ -6,7 +6,7 @@ category: [foundation]
 image: ./eoy_grid_growth.png
 image_caption: End of the Year Grid Growth
 excerpt: As reported in Scott’s final grid stats update of the year, 2022 showed growth in both number of online nodes and utilization of that hardware.
-authors: [sam.taggart]
+authors: [sam_taggart]
 created: 2022-12-30
 ---
 

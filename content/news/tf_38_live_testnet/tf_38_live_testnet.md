@@ -6,7 +6,7 @@ category: [foundation]
 image: ./tf_38_live_testnet.png
 image_caption: ThreeFold Grid 3.8 is live on testnet!
 excerpt: As of the 1st of February, TF Grid 3.8 is live on testnet. Take a look at the release notes here. 
-authors: [sam.taggart]
+authors: [sam_taggart]
 created: 2023-02-02
 ---
 

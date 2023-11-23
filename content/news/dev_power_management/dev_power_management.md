@@ -6,7 +6,7 @@ category: [foundation]
 image: ./dev_power_management.png
 image_caption: In Development - TF Grid Power Management Feature
 excerpt: Within the linked post you can find specs for the solution and also reply with your interest to test the first version...
-authors: [sam.taggart]
+authors: [sam_taggart]
 created: 2023-01-23
 ---
 

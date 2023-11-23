@@ -5,7 +5,7 @@ category: [foundation]
 image: ./farmerbot_update.png
 image_caption: Update: Power Management (Farmerbot) Feature
 excerpt: As we shared last week, the power management feature is in development. Today, we have a short update directly from the team responsible for it.
-authors: [sam.taggart]
+authors: [sam_taggart]
 created: 2023-02-02
 ---
 
