@@ -4,11 +4,11 @@ name: Ahmed Thabet
 rank: 2
 memberships: [tech, foundation, technology_council]
 category: [foundation]
-bio: I believe that life is a chance for a soul to grow and for me programming is one of my means towards this growth. I want to build beautiful applications that don't productize the user or invade their privacy. Giving users their freedom back and assure them complete control over their data. What I've seen at ThreeFold being part on the team for 8+ years is a lot of great values I'd like to see evolving in this world. I lead the development of the Threefold Grid.
+bio: I lead the development of the Threefold Grid. I've always believed that life is a chance to grow a soul. I want to build beautiful applications that don't productize the users or invade their privacy.
 excerpt: Wants to build beautiful applications that don't invade user privacy.
 linkedin: https://www.linkedin.com/in/ahmed-te-youssef/
 github: https://github.com/xmonader
-websites: https://threefold.tech
+websites: [https://threefold.tech](https://github.com/xmonader)
 image: ./ahmed_thabet.jpg
 projects: [threefold_tech]
 countries: [Egypt]
