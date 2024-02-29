@@ -93,7 +93,8 @@ Public and private blockchains have their specific advantages and disadvantages 
 |---|---|---|
 | Security | Provided by having a large number of nodes running it | Provided by having them in secure controlled places | 
 | People | Build, managed and controlled by unknown people | Build, managed, and controlled by known people |  
-| Speed | Slow by design - all data needs to be copied to all of them | Fast(er) and more efficient by design - a smaller number of copies of the blockchain data |   
+| Speed | Slow by design - all data needs to be copied to all of them | Fast(er) and more efficient by design - a smaller number of copies of the blockchain data |
+
 <br/>
 <br/>
 So what if we want to have a secure, performant, and easy to manage blockchain solution?  This is not what can be delivered by either type of blockchains.  We have to create a new type of blockchain that combines the best of both worlds and delivers.
