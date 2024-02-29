@@ -7,7 +7,14 @@ image: ./a_better_understanding_of_wealth.jpg
 image_caption: a better understanding of wealth
 excerpt: Wealth is more than the accumulation of money and resources.
 authors: [alexandre_hannelas]
-created: 2021-01-27
+date: 2021-01-27
+taxonomies:
+    people: [alexandre_hannelas]
+    tags: [why,digital_twin,]
+    categories: [twin]
+extra:
+    isFeatured: true
+    imgPath: ./a_better_understanding_of_wealth.jpg
 ---
 
 # A better understanding of wealth 
