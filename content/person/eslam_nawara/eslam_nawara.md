@@ -4,7 +4,7 @@ name: Eslam Nawara
 rank: 3
 memberships: [tech]
 category: [foundation]
-bio: Passionate software engineer with interrested in developing software solutions and problem solving.
+bio: Passionate software engineer interrested in developing software solutions and problem solving.
 excerpt: Software Engineer
 linkedin: https://www.linkedin.com/in/eslam-nawara
 websites: [https://github.com/Eslam-Nawara]
