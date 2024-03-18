@@ -1,0 +1,1 @@
+Experienced Office Manager with a demonstrated history of working in IT industry. Skilled in Human Resources, Management, Office Administration, Administrative Coordination.

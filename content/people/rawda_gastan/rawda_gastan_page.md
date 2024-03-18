@@ -1,0 +1,1 @@
+I am constantly seeking new learning opportunities and relish the chance to expand my skill set, making calcuated risks along the way.

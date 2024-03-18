@@ -1,0 +1,1 @@
+C, python and nodejs developer, Gentoo user, Linux and Music addict

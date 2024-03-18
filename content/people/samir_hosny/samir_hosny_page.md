@@ -1,0 +1,1 @@
+My biggest passion is learning about new technologies. I got my Bachelor's degree in Computer Science and then started working in a field of cloud computing for last 5 years. I think that ThreeFold is stepping in a place where no one has gone before, stretching the limitations of technology and how it can help people in their daily life actions.

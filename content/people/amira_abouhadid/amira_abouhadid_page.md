@@ -1,0 +1,1 @@
+Trilingual (Arabic, English & German) software developer and chemical engineer skilled in remote pair programming and mentoring.  I can use multiple languages, frameworks, and technologies to efficiently achieve a project’s goals.

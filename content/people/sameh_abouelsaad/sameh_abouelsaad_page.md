@@ -1,0 +1,1 @@
+Sameh is a passionate software engineer with a talent for problem-solving and an unwavering commitment to quality. Specializing in Python, Golang, and web technologies to build reliable systems that scale. Former experienced educator with a mission to promote knowledge.

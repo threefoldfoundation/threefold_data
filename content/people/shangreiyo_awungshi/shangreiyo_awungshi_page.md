@@ -1,0 +1,1 @@
+I work as a technical support at Threefold. I’m passionate about learning new things, exploring different topics, and engaging with the farmers in a friendly and helpful way.

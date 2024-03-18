@@ -1,0 +1,1 @@
+Mayar is a Software Engineer who has over 1 year of practical experience. She's experienced in working with different programming languages as python and go, as well as popular JS frameworks & libraries such as Vue, Svelte & React in addition to cloud tools like Docker, Kubernetes & Helm.

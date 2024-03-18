@@ -1,0 +1,1 @@
+IT-Telecom & Networking Engineer, having a great passion to learn more about new technologies.

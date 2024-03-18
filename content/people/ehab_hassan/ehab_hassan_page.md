@@ -1,0 +1,1 @@
+Positive person in every aspect of life. Senior Graphic Designer & Web Developer at ThreeFold. Fell in love with ThreeFold as I dream about the world where everyone can be happy.

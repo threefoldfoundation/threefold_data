@@ -1,0 +1,1 @@
+Zainab has over 2 years of practical experience in Front End development. She's experienced in working in popular JS frameworks & libraries such as Vue, Svelte & React in addition to cloud tools like Docker, Kubernetes & Helm.

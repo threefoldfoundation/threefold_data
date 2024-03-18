@@ -1,0 +1,1 @@
+Abdulrahman Elawady is a passionate software engineer devoted to open-source projects. With a strong enthusiasm for technology, he enjoys collaborating with others to innovate and create impactful solutions. His dedication to the open-source community motivates him to keep learning and stay updated on software development advancements.

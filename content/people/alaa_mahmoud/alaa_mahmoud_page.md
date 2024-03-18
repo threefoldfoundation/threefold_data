@@ -1,0 +1,1 @@
+Alaa is an accomplished software engineer boasting over a year of professional experience in the field.Alaa consistently strives for excellence in all endeavors. With a passion for innovation and a dedication to achieving results, they bring invaluable expertise to every project they undertake.

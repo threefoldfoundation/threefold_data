@@ -1,0 +1,1 @@
+I lead the development of the Threefold Grid.I want to build beautiful applications that don't productize the users or invade their privacy.
