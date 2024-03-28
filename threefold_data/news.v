@@ -117,10 +117,14 @@ pub fn (article Article) export(output_dir string) ! {
 		path: '${output_dir}/${article.cid}'
 		empty: true
 	)!
-	os.cp_all('${article.dir.path}', '${article_dir.path.all_before_last('/')}', true)!
+
+	println("oppps ${article.dir.path}, ${article_dir.path}")
+	os.cp_all('${article.dir.path}', '${article_dir.path}', true)!
 	mut article_file := pathlib.get_file(
 		path: '${article_dir.path}/${article.cid}.md'
 	)!
+
+	os.rm('${article_dir.path}/index.md')!
 
 	article_file.write('```js\n${output.trim_space()}\n```')!
 
@@ -132,9 +136,9 @@ pub fn (article Article) export(output_dir string) ! {
 	image := pathlib.get('${article.dir.path}/${article.image_path}')
 	image_path := image.path
 
-	os.cp(image_path, '${article_dir.path}/${image_path.all_after_last('/')}') or { 
-		println('error ${err}')
-	}
+	// os.cp(image_path, '${article_dir.path}/${image_path.all_after_last('/')}') or { 
+	// 	println('error ${err}')
+	// }
 
 	page_file.write(article.content)!
 }
