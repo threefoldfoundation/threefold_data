@@ -1,5 +1,5 @@
 ```js
-!!person_define id:eslam_nawara
+!!person_define cid:'eslam_nawara'
 	bio:'Eslam is a passionate software engineer focused on crafting innovative solutions and tackling complex challenges through creative problem-solving. With a strong foundation in software development, Eslam excels in designing and implementing robust applications to meet diverse user needs.'
 	categories:['foundation']
 	cities:['Cairo']
@@ -8,11 +8,10 @@
 	image_path:eslam_nawara.jpg
 	memberships:['team']
 	organizations:['threefold_tech']
-	title:'Eslam Nawara'
 
-!!person_add_link id: eslam_nawara label:LinkedIn
+!!person_add_link cid: eslam_nawara label:LinkedIn
 	url:'https://www.linkedin.com/in/eslam-nawara'
 
-!!person_add_link id: eslam_nawara label:websites
+!!person_add_link cid: eslam_nawara label:websites
 	url:'https://threefold.io/'
 ```

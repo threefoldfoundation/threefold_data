@@ -1,5 +1,5 @@
 ```js
-!!person_define id:sacha_obeegadoo
+!!person_define cid:'sacha_obeegadoo'
 	bio:'
     <BR>
     <div class="aspect-w-16 aspect-h-9">
@@ -17,15 +17,14 @@
 	description:'Organisational and Ecosystem Strategy'
 	image_path:sacha_obeegadoo.jpg
 	memberships:['team']
-	organizations:'['threefold_foundation', ' twin', ' aci']'
-	title:'Sacha Obeegadoo'
+	organizations:['threefold_foundation', ' twin', ' aci']
 
-!!person_add_link id: sacha_obeegadoo label:LinkedIn
+!!person_add_link cid: sacha_obeegadoo label:LinkedIn
 	url:'https://www.linkedin.com/in/sachaobeegadoo/'
 
-!!person_add_link id: sacha_obeegadoo label:github
+!!person_add_link cid: sacha_obeegadoo label:github
 	url:'https://github.com/Sacha96'
 
-!!person_add_link id: sacha_obeegadoo label:websites
+!!person_add_link cid: sacha_obeegadoo label:websites
 	url:'https://threefold.io/'
 ```

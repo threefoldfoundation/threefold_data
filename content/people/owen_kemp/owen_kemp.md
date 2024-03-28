@@ -1,5 +1,5 @@
 ```js
-!!person_define id:owen_kemp
+!!person_define cid:'owen_kemp'
 	bio:'
     ### Why Threefold?
     
@@ -20,11 +20,10 @@
 	image_path:owen_kemp.jpeg
 	memberships:['team']
 	organizations:['threefold_tech']
-	title:'Owen Kemp'
 
-!!person_add_link id: owen_kemp label:LinkedIn
+!!person_add_link cid: owen_kemp label:LinkedIn
 	url:'https://www.linkedin.com/in/owen-kemp-b6b5a113/'
 
-!!person_add_link id: owen_kemp label:websites
+!!person_add_link cid: owen_kemp label:websites
 	url:'https://threefold.tech'
 ```

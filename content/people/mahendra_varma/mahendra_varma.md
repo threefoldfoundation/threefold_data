@@ -1,5 +1,5 @@
 ```js
-!!person_define id:mahendra_varma
+!!person_define cid:'mahendra_varma'
 	bio:'Tech enthusiast with a passion for photography.'
 	categories:['foundation']
 	cities:['']
@@ -8,8 +8,7 @@
 	image_path:mahendra_varma.jpg
 	memberships:['team']
 	organizations:['threefold_tech']
-	title:'Mahendra Varma'
 
-!!person_add_link id: mahendra_varma label:websites
+!!person_add_link cid: mahendra_varma label:websites
 	url:'https://threefold.io/'
 ```

@@ -1,5 +1,5 @@
 ```js
-!!person_define id:scott_yeager
+!!person_define cid:'scott_yeager'
 	bio:'
     ---
     
@@ -14,19 +14,18 @@
     '
 	categories:['foundation']
 	cities:['Eugene']
-	countries:'['United States']'
+	countries:['United States']
 	description:'Technology nerd and cross discipline creator.'
 	image_path:scott_yeager.jpg
 	memberships:['team']
 	organizations:['threefold_foundation']
-	title:'Scott Yeager'
 
-!!person_add_link id: scott_yeager label:LinkedIn
+!!person_add_link cid: scott_yeager label:LinkedIn
 	url:'https://www.linkedin.com/in/scottmyeager/'
 
-!!person_add_link id: scott_yeager label:github
+!!person_add_link cid: scott_yeager label:github
 	url:'https://github.com/scottyeager'
 
-!!person_add_link id: scott_yeager label:websites
+!!person_add_link cid: scott_yeager label:websites
 	url:'https://threefold.io'
 ```

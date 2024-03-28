@@ -1,5 +1,5 @@
 ```js
-!!person_define id:amira_abouhadid
+!!person_define cid:'amira_abouhadid'
 	bio:'Trilingual (Arabic, English & German) software developer and chemical engineer skilled in remote pair programming and mentoring.  I can use multiple languages, frameworks, and technologies to efficiently achieve a project’s goals.'
 	categories:['foundation']
 	cities:['Cairo']
@@ -8,14 +8,13 @@
 	image_path:amira_abouhadid.jpg
 	memberships:['team']
 	organizations:['threefold_tech']
-	title:'Amira Abouhadid'
 
-!!person_add_link id: amira_abouhadid label:LinkedIn
+!!person_add_link cid: amira_abouhadid label:LinkedIn
 	url:'https://www.linkedin.com/in/amira-abouhadid/'
 
-!!person_add_link id: amira_abouhadid label:github
+!!person_add_link cid: amira_abouhadid label:github
 	url:'https://github.com/amiraabouhadid'
 
-!!person_add_link id: amira_abouhadid label:websites
+!!person_add_link cid: amira_abouhadid label:websites
 	url:'https://threefold.tech'
 ```

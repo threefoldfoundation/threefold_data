@@ -1,5 +1,5 @@
 ```js
-!!person_define id:ahmed_harby
+!!person_define cid:'ahmed_harby'
 	bio:'Ahmed is a passionate software test engineer with experience in software testing and automation using Selenium, Cypress, and other technologies. And always curious to learn more.'
 	categories:['foundation']
 	cities:['Cairo']
@@ -8,14 +8,13 @@
 	image_path:ahmed_harby.jpg
 	memberships:['team']
 	organizations:['threefold_tech']
-	title:'Ahmed Saleh Harby'
 
-!!person_add_link id: ahmed_harby label:LinkedIn
+!!person_add_link cid: ahmed_harby label:LinkedIn
 	url:'https://www.linkedin.com/in/ahmed-saleh-harby/'
 
-!!person_add_link id: ahmed_harby label:github
+!!person_add_link cid: ahmed_harby label:github
 	url:'https://github.com/A-Harby'
 
-!!person_add_link id: ahmed_harby label:websites
+!!person_add_link cid: ahmed_harby label:websites
 	url:'https://threefold.tech'
 ```
