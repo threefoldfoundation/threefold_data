@@ -1,0 +1,1 @@
+For those not following [the chat](https://t.me/threefold), we're pleased to report that mainnet has now been upgraded to version 3.11. You can find a recap of the new additions and improvements [here](https://forum.threefold.io/t/gep-for-3-11-on-mainnet/4048).

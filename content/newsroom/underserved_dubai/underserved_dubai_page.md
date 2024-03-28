@@ -1,0 +1,1 @@
+Last week we received a visit from Tina Taylor, Dr Michael A. Stubblefield and Tunica-Biloxi Chairman Marshall Pierite in Dubai to study the deployment plan of a regenerative and inclusive Internet infrastructure for HBCUs and Native American communities. We're thrilled about this potential collaboration, and hope to share more on this exciting opportunity very soon! 🌎 🚀

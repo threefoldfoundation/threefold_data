@@ -1,0 +1,1 @@
+For Farmers and Grid Users who are working with the Dashboard, Playground, and other Grid Services, you can now easily track the status of these tools through [a simple monitoring page](https://status.grid.tf/status/threefold) built by the team.

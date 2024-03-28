@@ -1,0 +1,1 @@
+Prefer email communication? Each Friday (new timing for 2023), we send key highlights to our community about the latest in the ThreeFold ecosystem. If you’d like to receive them in your inbox, you can subscribe [here](https://bit.ly/threefoldweekly).

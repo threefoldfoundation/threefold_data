@@ -1,0 +1,1 @@
+For those who missed yesterday's community call (~30 minutes) or would like to rewatch, you can find the recording [here](https://www.youtube.com/watch?v=KpU7wb2jmyg)!

@@ -1,0 +1,1 @@
+Read about [what happened](https://bit.ly/tfnov2020update) in the ThreeFold universe this month.
