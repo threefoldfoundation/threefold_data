@@ -1,22 +1,17 @@
 ---
-title: Ahmed Saleh Harby
-weight: 4
-description: Ahmed is a passionate software test engineer with experience in software testing and automation ....
-taxonomies:
-    people: [ahmed_harby]
-    memberships: [tech]
-    categories: [foundation]
-extra:
-    imgPath: ahmed_harby.jpg
-    organizations: [threefold_tech]
-    countries: [Egypt]
-    cities: [Cairo]
-    private: 0
-    socialLinks: {
-        LinkedIn: https://www.linkedin.com/in/ahmed-saleh-harby/,
-        github: https://github.com/A-Harby,
-        websites: https://threefold.tech,
-    }
+id: ahmed_harby
+name: Ahmed Saleh Harby
+rank: 3
+memberships: [tech]
+category: [foundation]
+bio: Ahmed is a passionate software test engineer with experience in software testing and automation using Selenium, Cypress, and other technologies. And always curious to learn more.   
+excerpt: Software Test Engineer.
+linkedin: https://www.linkedin.com/in/ahmed-saleh-harby/
+websites: https://threefold.tech
+github: https://github.com/A-Harby
+image: ./ahmed_harby.jpg
+projects: [threefold_tech]
+countries: [Egypt]
+cities: [Cairo]
+private: 0
 ---
-
-Ahmed is a passionate software test engineer with experience in software testing and automation using Selenium, Cypress, and other technologies. And always curious to learn more.   
